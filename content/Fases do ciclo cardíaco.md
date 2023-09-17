@@ -31,4 +31,4 @@ Conceito: todos os eventos elétricos e mecânicos que acontecem no coração du
 # Diagrama de Wiggers 
 Referência: [Videoaula](https://youtu.be/4Lal8e7vt50?si=s-GhHv9Hn9XLIlCo)
 Explica as fases do ciclo cardíaco. 
-![[Pasted image 20230915204915.png]]
+![[Diagrama de Wiggers.png]]

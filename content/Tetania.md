@@ -1,9 +1,11 @@
 ---
-quickshare-date: 2023-09-15 16:13:31
-quickshare-url: "https://noteshare.space/note/clml3jtwi2113901mwx5sytkwi#b/aVlo8zYVoZHBJyBTa0xLH2ZjlDUHj208cmMIFgELk"
+tags:
+  - literature_notes
+  - "#cãibra"
 ---
-Tags: #literature_notes #cãibra
-Referências: [Videoaula](https://youtu.be/iibASf8p7y4?si=pFl0DpXMdOHVexVa)
+Referências:
+* [Videoaula](https://youtu.be/iibASf8p7y4?si=pFl0DpXMdOHVexVa)
+---
 Cãibra: são dores resultantes de um estado de contração máxima, ocorrem nos músculos esqueléticos. Esse fenômeno é chamado de tetania. 
 A tetania acontece quando potências de ação são disparados em intervalos de tempo muito curto, tão curtos que a fibra muscular não chega nem a relaxar. Desse modo, **"a cada segundo" a tensão de uma contração, soma-se a tensão de outra contração.** 
 ![[Gráfico da tetania.png]]

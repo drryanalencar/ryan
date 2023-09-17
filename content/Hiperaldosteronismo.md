@@ -1,8 +1,12 @@
-Tags: #literature_notes #aldosterona #glandulasadrenais
-#angiostensina
+---
+tags:
+  - literature_notes
+  - aldosterona
+  - glandulasadrenais
+  - angiostensina
+---
 Referências:
 * [Videoaula](https://youtu.be/_hUCrm-PwbM?si=j9fKp1x3UXaDh6BB)
-
 ---
 Conceito: grande quantidade de aldosterona circulando. 
 # Hiperaldosteronismo primário

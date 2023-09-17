@@ -1,5 +1,10 @@
-Tags: #literature_notes 
-Referências: [Videoaula](https://youtu.be/qnrC2_KCVL0?si=cn46A4f_xEFdbKBd)
+---
+tags:
+  - literature_notes
+---
+Referências:
+* [Videoaula](https://youtu.be/qnrC2_KCVL0?si=cn46A4f_xEFdbKBd)
+---
 # Formação do tampão plaquetário
 A coagulação sanguínea pode ser realizada pelas **plaquetas**.
 Nessa situação, as seguintes etapas ocorrem: 
