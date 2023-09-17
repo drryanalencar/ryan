@@ -1,4 +1,8 @@
-Tags: #coração teste
+---
+tags:
+  - literature_notes
+  - coração
+---
 Referências: 
 * [Videoaula](https://youtu.be/7n1dAxV-Z78?si=_KuBMXPm571ECMcN)
 
