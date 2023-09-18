@@ -55,8 +55,9 @@ tags:
 	* Efeitos dos neurotransmissores; 
 		* Acetilcolina: diminui a frequência cardíaca e a força de contração, ao se ligar nos receptores muscarínicos presentes nos nódulos sinoatrial e atrioventricular. 
 		* Norepinefrina e noradrenalina: aumentam a frequência cardíaca e a força de de contração. 
-* A pressão sanguínea é mais baixa nos capilares. [^2]
-	* Pressão nas artérias e arteríolas > pressão nas veias e vênulas. 
+* A pressão sanguínea é mais baixa nas veias [^2]
+	* ![[Pressão sanguínea.png]]
+	* Pressão nas artérias e arteríolas > capilares >> pressão nas veias e vênulas. 
 * ![[Sons de Karotkoff]]
 * ![[Capilares sanguíneos]]
 # Endocrinologia 
@@ -115,4 +116,4 @@ tags:
 
 # Rodapé
 [^1]: A pressão arterial é um produto do débito cardíaco e da resistência vascular periférica. 
-[^2]: É preciso checar essa informação em uma literatura de confiança. 
+[^2]: É preciso checar essa informação em uma literatura de confiança.
