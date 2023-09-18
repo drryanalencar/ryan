@@ -25,13 +25,20 @@ Elas podem ser causadas por:
 # 3. Bloqueios
 * Bloqueio sinoatrial 
 	* Atraso na formação de ondas P;
-	* Ocorre porque o impulso nem vai para os átrios. 
+	* Ocorre porque o impulso **nem vai para os átrios.** 
+	* ![[Bloqueio SA.png]]
 * Bloqueio atrioventricular 
 	* Ocorre por problemas na passagem dos impulsos pelo feixe de hiss ou atrioventricular, ou seja, na passagem para os ventrículos. 
 	* Graus de bloqueio atrioventricular: 
-		* 1°: 
-		* 2°: não temos a formação do complexo QRS. 
-		* 3°: átrios e ventrículos contraindo de maneira desordenada. 
+		* 1°: tempo aumentado no intervalo P-R, isso significa que o impulso está tendo um atraso na passagem dos átrios para os ventrículos. 
+		* 2°: não temos a formação do complexo QRS, devido ao bloqueio ser muito forte. 
+		* 3°: Vemos ondas P dissociadas de complexos QRS, ou seja, átrios e ventrículos contraindo de maneira desordenada. 
+# 4. Vias anormais de transmissão do impulso elétrico
+* Contrações prematuras (extrassístoles)
+	* São contrações que acontecem antes do esperado, devido a correntes anormais.
+	* Onda P ocorre precocemente e o intervalo PR está reduzido. 
+	* ![[Batimento prematuro.png]]
+
 # Infarto
 Infarto é o deslocamento do segmento S-T, o qual é isoelétrico, para cima ou para baixo.
 ![[Pasted image 20230917182816.png]]
