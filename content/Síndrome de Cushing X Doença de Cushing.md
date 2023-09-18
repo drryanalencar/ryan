@@ -6,7 +6,7 @@ Referências:
 * [Videoaula](https://youtu.be/_fW74A3b_bo?si=gVoubB-3HHyUZk_X)
 ---
 # Síndrome de Cushing
-* Excesso de cortisol na circulação.
+* Excesso de cortisol [^2] na circulação.
 * É um aumento que não depende do ACTH.[^1]
 ## Principais causas
 * Tumor nas glândulas adrenais;
@@ -34,3 +34,4 @@ Referências:
 * Só assistir o vídeo.
 # Rodapé
 [^1]: Hormônio adrenocorticotrófico ou corticotropina.
+[^2]: É um imunossupressor. 
