@@ -19,7 +19,7 @@ Conceito: todos os eventos elétricos e mecânicos que acontecem no coração du
 	1. A pressão dentro dos ventrículos aumenta e as valvas atrioventricular (AV) se fecham. 
 	2. O potencial de ação se propaga pelo ápice do coração, ou seja, ocorre a contração dos ventrículos. É uma **contração isovolumétrica**, porque as tanto as valvas atrioventriculares, que conectam os ventrículos aos átrios, estão fechadas, como, as semilunares que conectam os ventrículos aos vasos. Na contração isovolumétrica a pressão aumenta muito. 
 3. Abertura das valvas semilunares
-	1. Essas valvas separam, **o ventrículo direito da aorta** e o **ventrículo esquerdo da aorta.**
+	1. Essas valvas separam, **o ventrículo direito das artérias pulmonares** e o **ventrículo esquerdo da aorta.**
 	2. Ejeção ventricular, ou seja, saída do sangue dos ventrículos para as artérias.
 4. Diástole ventricular e atrial
 	1. Fechamento das valvas semilunares; 
