@@ -114,11 +114,11 @@ Quando partículas carregadas, principalmente elétrons, interagem com o campo e
 * Cálculo da meia vida; 
 #### Fórmulas 
 Fórmula da cinética de decaimento radioativo:
-==N(t)=N0​∗e(−kt)==
-Onde:
-N(t) é a quantidade de C14 no tempo 
-N0​ é a quantidade inicial de C14.
-k é a constante de decaimento
+==N(t)=N0​∗e(−kt)== &nbsp;
+Onde:&nbsp;
+N(t) é a quantidade de C14 no tempo &nbsp;
+N0​ é a quantidade inicial de C14.&nbsp;
+k é a constante de decaimento&nbsp;
 t é o tempo em anos.
 
 [^1]: "muitos por cento", as fontes variam de 33% ao 80%...
