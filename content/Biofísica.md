@@ -116,7 +116,6 @@ Quando partículas carregadas, principalmente elétrons, interagem com o campo e
 Fórmula da cinética de decaimento radioativo:
 ==N(t)=N0​∗e(−kt)== &nbsp;
 
-
 Onde:&nbsp;
 N(t) é a quantidade de C14 no tempo &nbsp;
 N0​ é a quantidade inicial de C14.&nbsp;
