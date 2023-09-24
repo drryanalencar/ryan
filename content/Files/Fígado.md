@@ -1,7 +1,0 @@
-Tags: #summary 
-
-[[Divisões do fígado]]
-[[Ligamentos do fígado]]
-[[Porta do fígado]]
-[[Área nua do fígado]]
-[[Vascularização do fígado]]
