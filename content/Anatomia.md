@@ -20,8 +20,6 @@ tags:
 
 [[Divisões do fígado]]
 
-[[Ramos da Aorta Abdominal]]
-
 [[Região inguinal]]
 
 [[Vascularização do fígado]]
@@ -34,12 +32,3 @@ tags:
 
 [[Anatomia de imagem]]
 
-## Resumos/material de referência
-[[Vísceras abdominais Tojal.pdf]]
-
-[[Vísceras abdominais.pdf]] (JG)
-
-[[Resumo abdômen 1.3.pdf]]
-# Livros 
-[[Gray's para estudantes.pdf]]
-[[Anatomia moore (FULL HD).pdf]]
