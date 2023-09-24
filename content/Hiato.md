@@ -1,4 +1,3 @@
 Tags: #permanote 
-Plugin.RemoveDraftsdraft: true
-
+draft: false
 É uma perfuração no músculo. 
