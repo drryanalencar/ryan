@@ -1,5 +1,5 @@
 ---
-tags:
+tags: []
 ---
 Referências: 
 * Pg.266 - Super compilado de imunologia
@@ -10,7 +10,7 @@ Referências:
 * Doença crônica;
 * [Selena Gomez; transplante de rins](https://www.uol.com.br/vivabem/noticias/redacao/2022/10/11/selena-gomez-fala-sobre-luta-contra-lupus-em-documentario-entenda-a-doenca.htm)
 
-==O defeito fundamental no LES é a incapacidade de manter a autotolerância, levando à produção de grande  número de autoanticorpos que podem danificar os tecidos, diretamente ou na forma de depósitos de complexos imunes.==
+O defeito fundamental no LES é a incapacidade de manter a autotolerância, levando à produção de grande  número de autoanticorpos que podem danificar os tecidos, diretamente ou na forma de depósitos de complexos imunes.
 ### Tipos de lúpus 
 * Eritematoso 
 	* Sistêmico; 
@@ -54,6 +54,9 @@ Prevalência em:
 * As alterações neurológicas, hematológicas e autoimune; 
 ![[Pasted image 20230925102531.png]]
 
-
-[^1]: 
-[^2]: 
+# Flashcards 
+#imunologia 
+;; 
+<!--SR:!2023-10-01,4,272-->
+Card 1 - O lúpus é uma **doença crônica** relacionada à perda de **autotolerância**, levando à produção de **autoanticorpos** que podem causar danos aos tecidos.
+<!--SR:!2023-10-01,4,270!2023-10-01,4,272!2023-10-01,3,256-->
