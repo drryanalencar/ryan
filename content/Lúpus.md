@@ -57,6 +57,6 @@ Prevalência em:
 # Flashcards 
 #imunologia 
 ;; 
-<!--SR:!2023-10-01,4,272-->
+<!--SR:!2023-10-18,17,292-->
 Card 1 - O lúpus é uma **doença crônica** relacionada à perda de **autotolerância**, levando à produção de **autoanticorpos** que podem causar danos aos tecidos.
-<!--SR:!2023-10-01,4,270!2023-10-01,4,272!2023-10-01,3,256-->
+<!--SR:!2023-10-17,16,290!2023-10-14,13,292!2023-10-14,13,276-->

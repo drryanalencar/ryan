@@ -10,4 +10,4 @@ Referências:
 
 [[Introdução ao Sistema Imune]]
 
-
+[[Resposta inflamatória aguda]]
