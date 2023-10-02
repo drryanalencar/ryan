@@ -10,4 +10,6 @@ Referências:
 
 [[Introdução ao Sistema Imune]]
 
+[[Fagocitose]]
+
 [[Resposta inflamatória aguda]]

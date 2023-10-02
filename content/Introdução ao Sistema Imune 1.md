@@ -2,13 +2,12 @@
 tags:
   - imunologia
 ---
+# Introdução ao Sistema Imune
 Referência:
 * [Playlist de Imunologia](https://youtu.be/7kotXf1u2eg?si=RAIJYmuH4Z46JtWA)
 * Medsimple - Conceitos básicos de imunologia 
 * [[Imunologia celular e molecular Abbas 9°.ed]]
 * [[SUPER COMPILADO IMUNOLOGIA - SANAR]]
---- 
-
 ## Conceitos
 * Sistema imune: é o conjunto de células e moléculas responsáveis pela defesa contra substâncias estranhas. Tem como objetivo evitar lesões teciduais. 
 * Antígeno: substâncias estranhas que induzem resposta imunológica específica ou são alvo de tais respostas.  
@@ -67,13 +66,12 @@ A principal característica dessa imunidade, é que ela ==não é específica.==
 É o conjunto de células ou moléculas, responsáveis pela defesa, que são ==produzidos para combater uma infecção==.
 A principal característica dessa imunidade, é que ==ela é específica e possuir memória.==
 #### Componentes
-* [[Linfócitos T e B]]^2
-* [[Células apresentadoras de antígenos]]
+* [[Linfócitos T e B;]]^2
+* [[Células aprese]]
 * [[Anticorpos]].
 
 ## Tipos de respostas imunológicas
 ![[Pasted image 20230927115436.png]]
-![[Pasted image 20231001112759.png]]
 #### Imunidade humoral
 * Mediada pelos anticorpos; por proteínas; por substâncias do plasma...
 * Microrganismos extracelulares. 
