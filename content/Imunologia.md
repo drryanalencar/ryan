@@ -5,6 +5,7 @@ tags:
 ---
 Referências:
 * [SUPER COMPILADO - IMUNOLOGIA (SANAR).pdf](https://1drv.ms/b/s!AtT1UeiE5rswhMwWxYAj-IJXHkAeow?e=r2IT6Z)
+* [Imunologia celular e molecular Abbas](https://1drv.ms/b/s!AtT1UeiE5rswhM4e50sz8geYVkSuTA?e=7iK5oj)
 
 [[Curiosidades]]
 
