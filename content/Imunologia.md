@@ -12,4 +12,24 @@ Referências:
 
 [[Fagocitose]]
 
+[[Células apresentadoras de antígenos]]
+
+[[Complexo principal de histocompatibilidade (MHC)]]
+
+[[Apresentação de antígenos]]
+ 
+[[Antígeno]]
+
+[[Linfócitos T e B]]
+
+[[Anticorpos]]
+
+[[Citocinas]]
+
 [[Resposta inflamatória aguda]]
+
+[[Sistema complemento]]
+
+[[Mapas mentais]]
+
+[[Reações de hipersensibilidade]]

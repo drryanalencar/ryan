@@ -17,9 +17,6 @@ Referências:
 	* O IFN-γ ativa os macrófagos a destruírem microrganismos fagocitados [^4] . A ativação do macrófago resultando em atividade  microbicida aumentada é chamada ativação clássica do macrófago, para contrastar com a via de ativação alternativa, a qual é induzida pelas citocinas Th2. Esses tipos de ativação de macrófagos são descritos de forma mais detalhada adiante. [^2]
 	* Em adição às células Th1 CD4+, as células  NK e as células T CD8+ também produzem IFN-γ. As células NK secretam IFN-γ em resposta aos ligantes ativadores presentes na superfície de células infectadas ou estressadas do hospedeiro (Capítulo 4), ou em resposta à IL-12. Neste contexto, o IFN-γ atua como mediador da imunidade inata. Na imunidade adaptativa, as células T produzem IFN-γ em resposta ao reconhecimento antigênico, e a produção é intensificada pela IL-12 e pela IL-18.
 # Flashcards
-Card 1 - O sistema de fagócitos mononucleares inclui células circulantes chamadas **monócitos** que se transformam em macrófagos ao migrarem para os tecidos, e macrófagos residentes teciduais, derivados principalmente de precursores hematopoiéticos durante a vida fetal.
-
-Card 2 - Os **macrófagos** desempenham várias funções importantes na imunidade inata e na imunidade adaptativa, incluindo a ingestão de microrganismos por fagocitose, a eliminação de células necróticas do hospedeiro e a apresentação de antígenos aos linfócitos T.
 
 Quais são os dois tipos de ativação dos macrófagos e suas respectivas funções? ;; A ativação clássica (M1) está associada ao killing de microrganismos, enquanto a ativação alternativa (M2) promove o reparo tecidual. O IFN-γ é um importante ativador de macrófagos.
 

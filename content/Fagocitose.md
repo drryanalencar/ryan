@@ -17,13 +17,7 @@ Referências:
 * Proteínas dos patógenos são apresentadas ao [[Linfócitos T e B]]
 ## Flashcards
 
-O processo de **fagocitose** envolve a formação de uma concavidade na membrana plasmática ao redor do micróbio.
-
-**Fagocitose** é a captura ativa de micro-organismos, mediada pelo reconhecimento de PAMPs pelos RRPs na membrana plasmática.
-
-Card 2 - Após a fagocitose, o patógeno fica dentro do fagossomo, que se funde com o lisossomo para formar o **fagolisossomo**, onde ocorre uma explosão respiratória que leva à morte dos patógenos.
-
-Card 3 - A **ativação dos mecanismos microbicidas dos macrófagos** é induzida por IFNγ, que é secretado pelas células NK na imunidade inata.
+Card 3 - A ativação dos mecanismos microbicidas dos macrófagos é induzida por **IFNγ,** que é secretado pelas células NK na imunidade inata e pelos linfócitos TK na adaptativa.
 
 Card 4 - A resposta imune exacerbada e desregulada associada a disfunção orgânica ameaçadora à vida é chamada de **sepse**, caracterizada por disseminação da infecção, secreção de TNF, vasodilatação sistêmica, perda de pressão sanguínea, aumento da permeabilidade vascular e coagulação disseminada.
 

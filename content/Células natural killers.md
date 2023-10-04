@@ -16,13 +16,7 @@ Referências:
 * Granzimas --> induzem apoptoses.
 
 # Flashcards
-O que são células Natural Killer (NK)? ;; As células NK são células citotóxicas que exercem papéis importantes nas respostas imunes inatas, principalmente contra vírus e bactérias intracelulares.
-<!--SR:!2023-10-04,4,274-->
-
 Qual é a principal função das células NK? ;; A principal função das células NK é matar células infectadas e produzir IFN-γ, que ativa macrófagos para destruírem microrganismos fagocitados.
-<!--SR:!2023-10-04,4,270-->
-
-Como as células NK matam as células-alvo? ;; As células NK possuem grânulos contendo proteínas que medeiam o killing de células-alvo. A exocitose dos grânulos libera essas proteínas nas adjacências das células-alvo, onde elas iniciam uma sequência de eventos de sinalização que causam a morte das células-alvo por apoptose.
 <!--SR:!2023-10-04,4,270-->
 
 Como os receptores de inibição das células NK reconhecem células sadias? ;; Os receptores de inibição das células NK reconhecem moléculas do MHC de classe I, que são proteínas de superfície celular normalmente expressas em todas as células nucleadas sadias do corpo. Essa interação inibe a ativação das células NK pelas células sadias.

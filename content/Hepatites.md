@@ -26,5 +26,18 @@ Interferon alfa: interferon alfa tem sido usado há vários anos no tratamento d
 
 ![[Pasted image 20231001093734.png]]
 
+# Resumo by Chat GTP
+A hepatite viral é uma inflamação do parênquima hepático causada por vírus da hepatite A, B, C, D ou E. 
+Os sintomas da hepatite aguda incluem fadiga, náuseas, vômitos, febre baixa, icterícia e dor no quadrante superior direito.
+A histopatologia da hepatite viral inclui degeneração de hepatócitos, necrose, formação de tecido cicatricial e infiltração de células mononucleares.
+Os marcadores sorológicos incluem HBsAg, anti-HBs, HBcAg, anti-HBc, HBeAg e anti-HBe.
+A hepatite B pode ser transmitida por contato parenteral, sexual ou perinatal e pode causar hepatite crônica, cirrose e câncer hepático.
+A vacinação é eficaz para prevenir a hepatite B.
+Destaques🩺
+🩸 Marcadores sorológicos importantes HBsAg, anti-HBs, HBcAg, anti-HBc, HBeAg, anti-HBe.
+🦠 A hepatite B pode causar hepatite crônica, cirrose e câncer hepático.
+💉 A vacinação é eficaz na prevenção da hepatite B.
+
+
 [^1]: 
 [^2]: 

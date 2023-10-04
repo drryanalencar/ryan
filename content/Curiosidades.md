@@ -2,7 +2,7 @@
 tags:
   - imunologia
 ---
-# Curiosidades
+# Curiosidades de imunologia
 1. April Burrell
 	[April Burrell](https://oglobo.globo.com/saude/ciencia/noticia/2023/07/21/esquizofrenia-descobertas-sobre-relacao-com-imunidade-abrem-caminho-para-novos-tratamentos-entenda.ghtml), passou 25 anos em estado de [[Catatonia]].
 	* [Esquizofrênica](https://oglobo.globo.com/saude/noticia/2023/06/mulher-acorda-depois-de-20-anos-em-estado-catatonico-tratamento-pode-revolucionar-psiquiatria.ghtml); 
@@ -24,13 +24,8 @@ O que é estado de catatonia? ;; É um distúrbio neuromuscular em que a pessoa 
 <!--SR:!2023-10-11,11,276-->
 Quais os sintoma característico do lúpus eritematoso ? ;; Rash Malar, fenômeno de Raynaud; Nefrite; Altralgias.
 <!--SR:!2023-10-08,8,256-->
-O defeito fundamental no LES é a **incapacidade de manter a autotolerância**, levando à produção de grande  número de autoanticorpos que podem danificar os tecidos, diretamente ou na forma de depósitos de complexos imunes.
-<!--SR:!2023-09-30,3,254-->
 Qual o nome da jovem que ficou em estado de catatonia por 25 anos? ;; April Burrel 
 <!--SR:!2023-10-04,4,271-->
-
-Card 5 - A **sepse** é uma síndrome sistêmica grave geralmente desencadeada por **LPS** de bactérias Gram-negativas ou ácido lipoteicoico de bactérias Gram-positivas, levando à produção excessiva de citocinas, como o TNF.
-<!--SR:!2023-10-04,4,271!2023-10-04,4,271-->
 
 [^1]: Tópico para se aprofundar, como o Sars-Cov-2 promove essa tempestade? 
 [^2]: A intenção é fazer uma página para explicar o mecanismo de funcionamento de cada célula. 

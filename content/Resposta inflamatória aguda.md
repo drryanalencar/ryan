@@ -35,35 +35,14 @@ Exsudato x Transudato;; 1 - é o extravasamento de fluído, protéinas e célula
 	![[Pasted image 20230929135543.png]]   
 	![[Pasted image 20230929135841.png]]
 
-Pergunta 1: Qual é o principal meio usado pelo sistema imune inato para lidar com infecções e lesões teciduais? ;; Inflamação aguda. 
-<!--SR:!2023-10-03,3,258-->
-
-Pergunta 2: O que consiste a inflamação aguda? ;; Resposta 2: A inflamação aguda envolve o acúmulo de leucócitos, proteínas plasmáticas e líquido derivado do sangue em um local de infecção ou lesão tecidual extravascular.
-<!--SR:!2023-10-04,4,278-->
-
 Pergunta 5: Qual é o primeiro leucócito a ser recrutado para os locais de inflamação aguda? ;; Resposta 5: O neutrófilo é tipicamente o primeiro a ser recrutado devido à sua rapidez de resposta.
 <!--SR:!2023-10-04,4,270-->
 
-Pergunta 8: Quais são as alterações nos vasos sanguíneos próximos ao tecido infectado ou lesado durante a inflamação aguda? ;; Resposta 8: Essas alterações incluem vasodilatação, aumento da aderência dos leucócitos ao revestimento endotelial das vênulas e permeabilidade aumentada dos capilares e vênulas.
-<!--SR:!2023-10-03,3,258-->
-
-Pergunta 13: Quais são três das citocinas pró-inflamatórias mais importantes da imunidade inata? ;; Resposta 13: TNF, IL-1 e IL-6 são três das citocinas pró-inflamatórias mais importantes.
+Pergunta 13: Quais são três das citocinas pró-inflamatórias mais importantes da imunidade inata? ;; Resposta: TNF, IL-1 e IL-6 são três das citocinas pró-inflamatórias mais importantes. A TNF é um pirógeno que induz a febre atuando no hipotálamo.
 <!--SR:!2023-10-03,3,258-->
 
 Card 3 - O TNF e a IL-1 induzem as células endoteliais a expressar **E-selectina** e ligantes para integrinas leucocitárias, facilitando a adesão de **leucócitos às células endoteliais.**
 <!--SR:!2023-10-04,4,270!2023-10-04,4,270-->
-
-Card 6 - A fagocitose é um processo ativo de englobamento de partículas grandes (>0,5 μm) no interior de vesículas, que são então fundidas aos **lisossomos**.
-<!--SR:!2023-10-04,4,276-->
-
-Card 10 - Os macrófagos podem ser ativados de diferentes modos, como **clássico e alternativo**, favorecendo funções microbicidas ou reparadoras e anti-inflamatórias, respectivamente.
-<!--SR:!2023-10-02,1,218-->
-
-Card 2 - **TNF e IL-1** atuam no hipotálamo induzindo febre, sendo chamados de pirógenos endógenos**.
-<!--SR:!2023-10-04,4,278-->
-
-Card 4 - O **TNF**, quando produzido em grandes quantidades, pode causar anormalidades patológicas sistêmicas, como choque, trombose e caquexia.
-<!--SR:!2023-10-03,3,258-->
 
 Card 1 - A principal forma pela qual o sistema imune inato bloqueia as infecções virais é a indução da expressão de **interferons do tipo I**, que inibem a replicação viral.
 <!--SR:!2023-10-04,3,258-->
