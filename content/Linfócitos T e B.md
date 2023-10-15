@@ -42,8 +42,10 @@ Relacionados com a rejeição de transplantes.
 # Flashcards 
 
 Card 11 - Para o antígeno ser reconhecido pelo linfócito T, ele deve ser capturado e processado pelas APC’s, sendo posteriormente apresentado no formato de **peptídeo, via molécula de MHC, para o receptor do linfócito T (TCR)**.
+<!--SR:!2023-10-13,4,270-->
 
 6. Pergunta: Quais são as principais citocinas envolvidas na sobrevivência de linfócitos naive? ;; As principais citocinas envolvidas na sobrevivência de linfócitos naive são a IL-7 e o fator ativador de célula B (BAFF).
+<!--SR:!2023-10-10,1,230-->
 
 * O que são grupos de clones presentes nos linfócitos T e B? ??
 	* Cada linfócito possui os receptores para antígenos na membrana e por meio das diferentes recombinações gênicas, vários tipos de receptores distintos também são formados.  

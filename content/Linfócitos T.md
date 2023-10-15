@@ -24,6 +24,8 @@ No término do processo de maturação, os linfócitos são liberados na circula
 ![[Pasted image 20231003100250.png]]
 ![[Pasted image 20231003100312.png]]
 ![[Pasted image 20231003100342.png]]
+Observe, que a diferenciação em TH2 é estimulada pela Interleucina-4, que é uma citocina anti-inflamatória, dependendo do contexto. Nesse caso, ela é uma das [[Citocinas]] anti-inflamatórias, porque ao promover a diferenciação em TH2, ela faz com que os [[Macrófagos e monócitos (fagócitos mononucleares)]] sejam ativados pela via alternativa. 
+
 ==Já a formação dos linfócitos T citotóxicos são estimulados pelas seguintes citocinas:==
 - Dependentes da estimulação de citocinas (IL-2) (das células Th1) para serem ativadas e, posteriormente, saírem dos órgãos linfoides secundários e circularem em busca de alvos
 

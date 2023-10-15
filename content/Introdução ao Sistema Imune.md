@@ -105,48 +105,45 @@ A principal característica dessa imunidade, é que ==ela é específica e possu
 ## *Flashcards*
 
 Card 17 - **Expansão clonal** refere-se à seleção de uma única célula para se multiplicar e combater um antígeno específico. 
-<!--SR:!2023-10-02,3,256-->
-
-Card 7: O que é o sistema complemento e como ele auxilia no combate aos antígenos? ;; é a parte fluída do sistema imune inato, que contém algumas proteínas solúveis, como as citocinas. 
-<!--SR:!2023-10-02,3,256-->
+<!--SR:!2023-11-09,32,276-->
 
 Card 10: O que é a função química das barreiras epiteliais e quais substâncias desempenham esse papel? ;; A função química das barreiras epiteliais envolve substâncias antimicrobianas como as defensinas e as catelicidinas, além de linfócitos T intraepiteliais que respondem aos micro-organismos comuns.
-<!--SR:!2023-10-03,2,237-->
+<!--SR:!2023-10-10,2,217-->
 
 Card 12: Vários tipos celulares expressam os diversos receptores de reconhecimento de padrão que, após o reconhecimento de **PAMPs e DAMPs,** as células respondem produzindo **citocinas inflamatórias e proteínas antivirais**.
-<!--SR:!2023-10-06,6,257!2023-10-03,3,256-->
+<!--SR:!2023-10-11,3,237!2023-10-25,16,256-->
 
 
 Card 18: **O muco, uma secreção viscosa contendo glicoproteínas chamadas mucinas,** é produzido por células epiteliais respiratórias, gastrintestinais e urogenitais, e impede fisicamente a invasão microbiana.
-<!--SR:!2023-10-03,3,256-->
+<!--SR:!2023-10-10,2,236-->
 
 Card 34: Quais são as diferenças entre as famílias de defensinas humanas α e β? ;; As principais diferenças entre as famílias de defensinas humanas α e β incluem sua localização e produção. As α-defensinas são produzidas principalmente por células de Paneth no intestino delgado, enquanto as β-defensinas são produzidas em outras partes do cólon, células da mucosa respiratória e pele. Essas duas famílias também se distinguem pela localização das ligações dissulfeto em suas estruturas, com a α-defensina tendo uma localização específica diferente das β-defensinas.
-<!--SR:!2023-10-03,3,256-->
+<!--SR:!2023-10-10,2,236-->
 
 Como os anticorpos ligados aos helmintos podem causar a desgranulação de eosinófilos? ;; Os [[Anticorpos]] ligados aos helmintos podem causar a desgranulação de eosinófilos ao se ligarem aos receptores Fc presentes nessas células. Essa ligação leva à liberação da proteína básica principal e outros conteúdos dos grânulos de eosinófilos, que têm a capacidade de matar os parasitas helmínticos.
-<!--SR:!2023-10-02,3,257-->
+<!--SR:!2023-10-23,15,257-->
 
-Quais são exemplos de PAMPs? ;; Exemplos de PAMPs incluem ácidos nucleicos exclusivos em microrganismos, como o RNA de fita dupla e sequências CpG de DNA não metiladas, carboidrados como manose.
-<!--SR:!2023-10-03,2,238-->
+Quais são exemplos de PAMPs? ;; Exemplos de PAMPs incluem ácidos nucleicos exclusivos em microrganismos, como o RNA de fita dupla e carboidrados como manose.
+<!--SR:!2023-10-19,11,238-->
 
 Card 4 - A interação das citocinas e quimiocinas com as células endoteliais altera as estruturas responsáveis pela adesão, como **selectinas e integrinas**. Isso permite que o leucócito saia da corrente sanguínea e chegue ao tecido em um processo chamado **diapedese**.
-<!--SR:!2023-10-03,3,238!2023-10-02,4,277-->
+<!--SR:!2023-11-04,27,258!2023-11-16,39,297-->
 
 Card 2 - Os neutrófilos circulam como células esféricas com núcleo **segmentado em três a cinco lóbulos**.
-<!--SR:!2023-10-02,3,256-->
+<!--SR:!2023-10-10,2,236-->
 
 
 Card 3 - Os grânulos no citoplasma dos neutrófilos incluem grânulos específicos, que contêm enzimas como **lisozima, colagenase e elastase**, e grânulos azurofílico, que contêm **enzimas e substâncias microbicidas**.
-<!--SR:!2023-10-03,3,237!2023-10-02,1,196-->
+<!--SR:!2023-10-10,2,217!2023-10-10,1,176-->
 
 Pergunta 3: Como as células dendríticas (DCs) reconhecem a presença de microrganismos? ;; As DCs reconhecem a presença de microrganismos através de receptores de reconhecimento de padrões, como os TLRs, que reconhecem moléculas microbianas.
-<!--SR:!2023-10-03,3,256-->
+<!--SR:!2023-10-11,2,236-->
 
 Pergunta 10: Como as células dendríticas (DCs) contribuem para a defesa do organismo contra infecções virais? ;; As DCs plasmacitoides desempenham um papel importante na defesa contra infecções virais, pois produzem interferon tipo I, que possui atividades antivirais potentes e ajuda na resposta imune contra vírus.
-<!--SR:!2023-10-02,1,218-->
+<!--SR:!2023-10-30,22,238-->
 
 Card 3: O citoplasma dos mastócitos contém grânulos cheios de **mediadores inflamatórios como histamina, causando inflamação quando liberados.**
-<!--SR:!2023-10-05,4,238-->
+<!--SR:!2023-10-10,2,218-->
 
 [^1]: Fazer cards extraindo o texto. 
 [^2]: Ainda não entendi nada disso, só vou tentar entender se o professor der aula. 

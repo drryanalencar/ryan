@@ -1,6 +1,7 @@
 ---
 tags:
   - imunologia
+  - dúvida
 ---
 Referências: 
 * [Videoaula de 1 minuto](https://youtu.be/KJwZNQOE93Q?si=irRm3YW9mOFwxolx)
@@ -10,6 +11,8 @@ Referências:
 * [Selectina – Wikipédia, a enciclopédia livre (wikipedia.org)](https://pt.wikipedia.org/wiki/Selectina)
 * [[Citocinas]], esse material tem relação com as quimiocinas. 
 ---
+#Dúvida Qual a função da E-selectina? 
+
 Selectina é uma proteína responsável pela adesão de leucócitos ao endotélio vascular na cascata precoce de eventos que levam ao processo de inflamação. As selectinas são necessárias para a migração de leucócitos, sendo o passo inicial da sequência de eventos que resultará no extravasamento dos neutrófilos nos sítios de injuria.
 
 Integrinas: Logo,as integrinas desempenham um papel fundamental nesta cascata,mediando a retenção dos leucócitos no endotélio inflamado e coordenado a transmigração através da membrana basal para permitir o deslocamento ao local da infecção ou inflamação.
@@ -18,10 +21,10 @@ Integrinas: Logo,as integrinas desempenham um papel fundamental nesta cascata,me
 
 # Flashcards
 Card 1 - Qual é o papel das selectinas no processo inflamatório? ;; As selectinas desempenham um papel fundamental na marginalização e no rolamento dos leucócitos durante o processo inflamatório. Eles são expressos no nível do endotélio vascular e nos leucócitos, atraindo os leucócitos para a margem da parede do vaso sanguíneo por meio de receptores de moléculas de adesão.
-<!--SR:!2023-10-04,4,270-->
+<!--SR:!2023-11-06,29,290-->
 
 Card 3 - Quais são os tipos de selectinas mencionadas no texto? ;; 1. Selectinas E, envolvidos na mediação das junções entre as células endoteliais. 2. Selectinas L - que facilitam a união entre os leucócitos e o endotélio. 3. Selectinas - P - que favorece a agregação plaquetária durante o processo inflamatório.
-<!--SR:!2023-10-04,4,272-->
+<!--SR:!2023-10-11,3,252-->
 
 
 [^1]:

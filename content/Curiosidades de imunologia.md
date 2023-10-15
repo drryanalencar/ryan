@@ -22,9 +22,9 @@ tags:
 O que é estado de catatonia? ;; É um distúrbio neuromuscular em que a pessoa fica paralisada e fora de si. Sintomas de imobilidade, movimentos rápidos ou estranhos, ausência de fala e outro tipo de comportamento incomum.
 <!--SR:!2023-10-11,11,276-->
 Quais os sintoma característico do lúpus eritematoso ? ;; Rash Malar, fenômeno de Raynaud; Nefrite; Altralgias.
-<!--SR:!2023-10-08,8,256-->
+<!--SR:!2023-10-13,4,236-->
 Qual o nome da jovem que ficou em estado de catatonia por 25 anos? ;; April Burrel 
-<!--SR:!2023-10-04,4,271-->
+<!--SR:!2023-11-07,30,291-->
 
 [^1]: Tópico para se aprofundar, como o Sars-Cov-2 promove essa tempestade? 
 [^2]: Entenda o que é interferon alfa e beta lendo sobre [[Citocinas]]. 
