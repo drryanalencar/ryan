@@ -13,5 +13,5 @@ title: Hello! I'm Ryan.
 * [[LIBRAS]]
 * [[Parasitologia]]
 * [[Pesquisa Científica I]]
-* [[Práticas Integradas em Saúde III]]
+* [[PIS III]]
 * [[Tutoria integradora III]]
