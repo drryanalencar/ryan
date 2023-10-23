@@ -21,13 +21,13 @@ Referências:
 # Flashcards 
 
 Com base na localização e função que as células dendríticas estão desempenhando, como podemos classificá-las? ;; As células dendríticas podem ser classificada em ==células dendríticas residentes, quando estão no tecido desempenhando a função de captura de antígenos== ou ==células dendríticas ativadas, quando estão desempenhando o papel de apresentadoras de antígenos.==
-<!--SR:!2023-10-10,1,230-->
+<!--SR:!2023-10-23,1,190-->
 
 Card 9 - Além de células dendríticas, **macrófagos e células B** também podem atuar como células apresentadoras de antígenos (APCs), desempenhando papéis importantes na resposta imune.
-<!--SR:!2023-10-12,3,250-->
+<!--SR:!2023-10-26,11,250-->
 
 Card 2 - Macrófagos promovem a ativação de **linfócitos T CD4 auxiliares**.
-<!--SR:!2023-10-10,1,230-->
+<!--SR:!2023-11-08,17,230-->
 
 [^1]: 
 [^2]: 

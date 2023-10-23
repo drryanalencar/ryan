@@ -12,6 +12,10 @@ Referências:
 #dúvida 
 "A IL-6 estimula a síntese de proteínas na fase aguda". Eu preciso entender qual a função, como esse mecanismo funciona e porque a síntese de proteína é estimulada. 
 
+Quimiocina x Citocina 
+Quimiocina: atração; migração; 
+Citocina: resposta celular.
+
 ---
 As citocinas constituem um amplo grupo de proteínas secretadas com diversas estruturas e funções, as quais regulam e coordenam muitas atividades das células da imunidade inata e adaptativa. Entre as muitas funções das citocinas que discutiremos ao longo deste  livro, estão a 
 * promoção de crescimento e diferenciação das células imunes,
@@ -121,22 +125,22 @@ Interferem na ação dos vírus.
 # Flashcards 
 
 Card 7: **IL-12** atua como uma ponte entre a imunidade inata e adaptativa, é produzida pelos macrófagos e células dendríticas, estimulando a **diferenciação de células T CD4 em células Th1** e promovendo a produção de **IFN-gama** pelos linfócitos T NK. 
-<!--SR:!2023-10-26,17,266!2023-10-10,1,186!2023-10-22,14,266-->
+<!--SR:!2023-10-26,17,266!2023-10-30,8,166!2023-11-28,37,266-->
 
 Card 8: **IL-6** é produzida por várias células (macrófagos, células endoteliais e dendríticas) e estimula a **síntese de proteínas de fase aguda**, assim como o **crescimento de linfócitos B.**
-<!--SR:!2023-10-29,21,230!2023-10-11,2,226!2023-10-10,1,186-->
+<!--SR:!2023-10-29,21,230!2023-10-31,9,206!2023-10-25,3,166-->
 
 Card 9: **IL-10** possui ação anti-inflamatória, inibindo macrófagos e células dendríticas ativadas, controlando as respostas imunes, produzida pelas células T regulatórias. 
-<!--SR:!2023-10-16,8,210-->
+<!--SR:!2023-10-27,5,190-->
 
 Mnemônico para citocinas RASA ;; REDUNDÂNCIA, AÇÃO PLEIOTRÓPICA, SINERGISMO, ANTAGONISMO. 
-<!--SR:!2023-10-10,1,222-->
+<!--SR:!2023-11-01,10,202-->
 
 Quais as três principais citocinas pró-inflamatórias? ;; TNF, IL-1 E IL-6. Mnemônico para pró-inflamatórias: Inflamação = 10 letras  Pró = 3 citocinas, que vão somar 10 letras. Interleucina 6 + interleucina 1 + TNF = 10. 
-<!--SR:!2023-10-11,2,242-->
+<!--SR:!2023-10-24,2,202-->
 
 Quais as três principais citocinas anti-inflamatórias ;; IL4, IL-10 E IL-13. ANTI = 4  letras; Inflamação = 10 letras;  Sem inflamação = 13 letras. 
-<!--SR:!2023-10-12,3,262-->
+<!--SR:!2023-10-27,12,262-->
 
 Mneumônico para TNF-alfa "TNF-ALFA" ?? 
 T: taxia, quimiotaxia, recrutamento;
@@ -145,19 +149,19 @@ F: fagócitos e febre;
 alfa: ação sistêmica. 
 
 Qual o papel da interleucina-2? ;; Proliferação e sobrevida dos linfócitos. 
-<!--SR:!2023-10-10,1,222-->
+<!--SR:!2023-10-23,1,182-->
 
 Qual o papel da interleucina-4? ;; Estimular a diferenciação dos TCD4 em TH2 e a resposta humoral (IgE). Além de inibir a ativação clássica dos macrófagos.
-<!--SR:!2023-10-11,2,242-->
+<!--SR:!2023-10-25,10,242-->
 
 Qual o papel da interleucina-5? ;; * Contra helmintos (vermes = 5 letras) * Eosinófilos  * IGE. 
-<!--SR:!2023-10-10,1,222-->
+<!--SR:!2023-10-30,8,202-->
 
 Qual interleucina tem associação com a asma? ;; A interleucina-13, lembrar de broncoespasmo. A IL-13 estimula a produção de muco pelas células epiteliais das vias aéreas, um componente importante das reações alérgicas, entre as quais a asma.
-<!--SR:!2023-10-10,1,222-->
+<!--SR:!2023-10-23,8,222-->
 
 Existe um mecanismo de feedback entre a interleucina 12 e o interferon gama, explique. ;; Macrófago --> Interleucina 12 --> Linfócito T Nk e T CD8 --> Ativação do macrófago. 
-<!--SR:!2023-10-12,3,262-->
+<!--SR:!2023-11-03,19,282-->
 
 [^1]: PG 207, FATOR DE NECROSE TUMORAL, ABBAS. 
 [^2]: Dizer que as citocinas têm ação pleiotrópica significa que essas moléculas bioquímicas têm a capacidade de afetar diversas funções ou processos biológicos em diferentes tipos de células e tecidos no organismo. Em outras palavras, uma única citocina pode ter múltiplos efeitos em diferentes células e sistemas.

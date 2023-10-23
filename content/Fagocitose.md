@@ -18,10 +18,10 @@ Referências:
 ## Flashcards
 
 Card 3 - A ativação dos mecanismos microbicidas dos macrófagos é induzida por **IFNγ,** que é secretado pelas células NK na imunidade inata e pelos linfócitos TK na adaptativa.
-<!--SR:!2023-10-13,4,270-->
+<!--SR:!2023-11-08,24,290-->
 
 Card 4 - A resposta imune exacerbada e desregulada associada a disfunção orgânica ameaçadora à vida é chamada de **sepse**, caracterizada por disseminação da infecção, secreção de TNF, vasodilatação sistêmica, perda de pressão sanguínea, aumento da permeabilidade vascular e coagulação disseminada.
-<!--SR:!2023-10-13,4,270-->
+<!--SR:!2023-10-31,16,270-->
 
 Card 5 - A **opsonização** é um processo em que substâncias como anticorpos e proteínas do sistema complemento marcam partículas para fagocitose, tornando-as mais atrativas para os fagócitos.
-<!--SR:!2023-10-13,4,270-->
+<!--SR:!2023-11-10,26,290-->

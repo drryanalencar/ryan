@@ -24,7 +24,7 @@ Card 1 - Qual é o papel das selectinas no processo inflamatório? ;; As selecti
 <!--SR:!2023-11-06,29,290-->
 
 Card 3 - Quais são os tipos de selectinas mencionadas no texto? ;; 1. Selectinas E, envolvidos na mediação das junções entre as células endoteliais. 2. Selectinas L - que facilitam a união entre os leucócitos e o endotélio. 3. Selectinas - P - que favorece a agregação plaquetária durante o processo inflamatório.
-<!--SR:!2023-10-11,3,252-->
+<!--SR:!2023-10-27,12,252-->
 
 
 [^1]:

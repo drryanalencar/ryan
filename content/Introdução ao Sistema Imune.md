@@ -7,9 +7,18 @@ Referência:
 * Medsimple - Conceitos básicos de imunologia 
 * [[Imunologia celular e molecular Abbas 9°.ed]]
 * [[SUPER COMPILADO IMUNOLOGIA - SANAR]]
---- 
+* [[Slide - Introdução ao Sistema Imune.pdf]]
+* [[Resumo Imunologia N1 - Nyara Mourão.pdf]]
+---  
 
+Por que os linfonodos ficam inchados? 
+Porque neles ocorrem a proliferação dos leucócitos, por meio da expansão clonal. 
+
+--- 
 ## Conceitos
+* Homeostasia 
+* Doença 
+* Leuco = branco ; ócitos = células
 * Sistema imune: é o conjunto de células e moléculas responsáveis pela defesa contra substâncias estranhas. Tem como objetivo evitar lesões teciduais. 
 * Antígeno: substâncias estranhas que induzem resposta imunológica específica ou são alvo de tais respostas.  
 * Imunologia: estudo das respostas imunes. 
@@ -36,32 +45,21 @@ A principal característica dessa imunidade, é que ela ==não é específica.==
 * Basófilos
 	* Histamina, fatores quimiotáticos...
 * [[Células natural killers]]
+* [[Células]]
 * Sistema complemento - ==PG.201==  do [[Imunologia celular e molecular Abbas 9°.ed]]
 * [[Citocinas]].
 ##### Reconhecimento dos patógenos ==PG.166== do [[Imunologia celular e molecular Abbas 9°.ed]]
 * PAMP's: padrões moleculares associados a patógenos. 
+	* Ácidos nucleicos de vírus e bactérias, como o RNA de fita dupla encontrado em vírus replicantes e as sequências CpG de DNA não metiladas encontradas em bactérias;  
+	* Proteínas com características encontradas em microrganismos, como a iniciação por N-formilmetionina, que é típica de proteínas  bacterianas; 
+	* e carboidratos e lipídeos complexos sintetizados por microrganismos e não pelas células de mamíferos, como o lipopolissacarídeo (LPS) em bactérias Gram-negativas, o ácido lipoteicoico em bactérias Gram-positivas, 
+	* oligossacarídeos com resíduos de manose terminais encontrados em glicoproteínas microbianas, mas não de mamíferos
 * DAMPs: padrões moleculares associados ao dano. 
 * PAMP's e DAMP's são *reconhecidos pelos receptores de reconhecimento de padrões.*
+![[Exemplos de PAMPS.png]]
 ##### Receptores de reconhecimento de padrões ==PG.174== do [[Imunologia celular e molecular Abbas 9°.ed]]
 * Ativam os processos inflamatórios e antimicrobianos. 
-	* Tipos de Receptores de reconhecimento padrão 
-		* Receptores semelhantes a Toll (TLRs)
-			* A ativação dos TLRs leva à ativação de várias vias de sinalização, incluindo a ativação de fatores de transcrição, como NF-κB e IRF3/IRF7, resultando na produção de citocinas pró-inflamatórias e interferons do tipo I.
-		* Citosólicos
-		* Sensores de DNA citosólicos [^2]
-			* Os sensores de DNA citosólico (CDSs) detectam DNA de fita dupla (dsDNA) de origem microbiana no citosol.
-			* - A via STING (stimulator of IFN genes) é ativada pelo dsDNA citosólico e envolve a ativação da enzima cGAS (sintase de GMP-AMP cíclico), que produz cGAMP (GMP-AMP cíclico) como molécula de sinalização.
-			- A proteína adaptadora STING se liga ao cGAMP e ativa a quinase TBK1, que, por sua vez, ativa o fator de transcrição IRF3, levando à produção de interferons do tipo I.
-			- A via STING também estimula a autofagia, um mecanismo pelo qual as células degradam organelas danificadas ou patógenos intracelulares.
-		* Tipo NOD1 e NOD2
-			* NOD1 reconhece o tripeptídeo glicosilado DAP (ácido diaminopimélico) derivado principalmente de peptidoglicanas de bactérias Gram-negativas, enquanto NOD2 reconhece MDP (muramil dipeptídeo) de bactérias Gram-positivas e Gram-negativas.
-			* Os complexos de sinalização NOD ativam quinases que estimulam a produção de citocinas pró-inflamatórias, como NFκB, desempenhando um papel importante nas respostas imunes inatas contra patógenos bacterianos no trato gastrointestinal.
-		* Lectinas tipo C 
-			* Reconhecem carboidratos; 
-		*  Receptores varredores 
-			* Envolvidos na fagocitose de lipoproteínas oxidados. 
-		* Receptores N-Formil Met-Leu-Lhe 
-		* Receptores NLRs
+	![[Tipos de Receptores de reconhecimento padrão.png]]
 ### Imunidade adaptativa/adquirida 
 #### Conceito
 É o conjunto de células ou moléculas, responsáveis pela defesa, que são ==produzidos para combater uma infecção==.
@@ -108,42 +106,44 @@ Card 17 - **Expansão clonal** refere-se à seleção de uma única célula para
 <!--SR:!2023-11-09,32,276-->
 
 Card 10: O que é a função química das barreiras epiteliais e quais substâncias desempenham esse papel? ;; A função química das barreiras epiteliais envolve substâncias antimicrobianas como as defensinas e as catelicidinas, além de linfócitos T intraepiteliais que respondem aos micro-organismos comuns.
-<!--SR:!2023-10-10,2,217-->
+<!--SR:!2023-10-24,9,217-->
 
 Card 12: Vários tipos celulares expressam os diversos receptores de reconhecimento de padrão que, após o reconhecimento de **PAMPs e DAMPs,** as células respondem produzindo **citocinas inflamatórias e proteínas antivirais**.
-<!--SR:!2023-10-11,3,237!2023-10-25,16,256-->
+<!--SR:!2023-11-01,10,217!2023-10-25,16,256-->
 
 
 Card 18: **O muco, uma secreção viscosa contendo glicoproteínas chamadas mucinas,** é produzido por células epiteliais respiratórias, gastrintestinais e urogenitais, e impede fisicamente a invasão microbiana.
-<!--SR:!2023-10-10,2,236-->
+<!--SR:!2023-10-24,9,236-->
 
 Card 34: Quais são as diferenças entre as famílias de defensinas humanas α e β? ;; As principais diferenças entre as famílias de defensinas humanas α e β incluem sua localização e produção. As α-defensinas são produzidas principalmente por células de Paneth no intestino delgado, enquanto as β-defensinas são produzidas em outras partes do cólon, células da mucosa respiratória e pele. Essas duas famílias também se distinguem pela localização das ligações dissulfeto em suas estruturas, com a α-defensina tendo uma localização específica diferente das β-defensinas.
-<!--SR:!2023-10-10,2,236-->
+<!--SR:!2023-11-02,11,216-->
 
 Como os anticorpos ligados aos helmintos podem causar a desgranulação de eosinófilos? ;; Os [[Anticorpos]] ligados aos helmintos podem causar a desgranulação de eosinófilos ao se ligarem aos receptores Fc presentes nessas células. Essa ligação leva à liberação da proteína básica principal e outros conteúdos dos grânulos de eosinófilos, que têm a capacidade de matar os parasitas helmínticos.
 <!--SR:!2023-10-23,15,257-->
 
 Quais são exemplos de PAMPs? ;; Exemplos de PAMPs incluem ácidos nucleicos exclusivos em microrganismos, como o RNA de fita dupla e carboidrados como manose.
-<!--SR:!2023-10-19,11,238-->
+<!--SR:!2023-10-29,7,218-->
 
 Card 4 - A interação das citocinas e quimiocinas com as células endoteliais altera as estruturas responsáveis pela adesão, como **selectinas e integrinas**. Isso permite que o leucócito saia da corrente sanguínea e chegue ao tecido em um processo chamado **diapedese**.
 <!--SR:!2023-11-04,27,258!2023-11-16,39,297-->
 
 Card 2 - Os neutrófilos circulam como células esféricas com núcleo **segmentado em três a cinco lóbulos**.
-<!--SR:!2023-10-10,2,236-->
+<!--SR:!2023-10-27,12,236-->
 
 
 Card 3 - Os grânulos no citoplasma dos neutrófilos incluem grânulos específicos, que contêm enzimas como **lisozima, colagenase e elastase**, e grânulos azurofílico, que contêm **enzimas e substâncias microbicidas**.
-<!--SR:!2023-10-10,2,217!2023-10-10,1,176-->
+<!--SR:!2023-11-06,22,237!2023-10-25,3,156-->
 
 Pergunta 3: Como as células dendríticas (DCs) reconhecem a presença de microrganismos? ;; As DCs reconhecem a presença de microrganismos através de receptores de reconhecimento de padrões, como os TLRs, que reconhecem moléculas microbianas.
-<!--SR:!2023-10-11,2,236-->
+<!--SR:!2023-10-24,2,196-->
 
 Pergunta 10: Como as células dendríticas (DCs) contribuem para a defesa do organismo contra infecções virais? ;; As DCs plasmacitoides desempenham um papel importante na defesa contra infecções virais, pois produzem interferon tipo I, que possui atividades antivirais potentes e ajuda na resposta imune contra vírus.
 <!--SR:!2023-10-30,22,238-->
 
 Card 3: O citoplasma dos mastócitos contém grânulos cheios de **mediadores inflamatórios como histamina, causando inflamação quando liberados.**
-<!--SR:!2023-10-10,2,218-->
+<!--SR:!2023-10-25,10,218-->
 
-[^1]: Fazer cards extraindo o texto. 
-[^2]: Ainda não entendi nada disso, só vou tentar entender se o professor der aula. 
+Quais são os 4 tipos de receptores PAMPS da imunidade inata? ;; 
+![[Tipos de Receptores de reconhecimento padrão.png]]
+
+Quais são os principais tipos de PAMPS e DAMPS? ;; DNA livre; | HSPs, proteínas de estresse (choque térmico), ácido úrico (resultado da degradação de ácidos nucleicos), proteínas nucleares (deveria está no núcleo) ![[Exemplos de PAMPS.png]] 

@@ -20,9 +20,9 @@ tags:
 7. Card 7 - A administração de IFN-α é usada como terapia antiviral em certos casos de hepatite viral, enquanto o IFN-β é usado no tratamento da esclerose múltipla.[^2]
 ## *Flashcards*
 O que é estado de catatonia? ;; É um distúrbio neuromuscular em que a pessoa fica paralisada e fora de si. Sintomas de imobilidade, movimentos rápidos ou estranhos, ausência de fala e outro tipo de comportamento incomum.
-<!--SR:!2023-10-11,11,276-->
+<!--SR:!2023-11-20,36,276-->
 Quais os sintoma característico do lúpus eritematoso ? ;; Rash Malar, fenômeno de Raynaud; Nefrite; Altralgias.
-<!--SR:!2023-10-13,4,236-->
+<!--SR:!2023-10-28,13,236-->
 Qual o nome da jovem que ficou em estado de catatonia por 25 anos? ;; April Burrel 
 <!--SR:!2023-11-07,30,291-->
 

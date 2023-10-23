@@ -20,6 +20,7 @@ tags:
 		2. “The parasite as it passes through the liver is very different from the parasite as it passes through the blood stages. And that’s very different from the parasite that passes through the mosquito,” Duffy says. Vaccine developers have to choose which form to target.
 	![[Pasted image 20231009144954.png]]
 2. O que é gametocytes? Digo, é um gameta, ou seja, um célula N, que chegar no mosquito encontra-se com uma célula N e forma 2N? O que há no intestino do mosquito que proporciona um ambiente adequado para o desenvolvimento da doença? 
+
 # Ciclo
 Referências: 
 * [The next frontier for malaria vaccination (nature.com)](https://www.nature.com/articles/d41586-023-02048-z)

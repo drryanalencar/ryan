@@ -10,6 +10,7 @@ Referências:
 
 * [[Curiosidades de parasitologia]]
 * [[Introdução à Parasitologia]]
+* [[Métodos diagnósticos I e II em parasitologia]]
 ---
 * [[Plasmodium. Anopheles. Malária]]
 * [[Leishmania. Flebotomíneos. Leishemaniose]]
@@ -17,7 +18,7 @@ Referências:
 
 * [[Giardia lamblia. Ambiental. Giardíase]]
 ---
-
+Mosquito, percevejo e moscas. 
 * [[Ancilostomídeos. Ambiental. Ancilostomíase ou Necatoríase]]
 * [[Ascaris lumbricoides. Ambiental. Ascaridíase ]]
 * [[Taenia. Ambiental. Teníase ]]

@@ -6,6 +6,12 @@ Referências:
 * ==PG.65== - [[Imunologia celular e molecular Abbas 9°.ed]]. [^1] 
 * ==PG.29== - [[SUPER COMPILADO IMUNOLOGIA - SANAR]]
 --- 
+#dúvida 
+Monócito tem alguma função ou só depois de se transformar em macrófago? 
+
+Monócito:
+* Atua em processos inflamatórios crônicos; 
+* Atua como APC;
 # Funções 
 * Liberam quimiocinas. [^1] 
 	* Pg.29 Super compilado imunologia. 
@@ -19,10 +25,10 @@ Referências:
 # Flashcards
 
 Quais são os dois tipos de ativação dos macrófagos e suas respectivas funções? ;; A ativação clássica (M1) está associada ao killing de microrganismos, enquanto a ativação alternativa (M2) promove o reparo tecidual. O IFN-γ é um importante ativador de macrófagos.
-<!--SR:!2023-10-13,4,270-->
+<!--SR:!2023-11-07,23,290-->
 
 Card 11 - A diferenciação de macrófagos em M1 é induzida por citocinas como **IL-12 e IFN-γ**, tornando-os eficazes no killing de microrganismos.
-<!--SR:!2023-10-13,4,270-->
+<!--SR:!2023-11-02,11,250-->
 
 [^1]: Flashcards. 
 [^2]: Para estudar sobre o interferon gama, consulte a ==página 574,== do Abbas. 
