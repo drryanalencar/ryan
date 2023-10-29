@@ -17,6 +17,8 @@ Referências:
 * [[Tripanossoma cruzi. Triatominae. Chagas]]
 
 * [[Giardia lamblia. Ambiental. Giardíase]]
+* [[Entamoeba histolytica. Ambiental. Amebíase]]
+* [[Trichomonas vaginalis. Sexual. Tricomoníase]]
 ---
 Mosquito, percevejo e moscas. 
 * [[Ancilostomídeos. Ambiental. Ancilostomíase ou Necatoríase]]

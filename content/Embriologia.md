@@ -11,6 +11,6 @@ Referências:
 ---
 [[Introdução ao Desenvolvimento Humano]]
 
-[[Gametogênese, conversão células germinativas em gametas masculinos e femininos]]
+[[Gametogênese, conversão células germinativas em gametas masculinos e femininos. Fecundação.]]
 
-
+[[Semana de Desenvolvimento]]
