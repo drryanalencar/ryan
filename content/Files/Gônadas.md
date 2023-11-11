@@ -1,1 +1,0 @@
-Designação genérica das glândulas sexuais (ovário e testículo) que produzem os gametas (óvulos e espermatozoides).

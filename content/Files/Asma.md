@@ -1,1 +1,0 @@
-Condição em que as vias aéreas de uma pessoa ficam inflamadas, estreitas e inchadas, além de produzirem muco extra, o que dificulta a respiração.
