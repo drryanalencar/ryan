@@ -85,11 +85,11 @@ Referências:
 
 # Flashcards 
 O que é desenvolvimento? ;; É ganho de funções, das habilidades neuropsicomotoras adquiridas nos primeiros anos de vida.
-<!--SR:!2023-11-02,3,250-->
+<!--SR:!2023-11-15,3,230-->
 O peso da criança deve **dobrar** entre 4 e 5 meses de vida e **triplicar** com 1 ano.
 Uma criança que nasceu com 3.000 g deve pesar **6.000 g** até os 5 meses e 9.000 g aos **12 meses** e com 2 anos e 6 meses deve está 12 kg; 
 Pré-escolar ou dos 2 aos 8 anos: **2 kg/ano** ou 8-6g/dia Escolar: **3 - 3,5 kg**/ano.
-<!--SR:!2023-11-03,4,270!2023-11-03,4,270!2023-11-03,4,270!2023-11-03,4,270!2023-10-31,1,230!2023-10-31,1,230-->
+<!--SR:!2023-12-31,49,290!2023-12-30,48,290!2024-01-01,50,290!2024-01-02,51,290!2023-11-27,15,230!2023-11-14,2,210-->
 
 VELOCIDADE DE CRESCIMENTO ESTATURA MÉDIA AO NASCER: 
 Menino: **50 cm**
@@ -103,20 +103,22 @@ VELOCIDADE DE CRESCIMENTO EM PRÉ-ESCOLARES
 **5-7 cm/ano** 
 VELOCIDADE MÉDIA DE CRESCIMENTO NA ADOLESCÊNCIA (estirão) 
 Meninas: **8,5 cm/ano** Meninos: **9,5 cm/ano**
-<!--SR:!2023-11-03,4,270!2023-11-02,3,250!2023-11-03,4,270!2023-11-02,3,250!2023-10-31,1,230!2023-11-03,4,270!2023-10-31,1,230!2023-11-02,3,250-->
+<!--SR:!2023-12-05,23,270!2023-12-27,45,270!2023-12-29,47,290!2023-12-02,20,250!2023-11-14,2,210!2023-12-04,22,270!2023-11-30,18,230!2023-12-28,46,270-->
 
 Ao nascimento, o PC mede de **33 a 36 cm**; aos 2 anos, mede de **47 a 51 cm**; e aos três anos, apresenta tamanho semelhante ao do adulto.
-Primeiro trimestre: **2 cm/mês** Segundo trimestre: **1 cm/mês** Segundo semestre: **0,5 cm/mês** Perímetro cefálico cresce **12 cm** no 1º ano.
-<!--SR:!2023-10-31,1,230!2023-10-31,1,230!2023-10-31,1,230!2023-11-03,4,270!2023-10-31,1,230!2023-10-31,1,230-->
+<!--SR:!2023-11-14,2,210!2023-11-14,2,210-->
+
+O perímetro cefálico no primeiro trimestre e no segundo trimestre aumenta quantos centímetros por mês? ;; Primeiro trimestre: 2 cm/mês Segundo trimestre: 1 cm/mês Segundo semestre: 0,5 cm/mês Perímetro cefálico cresce 12 cm no 1º ano.
+<!--SR:!2023-11-13,1,229-->
 
 Fórmula para cálculo do peso aproximado (crianças de 3 a 11 anos): **Peso (kg) = Idade (anos) x 2 + 9**
-<!--SR:!2023-10-31,1,230-->
+<!--SR:!2023-11-14,2,210-->
 
 Fórmula da altura de acordo com a idade (3 aos 11 anos). **Altura (cm) = (idade – 3) x 6 + 95**
-<!--SR:!2023-10-31,1,230-->
+<!--SR:!2023-11-14,2,210-->
 
 Prever o limite mínimo, a média e o limite máximo de estatura que a criança poderá alcançar ao final da puberdade. A variação de + ou – 8,5cm Meninos: ;; (Estatura do Pai + Estatura da Mãe) + 13 2
-<!--SR:!2023-11-03,4,270-->
+<!--SR:!2023-11-15,3,250-->
 
 
 

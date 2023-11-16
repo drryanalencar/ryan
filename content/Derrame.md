@@ -1,0 +1,1 @@
+Presença anômala de líquidos (sangue, bile etc.) em cavidades do corpo.

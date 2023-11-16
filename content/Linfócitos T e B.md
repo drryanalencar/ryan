@@ -45,7 +45,7 @@ Card 11 - Para o antígeno ser reconhecido pelo linfócito T, ele deve ser captu
 <!--SR:!2023-12-07,38,270-->
 
 6. Pergunta: Quais são as principais citocinas envolvidas na sobrevivência de linfócitos naive? ;; As principais citocinas envolvidas na sobrevivência de linfócitos naive são a IL-7 e o fator ativador de célula B (BAFF).
-<!--SR:!2023-10-31,1,170-->
+<!--SR:!2023-11-13,2,150-->
 
 * O que são grupos de clones presentes nos linfócitos T e B? ??
 	* Cada linfócito possui os receptores para antígenos na membrana e por meio das diferentes recombinações gênicas, vários tipos de receptores distintos também são formados.  

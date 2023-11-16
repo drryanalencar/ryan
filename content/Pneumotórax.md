@@ -1,2 +1,1 @@
-
 Ar na cavidade pleural.

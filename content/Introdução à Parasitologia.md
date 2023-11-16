@@ -67,9 +67,9 @@ Período pré-patente: período da penetração até o momento em que é diagnos
 Doenças que transitam entre animais e homem são chamadas de? ;; zoonoses 
 <!--SR:!2023-11-17,10,188-->
 Doenças humanas que contaminam animais podem ser chamadas de ;; zooatroponoses. 
-<!--SR:!2023-11-08,1,168-->
+<!--SR:!2023-11-13,1,148-->
 Doenças de animais que contaminam homens são chamadas de ;; antropozoonoses 
-<!--SR:!2023-11-08,1,168-->
+<!--SR:!2023-11-13,1,148-->
 Doenças humanas são chamadas de ;; antroponoses 
 <!--SR:!2023-11-23,24,250-->
 Doenças que transitam entre homens e plantas são chamadas de ;; fitonoses
@@ -92,13 +92,13 @@ Quais são os principais 3 tipos de vetores? ;; Biológicos, mecânicos e inanim
 O que é trofozoíto? ;; É a forma ativa do protozoário. 
 <!--SR:!2023-11-15,16,270-->
 Qual a sequência de classificação dos seres vivos ;; Espécie --> Gênero --> Família --> Ordem --> Classe --> Filo --> Reino
-<!--SR:!2023-11-08,9,228-->
+<!--SR:!2023-11-18,6,208-->
 O que é cisto? ;; Forma de resistência ou de transmissão de diversos protozoários
 <!--SR:!2023-11-26,27,268-->
 O que é parasitose? ;; Enquanto as parasitoses geralmente se referem a infestações por organismos multicelulares, como vermes, protozoários e artrópodes, as infecções virais são causadas por vírus e não se enquadram na definição clássica de parasitismo.
-<!--SR:!2023-11-11,4,190-->
+<!--SR:!2023-11-22,10,190-->
 Período latente: ;; É caracterizado pelo desaparecimento dos sintomas, sendo assintomática. Pode ter recaída, quando os sintomas reaparecem. 
-<!--SR:!2023-11-09,2,190-->
+<!--SR:!2023-11-20,8,190-->
 Período pré-patente: ;; período da penetração até o momento em que é diagnosticável por algum momento laboratorial. 
 <!--SR:!2023-11-20,13,228-->
 

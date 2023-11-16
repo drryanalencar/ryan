@@ -9,8 +9,7 @@ Referências:
 * [[Slide aula 2 - giardíase, amebíase tricomoníase.pdf]]
 ---
 [Protozoário atinge 61% das amostras de esgoto na capital – Jornal do Campus (usp.br)](http://www.jornaldocampus.usp.br/index.php/2014/11/protozoario-atinge-61-das-amostras-de-esgoto-na-capital/)
-#dúvidas 
-O que são neoplasias? 
+O que são neoplasias? [[Funções pulmonares]]
 
 
 > Os cistos eliminados através das fezes por dia são em média de 300 milhões a 14 bilhões e ocorrem com períodos de interrupção de eliminação de sete a dez dias.
@@ -38,35 +37,35 @@ Nesses casos de “falso-negativo” em amostras de fezes o diagnóstico deve pa
 
 # Flashcards
 Card 1 - A Giardíase é causada pelo protozoário *Giardia duodenalis* e afeta o trato **intestinal.** É uma das protozooses mais prevalentes no mundo, frequentemente associada a surtos epidêmicos por água contaminada.
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-25,13,250-->
 
 O parasito Giardia duodenalis possui duas formas principais ;; o trofozoíto, que é a forma vegetativa, e o cisto, que é a forma infectante resistente.
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-13,1,210-->
 
 Quais as características morfológicas dos trofozoítos que causam a giardíase? ;; Os trofozoítos possuem __face dorsal lisa e face ventral convexa__, com __discos na parte ventral__ e __quatro pares de flagelos__ que auxiliam na motilidade. ![[Microscopia da Giardia Lamblia.png]]
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-13,1,210-->
 
 Quais as características morfológicas dos cistos que causam a giardíase? ;; A forma cística é __oval ou elipsoide__, possui dois ou __quatro núcleos__ e é revestida por __membrana de quitina__, conferindo resistência ao ambiente fora do hospedeiro.
-<!--SR:!2023-11-11,4,270-->
+<!--SR:!2023-11-14,2,250-->
 
 O ciclo de vida da Giardia duodenalis é **monoxeno**, infectando um único hospedeiro, mas também pode ser **eurixeno**, afetando humanos, cães e gatos.
-<!--SR:!2023-11-11,4,270!2023-11-11,4,270-->
+<!--SR:!2023-11-29,17,290!2023-11-27,15,290-->
 
 
 Card 9 - A Giardíase pode causar distúrbios de absorção, excreção e motilidade intestinal, levando a sintomas como;; diarreia aquosa, náuseas e perda de peso.
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-13,1,210-->
 
 Card 10 - O diagnóstico é realizado por meio de exames parasitológicos de fezes, com a necessidade de múltiplas amostras devido ao **"período negativo"**. Outros métodos incluem endoscopia, sorologia e biópsia.
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-24,12,250-->
 
 Card 11 - O tratamento mais comum da Giardíase é feito com **Metronidazol**, sendo a primeira escolha. **Secnidazol** é a segunda opção, enquanto Tinidazol e Albendazol são menos eficazes.
-<!--SR:!2023-11-11,4,270!2023-11-11,4,270-->
+<!--SR:!2023-12-01,19,290!2023-11-28,16,290-->
 
 Card 13 - A Giardíase pode causar **lesões no intestino** e levar a **deficiências nutricionais**, incluindo vitaminas lipossolúveis (K, A, D, E). Além disso, a infecção pode ser assintomática e contribuir para a disseminação do parasita.
-<!--SR:!2023-11-11,4,270!2023-11-08,1,230-->
+<!--SR:!2023-11-26,14,290!2023-11-13,1,210-->
 
 Explique essa imagem: ![[Ciclo da Giardíase.png]];; ![[Pasted image 20231031201308.png]]![[Pasted image 20231031201328.png]]
-<!--SR:!2023-11-08,1,230-->
+<!--SR:!2023-11-19,7,230-->
 
 [^1]: 
 [^2]: 

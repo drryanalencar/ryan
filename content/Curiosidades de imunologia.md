@@ -24,7 +24,7 @@ O que é estado de catatonia? ;; É um distúrbio neuromuscular em que a pessoa 
 Quais os sintoma característico do lúpus eritematoso ? ;; Rash Malar, fenômeno de Raynaud; Nefrite; Altralgias.
 <!--SR:!2023-12-02,33,236-->
 Qual o nome da jovem que ficou em estado de catatonia por 25 anos? ;; April Burrel 
-<!--SR:!2023-11-07,30,291-->
+<!--SR:!2024-03-27,137,311-->
 
 [^1]: Tópico para se aprofundar, como o Sars-Cov-2 promove essa tempestade? 
 [^2]: Entenda o que é interferon alfa e beta lendo sobre [[Citocinas]]. 

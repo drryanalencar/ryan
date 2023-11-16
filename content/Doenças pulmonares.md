@@ -24,10 +24,28 @@ Ela atinge a capacidade pulmonar ou o fluxo pulmonar?
 [Videoaula](https://youtu.be/StPq4zQ8gaA?si=WvTVcUIPaYgOTN5l)
 
 ## Edema pulmonar 
+* ==1515== [[Fisiologia Médica_13ed _ Guyton &Hall.pdf]]
+* ==PG 3== [[Pressões parciais e transporte de gases - Maria Rita.pdf]]
 * Pode ser nos alvéolos ou no interstício. 
+* Interstício:
 ![[Pasted image 20231103185359.png]]
 ## Doença pulmonar fibrótica
 ![[Pasted image 20231103185206.png]]
 ## Enfisema pulmonar 
 * Destruição dos septos alveolares. 
 ![[Pasted image 20231103185032.png]]
+
+# Derrame pleural
+* ==PG.1517== [[Fisiologia Médica_13ed _ Guyton &Hall.pdf]]
+* [[Private Vault/Residência/RESUMO ESTRATEGIA MED/Pneumologia/Derrame Pleural.pdf|Derrame Pleural]]
+* [Radiografia](https://youtu.be/tdI2FtophW4?si=w951ENEvVvOZqeEu&t=1579)
+
+
+![[Derrame]]
+Pode ser líquido ou gasoso. 
+* Clássico: Excesso de líquido.
+	* Empiema -pús
+	* Hemotórax
+	* Quilotórax
+	* Pleurisia 
+* [[Pneumotórax]]

@@ -124,22 +124,22 @@ Interferem na ação dos vírus.
 # Flashcards 
 
 Card 7: **IL-12** atua como uma ponte entre a imunidade inata e adaptativa, é produzida pelos macrófagos e células dendríticas, estimulando a **diferenciação de células T CD4 em células Th1** e promovendo a produção de **IFN-gama** pelos linfócitos T NK. 
-<!--SR:!2023-12-19,50,266!2023-11-03,4,146!2023-11-28,37,266-->
+<!--SR:!2023-12-19,50,266!2023-11-14,3,130!2023-11-28,37,266-->
 
 Card 8: **IL-6** é produzida por várias células (macrófagos, células endoteliais e dendríticas) e estimula a **síntese de proteínas de fase aguda**, assim como o **crescimento de linfócitos B.**
-<!--SR:!2024-01-10,72,250!2023-10-31,9,206!2023-11-01,2,146-->
+<!--SR:!2024-01-10,72,250!2023-12-11,30,206!2023-11-13,2,130-->
 
 Card 9: **IL-10** possui ação anti-inflamatória, inibindo macrófagos e células dendríticas ativadas, controlando as respostas imunes, produzida pelas células T regulatórias. 
-<!--SR:!2023-11-02,3,170-->
+<!--SR:!2023-11-14,3,150-->
 
 Mnemônico para citocinas RASA ;; REDUNDÂNCIA, AÇÃO PLEIOTRÓPICA, SINERGISMO, ANTAGONISMO. 
-<!--SR:!2023-11-01,10,202-->
+<!--SR:!2023-11-16,5,182-->
 
 Quais as três principais citocinas pró-inflamatórias? ;; TNF, IL-1 E IL-6. Mnemônico para pró-inflamatórias: Inflamação = 10 letras  Pró = 3 citocinas, que vão somar 10 letras. Interleucina 6 + interleucina 1 + TNF = 10. 
 <!--SR:!2023-11-22,23,222-->
 
 Quais as três principais citocinas anti-inflamatórias ;; IL4, IL-10 E IL-13. ANTI = 4  letras; Inflamação = 10 letras;  Sem inflamação = 13 letras. 
-<!--SR:!2023-11-05,6,242-->
+<!--SR:!2023-11-15,4,222-->
 
 Mneumônico para TNF-alfa "TNF-ALFA" ?? 
 T: taxia, quimiotaxia, recrutamento;
@@ -148,19 +148,19 @@ F: fagócitos e febre;
 alfa: ação sistêmica. 
 
 Qual o papel da interleucina-2? ;; Proliferação e sobrevida dos linfócitos. 
-<!--SR:!2023-10-31,1,162-->
+<!--SR:!2023-11-13,2,142-->
 
 Qual o papel da interleucina-4? ;; Estimular a diferenciação dos TCD4 em TH2 e a resposta humoral (IgE). Além de inibir a ativação clássica dos macrófagos.
-<!--SR:!2023-11-04,5,222-->
+<!--SR:!2023-11-14,3,202-->
 
 Qual o papel da interleucina-5? ;; * Contra helmintos (vermes = 5 letras) * Eosinófilos  * IGE. 
 <!--SR:!2023-11-17,18,202-->
 
 Qual interleucina tem associação com a asma? ;; A interleucina-13, lembrar de broncoespasmo. A IL-13 estimula a produção de muco pelas células epiteliais das vias aéreas, um componente importante das reações alérgicas, entre as quais a asma.
-<!--SR:!2023-11-04,5,202-->
+<!--SR:!2023-12-15,34,222-->
 
 Existe um mecanismo de feedback entre a interleucina 12 e o interferon gama, explique. ;; Macrófago --> Interleucina 12 --> Linfócito T Nk e T CD8 --> Ativação do macrófago. 
-<!--SR:!2023-11-03,19,282-->
+<!--SR:!2023-11-22,11,262-->
 
 [^1]: PG 207, FATOR DE NECROSE TUMORAL, ABBAS. 
 [^2]: Dizer que as citocinas têm ação pleiotrópica significa que essas moléculas bioquímicas têm a capacidade de afetar diversas funções ou processos biológicos em diferentes tipos de células e tecidos no organismo. Em outras palavras, uma única citocina pode ter múltiplos efeitos em diferentes células e sistemas.

@@ -17,13 +17,13 @@ Referências:
 
 # Flashcards
 Qual é a principal função das células NK? ;; A principal função das células NK é matar células infectadas e produzir IFN-γ, que ativa macrófagos para destruírem microrganismos fagocitados.
-<!--SR:!2023-11-07,8,230-->
+<!--SR:!2023-11-16,5,210-->
 
 Como os receptores de inibição das células NK reconhecem células sadias? ;; Os receptores de inibição das células NK reconhecem moléculas do MHC de classe I, que são proteínas de superfície celular normalmente expressas em todas as células nucleadas sadias do corpo. Essa interação inibe a ativação das células NK pelas células sadias.
-<!--SR:!2023-11-05,28,274-->
+<!--SR:!2023-11-26,15,254-->
 
 Card 6: O mecanismo da citotoxicidade mediada pela célula NK envolve a liberação de proteínas, como a **perforina e granzimas**, que iniciam uma sequência de eventos de sinalização que causam a morte das células-alvo por apoptose.
-<!--SR:!2023-11-11,20,196-->
+<!--SR:!2024-01-06,56,216-->
 
 
 [^1]: 

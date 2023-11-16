@@ -24,10 +24,10 @@ Monócito:
 # Flashcards
 
 Quais são os dois tipos de ativação dos macrófagos e suas respectivas funções? ;; A ativação clássica (M1) está associada ao killing de microrganismos, enquanto a ativação alternativa (M2) promove o reparo tecidual. O IFN-γ é um importante ativador de macrófagos.
-<!--SR:!2023-11-07,23,290-->
+<!--SR:!2024-01-23,73,290-->
 
 Card 11 - A diferenciação de macrófagos em M1 é induzida por citocinas como **IL-12 e IFN-γ**, tornando-os eficazes no killing de microrganismos.
-<!--SR:!2023-11-02,11,250-->
+<!--SR:!2023-11-18,7,230-->
 
 [^1]: Flashcards. 
 [^2]: Para estudar sobre o interferon gama, consulte a ==página 574,== do Abbas. 

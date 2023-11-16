@@ -22,22 +22,33 @@ tags:
 * [[Fisiologia endócrina.pdf]]
 
 ## Respiratória
+Referências:
+* Resumos da Maria Rita
+	* [[Funções pulmonares e ventilação pulmonar - Maria Rita.pdf]]
+	* [[Circulação pulmonar - Maria Rita.pdf]]
+	* [[Pressões parciais e transporte de gases - Maria Rita.pdf]]
+	* [[Fisiologia_ Transporte de oxigênio e dióxido de carbono no sangue e nos líquidos teciduais (1).pdf]]
+* [[Slide - Funções Pulmonares.pdf]]
+* [[Fisiologia Respiratória (Resumo) - Nyara Mourão.pdf]]
+* [[Resumo de Fisiologia Respiratório Thaís Roberta.pdf]]
+* [[Fisio Sist Resp (Sanar).pdf]]
+* ==PG.543== [[Anatomia moore (FULL HD).pdf]]
 
-[[Funções pulmonares]]
+* [[Funções pulmonares]]
 
-[[Doenças pulmonares]]
+* [[Pressões pulmonares]] 
 
-[[Fisiologia da ventilação pulmonar]]
+* [[Fisiologia da ventilação pulmonar]]
 
-[[Pressões pulmonares]] e [[Fisiologia_ Ventilação Pulmonar  (1).pdf]]
+* [[Circulação pulmonar]]
 
-[[Fisiologia_ Pressões parciais e transporte de gases  (1).pdf]]
+* [[Pressões parciais e transporte de gases]]
 
-[[Fisiologia_ Circulação pulmonar (1).pdf]]
+* [[Doenças pulmonares]]
 
-[[Fisiologia_ Transporte de oxigênio e dióxido de carbono no sangue e nos líquidos teciduais (1).pdf]]
 
-[[Derrame Pleural]]
+Anotações extra:
+* [[Derrame Pleural]]
 
 [[Gasometria]]
 

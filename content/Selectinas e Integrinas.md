@@ -21,10 +21,10 @@ Integrinas: Logo,as integrinas desempenham um papel fundamental nesta cascata,me
 
 # Flashcards
 Card 1 - Qual é o papel das selectinas no processo inflamatório? ;; As selectinas desempenham um papel fundamental na marginalização e no rolamento dos leucócitos durante o processo inflamatório. Eles são expressos no nível do endotélio vascular e nos leucócitos, atraindo os leucócitos para a margem da parede do vaso sanguíneo por meio de receptores de moléculas de adesão.
-<!--SR:!2023-11-06,29,290-->
+<!--SR:!2024-02-10,91,290-->
 
 Card 3 - Quais são os tipos de selectinas mencionadas no texto? ;; 1. Selectinas E, envolvidos na mediação das junções entre as células endoteliais. 2. Selectinas L - que facilitam a união entre os leucócitos e o endotélio. 3. Selectinas - P - que favorece a agregação plaquetária durante o processo inflamatório.
-<!--SR:!2023-11-06,7,232-->
+<!--SR:!2023-11-15,4,212-->
 
 
 [^1]:

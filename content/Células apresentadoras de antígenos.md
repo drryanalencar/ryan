@@ -24,10 +24,10 @@ Com base na localização e função que as células dendríticas estão desempe
 <!--SR:!2023-11-21,22,210-->
 
 Card 9 - Além de células dendríticas, **macrófagos e células B** também podem atuar como células apresentadoras de antígenos (APCs), desempenhando papéis importantes na resposta imune.
-<!--SR:!2023-11-06,7,230-->
+<!--SR:!2023-12-06,25,230-->
 
 Card 2 - Macrófagos promovem a ativação de **linfócitos T CD4 auxiliares**.
-<!--SR:!2023-11-08,17,230-->
+<!--SR:!2023-12-24,43,230-->
 
 [^1]: 
 [^2]: 

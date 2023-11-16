@@ -39,18 +39,18 @@ O principal meio usado pelo sistema imune inato para lidar com infecções e les
 
 # Flashcards
 Exsudato x Transudato;; 1 - Extravasamento de líquido para as cavidades devido a um processo inflamatório, que aumenta a permeabilidades dos vasos. O líquido é rico em proteínas, leucócitos, fibrinogênio e outras moléculas inflamatórias. 2 - Extravasamento de líquido para as cavidades devido a um desequilíbrio osmótico. O líquido é rico em água e sendo carente em demais proteínas. 
-<!--SR:!2023-11-09,10,198-->
+<!--SR:!2023-12-05,24,198-->
 	![[Pasted image 20230929135543.png]]   
 	![[Pasted image 20230929135841.png]]
 
 Pergunta 5: Qual é o primeiro leucócito a ser recrutado para os locais de inflamação aguda? ;; Resposta 5: O neutrófilo é tipicamente o primeiro a ser recrutado devido à sua rapidez de resposta.
-<!--SR:!2023-11-12,34,290-->
+<!--SR:!2024-03-28,137,310-->
 
 Pergunta 13: Quais são três das citocinas pró-inflamatórias mais importantes da imunidade inata? ;; Resposta: TNF, IL-1 e IL-6 são três das citocinas pró-inflamatórias mais importantes. A TNF é um pirógeno que induz a febre atuando no hipotálamo. Mnemônico para pró-inflamatórias: Inflamação = 10 letras Pró = 3 citocinas, que vão somar 10 letras. Interleucina 6 + interleucina 1 + TNF = 10. 
-<!--SR:!2023-11-06,7,218-->
+<!--SR:!2023-12-16,35,238-->
 
 Card 3 - O TNF e a IL-1 induzem as células endoteliais a expressar **E-selectina** e ligantes para integrinas leucocitárias, facilitando a adesão de **leucócitos às células endoteliais.**
-<!--SR:!2023-11-05,6,230!2023-12-20,51,270-->
+<!--SR:!2023-12-04,23,230!2023-12-20,51,270-->
 
 Card 1 - A principal forma pela qual o sistema imune inato bloqueia as infecções virais é a indução da expressão de **interferons do tipo I**, que inibem a replicação viral.
 <!--SR:!2023-12-12,51,278-->

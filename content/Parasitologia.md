@@ -16,10 +16,11 @@ Referências:
 * [[Leishmania. Flebotomíneos. Leishemaniose]]
 * [[Tripanossoma cruzi. Triatominae. Chagas]]
 
+* [[Toxoplasma gondii. Animal. Toxoplasmose]]
+* [[Trichomonas vaginalis. Sexual. Tricomoníase]]
 * [[Giardia lamblia. Ambiental. Giardíase]]
 * [[Entamoeba histolytica. Ambiental. Amebíase]]
-* [[Trichomonas vaginalis. Sexual. Tricomoníase]]
-* [[Toxoplasma gondii. Animal. Toxoplasmose]]
+
 ---
 Mosquito, percevejo e moscas. 
 * [[Ancilostomídeos. Ambiental. Ancilostomíase ou Necatoríase]]

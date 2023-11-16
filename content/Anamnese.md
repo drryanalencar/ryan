@@ -1,5 +1,6 @@
 [[Roteiro de Anamnese USP.pdf]]
 
+
 # Anamnese do GNUS
 1° Informações gerais sobre o paciente. 
 Endereço, grupo familiar, animais, tipo de moradia, c/sem saneamento básico, com que trabalha, uso de medicação, doenças prévias.
@@ -112,10 +113,10 @@ Além de Roma, quais os outros impérios e civilizações ao redor? Como eles vi
 # Flashcards
 #Pediatria 
 1° Informações gerais sobre o paciente. ;; Endereço, grupo familiar, animais, tipo de moradia, c/sem saneamento básico, com que trabalha, uso de medicação, doenças prévias. Hábitos de vida, como alimentação, prática de exercícios físicos, drogas...*
-<!--SR:!2023-10-31,1,230-->
+<!--SR:!2023-11-26,14,230-->
 
 3° História recente da doença: ;; Quando começou? Duração? Localização da dor? (Origem, grau de profundidade, iradiação, delimitações)* Qualidade (Sensação, aspecto físico do fenômeno)*, Quantidade (Frequência), Circunstâncias* (substâncias tóxica), Fatores agravantes (Atividade, alimentos, drogas, substâncias) e manifestações associadas. Estado geral* (disposição, capacidade de trabalho, perda de peso, febre, anorexia, estado psíquico.)
-<!--SR:!2023-11-02,3,250-->
+<!--SR:!2023-11-15,3,230-->
 
 4° História pregressa da doença: ;; Familiar? Cirurgias? 
-<!--SR:!2023-10-31,1,230-->
+<!--SR:!2023-11-28,16,230-->
