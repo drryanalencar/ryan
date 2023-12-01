@@ -15,3 +15,6 @@ title: Hello! I'm Ryan.
 * [[Pesquisa Científica I]]
 * [[PIS III]]
 * [[Tutoria integradora III]]
+* [[PRÁTICA]]
+* [[Semiologia médica]]
+* [[Apresentação clínica I]]
