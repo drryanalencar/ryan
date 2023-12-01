@@ -2,12 +2,11 @@
 tags:
 ---
 Referências: 
+* [Calendário de Vacinação — Ministério da Saúde (www.gov.br)](https://www.gov.br/saude/pt-br/vacinacao/calendario)
 * [Saiba quais vacinas devem ser administradas durante a gestação (www.gov.br)](https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/11/saiba-quais-vacinas-devem-ser-administradas-durante-a-gestacao)
-* [Calendário Nacional de Vacinação — Ministério da Saúde (www.gov.br)](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao)
 * [INSTRUÇÃO NORMATIVA QUE INSTRUI O CALENDÁRIO NACIONAL DE VACINAÇÃO - 2023](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao/calendario-vacinal-2023/instrucao-normativa-calendario-nacional-de-vacinacao-2023/)
 * [[Private Vault/Residência/RESUMO ESTRATEGIA MED/Pediatria/Imunizações.pdf|Imunizações]]
 * [[Caderneta da Gestante 2023.pdf]]
-* [www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao/calendario-vacinal-2023/calendario-nacional-de-vacinacao-2023-gestante/](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao/calendario-vacinal-2023/calendario-nacional-de-vacinacao-2023-gestante/)
 ---
 
 #### Vacina dupla adulto (DT) 

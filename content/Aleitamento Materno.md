@@ -1,5 +1,6 @@
 ---
 tags:
+  - Pediatria
 ---
 Referências: 
 * [[Private Vault/Residência/RESUMO ESTRATEGIA MED/Pediatria/Aleitamento Materno.pdf|Aleitamento Materno]]
@@ -7,7 +8,7 @@ Referências:
 * [[Saúde da Criança - Aleitamento Materno e Alimentação Complementar (MS).pdf]]
 * [[Private Vault/Residência/Estratégia MED/Estratégia MED - Extensivo 2023 - Parte 01/RESIDÊNCIA - EXTENSIVO 2023/Pediatria - Extensivo/17. Aleitamento Materno/1. Aula.mp4]]
 ---
-
+![[Pasted image 20231125230938.png]]
 # Importância
 A amamentação promove o desenvolvimento da musculatura orofacial. 
 Desenvolvimento cognitivo = ácidos graxos. 
@@ -39,7 +40,6 @@ Estase láctea = permanência do leite por muito tempo.
 * Mães infectadas pelo HTLV I E II
 * Galactesomia 
 	* Sintomas: 
-	* 
 * Drogas incompatíveis: amiodarona, lítio, ergotaminas, antineoplásicos, antibióticos e imunossupressores. 
 ## Interrupção temporária 
 * Chagas agudo; 
@@ -102,6 +102,12 @@ FONTE: HTTPS://WWW.CRECHESEGURA.COM.BR/CRIANCACOM-FISSURA-LABIAL-E-FENDA-PALATI
 ![[Pasted image 20231102180323.png]]
 ![[Pasted image 20231102180337.png]]
 
+# Alimentação com leite 
+![[Pasted image 20231125232108.png]]
+![[Pasted image 20231125232125.png]]
+![[Pasted image 20231125232143.png]]
+
+Quais são os 5 tipos de aleitamento materno? ;; ![[Pasted image 20231125230820.png]]
 
 [^1]: 
 [^2]: 

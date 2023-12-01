@@ -14,7 +14,7 @@ Referências:
 ---
 * [[Plasmodium. Anopheles. Malária]]
 * [[Leishmania. Flebotomíneos. Leishemaniose]]
-* [[Tripanossoma cruzi. Triatominae. Chagas]]
+* [[Tripanosoma cruzi. Triatominae. Chagas]]
 
 * [[Toxoplasma gondii. Animal. Toxoplasmose]]
 * [[Trichomonas vaginalis. Sexual. Tricomoníase]]
@@ -30,4 +30,11 @@ Mosquito, percevejo e moscas.
 * [[Schistosoma mansoni. Caramujos. Esquistossomose]]
 ---
 
-![[Pasted image 20231009172604.png]]
+# N1
+[[Entamoeba histolytica. Ambiental. Amebíase]]
+[[Giardia lamblia. Ambiental. Giardíase]]
+[[Trichomonas vaginalis. Sexual. Tricomoníase]]
+[[Tripanosoma cruzi. Triatominae. Chagas]]
+[[Leishmania. Flebotomíneos. Leishemaniose]]
+[[Toxoplasma gondii. Animal. Toxoplasmose]]
+[[Plasmodium. Anopheles. Malária]]

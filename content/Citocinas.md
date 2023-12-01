@@ -124,13 +124,13 @@ Interferem na ação dos vírus.
 # Flashcards 
 
 Card 7: **IL-12** atua como uma ponte entre a imunidade inata e adaptativa, é produzida pelos macrófagos e células dendríticas, estimulando a **diferenciação de células T CD4 em células Th1** e promovendo a produção de **IFN-gama** pelos linfócitos T NK. 
-<!--SR:!2023-12-19,50,266!2023-11-14,3,130!2023-11-28,37,266-->
+<!--SR:!2023-12-19,50,266!2023-11-17,2,130!2023-11-28,37,266-->
 
 Card 8: **IL-6** é produzida por várias células (macrófagos, células endoteliais e dendríticas) e estimula a **síntese de proteínas de fase aguda**, assim como o **crescimento de linfócitos B.**
-<!--SR:!2024-01-10,72,250!2023-12-11,30,206!2023-11-13,2,130-->
+<!--SR:!2024-01-10,72,250!2023-12-11,30,206!2023-11-16,1,130-->
 
 Card 9: **IL-10** possui ação anti-inflamatória, inibindo macrófagos e células dendríticas ativadas, controlando as respostas imunes, produzida pelas células T regulatórias. 
-<!--SR:!2023-11-14,3,150-->
+<!--SR:!2023-11-17,2,130-->
 
 Mnemônico para citocinas RASA ;; REDUNDÂNCIA, AÇÃO PLEIOTRÓPICA, SINERGISMO, ANTAGONISMO. 
 <!--SR:!2023-11-16,5,182-->
@@ -139,7 +139,7 @@ Quais as três principais citocinas pró-inflamatórias? ;; TNF, IL-1 E IL-6. Mn
 <!--SR:!2023-11-22,23,222-->
 
 Quais as três principais citocinas anti-inflamatórias ;; IL4, IL-10 E IL-13. ANTI = 4  letras; Inflamação = 10 letras;  Sem inflamação = 13 letras. 
-<!--SR:!2023-11-15,4,222-->
+<!--SR:!2023-11-17,2,202-->
 
 Mneumônico para TNF-alfa "TNF-ALFA" ?? 
 T: taxia, quimiotaxia, recrutamento;
@@ -148,10 +148,10 @@ F: fagócitos e febre;
 alfa: ação sistêmica. 
 
 Qual o papel da interleucina-2? ;; Proliferação e sobrevida dos linfócitos. 
-<!--SR:!2023-11-13,2,142-->
+<!--SR:!2023-11-16,1,130-->
 
 Qual o papel da interleucina-4? ;; Estimular a diferenciação dos TCD4 em TH2 e a resposta humoral (IgE). Além de inibir a ativação clássica dos macrófagos.
-<!--SR:!2023-11-14,3,202-->
+<!--SR:!2023-11-17,2,182-->
 
 Qual o papel da interleucina-5? ;; * Contra helmintos (vermes = 5 letras) * Eosinófilos  * IGE. 
 <!--SR:!2023-11-17,18,202-->

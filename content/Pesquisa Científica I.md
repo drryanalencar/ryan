@@ -16,8 +16,7 @@ Outcome: a variável que eu mensuro.
 
 >"Fazer coisas boas, bem feitas, para tornar o mundo melhor". Dr.Odilson, 2023. 
 
-
-
+# Guia para avaliação da evidência científica
 Avaliação: 
 Quem escreveu? 
 Fator de impacto, a escala está entre 1 e 200. 
@@ -25,18 +24,19 @@ Ano de publicação;
 Estudos descritivos tem menor confiança. 
 	Não tem valor de P, não tem comparação. Só percentuais e médias. 
 
-O título precisa ser informativo e gerar interesse. 
+>O título precisa ser informativo e gerar interesse. 
 
 
-Erros 
+__Erros__
 	Sistemático ou viés ou bias: erros na metodologias. Tipos de viés: seleção e de aferição. 
 		Uma perda de mais de 5% é muito significativa. 
 	Aleatório 
 
-Discussão: 
+>Discussão: 
+
 Resumo dos achados; Mini conclusões em cada parágrafo. Comparação e contraste. Parágrafo de limitações. 
 
-Resultados: 
+__Resultados:__ 
 	Fluxograma; 
 	Table one: caracterização da amostra. 
 	Uma figura tem que ser independente. 
@@ -52,14 +52,51 @@ Resultados:
 2. **Erro Tipo II (Falso Negativo):**
     - O erro tipo II ocorre quando falhamos em rejeitar uma hipótese nula falsa. Isso significa que não detectamos uma diferença ou efeito quando, na verdade, existe. A probabilidade de cometer um erro tipo II é representada por β (beta). O complemento de β é o poder estatístico do teste, que é a probabilidade de rejeitar corretamente uma hipótese nula falsa.
 
-  
+Esse artigo é um ensaio clínico randomizado, sendo assim, inicialmente a qualidade da evidência é definida como alta. 
+* Risco de viés 
+* Heterogeneidade 
+* Imprecisão 
+* Evidência indireta
+* Viés de publicação
+#### Risco de viés 
+* Até que ponto o resultado final do estudo é reflexo de uma estimativa não enviesada da realidade? 
+* Baixo risco de viés (alta validade interna)
+* Risk of bias tool 2.0 (RoB 2) 
+	* ==PG.56== Tabela [[Livro de evidências]]
+	* D1. Viés no processo de randomização; 
+	* D2. Viés devido a desvios das intervenções pretendidas;
+	* D3. Viés devido a dados faltantes dos desfechos;
+	* D4. Viés na mensuração dos desfechos;
+	* D5. Viés na seleção dos resultados relatados
+#### Heterogeneidade
+* Existe heterogeneidade (ou inconsistência) quando o verdadeiro efeito da intervenção é representado por resultados variados entre os estudos incluídos na análise.
+* Estatística = nos resultados; 
+	* Estimativas pontuais variam de benefício clinicamente relevante até malefício clinicamente relevante. 
+	* Sobreposição dos intervalos de confiança: quanto menos sobrepostos estão os ICs, mais heterogênos são. 
+	* Resultados com amplos intervalos de confiança. 
+	* P valor menor que 0,05 indica evidência de presença de heterogeneidade estatística. Os estudos não estão todos estimando o mesmo efeito. 
+	* I² "o percentual de variação total entre os resultados dos estudos devido a heterogeneidade, e não ao acaso". 
+		* 0-40% - não importante; 
+		* 30-60% moderada; 
+		* 50 a 90% substancial; 
+		* 75% a 100% considerável. 
+		* Cuidado! Amplos intervalos de confiança mascaram os I², portanto, é importante analisar se os estudos apontam para a mesma direção. 
+* Diversidade clínica = diversidade na clínica
+* Diversidade metodológica = diversidade entre as metodologias. 
+* Alguns motivos de heterogeidade: 
+	* População, variáveis PICO diferentes, tipos de intervenção, tempo de tratamento, doses. 
+
+#### Imprecisão 
+> A forma de quantificar a incerteza em relação à estimativa pontual apresentada. 
+> A faixa de valores compatívies com os dados do estudo. 
+> É uma faixa na qual é plausível que o verdadeiro valor estaja contido. 
+* ICs grandes nivelam para baixo a qualidade da evidência. 
+
 A avaliação da adequação do processo de amostragem em um estudo é crucial para garantir a validade e a generalização dos resultados. Aqui estão algumas considerações para determinar se o processo de amostragem foi adequado:
 
 1. **Representatividade:**
-    
     - A amostra deve ser representativa da população-alvo. Isso significa que as características dos participantes incluídos na amostra devem refletir de maneira precisa as características da população da qual foram retirados. Se a amostra não for representativa, os resultados podem não ser generalizáveis.
 2. **Tamanho da Amostra:**
-    
     - O tamanho da amostra deve ser adequado para detectar diferenças significativas, se existirem, e para garantir poder estatístico suficiente. Amostras muito pequenas podem levar a resultados não confiáveis, enquanto amostras excessivamente grandes podem ser dispendiosas e desnecessárias.
 3. **Processo Aleatório:**
     - Se o processo de amostragem foi aleatório, isso aumenta a probabilidade de que cada membro da população tenha a mesma chance de ser incluído na amostra. Isso ajuda a evitar viés de seleção.
@@ -74,4 +111,6 @@ A avaliação da adequação do processo de amostragem em um estudo é crucial p
 8. **Documentação Adequada:**
     - O processo de amostragem deve ser bem documentado para permitir a replicação do estudo por outros pesquisadores e para fornecer transparência no método utilizado.
 9. **Consideração de Viéses Potenciais:**
-    - Os pesquisadores devem considerar e relatar possíveis fontes de viés de seleção ou outros vieses introduzidos pelo processo de amostragem.
+    - Os pesquisadores devem considerar e relatar possíveis fontes de viés de seleção ou outros vieses introduzidos pelo processo de amostragem.7
+
+[[Análise do artigo II]]

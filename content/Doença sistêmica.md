@@ -1,0 +1,1 @@
+Uma doença sistêmica **afeta múltiplos órgãos ou tecidos do corpo humano**.

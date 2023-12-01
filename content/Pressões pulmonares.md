@@ -1,3 +1,7 @@
+---
+tags:
+  - Fisiologia
+---
 Referências:
 * ==PG.18== [[Slide - Funções Pulmonares.pdf]]
 * ==PG.2== [[Funções pulmonares e ventilação pulmonar - Maria Rita.pdf]]
@@ -10,7 +14,6 @@ Referências:
 * Pressão alveolar durante a expiração: + 1 cmH2O
 
 # Pressão intrapleural
-
 
 # Células do pulmão
 ##### Células presentes nos alvéolos
@@ -39,3 +42,5 @@ Card 13 - As capacidades pulmonares incluem ;; a capacidade inspiratória, capac
 Card 14 - O **espaço morto** é a parte do ar respirado que não alcança as áreas de trocas gasosas nos alvéolos.
 
 Card 16 - A **hematose** depende da existência de uma **ventilação-perfusão (VQ) adequada**.
+
+Função dos pneumócitos tipo I e II ;; Pneumócitos Tipo I: realizam a hematose. Pneumócitos Tipo II: produzem surfactante. 

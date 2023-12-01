@@ -25,7 +25,7 @@ CLÁSSICO, DEPENDE DE  ANTICORPO
 VIA DAS LECTINAS, DEPENDE DO RECONHECIMENTO DE MANOSE;
 	Começa com a proteína MBL: Lectina Ligadora de Manose
 		MASP1 E MASP 2, auxiliares dessa proteínas, que clivam C4 E C2
-	==C4B + C2A --> C3 CONVERTASE== 
+	==C4A + C2B --> C3 CONVERTASE== 
 	A enzima (*C3 convertase*), cliva a C3 em C3B + C3A. 
 	(*C4A + C2B*) + C3B + C5 --> C5 CONVERTASE
 ALTERNATIVA, NÃO DEPENDE ANTICORPO 
@@ -45,15 +45,15 @@ C9 faz um buraco e promove um desequilíbrio osmótico nas células.
 
 # Flashcards 
 O que são lectinas? ;; Proteínas que compartilham a característica comum de ligarem-se a carboidratos. 
-<!--SR:!2023-11-13,2,210-->
+<!--SR:!2023-11-21,6,210-->
 
 Qual os objetivos do sistema complemento? Formação de C3 CONVERTASE, depois formação de C5 CONVERTASE, por fim, realizar o recrutamento de outras proteínas do completo que promoverão a lise celular.  
 
 Qual a constituição da enzima C3 CONVERTASE nas diferentes vias do sistema complemento? ;; Na via clássica e das lectinas, ela é constituída pela C4B + C2A. Já na via alternativa, ela é composta pela C3B E BB. 
-<!--SR:!2023-11-13,2,210-->
+<!--SR:!2023-11-20,5,210-->
 
 Qual a constituição da enzima C5 convertase nas diferentes vias do sistema complemento? ;; Na via clássica e das lectinas, ela é constituída por C4B + C2A + C3B + C5. E na via alternativa, ela é constituída por C3B + BB + C3B + C5. 
-<!--SR:!2023-11-15,3,210-->
+<!--SR:!2023-11-17,2,190-->
 
 [^1]: 
 [^2]: 

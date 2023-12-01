@@ -4,6 +4,8 @@
 # Gerais 
 [[Sons de Karotkoff]]
 [[Capilares sanguíneos]]
+[[Doença sistêmica]]
+[[Encefalite]]
 [[Sístole e diástole]]
 [[Antígeno]]
 [[Gônadas]]

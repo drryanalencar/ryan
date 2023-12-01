@@ -2,8 +2,9 @@
 tags:
 ---
 Referências: 
-* [www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao/calendario-vacinal-2023/calendario-nacional-de-vacinacao-2023-crianca/](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao/calendario-vacinal-2023/calendario-nacional-de-vacinacao-2023-crianca/)
+* [Calendário de Vacinação — Ministério da Saúde (www.gov.br)](https://www.gov.br/saude/pt-br/vacinacao/calendario)
 * [[Calendário de vacinação de crianças (MS).pdf]]
+* [[Instrução normativa do calendário de vacinação 2023.pdf]]
 ---
 
 

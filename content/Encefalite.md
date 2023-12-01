@@ -1,0 +1,1 @@
+A encefalite é uma inflamação que ocorre no cérebro quando um vírus (em alguns casos, bactérias) consegue atacá-lo diretamente, também podendo ser acionada por outros fatores. Trata-se de um processo inflamatório das meninges, membranas que recobrem o sistema nervoso central.

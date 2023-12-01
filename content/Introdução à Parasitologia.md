@@ -19,7 +19,7 @@ Referências:
 	* XENOS, “estrangeiro, de fora”.
 	* Do G. EURÓS, “largo, extenso”; refere-se aos parasitas que infestam grande número de tipos de hospedeiros.
 * Ciclo monoxeno: [[Ascaris lumbricoides. Ambiental. Ascaridíase]]; 
-* Ciclo heteronoxeno: [[Leishmania. Flebotomíneos. Leishemaniose]], [[Tripanossoma cruzi. Triatominae. Chagas]], [[Taenia. Ambiental. Teníase]], [[Plasmodium. Anopheles. Malária]].
+* Ciclo heteronoxeno: [[Leishmania. Flebotomíneos. Leishemaniose]], [[Tripanosoma cruzi. Triatominae. Chagas]], [[Taenia. Ambiental. Teníase]], [[Plasmodium. Anopheles. Malária]].
 * Sufixos ose, íase e ase são utilizados para indicar doença.
 * O que é ciclo biológico? Compreende as diversas etapas da vida do parasita. 
 	![[Pasted image 20231016145311.png]]
@@ -65,42 +65,42 @@ Período latente: É caracterizado pelo desaparecimento dos sintomas, sendo assi
 Período pré-patente: período da penetração até o momento em que é diagnosticável por algum momento laboratorial. 
 #### Classificação das fontes de infecção 
 Doenças que transitam entre animais e homem são chamadas de? ;; zoonoses 
-<!--SR:!2023-11-17,10,188-->
+<!--SR:!2023-12-21,32,208-->
 Doenças humanas que contaminam animais podem ser chamadas de ;; zooatroponoses. 
-<!--SR:!2023-11-13,1,148-->
+<!--SR:!2023-11-24,5,148-->
 Doenças de animais que contaminam homens são chamadas de ;; antropozoonoses 
-<!--SR:!2023-11-13,1,148-->
+<!--SR:!2023-11-25,3,130-->
 Doenças humanas são chamadas de ;; antroponoses 
 <!--SR:!2023-11-23,24,250-->
 Doenças que transitam entre homens e plantas são chamadas de ;; fitonoses
-<!--SR:!2023-11-19,20,228-->
+<!--SR:!2024-01-22,64,248-->
 
 ![[Pasted image 20231019121646.png]]
 
 # Flashcards 
 Stenoxenos X eurixenos (significado) ;; Steno de poucos, estreito; Xenos de estrangeiro. Euro de largo, estenso.  
 <!--SR:!2023-11-29,30,290-->
-Quais parasitas possuem ciclo heteroxeno: [[Leishmania. Flebotomíneos. Leishemaniose]], [[Tripanossoma cruzi. Triatominae. Chagas]], [[Taenia. Ambiental. Teníase]], [[Plasmodium. Anopheles. Malária]].
+Quais parasitas possuem ciclo heteroxeno: [[Leishmania. Flebotomíneos. Leishemaniose]], [[Tripanosoma cruzi. Triatominae. Chagas]], [[Taenia. Ambiental. Teníase]], [[Plasmodium. Anopheles. Malária]].
 O que é antroponose? ;; Doença que só ocorre em humano. 
-<!--SR:!2023-11-18,11,228-->
+<!--SR:!2023-11-25,6,208-->
 O que é antropozoonose? ;; doença primária de animais e que pode ser transmitida aos humanos. 
-<!--SR:!2023-11-18,11,208-->
+<!--SR:!2023-11-26,7,188-->
 O que é zoonose? ;; Doenças que pode ocorre em humanos e em animais. 
-<!--SR:!2023-11-13,14,248-->
+<!--SR:!2023-11-29,10,228-->
 Quais são os principais 3 tipos de vetores? ;; Biológicos, mecânicos e inanimados (fômites).
 <!--SR:!2023-11-30,31,288-->
 O que é trofozoíto? ;; É a forma ativa do protozoário. 
-<!--SR:!2023-11-15,16,270-->
+<!--SR:!2024-02-02,75,290-->
 Qual a sequência de classificação dos seres vivos ;; Espécie --> Gênero --> Família --> Ordem --> Classe --> Filo --> Reino
-<!--SR:!2023-11-18,6,208-->
+<!--SR:!2023-12-05,16,208-->
 O que é cisto? ;; Forma de resistência ou de transmissão de diversos protozoários
 <!--SR:!2023-11-26,27,268-->
 O que é parasitose? ;; Enquanto as parasitoses geralmente se referem a infestações por organismos multicelulares, como vermes, protozoários e artrópodes, as infecções virais são causadas por vírus e não se enquadram na definição clássica de parasitismo.
-<!--SR:!2023-11-22,10,190-->
+<!--SR:!2023-11-27,5,170-->
 Período latente: ;; É caracterizado pelo desaparecimento dos sintomas, sendo assintomática. Pode ter recaída, quando os sintomas reaparecem. 
-<!--SR:!2023-11-20,8,190-->
+<!--SR:!2023-11-26,4,170-->
 Período pré-patente: ;; período da penetração até o momento em que é diagnosticável por algum momento laboratorial. 
-<!--SR:!2023-11-20,13,228-->
+<!--SR:!2023-12-23,31,228-->
 
 
 [^1]: 

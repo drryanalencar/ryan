@@ -27,8 +27,9 @@ Referências:
 	* [[Funções pulmonares e ventilação pulmonar - Maria Rita.pdf]]
 	* [[Circulação pulmonar - Maria Rita.pdf]]
 	* [[Pressões parciais e transporte de gases - Maria Rita.pdf]]
-	* [[Fisiologia_ Transporte de oxigênio e dióxido de carbono no sangue e nos líquidos teciduais (1).pdf]]
+	* [[Transporte de oxigênio e dióxido de carbono no sangue e nos líquidos teciduais - Maria Rita.pdf]]
 * [[Slide - Funções Pulmonares.pdf]]
+* [[Slide 1 - Fisiologia Respiratória.pdf]]
 * [[Fisiologia Respiratória (Resumo) - Nyara Mourão.pdf]]
 * [[Resumo de Fisiologia Respiratório Thaís Roberta.pdf]]
 * [[Fisio Sist Resp (Sanar).pdf]]
@@ -44,12 +45,25 @@ Referências:
 
 * [[Pressões parciais e transporte de gases]]
 
+* [[Transporte de Oxigênio no Sangue e nos Líquidos Teciduais]]
+
+* [[Transporte de Dióxido de carbono no Sangue e nos Líquidos Teciduais]]
+
+* [[Efeito BOHR]]
+
+* [[Efeito de Haldane]]
+
+* [[Regulação da respiração]]
+
 * [[Doenças pulmonares]]
 
+* [[PH sanguíneo]]
+
+* [[Alterações no padrão respiratório]]
 
 Anotações extra:
 * [[Derrame Pleural]]
 
 [[Gasometria]]
 
-[PADRÕES RESPIRATÓRIOS PATÓLOGICOS: RESPIRAÇÃO DE CHEYNE-STOKES, RESPIRAÇÃO DE BIOT, RESPIRAÇÃO DE KUSSMAUL E RESPIRAÇÃO SUSPIROSA – ISSN 1678-0817 Qualis B2 (revistaft.com.br)](https://revistaft.com.br/padroes-respiratorios-patologicos-respiracao-de-cheyne-stokes-respiracao-de-biot-respiracao-de-kussmaul-e-respiracao-suspirosa/)
+

@@ -1,3 +1,7 @@
+---
+tags:
+  - Fisiologia
+---
 # Doenças pulmonares
 * Alterações na capacidade pulmonar 
 * Alterações no fluxo pulmonar

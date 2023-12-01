@@ -122,7 +122,7 @@ Como os anticorpos ligados aos helmintos podem causar a desgranulação de eosin
 <!--SR:!2023-12-17,48,257-->
 
 Quais são exemplos de PAMPs? ;; Exemplos de PAMPs incluem ácidos nucleicos exclusivos em microrganismos, como o RNA de fita dupla e carboidrados como manose.
-<!--SR:!2023-11-13,9,198-->
+<!--SR:!2023-12-03,18,198-->
 
 Card 4 - A interação das citocinas e quimiocinas com as células endoteliais altera as estruturas responsáveis pela adesão, como **selectinas e integrinas**. Isso permite que o leucócito saia da corrente sanguínea e chegue ao tecido em um processo chamado **diapedese**.
 <!--SR:!2023-11-25,14,238!2023-11-16,39,297-->
@@ -132,7 +132,7 @@ Card 2 - Os neutrófilos circulam como células esféricas com núcleo **segment
 
 
 Card 3 - Os grânulos no citoplasma dos neutrófilos incluem grânulos específicos, que contêm enzimas como **lisozima, colagenase e elastase**, e grânulos azurofílico, que contêm **enzimas e substâncias microbicidas**.
-<!--SR:!2023-11-24,13,217!2023-11-13,2,130-->
+<!--SR:!2023-11-24,13,217!2023-11-16,1,130-->
 
 Pergunta 3: Como as células dendríticas (DCs) reconhecem a presença de microrganismos? ;; As DCs reconhecem a presença de microrganismos através de receptores de reconhecimento de padrões, como os TLRs, que reconhecem moléculas microbianas.
 <!--SR:!2023-12-15,34,216-->
@@ -141,11 +141,11 @@ Pergunta 10: Como as células dendríticas (DCs) contribuem para a defesa do org
 <!--SR:!2023-11-21,9,198-->
 
 Card 3: O citoplasma dos mastócitos contém grânulos cheios de **mediadores inflamatórios como histamina, causando inflamação quando liberados.**
-<!--SR:!2023-11-15,4,178-->
+<!--SR:!2023-11-17,2,158-->
 
 Quais são os 4 tipos de receptores PAMPS da imunidade inata? ;; 
 <!--SR:!2023-11-29,18,238-->
 ![[Tipos de Receptores de reconhecimento padrão.png]]
 
 Quais são os principais tipos de PAMPS e DAMPS? ;; DNA livre; | HSPs, proteínas de estresse (choque térmico), ácido úrico (resultado da degradação de ácidos nucleicos), proteínas nucleares (deveria está no núcleo) ![[Exemplos de PAMPS.png]] 
-<!--SR:!2023-11-13,2,218-->
+<!--SR:!2023-11-16,1,198-->

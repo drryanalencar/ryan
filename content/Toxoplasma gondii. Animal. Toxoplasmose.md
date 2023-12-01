@@ -3,9 +3,17 @@ tags:
   - Parasitologia
 ---
 Referências: 
+* ==PG.177== [[Parasitologia Humana 13° Ed.pdf]] 
 * [[Apostila de Parasitologia.pdf]]
 * [[Aula 5 - Malária e Toxoplasmose.pdf]]
 ---
+__Forma grave da doença:__ Em RN, [[Encefalite]], Icterícia, urticária e hepatoesplenomegalia, Coriorretinete, hidrocefalia e microcefalia.
+Em outros grupos: quando o S.imune está deprimido, [[Encefalite]], [[Retinocoroidite]] ou [[Doença sistêmica]]
+
+__Seres contaminados:__ mamíferos (carneiro, cabra e porco) e aves. Gatos e felídeos são hospedeiros definitivos. O ser humano e outros animais são os hospedeiros intermediários ou incompletos. 
+
+--- 
+
 __Tipo de vetor:__ Ambiental. Os humanos são infectados após ingerir oocistos presentes nas fezes dos felídeos (jovens) ou ao comer carne malcozida de um animal que tenha ingerido o parasita de fezes. Outra maneira de contágio é a congênita ou transplacentária.
 
 Mecanismos de transmissão: oocistos maduros contendo esporozoítos, geralmente encontrados em alimentos ou água contaminada, ou cistos com bradizoítos encontrados na carne crua, ou, mais raramente, taquizoítos eliminados no leite.
@@ -35,13 +43,17 @@ Oocisto --> desenvolve ciclo sexuado nos felinos --> formam os oocistos --> cont
 # Flashcards
 
 Card 2: Todas as três formas do parasita (**Taquizoíto, Bradizoíto, Oocisto**) são infectantes para o ser humano.
+<!--SR:!2023-11-23,1,210-->
 
 
 Card 6: A fase crônica apresenta **bradizoítos** em bolsas de cistos nos tecidos, multiplicação lenta, e permanência por toda a vida nos tecidos, sendo a forma infectante das carnes.
+<!--SR:!2023-11-23,1,210-->
 
 Card 7: **Oocistos** são altamente resistentes, eliminados nas fezes dos felinos, e sua membrana de quitina é difícil de ser rompida.
+<!--SR:!2023-11-24,2,248-->
 
 Card 9: A toxoplasmose é frequentemente assintomática, mas pode causar sintomas como **febre, mialgia, adenopatia e, em casos graves, lesões oculares e neurotoxoplasmose**.
+<!--SR:!2023-11-23,1,210-->
 
 
 

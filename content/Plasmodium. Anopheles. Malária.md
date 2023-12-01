@@ -2,7 +2,13 @@
 tags:
   - Parasitologia
 ---
+* ==PG.155== [[Parasitologia Humana 13° Ed.pdf]]
+* [[Slide - Malária.pdf]]
+---
+__Epidemiologia__: 300 milhões de pessoas, > 1 milhão de mortes. 
 
+---
+# Curiosidades
 1. Já existe vacina para malária? Se existe, como ela funciona? 
 	1. The World Health Organization’s decision to recommend the first malaria vaccine in 2021 — ==known as RTS,S== ou Mosquirix and produced by GSK — has brought about a seismic shift. [The next frontier for malaria vaccination (nature.com)](https://www.nature.com/articles/d41586-023-02048-z)
 		1. RTS,S vai atrás de esporozoítos. Its aim is to generate an immune response that can eliminate them before they mature into their next form, stopping the infection before symptoms develop.
@@ -20,7 +26,7 @@ tags:
 		2. “The parasite as it passes through the liver is very different from the parasite as it passes through the blood stages. And that’s very different from the parasite that passes through the mosquito,” Duffy says. Vaccine developers have to choose which form to target.
 	![[Pasted image 20231009144954.png]]
 2. O que é gametocytes? Digo, é um gameta, ou seja, um célula N, que chegar no mosquito encontra-se com uma célula N e forma 2N? O que há no intestino do mosquito que proporciona um ambiente adequado para o desenvolvimento da doença? 
-
+3. 
 # Ciclo
 Referências: 
 * [The next frontier for malaria vaccination (nature.com)](https://www.nature.com/articles/d41586-023-02048-z)

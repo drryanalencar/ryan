@@ -1,5 +1,6 @@
 ---
 tags:
+  - Fisiologia
 ---
 Referências: 
 * [[Circulação pulmonar - Maria Rita.pdf]]
@@ -45,6 +46,20 @@ Partículas que chegam aos alvéolos são parcialmente removidas por meio desses
 * ==PG.56== [[Slide - Funções Pulmonares.pdf]]
 * ==PG.1509== [[Fisiologia Médica_13ed _ Guyton &Hall.pdf]]
 * [[Doenças pulmonares]]
+
+# Flashcards 
+
+Pressão sistólica do VD de um ser humano normal é em média **25 mmHg**.
+
+Pressão diastólica do VD é em média cerca de **0 a 1 mmHg**
+
+Pressão pulmonar sistólica é igual a **25 mmHg**
+
+Pressão pulmonar diastólica é em média de **8 mmHg**
+
+O volume sanguíneo dos pulmões corresponde a **450mL**
+
+O que caracteriza o edema pulmonar e como ele ocorre? ;; O edema pulmonar ocorre quando há um aumento na filtração de líquidos para fora dos capilares pulmonares ou quando há uma obstrução no funcionamento dos linfáticos pulmonares. Isso leva ao aumento da pressão do líquido intersticial pulmonar, resultando no rápido enchimento dos espaços intersticiais pulmonares e dos alvéolos com uma grande quantidade de líquido livre.
 
 
 

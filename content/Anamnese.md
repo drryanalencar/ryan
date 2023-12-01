@@ -116,7 +116,7 @@ Além de Roma, quais os outros impérios e civilizações ao redor? Como eles vi
 <!--SR:!2023-11-26,14,230-->
 
 3° História recente da doença: ;; Quando começou? Duração? Localização da dor? (Origem, grau de profundidade, iradiação, delimitações)* Qualidade (Sensação, aspecto físico do fenômeno)*, Quantidade (Frequência), Circunstâncias* (substâncias tóxica), Fatores agravantes (Atividade, alimentos, drogas, substâncias) e manifestações associadas. Estado geral* (disposição, capacidade de trabalho, perda de peso, febre, anorexia, estado psíquico.)
-<!--SR:!2023-11-15,3,230-->
+<!--SR:!2023-11-27,7,210-->
 
 4° História pregressa da doença: ;; Familiar? Cirurgias? 
 <!--SR:!2023-11-28,16,230-->

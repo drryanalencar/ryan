@@ -40,7 +40,8 @@ Referências:
 	* Deve ser realizada na primeira semana de vida, idealmente entre o 3º e 5º dias.
 	* Anamnese 
 		* Condições de nascimento (tipo de parto, local, peso ao nascer, idade gestacional, [[Índice de Apgar]], [[Intercorrências clínicas na gestação]], no parto, no período neonatal e tratamentos realizados e os antecedentes familiares (as condições de saúde dos pais e dos irmãos, o número de gestações anteriores, o número de irmãos). 
-		* Peso, comprimento e perímetro cefálico. 
+		* Peso, comprimento e perímetro cefálico;
+		* Idade gestacional. 
 		* Desenvolvimento social e psicoafetivo. 
 		* Estado geral. 
 			* Alerta, sono, choro... 
@@ -85,11 +86,11 @@ Referências:
 
 # Flashcards 
 O que é desenvolvimento? ;; É ganho de funções, das habilidades neuropsicomotoras adquiridas nos primeiros anos de vida.
-<!--SR:!2023-11-15,3,230-->
+<!--SR:!2023-11-28,4,210-->
 O peso da criança deve **dobrar** entre 4 e 5 meses de vida e **triplicar** com 1 ano.
 Uma criança que nasceu com 3.000 g deve pesar **6.000 g** até os 5 meses e 9.000 g aos **12 meses** e com 2 anos e 6 meses deve está 12 kg; 
 Pré-escolar ou dos 2 aos 8 anos: **2 kg/ano** ou 8-6g/dia Escolar: **3 - 3,5 kg**/ano.
-<!--SR:!2023-12-31,49,290!2023-12-30,48,290!2024-01-01,50,290!2024-01-02,51,290!2023-11-27,15,230!2023-11-14,2,210-->
+<!--SR:!2023-12-31,49,290!2023-12-30,48,290!2024-01-01,50,290!2024-01-02,51,290!2023-11-27,15,230!2023-11-28,4,170-->
 
 VELOCIDADE DE CRESCIMENTO ESTATURA MÉDIA AO NASCER: 
 Menino: **50 cm**
@@ -103,22 +104,28 @@ VELOCIDADE DE CRESCIMENTO EM PRÉ-ESCOLARES
 **5-7 cm/ano** 
 VELOCIDADE MÉDIA DE CRESCIMENTO NA ADOLESCÊNCIA (estirão) 
 Meninas: **8,5 cm/ano** Meninos: **9,5 cm/ano**
-<!--SR:!2023-12-05,23,270!2023-12-27,45,270!2023-12-29,47,290!2023-12-02,20,250!2023-11-14,2,210!2023-12-04,22,270!2023-11-30,18,230!2023-12-28,46,270-->
+<!--SR:!2023-12-05,23,270!2023-12-27,45,270!2023-12-29,47,290!2023-12-02,20,250!2023-11-25,1,150!2023-12-04,22,270!2023-11-30,18,230!2023-12-28,46,270-->
 
-Ao nascimento, o PC mede de **33 a 36 cm**; aos 2 anos, mede de **47 a 51 cm**; e aos três anos, apresenta tamanho semelhante ao do adulto.
-<!--SR:!2023-11-14,2,210!2023-11-14,2,210-->
 
-O perímetro cefálico no primeiro trimestre e no segundo trimestre aumenta quantos centímetros por mês? ;; Primeiro trimestre: 2 cm/mês Segundo trimestre: 1 cm/mês Segundo semestre: 0,5 cm/mês Perímetro cefálico cresce 12 cm no 1º ano.
-<!--SR:!2023-11-13,1,229-->
+O perímetro cefálico no primeiro trimestre e no segundo trimestre aumenta quantos centímetros por mês? ;; Primeiro trimestre: 2 cm/mês Segundo trimestre: 1 cm/mês 3° e 4° trimestre: 0,5 cm/mês Perímetro cefálico cresce 12 cm no 1º ano.
+<!--SR:!2023-12-01,11,229-->
 
 Fórmula para cálculo do peso aproximado (crianças de 3 a 11 anos): **Peso (kg) = Idade (anos) x 2 + 9**
-<!--SR:!2023-11-14,2,210-->
+<!--SR:!2023-11-25,1,150-->
 
 Fórmula da altura de acordo com a idade (3 aos 11 anos). **Altura (cm) = (idade – 3) x 6 + 95**
-<!--SR:!2023-11-14,2,210-->
+<!--SR:!2023-11-25,1,150-->
 
-Prever o limite mínimo, a média e o limite máximo de estatura que a criança poderá alcançar ao final da puberdade. A variação de + ou – 8,5cm Meninos: ;; (Estatura do Pai + Estatura da Mãe) + 13 2
-<!--SR:!2023-11-15,3,250-->
+Fórmula do alvo genético prever o limite mínimo, a média e o limite máximo de estatura que a criança poderá alcançar ao final da puberdade. A variação de + ou – 8,5cm. Meninos: ;; (Estatura do Pai + Estatura da Mãe) + 13) / 2 
+<!--SR:!2023-11-25,1,190-->
+
+4ₒ ano: mede em torno de **1 metro.**
+
+●Perímetro Cefálico - ao nascimento : a média é de **35 cm.**
+
+Dentição primaria (decídua) ou dentes de leite. Atraso se não houver dentes algum após **13 meses.**
+
+Com quantos anos a criança já deve ter todos os dentes de leite? - 3 a 6 anos: A criança já deve ter todos os dentes de leite, num total de 20 dentes.
 
 
 
