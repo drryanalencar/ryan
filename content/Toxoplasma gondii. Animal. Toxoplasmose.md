@@ -4,13 +4,79 @@ tags:
 ---
 Referências: 
 * ==PG.177== [[Parasitologia Humana 13° Ed.pdf]] 
+* [[Slide - Toxoplasmose.pdf]]
 * [[Apostila de Parasitologia.pdf]]
 * [[Aula 5 - Malária e Toxoplasmose.pdf]]
+* [Videoaula do ciclo de vida](https://www.youtube.com/watch?v=4dkd-l0RHFc&ab_channel=INBEB)
+* [Videoaula parte 2 do ciclo de vida](https://youtu.be/4dkd-l0RHFc?si=yX-GIaVm5F6rDxlE)
 ---
+![[Resumo a mão de toxoplasmose pt.1.jpg]]
+![[Resumo a mão de toxoplasmose pt.2.jpg]]
+
+---
+
 __Forma grave da doença:__ Em RN, [[Encefalite]], Icterícia, urticária e hepatoesplenomegalia, Coriorretinete, hidrocefalia e microcefalia.
 Em outros grupos: quando o S.imune está deprimido, [[Encefalite]], [[Retinocoroidite]] ou [[Doença sistêmica]]
 
 __Seres contaminados:__ mamíferos (carneiro, cabra e porco) e aves. Gatos e felídeos são hospedeiros definitivos. O ser humano e outros animais são os hospedeiros intermediários ou incompletos. 
+
+##### Morfologia
+* Encontrado em vários tecidos, exceto hemácias e líquidos orgânicos.
+* Ciclo sexuado é encontrado nas do epitélio intestinal dos felídeos; 
+* Formas: 
+	* Taquizoítos
+		* Encontrada durante a fase aguda da infecção ou fase proliferativa;
+		* Forma da banana ou meia lula; 
+		* Núcleo mais ou menos central;
+		* Encontrada dentro do vacúolo das células do SMF, hepáticas, pulmonares, nervosas, submucosas e musculares. 
+		![[Pasted image 20231207090737.png]]
+	* Bradizoítos - infectante
+		* Encontrado durante a fase crônica.
+	* Oocisto - infectante
+		* Parede dupla para resistência; 
+		* Produzido nas células intestinais de felídeos;
+##### Ciclo biológico 
+* Heteroxeno;
+* Fase assexuada:
+	* Em vários tecidos (Aves, mamíferos, gatos (o hospedeiro definitivo)...)
+	* Ingestão de oocisto maduros (esporulados) contendo esporozoítos ou bradizoítos na carne ou taquizoítos no leite; 
+	* Multiplicação intracelular deles nas células; 
+	* Formação dos taquizoítos (fase proliferativa); 
+	* Alguns taquizoítos se diferenciam em bradizoítos, para formação de cistos que ficam nos tecidos. Os sintomas diminuem caracterizando a fase crônica. 
+* Fase sexuado (coccidiana): 
+	* Intestino de felídeos. 
+	* Ingestão de qualquer forma evolutiva; 
+	* Transformação em merogonia --> merozoítos;
+	* Merozoítos --> formam gametas --> zigoto
+	* Oocisto é liberado nas fezes;
+	* Oocisto no meio exterior irá sofrer um processo de maturação;
+![[Pasted image 20231207092344.png]]
+##### Transmissão 
+* Oocisto em fezes de gato jovem infectado; 
+	* Na água, verduras mal lavadas, solo, por vetores mecânicos. 
+* Cistos de bradizoítos presentes em carnes
+	* Carnes cruas, mal cozidas, de porcos, caprinos. 
+* Taquizoítos no sangue, atingindo a placenta. 
+	* Passagem transplacentária;
+	* Leite cru de cabra; 
+	* Acidente de laboratório; 
+	* Transplante de órgãos 
+	* Transfusão sanguínea.
+##### Diagnóstico
+Encontramos taquizoítos nas amostras de: 
+* Amostras de líquido amniótico (gestantes); 
+* Líquido cefalorraquidiano; 
+Podemos fazer também:
+* PCR
+Testes sorológicos são mais usados: 
+* Teste do corante ou reação de Sabin Feldman (RSF)
+* Reação de imunofluorescência indireta (RIFI)
+* Hemaglutinação indireta (HAI)
+* Imunoensaio enzimático ou teste ELISA
+##### Tratamento 
+* Os medicamentos atuam apenas contra as formas proliferativas: 
+	* Pirimetamina com sulfadiazina ou sulfadoxina (Fansidar); 
+	* Em gestantes: espiramicina 
 
 --- 
 
@@ -20,11 +86,10 @@ Mecanismos de transmissão: oocistos maduros contendo esporozoítos, geralmente 
 
 Classificação filogenética do parasita: protozoários constituídos por uma única célula, são eucariontes e pertencem ao reino protista.
 
-Tipo de ação:
 
-Sintomas: febre, linfonodopatia localizada, manchas pelo corpo e dificuldade de exergar. 
+Sintomas: febre, linfonodopatia localizada, manchas pelo corpo.
 
-Localização no corpo: As formas parasitárias ingeridas (esporozoíto, bradizoíto ou taquizoíto) ao chegarem ao tubo digestivo, sofrerão intensa multiplicação intracelular, na forma de taquizoítos e após rápida passagem pelo epitélio intestinal invadirão vários tipos de células do organismo hospedado.
+Localização no corpo: as formas parasitárias ingeridas (esporozoíto, bradizoíto ou taquizoíto) ao chegarem ao tubo digestivo, sofrerão intensa multiplicação intracelular, na forma de taquizoítos e após rápida passagem pelo epitélio intestinal invadirão vários tipos de células do organismo hospedado.
 
 Períodos clínicos: os taquizoítos são formas parasitárias de crescimento rápido e característico da fase aguda da infecção e os bradizoítos são formas de crescimento lento dentro de cistos característico da fase crônica da infecção.
 

@@ -1,0 +1,1 @@
+Dismenorreia **é a dor pélvica que surge no primeiro dia do período menstrual**. E que desaparece, quando cessa o fluxo.

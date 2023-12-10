@@ -14,42 +14,138 @@ Referências:
 A leishmaniose tegumentar é transmitida apenas por animais silvestres? 
 
 ---
+![[Resumo a mão de leishmaniose pt.1.jpg]]
+![[Resumo a mão de leishmaniose pt.2.jpg]]
+
+
+
+---
 __Classificação filogenética do parasita:__ Gênero Leishmania. Família Trypanosomatidae. Protozoários unicelulares, heteroxenos. 
 
-__Formas:__ promastigota, flageladas, amastígota. 
+__Formas:__ promastigota flageladas, amastígota. 
 
 __Seres contaminados__: roedores, canídeos, felinos, primatas e humanos.
 
 __Vetor__: fêmeas de Flebotomíneos.
+##### Morfologia
+* Amastigostas: formas ovais, esféricos ou fusiformes. Núcleo grande e arredondado. Cinetoplasto em forma de um pequeno bastonete. Não há flagelos externo. No seu interior encontra-se grande quantidade de estruturas filamentosas, circulares, formadas por ácido. Onde podem os encontrar vacúolos, um único núcleo que se apresenta esférico ou ovoide disposto em geral em um dos lados da célula.
+	* Oval, tamanho reduzido, lâmina de tecido subcutâneo, de raspagem - Leishmania sp; 
+	* Tamanho maior, recoberto por uma membrana, um núcleo e cinetoblasto, encontrado em aspirado de medula e  - Leishmania chagasi
+* Promastigotas: forma flageladas encontrada dentro do flebotomíneo, o núcleo é arredondado ou oval. No citoplasma observam-se granulações azurófilas e pequenos vacúolos. 
+![[Pasted image 20231204144034.png]]
+##### Ciclo biológico
+* Forma promastigota é inoculada pelas fêmeas no hospedeiro; 
+* Invasão dos macrófagos e consequente transformação em amastigotas; 
+* Intensa multiplicação dos amastigotas e evasão para corrente sanguínea; 
+* O fechamento do ciclo ocorre com a ingestão do sangue (pelos flebotomíneos) com amastigotas;
+* Dentro do inseto, no intestino médio, ocorre a transformação dos amastigotas em promastigotas. 
+###### Reprodução 
+* Divisão binária;
+##### Leishmaniose Tegumentar Americana
+Temos duas formas: 
+* Cutânea
+	* Lesões ulcerosas, 
+	* L. amazonensis; L. braziliensis; 
+* Mucosa
+	* Lesões mucosas agressivas que afetam a região nasofaríngeas. 
+	* Temos duas formas de mucosa: 
+		* Difusa, que se espalha pela via hematogênica ou linfática e causa lesões; 
+		* Disseminada, que forma nódulos. 
+	* L. braziliensis
+* No Brasil, é causada pela Leishmania braziliensis
+###### Patogenia 
+A lesão inicial é manifestada por um infiltrado inflamatório composto principalmente de linfócitos e de macrófagos na derme, estando estes últimos abarrotados de parasitos.
+* Período de incubação: entre 2 e 3 semanas;
+* Formação do histiocitoma - nódulo dérmico no local da picada; 
+	* A hipertrofia do extrato córneo é uma condição dermatológica que se caracteriza pelo espessamento da camada mais externa da pele, o estrato córneo. 
+	* forma-se um infiltrado celular circundando a lesão, consistindo principalmente de pequenos e grandes linfócitos, entre os quais alguns plasmócitos.
+	* Tuberculoide; 
+	* Ocorre necrose resultando na desintegração da epiderme e da membrana basal que culmina com a formação de uma lesão ulcerocrostosa.
+	* Trata-se de uma úlcera de configuração circular, bordos altos (em moldura), cujo fundo é granuloso, de cor vermelha intensa, recoberto por exsudato seroso ou seropurulento, dependendo da presença de infecções secundárias.
+![[Pasted image 20231204151128.png]]
+###### Diagnóstico 
+* Anamnese; 
+* Padrão das lesões; 
+* Diferencial: tuberculose cutânea, hanseníase, infecções por fungos (blastomicose e esporotricose), úlcera tropical e neoplasmas.
+* Pesquisa do parasito: 
+	* Exame direto de esfregaços corados. Após anestesia local, podem-se fazer biópsia ou escarificação nos bordos da lesão. Retira-se um fragmento com o qual é feito esfregaço em lâmina por aposição, e corado por derivados de Romanowsky, Giemsa ou Leishman.
+	* Cultura;
+	* Exame histopatológico; 
+* Pesquisa do DNA do Parasito: 
+	* PCR
+* Métodos imunológicos
+	* Métodos para a avaliação da resposta celular
+		* O teste imunológico mais utilizado no Brasil tem sido o teste intradérmico de Montenegro (IDRM). Este teste avalia a reação de hipersensibilidade retardada do paciente e é utilizado para o diagnóstico;
+		* Um antígeno que usa formas promastigotas mortas foi padronizado; 
+			* de testes positivos, verifica-se o estabelecimento de uma reação inflamatória local formando um nódulo ou pápula que atinge o auge em 48-72 horas, regredindo em seguida.
+		> na forma difusa da LTA, a resposta é usualmente negativa devido ao estado anérgico em que se encontra o paciente; 
+		
+	* Métodos para avaliação da resposta celular
+		* Reação de Imunofluorescência Indireta (RIFI)
+###### Tratamento
+* Antimonial pentavalente, Gluantime® (antimoniato de N-metilglucamina). 
+* Imunoterapia — Alternativa de Tratamento para LTA
+
+##### Leishmaniose visceral americana 
+* Complexo Leishmania donovani; 
+* Leishmania chagasi; 
+	* Canídeos são os principais reservatórios (cão, chacal, raposas), encontrada ainda em outras espécies de animais (gambá, felinos e roedores)
+###### Mecanismo de transmissão
+* Picada pelo vetor; 
+* Uso de drogas injetáveis;
+* Transfusão de sangue; 
+###### Patogenia
+* Leishmania i. chagasi é um parasito de células d: SMF, principalmente do baço, do fígado, do linfonodo e da medula óssea.
+* Nas vísceras, os parasitos induzem uma infiltração foca ou difusa de macrófagos não parasitados, além de infiltrao de linfócitos e células plasmáticas, com focos de plasma citogênese.
+###### Quadro clínico 
+Febre irregular de intensidade média e de longa duração, esplenomegalia e hepatomegalia, acompanhada de anemia, trombocitopenia, hipergamaglobulinemia e hipoalbuminemia.
+* Forma aguda
+	* Período inicial da doença; 
+	* Febre alta, palidez das mucosas e hepatoesplenomegalia; 
+	* Altos níveis de IGG anti leishmania; 
+* Forma sistema crônica
+	* Febre irregular;
+	* Perda de peso; 
+	* [[Caquexia]]
+	* Ascite; 
+	* Hepatoesplenomegalia; 
+	* Edema generalizado, dispneia, cefaleia, dores musculares, perturbações digestivas, epistaxe e retardo da puberdade. 
+	 ![[Pasted image 20231204163932.png]]
+###### Diagnóstico 
+* Pesquisa do parasito 
+	* Aspirado de medula óssea, baço, fígado e linfonodo.
+* PCR
+* Métodos imunológicos
+* Reação de Imunofluorescência In direta (RIFI)
+* Ensaio Imunoenzimático (ELISA)
+###### Tratamento
+* Os antimoniais pentavalentes (Sb5+), antimoniato de N-metil glucamina (Glucantime®) e estibogluconato sódico (Pentostam®), são a primeira opção terapêutica na maioria dos países. De 2° escolha ANFOTERICINA B. 
+* Imunoquimioterapia.
+###### Reservatório 
+As raposas do campo (Lycalopex vetulus) e os cachorros-do-m ato (Cerdocyon thous) são reservatórios silvestres primitivos de L. i. chagasi. L. vetulus, reservatório descrito por L. Deane e M. Deane, é encontrado nas regiões Sudeste, Centro-Oeste e Nordeste, onde é visto no peridomicílio de áreas rurais.
+![[Pasted image 20231204180655.png]]
 
 ---
 # Conceitos
 * Anergia: sistema imunológico não está respondendo mais. 
 * Leishmaniose, doença que possui forma visceral, mucocutânea e tegumentar.
 
-__Tipo de vetor:__ flebotomíneos.
-__Mecanismos de transmissão:__ a transmissão da doença ocorre após o mosquito *picar* o hospedeiro vertebrado e no local da picada depositar as formas *promastigotas.*
-__Classificação filogenética do parasita:__ protozoário.
-Tipo de ação: ?
-__Sintomas:__ No período inicial os sintomas são febre irregular (inferior a 4 semanas), palidez cutâneo-mucosa e hepatoesplenomegalia, alguns apresentam diarreia e tosse seca. No período final os sintomas são febre contínua e comprometimento do estado geral, como, desnutrição, edema de membros inferiores, distúrbios hemorrágicos, icterícia e ascite.
-__Localização no corpo:__ células do SFM...
-__Períodos clínicos:__ 
-__Monoxeno ou heteroxeno:__ heteroxeno.
-__Parasita facultativo ou obrigatório:__ parasito intracelular obrigatório das células do sistema fagocitário mononuclear.
-__Diagnóstico:__ Os diagnósticos da Leishmaniose Visceral podem ser feitos por meio da visualização do parasito em cultura (formas promastigostas), ou em aspirado de medula óssea, aspirado de baço, de linfonodos ou em biopsias de tecidos (formas amastigotas).
-__Tratamento:__ 1° escolha ANTIMONIAL PENTAVALENTE - GLUCANTIME e de 2° escolha ANFOTERICINA B. 
-__Ciclo biológico:__ Apresenta em sua evolução duas formas: uma flagelada (promastigota), encontrada no inseto vetor (no tubo digestivo) e outra aflagelada (amastigota), observada nos tecidos dos hospedeiros vertebrados. O mosquito (vetor) sadio ao picar um hospedeiro vertebrado infectado ingere o sangue, juntamente com as células do sistema fagocítico mononuclear, parasitadas pelas formas amastigotas da Leishmania. No tubo digestivo das fêmeas as formas amastigotas se transformam em promastigotas em até 15 horas e se multiplicam por divisão binária, essas formas promastigotas passam a colonizar o trato digestivo médio e anterior do vetor. Dessa forma, ao picar o hospedeiro vertebrado o mosquito libera e inocula através da picada as formas promastigotas do parasito que estão em seu tubo digestivo. As formas promastigotas ao entrarem desencadeiam uma resposta imunológica no hospedeiro, deslocando células de defesa para o local. As promastigotas são então fagocitadas pelos macrófagos, e no interior desses se transformam em amastigotas e se reproduzem por divisão binária.
+__Ciclo biológico:__ 
+* Amastigota x promastigota = com flagelo x sem flagelo
+* Mosquito ingere formas amastigotas;
+* Amastigota --> Promastigota dentro do trato digestivo médio. 
+* Promastigostas se instalam nos macrófagos do hospedeiro;
+Apresenta em sua evolução duas formas: uma flagelada (promastigota), encontrada no inseto vetor (no tubo digestivo) e outra aflagelada (amastigota), observada nos tecidos dos hospedeiros vertebrados. 
+O mosquito (vetor) sadio ao picar um hospedeiro vertebrado infectado ingere o sangue, juntamente com as células do sistema fagocítico mononuclear, parasitadas pelas formas amastigotas da Leishmania. No tubo digestivo das fêmeas as formas amastigotas se transformam em promastigotas em até 15 horas e se multiplicam por divisão binária, essas formas promastigotas passam a colonizar o trato digestivo médio e anterior do vetor. Dessa forma, ao picar o hospedeiro vertebrado o mosquito libera e inocula através da picada as formas promastigotas do parasito que estão em seu tubo digestivo. As formas promastigotas ao entrarem desencadeiam uma resposta imunológica no hospedeiro, deslocando células de defesa para o local. As promastigotas são então fagocitadas pelos macrófagos, e no interior desses se transformam em amastigotas e se reproduzem por divisão binária.
 ![[Pasted image 20231113144421.png]]
 
-# Tipos de leishmaniose
-## Visceral 
+
 >Visceral leishmaniasis is caused by a single-celled parasite called _Leishmania chagasi_ which is transmitted through the bites of female sand flies (_Phlebotomus_ spp.)
 > Sand flies are difficult to control — they are smaller than mosquitoes, virtually silent and do not require water to lay their eggs.
 
 [[Phlebotomus spp.png]]
 [[Phlebotomus spp 1.png]]
 ## Leishemaniose tegumentar
-
 Essa inicia-se com um nódulo cutâneo pruriginoso que evolui para uma úlcera pouco dolorosa, arredondada ou oval, rasa, com os bordos elevados. A úlcera apresenta-se com um aspecto de fundo granuloso, que pode ser exsudativo ou seco, e o tamanho varia, podendo chegar até 10 cm.
 
 ![[Pasted image 20231113154849.png]]
@@ -66,15 +162,13 @@ Pode ocorrer perfuração de septo nasal, acometimento dos seios da face podendo
 ## Visceral
 * _Leishemania chagasi_
 
-
 # Flashcards
 
-O diagnóstico laboratorial do parasita Leishamania pode ser realizado por diversos métodos, entre eles, destaca-se o teste de Montegro. A interpretação do resultado desse teste varia para cada condição clínica, usualmente a resposta é negativa em qual forma da doença? 
+O diagnóstico laboratorial do parasita Leishamania pode ser realizado por diversos métodos, entre eles, destaca-se o teste de Montegro. A interpretação do resultado desse teste varia para cada condição clínica, usualmente a resposta é negativa em qual forma da doença? ;;
 Forma cutânea simples
 Forma mucosa da LTA
 Forma difusa 
 Pacientes tratatados 
-
 
 No Brasil são encontradas algumas espécies de leishmaniose. O agente etiológico responsável pela leishmaniose visceral é: U2 Hemoparasitoses Hemoparasitoses 79 a) Leishmania braziliensis. b) Leishmania donovani. c) Leishmania chagasi. d) Leishmania infantum. e) Leishmania amazonensis. ;; c
 <!--SR:!2023-12-01,9,268-->

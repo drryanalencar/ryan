@@ -31,10 +31,10 @@ Mosquito, percevejo e moscas.
 ---
 
 # N1
-[[Entamoeba histolytica. Ambiental. Amebíase]]
-[[Giardia lamblia. Ambiental. Giardíase]]
-[[Trichomonas vaginalis. Sexual. Tricomoníase]]
-[[Tripanosoma cruzi. Triatominae. Chagas]]
-[[Leishmania. Flebotomíneos. Leishemaniose]]
-[[Toxoplasma gondii. Animal. Toxoplasmose]]
-[[Plasmodium. Anopheles. Malária]]
+* [[Entamoeba histolytica. Ambiental. Amebíase]]
+* [[Giardia lamblia. Ambiental. Giardíase]]
+* [[Trichomonas vaginalis. Sexual. Tricomoníase]]
+* [[Tripanosoma cruzi. Triatominae. Chagas]]
+* [[Leishmania. Flebotomíneos. Leishemaniose]]
+* [[Toxoplasma gondii. Animal. Toxoplasmose]]
+* [[Plasmodium. Anopheles. Malária]]

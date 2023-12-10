@@ -1,0 +1,1 @@
+Dor genital que ocorre durante a relação sexual.

@@ -9,41 +9,82 @@ Referências:
 * [[Aula 2 - Parasitas do TGI e Urogenitais.pdf]]
 * [[Slide aula 2 - giardíase, amebíase tricomoníase.pdf]]
 ---
-Giardíase é o nome da infecção. 
-Diarreia. Atrapalha o desenvolvimento físico. 
-Associada à água e ao saneamento básico, uma doença negligenciada. 
-__Classificação filogenética do parasita:__ gênero *Giardia.* Protozoários flagelados.
+![[Resumo a mão de Giardíase, Tricomoníase e Amebíase pt.1.jpg]]
+![[Resumo a mão de Giardíase, Tricomoníase e Amebíase pt.2.jpg]]
 
-__Seres contaminados:__ mamíferos, aves, répteis e anfíbios. 
+![[Resumo a mão de Giardíase, Tricomoníase e Amebíase pt.3.jpg]]
+
+
+
+
+
 
 
 ---
 
+* Giardíase é o nome da infecção. 
+* Diarreia. Atrapalha o desenvolvimento físico. 
+* Associada à água e ao saneamento básico, uma doença negligenciada. 
+* __Classificação filogenética do parasita:__ gênero *Giardia.* Protozoários flagelados.
+* __Seres contaminados:__ mamíferos, aves, répteis e anfíbios. 
+##### Morfologia
+* Formas evolutivas: trofozoítos e cistos;
+* Trofozoíto é encontrado no intestino delgado, sendo a forma responsável pelas manifestações clínicas da infecção. 
+	* Formato de pera (piriforme); 
+	* Simetria bilateral; 
+	* Quatro pares de flagelos; 2 anteriores e 2 posteriores. 
+	* Face dorsal lisa e convexa; 
+	* Face ventral côncava; 
+		* Possui um disco adesivo composto por beta tubulinas e por giardinas; 
+![[Pasted image 20231205202237.png]]
+* Cisto
+	* Oval ou elipsoide; 
+	* Parede externa de glicoproteína; 
+	* 2 ou quatro núcleos; 
+##### Ciclo biológico
+* Monoxeno: ciclo biológico direto; 
+* Via de infecção é a ingestão de cistos; 
+* Os cistos passam por um processo de desencistamento pelo PH ácido do estômago, o processo completa-se no duodeno e no jejuno. 
+* Os trofozoítos multiplicam por divisão binária longitudinal e colonizam o intestino; 
+* O ciclo se completa pelo encistamento do parasito e sua eliminação para o meio exterior. 
+##### Transmissão 
+* Transmissão via fecal-oral; 
+* Cistos presentes na água e nos alimentos;
+* Transmissão direta de pessoa a pessoa, por meio das mãos contaminadas; 
+##### Sintomatologia 
+* Quadro de diarreia aguda e autolimitante;
+* Quadro de diarreia persistente, com evidência de má absorção e perda de peso. 
+* Complicações: 
+	* Má absorção de gordura e de nutrientes, como vitaminas lipossolúveis (A,D,E,K), vitamina B12, ferro, xilose e lactose. 
+##### Patogenia 
+* Alteração da arquitetura da mucosa intestinal, como achatamento e atrofia das microvilosidades. 
+##### Diagnóstico
+* Clínico: diarreia com esteatorreia, irritabilidade, insônia, náuseas e vômitos, perda de apetite e dor abdominal. 
+* Pesquisa parasitológica em busca de trofozoítos ou cistos nas fezes. 
+	* Dificuldades: 
+		* Conservação da amostra;
+		* A eliminação de cistos não é contínua - mas intermitente e denomina-se período negativo, pode durar em média, 10 dias. 
+		* Giardíase crônica não se encontram cistos; 
+			* Fluido duodenal ou em biópsia jejunal;
+* Imunológico
+	* ELISA; 
+	* PCR;
+##### Profilaxia 
+* Higiene pessoal; 
+* Saneamento básico; 
+* Proteção dos alimentos; 
+##### Tratamento 
+* Metronidazol: 15 a 20 mg/kg durante 7 a 10 dias consecutivos; A dose para adultos e de 250 mg, duas vezes ao dia.
+* Tinidazol: dose única de 2 g para adulto e 1 g para crianças, sob a forma líquida; deve-se repetir a dose 1 semana depois. 
+* Secnidazol: a dose para adultos é de 2 g, em dose única de quatro comprimidos, de preferência à noite, tomados em uma das refeições. Crianças com menos de 5 anos: 125 mg, duas vezes em 24 horas, por 5 dias;
+
+---
+
 [Protozoário atinge 61% das amostras de esgoto na capital – Jornal do Campus (usp.br)](http://www.jornaldocampus.usp.br/index.php/2014/11/protozoario-atinge-61-das-amostras-de-esgoto-na-capital/)
-O que são neoplasias? [[Funções pulmonares]]
 
 > Os cistos eliminados através das fezes por dia são em média de 300 milhões a 14 bilhões e ocorrem com períodos de interrupção de eliminação de sete a dez dias.
 
 > O Fundo das Nações Unidas para a Infância, em parceria com a Organização Mundial da Saúde, aponta as doenças diarreicas como a segunda maior causa de mortes em crianças menores de 5 anos de idade em todo o mundo. 
-> O Fundo das Nações Unidas para a Infância, em parceria com a Organização Mundial da Saúde, aponta as doenças diarreicas como a segunda maior causa de mortes em crianças menores de 5 anos de idade em todo o mundo. 
-
-
-==Tipo de vetor:== O cisto é transmitido de forma ambiental, como por meio da água contaminada, pelos alimentos; pela veiculação mecânica, através de moscas e baratas; contato direto e relações sexuais. 
-==Forma de infecção:==
-Classificação filogenética do parasita: protozoário flagelado.
-Tipo de ação: mecânica.
-Sintomas: síndrome diarreica; cólicas abdominais; constipação intestinal. Fezes com predomínio de muco e odor fétido.
-Localização no corpo: intestino delgado, duodeno e jejuno. 
-Períodos clínicos: 
-Monoxeno ou heteroxeno: monoxeno.
-Parasita facultativo ou obrigatório: obrigatório. 
-#### Diagnóstico 
-“A eliminação de cistos é intermitente, ou seja, não é contínua. Assim, pode ser que se elimine em alguns dias e em outros não, e dependendo do dia que o exame for feito, a presença do protozoário pode não ser identificada”.
-Nesses casos de “falso-negativo” em amostras de fezes o diagnóstico deve partir do fluido duodenal e em alguns é feita a biópsia jejunal.
-
-#### Tratamento
-1ª Escolha: METRONIDAZOL
-2ª Escolha: Secnidazol (dose única) Outros de menor eficácia: Tinidazol e Albendazol
 
 # Flashcards
 Card 1 - A Giardíase é causada pelo protozoário *Giardia duodenalis* e afeta o trato **intestinal.** É uma das protozooses mais prevalentes no mundo, frequentemente associada a surtos epidêmicos por água contaminada.
@@ -63,7 +104,7 @@ O ciclo de vida da Giardia duodenalis é **monoxeno**, infectando um único hosp
 
 
 Card 9 - A Giardíase pode causar distúrbios de absorção, excreção e motilidade intestinal, levando a sintomas como;; diarreia aquosa, náuseas e perda de peso.
-<!--SR:!2023-11-27,8,210-->
+<!--SR:!2023-12-28,24,210-->
 
 Card 10 - O diagnóstico é realizado por meio de exames parasitológicos de fezes, com a necessidade de múltiplas amostras devido ao **"período negativo"**. Outros métodos incluem endoscopia, sorologia e biópsia.
 <!--SR:!2023-11-24,12,250-->

@@ -1,0 +1,1 @@
+Dor, queimação, ardência ou desconforto durante ou após o ato de urinar.

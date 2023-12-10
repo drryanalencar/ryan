@@ -1,0 +1,1 @@
+Dificuldade de evacuar, mesmo com vontade, demandando mais tempo e esforço.

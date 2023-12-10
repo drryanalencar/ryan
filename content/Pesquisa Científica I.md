@@ -6,6 +6,9 @@
 
 Introdução: esse estudo vale a pena.
 Síndrome coronariana mata muita gente. E mata muita gente jovem. Critica a literatura já existente, abrindo margem para sua pesquisa. Para resolver essa lacuna desenvolmemos esse estudo. 
+Funil: Importância, carga da doença (epidemio), GAP. 
+
+> Dica para os parágrafos: começarem direito ao ponto e terminarem de forma que seja interessante ler o próximo parágrafo. 
 
 Como eu sei se minha pergunta presta? 
 Novo e relevante. 
@@ -114,3 +117,14 @@ A avaliação da adequação do processo de amostragem em um estudo é crucial p
     - Os pesquisadores devem considerar e relatar possíveis fontes de viés de seleção ou outros vieses introduzidos pelo processo de amostragem.7
 
 [[Análise do artigo II]]
+
+__Pergunta:__ Quais os principais fatores que contribuem para o uso inadequado de anticoncepcionais entre os universitários da área da saúde? 
+Quais os fatores associados ao uso inadequado de anticoncepcionais 
+__Hipótese de pesquisa:__ baixa renda, baixa escolaridade, idade são associados ao uso inadequado... (H0 E H1 são para análises estatísticas)
+__Objetivo:__ Identificar os fatores associados... (Objetivo começa com verbos no infinitivo)
+
+Qual a relação entre transtornos mentais e cirurgias plásticas? 
+
+Pessoas com transtornos mentais tendem a procurar mais por cirurgias plástica. 
+
+Analisar os transtornos mentais e comportamentais entre as pessoas que realizaram cirurgias plásticas nos últimos 5 anos.

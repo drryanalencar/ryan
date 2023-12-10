@@ -6,32 +6,121 @@ Referências:
 * ==PG.89== [[Parasitologia Humana 13° Ed.pdf]]
 * ==PG.55== [[Apostila de Parasitologia.pdf]]
 * [Videoaula](https://youtu.be/dZIlBgw7BCc?si=YuYNAVVBja2-utS5)
+* [Videoaula ciclo biológico](https://www.youtube.com/watch?v=dDGEjaSHjbQ&ab_channel=ProfessorRuelaBiologia)
 * [[Slide - Doença de chagas.pdf]]
 * [[Aula 3 - Trypanosoma cruzi.pdf]]
 ---
-__Classificação filogenética do parasita:__ Trypanosoma (Schizotrypanum)
-cruzi 
-__Seres contaminados:__ Barbeiros, mamíferos e humanos. 
-__Vetor__: Barbeiro. 
+![[Resumo a mão da doença de Chagas pt.1.jpg]]
+![[Resumo a mão da doença de Chagas pt.2.jpg]]
+
 
 ---
 
+__Classificação filogenética do parasita:__ Trypanosoma (Schizotrypanum)
+cruzi.
+__Seres contaminados:__ Barbeiros, mamíferos e humanos. 
+__Vetor__: Barbeiro. 
+##### Morfologia
+>Vertebrados
+* Intracelulares: amastigotas; 
+* Extracelulares: tripomastigotas;
+* No intestino posterior do triatomíneos: epimastigotas. 
 
-Tipo de vetor: inseto, barbeiro. Tiratoma spp. 
-Mecanismos de transmissão: oral? sexual? penetração cutânea? congênita? vetorial?: ao coçar a pele, o parasita (tripomastigotas) presente nas fezes do barbeiro, penetra no organismo. Outra forma de transmissão é a que ocorre por meio da transfusão de sangue, cia congênita e oral. A Doença de Chagas pode ser adquirida por ingestão de alimentos contaminados com o “barbeiro” ou suas fezes. Os alimentos onde o barbeiro pode ser encontrado são as sopas, caldos, sucos de cana ou açaí, comida caseira, leite e carnes cruas.
-Classificação filogenética do parasita: protozoários constituídos por uma única célula, são eucariontes e pertencem ao reino protista.
-Tipo de ação:
-Sintomas: quadro de febre, mal-estar, falta de apetite, dor e uma leve inflamação no local da picada, podendo acarretar em inchaço no local, aumento do baço e do fígado, distúrbios cardíacos e obstrução de gânglios. Um sinal característico da doença durante a fase aguda é o inchaço das pálpebras, praticamente fechando os olhos, esse inchaço é chamado de sinal de Romaña. A fase crônica da doença é caracterizada por grave comprometimento cardíaco, e os sintomas frequentes são falta de ar, tonturas, taquicardia, braquicardia e inchaço nas pernas. 
-Tratamento: Para a fase aguda da doença quando diagnosticada (devido ausência de sintomas), o tratamento deve ser feito com Benznidazol, já para a fase crônica não há tratamento.
-Localização no corpo: 
-Períodos clínicos: 
-Monoxeno ou heteroxeno: heteroxeno.
-Parasita facultativo ou obrigatório.
-Prevenção: De acordo com o Ministério da Saúde, a melhor forma de prevenir a doença é evitar que o barbeiro entre nas residências e recomenda-se o uso de mosquiteiros ou telas metálicas. Pessoas que residem em áreas de mata devem usar medidas de proteção como repelentes, roupas de mangas longas, etc.
+![[Pasted image 20231204203807.png]]
+![[Pasted image 20231204203959.png]]
+
+* Tripomastigotas delgados parasitam durante a fases aguda de preferência células do sistema mononuclear fagocitário (SMF) do baço, do fígado e da medula óssea. 
+* Tripmastigotas alongadas tem o tropismo para células musculares lisas, cardíacas e esqueléticas. 
+##### Biologia
+* Ciclo heteroxeno; 
+##### Ciclo biológico 
+* Penetração do tripomastigota; 
+* Transformação do tripomastigota em amastigota; 
+* Multiplicação binária do amastigota; 
+* Rompimento da célula com liberação do tripomastigota; 
+* Ingestão do tripomastigota pelo triatomíneo; 
+* Tripomastigota se diferencia em epimastigota no intestino posterior do inseto; 
+* Epimastigota se diferencia em tripomastigota.
+![[Pasted image 20231205074143.png]]
+* Os tripomastigotas interagem com as células do SMF da pele ou das mucosas, onde eles se transformam em amastigotas. 
+* É uma infecção que tente a cronificar.  
+##### Mecanismos de transmissão 
+* Transmissão pelo vetor; 
+* Transfusão sanguínea; 
+* Transmissão congênita;
+* Transmissão oral; 
+* Transplante.
+##### Quadro clínico - Fase Aguda
+* Sinal da romaña quando o *T.cruzi* penetra na conjuntiva ou na pele. 
+![[Pasted image 20231205084243.png]]
+* Complexo cutâneo-linfonodal caracteriza-se pelo aparecimento do __chagoma primário__ e da linfadenite satélite, esse é o primeiro sinal que ocorre no ponto de inoculação do parasito. 
+* Alterações no ECG;
+##### Quadro clínico - Fase crônica
+###### Assintomática
+* Período assintomático (10 a 30 anos); 
+* Forma indeterminada (lante); 
+	* Positividade nos exames; 
+	* Ausência de sintomas; 
+	* ECG normal;
+	* Coração, esôfago e cólons normais; 
+###### Sintomática 
+* Sintomas cardíaco; 
+	* Insuficiência cardíaca congestiva; 
+		* Dispneia de esforço; 
+		* Insônia; 
+		* Congestão visceral
+		* Edema dos membros inferiores; 
+		* Anasarca.
+	* Fenômenos tromboembólicos; 
+	* Comprometimento do sistema autônomo regulador das contrações cardíacas; 
+* Sintomas digestivos; 
+	* Megaesôfago e mecacólon;
+		* Disfagia; 
+		* Odinofagia; 
+		* Dor retroesternal; 
+		* Regurgitação; 
+		* Pirose; 
+		* Soluço; 
+		* Tosse; 
+		* Sialose. 
+* Reativação intensa do processo inflamatório;
+##### Diagnóstico 
+* Clínico
+	* Sinal de Romaña; chagoma de inoculação;
+	* Febre irregular ou ausente; 
+	* Adenopatia satélite ou generalizada; 
+	* Hepatoesplenomegalia; 
+	* Taquicardia; 
+	* Edema generalizado ou dos pés; 
+	* Sinais de insuficiência cardíaca e alterações digestivas; 
+* Pesquisa direta; 
+	* Fase aguda; 
+		* Exame de sangue a fresco; 
+		* Cultura de sangue ou material de biópsia (linfonodos)
+		* Exames sorológicos; 
+			* RIFI
+*  Fase crônica: 
+	* Xenodiagnóstico; 
+	* Hemocultura; 
+	* PCR;
+	* Exames sorológicos; 
+		* Reações de imunofluorescência indireta (RIFI)
+		* Enzime-linked immunosorbent assay (ELISA)
+##### Profilaxia
+* Melhora nas condições de vida dos camponêses; 
+* Preservação da fauna e da flora;
+* Combate ao barbeiro; 
+* Controle do doador de sangue; 
+* Controle da transmissão congênita;
+##### Tratamento 
+* Nifurtimox. Age contra as formas sanguíneas e parcialmente contra as formas teciduais. Na dose 8 a 12 mg/kg por dia, até 90 dias.
+* Benzonidazol. Apenas contra as formas sanguíneas. Na dose de 5 a 8 mg/kg por dia, durante até 60 dias.
 
 
-Ciclo biológico 
-A forma parasitária que o barbeiro elimina pelas fezes é alongada com um flagelo para facilitar o movimento, são os tripomastigotas. Após a entrada no organismo do hospedeiro vertebrado, ocorre a infecção de células próximas ao local da picada. Na célula os tripomastigotas assumem uma forma ovoide e sem flagelo, chamada amastigota que se multiplica rapidamente. Com o rompimento da célula os tripanossomídeos entram na corrente sanguínea e no sistema linfático, espalhando-se pelo organismo e infectam mais células em novos ciclos. Esses causam lesões principalmente em tecidos musculares cardíacos e lisos, podendo levar a graves problemas, como a insuficiência cardíaca, e ao óbito.
+
+---
+__Ciclo biológico__
+A forma parasitária que o barbeiro elimina pelas fezes é alongada com um flagelo para facilitar o movimento, são os __tripomastigotas.__ Após a entrada no organismo do hospedeiro vertebrado, ocorre a infecção de células próximas ao local da picada. Na célula os tripomastigotas assumem uma forma ovoide e __sem flagelo, chamada amastigota__ que se multiplica rapidamente. Com o rompimento da célula os tripanossomídeos entram na corrente sanguínea e no sistema linfático, espalhando-se pelo organismo e infectam mais células em novos ciclos. Esses causam lesões principalmente em tecidos musculares cardíacos e lisos, podendo levar a graves problemas, como a insuficiência cardíaca, e ao óbito.
 ![[Pasted image 20231113114641.png]]
 
 # Flashcards
@@ -55,7 +144,7 @@ Card 7 - Os **tripomastigotas** são as formas parasitárias eliminadas pelo bar
 <!--SR:!2023-12-04,12,283-->
 
 Card 8 - A doença de chagas pode ser transmitida também por **transfusão de sangue, via congênita e oral (por ingestão de alimentos contaminados)**.
-<!--SR:!2023-12-03,11,243-->
+<!--SR:!2024-01-03,30,243-->
 
 Card 14 - A infecção pode ser assintomática, mas sintomas podem incluir: **febre, mal-estar, falta de apetite, dor, inchaço no local da picada, aumento de baço e fígado, distúrbios cardíacos e obstrução de gânglios**.
 <!--SR:!2023-11-23,1,183-->

@@ -7,18 +7,62 @@ tags:
 * [[Slide aula 2 - giardíase, amebíase tricomoníase.pdf]]
 ---
 __Classificação filogenética do parasita:__ Família Trichomonadidade, da ordem Trichomonadida, da classe Parabasalia e do filo Zoomastigina. 
-Espécies encontradas em humanos: Trichomonas vaginalis, Trichomonas tenax e Trichomonas hominis. 
+__Espécies encontradas em humanos:__ Trichomonas vaginalis, Trichomonas tenax e Trichomonas hominis. 
+###### Morfologia
+* Poliforma; elipsoides, ovais ou esféricos; 
+* Não há formação de cistos;
+* Só é encontrado na forma de trofozoíto;
+* Quatro flagelos anteriores livres e desiguais; membrana ondulante;
+* Núcleo elipsoide, próximo à extremidade anterior, com uma dupla membrana nuclear e nucléolo;
+* Apresenta grânulos densos.
+![[Pasted image 20231205130512.png]]
+##### Biologia 
+* Local de infecção: no trato geniturinário do homem/mulher, onde produz a infecção e não vive fora do sistema urogenital; 
+* Reprodução: divisão binária longitudinal. 
+##### Fisiologia
+* Anaeróbio facultativo;
+* pH compreendida entre 5 e 7,5 e em temperaturas entre 20° e 40°C; 
+* Utiliza glicose, frutose, maltose, glicogênio e amido. 
+##### Transmissão 
+* DST; 
+##### Patogênese
+* Aumento do pH na região; (Ph normal da vagina é 3,8 a 4,5)
+##### Patologia 
+* Promove a transmissão do HIV;
+* Causa baixo peso de bebês; 
+* Nascimento prematuro; 
+* Predispõe mulheres à doença inflamatória pélvica atípica, câncer cervical e infertilidade;
+* Câncer de próstata.
+##### Sintomas e Sinais
+###### Mulher
+* Vaginite aguda;
+	* [[Corrimento]] vaginal; 
+	* Fluido abundante de cor amarelo-esverde, bolhoso, de odor fétido;
+	* Prurido ou irritação vulvovaginal; 
+	* Dispareunia de introito; 
+	* Poliúria. 
+###### Homem 
+* Uretrite com fluxo leitoso ou purulento e uma leve sensação de prurido na uretra; 
+* Corrimento claro, viscoso e pouco abundante, com desconforto ao urinar; 
+* Hiperremia do meato uretra.
+##### Diagnóstico
+* Clínica inespecífica; 
+* Coleta de amostra e análise por:
+	* Exame microscópico
+		* Geralmente, o diagnóstico depende da observação do protozoário móvel do exame direto de esfregaços a fresco. 
+	* Cultura
+	* Métodos imunológicos
+		* RIFI
+		* ELISA
+##### Profilaxia  
+* Protocolo comum de prevenção às DST's;
+###### Tratamento
+* Metronidazol; 
+* Tinidazol;
+* Em gestantes, apenas aplicação local de cremes. 
+
 
 ---
-Tipo de vetor:
-Mecanismos de transmissão: oral? sexual? penetração cutânea? congênita? vetorial? 
-Classificação filogenética do parasita: 
-Tipo de ação:
-Sintomas:
-Localização no corpo: 
-Períodos clínicos: 
-Monoxeno ou heteroxeno:
-Parasita facultativo ou obrigatório:
 
 Card 1 - A Tricomoníase é causada pelo parasita **Trichomonas vaginalis** e é cosmopolita, sendo mais comum em áreas urbanas.
 <!--SR:!2023-12-11,22,230-->
