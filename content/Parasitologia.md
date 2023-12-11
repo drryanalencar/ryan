@@ -38,3 +38,4 @@ Mosquito, percevejo e moscas.
 * [[Leishmania. Flebotomíneos. Leishemaniose]]
 * [[Toxoplasma gondii. Animal. Toxoplasmose]]
 * [[Plasmodium. Anopheles. Malária]]
+![[CamScanner 10-12-2023 19.52_1.jpg]]![[CamScanner 10-12-2023 19.52_2.jpg]]

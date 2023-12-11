@@ -4,7 +4,7 @@ tags:
 ---
 Referências: 
 1. ==PG.41== [[Parasitologia Humana 13° Ed.pdf]]
-2. [[Slide - Lesihmania.pdf]]
+2. [[Slide - Leishmania.pdf]]
 3. ==PG.71== [[Apostila de Parasitologia.pdf]]
 4. [In search of a vaccine for leishmaniasis (nature.com)](https://www.nature.com/articles/d41586-023-02580-y)
 5. [Ciclo de vida](https://youtu.be/LveRTb8EJjI?si=mnkvIiZvEu8enP6L)
@@ -17,7 +17,7 @@ A leishmaniose tegumentar é transmitida apenas por animais silvestres?
 ![[Resumo a mão de leishmaniose pt.1.jpg]]
 ![[Resumo a mão de leishmaniose pt.2.jpg]]
 
-
+![[Pasted image 20231210193258.png]]
 
 ---
 __Classificação filogenética do parasita:__ Gênero Leishmania. Família Trypanosomatidae. Protozoários unicelulares, heteroxenos. 
@@ -121,6 +121,11 @@ Febre irregular de intensidade média e de longa duração, esplenomegalia e he
 ###### Tratamento
 * Os antimoniais pentavalentes (Sb5+), antimoniato de N-metil glucamina (Glucantime®) e estibogluconato sódico (Pentostam®), são a primeira opção terapêutica na maioria dos países. De 2° escolha ANFOTERICINA B. 
 * Imunoquimioterapia.
+
+> Em caso de recidiva é recomendado um segundo tratamento com a mesma dose. porém com duração mais prolongada (40 dias no máximo), antes de considerar o caso como refratário e utilizar esquemas terapêuticos alternativos. Neste caso, as formulações lipossomais de anfotericina B são os produtos indicados, com a recomendação de uso sob regime hospitalar.
+
+> Na a índia, a doença é uma antroponose entre adolescentes e jovens adultos, e sua expansão é determinada pela movimentação de pessoas pelas áreas de potencial transmissão.
+
 ###### Reservatório 
 As raposas do campo (Lycalopex vetulus) e os cachorros-do-m ato (Cerdocyon thous) são reservatórios silvestres primitivos de L. i. chagasi. L. vetulus, reservatório descrito por L. Deane e M. Deane, é encontrado nas regiões Sudeste, Centro-Oeste e Nordeste, onde é visto no peridomicílio de áreas rurais.
 ![[Pasted image 20231204180655.png]]
