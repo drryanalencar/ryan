@@ -2,7 +2,9 @@
 tags:
   - summary
 ---
+[[Valores referência hematológicos para adultos e crianças.pdf]]
 
+[[SIGLAS E ABREVIATURAS NO PRONTUÁRIO DO.pdf]]
 # Caso I 
 [[Caso I de Tutoria III.pdf]]
 
@@ -49,7 +51,7 @@ Faltou avaliar o grau de comprometimento neural; por exemplo, as pernas estão m
 CRIANÇA PIG: 
 ![[Pasted image 20231111105718.png]]
 
-# Vitamina C
+## Vitamina C
 Essa administração de vitamina C na infância pode ser prejudicial? 
 
 A suplementação vitamínica associou-se com aumento de bebês com baixo peso ao nascer.
@@ -57,6 +59,10 @@ WANNMACHER, Lenita. Vitamina C: seis problemas em busca de uma solução. **Org
 
 As vitaminas lipossolúveis A, D, E e C são necessárias em prematuros desde o nascimento até pelo menos os 6 meses [de idade [8].](https://www.sciencedirect.com/science/article/pii/S0929693X16305334?via%3Dihub#bib0135) Devido ao risco de estresse oxidativo nas primeiras semanas de vida, as vitaminas A e E são importantes para a prevenção da degeneração neuronal devido ao seu poder antioxidante. A vitamina D é necessária para a absorção intestinal de cálcio e fósforo e, através de sua ação no osteoblasto, participa da mineralização óssea. A vitamina C está envolvida na prevenção da anemia ferropriva [[16].](https://www.sciencedirect.com/science/article/pii/S0929693X16305334?via%3Dihub#bib0175)
 
+
+
+
+[[Caso III - Tutoria Integradora III]]
 
 # Perguntar para tutora
 ## Caso I
