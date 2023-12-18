@@ -9,11 +9,13 @@
 7. Quais são os 5 principais receptores de reconhecimento padrão? 
 8. Descreva o processo de fagocitose: 
 9. Descreva o processo de ativação dos eosinófilos. 
+   
 **Sistema complemento**
 1. O que é o sistema complemento? 
 2. Quais são os principais componentes do sistema complemento? 
 3. Qual a diferença entre a via clássica, alternativa e das lectinas? 
 4. Quais as principais funções do sistema complemento? 
+   
 **Resposta inflamatória aguda**
 1. Quais são os 5 sinais cardinais da inflamação? 
 2. Quais são os estímulos para infecção? 
