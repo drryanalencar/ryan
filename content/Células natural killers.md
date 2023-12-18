@@ -4,7 +4,7 @@ tags:
 ---
 Referências: 
 * PG.31 [[SUPER COMPILADO IMUNOLOGIA - SANAR]]
-* PG.195 [[Imunologia celular e molecular Abbas 9°.ed]]
+* PG.195 [[Imunologia celular e molecular Abbas 9⁰Ed.pdf]]
 
 ---
 * Identificam e matam células infectadas diretamente. (vírus)

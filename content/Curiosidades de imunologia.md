@@ -6,7 +6,7 @@ tags:
 	* [April Burrell](https://oglobo.globo.com/saude/ciencia/noticia/2023/07/21/esquizofrenia-descobertas-sobre-relacao-com-imunidade-abrem-caminho-para-novos-tratamentos-entenda.ghtml), passou 25 anos em estado de [[Catatonia]].
 	* [Esquizofrênica](https://oglobo.globo.com/saude/noticia/2023/06/mulher-acorda-depois-de-20-anos-em-estado-catatonico-tratamento-pode-revolucionar-psiquiatria.ghtml); 
 	* Sistema imune e a relação com a causa da [[Esquizofrenia]] - The Lancet Psychiatry
-		* [[Anticorpos]] atacando os [[Receptores NDMA.]] --> sintomas psicóticos.
+		* [[Anticorpos e antígenos]] atacando os [[Receptores NDMA.]] --> sintomas psicóticos.
 	* Tinha [[Lúpus]];
 		* Danos ao lobo temporal; 
 	<iframe title="The Awakening Of April Burrell | Catatonic Woman Wakes Up After 20 Years | Initial #Misdiagnosis" src="https://www.youtube.com/embed/MlUwhlTGGTE?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;"></iframe>

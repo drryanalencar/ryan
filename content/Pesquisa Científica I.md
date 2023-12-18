@@ -128,3 +128,5 @@ Qual a relação entre transtornos mentais e cirurgias plásticas?
 Pessoas com transtornos mentais tendem a procurar mais por cirurgias plástica. 
 
 Analisar os transtornos mentais e comportamentais entre as pessoas que realizaram cirurgias plásticas nos últimos 5 anos.
+
+[[Análise do artigo III]]

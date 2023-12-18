@@ -5,38 +5,24 @@ tags:
 Referências: 
 * Sistema Complemento - [Sanarflix](https://1drv.ms/u/s!AtT1UeiE5rswhM05emnv9zQXEBPPoA?e=SeKhqD)
 * ==PG.183== - Sistema Complemento, [[SUPER COMPILADO IMUNOLOGIA - SANAR]]
-* ==PG.712== - Sistema Complemento, [[Imunologia celular e molecular Abbas 9°.ed]]
+*  ==PG.201==,==PG.712== - Sistema Complemento, [[Imunologia celular e molecular Abbas 9⁰Ed.pdf]]
 * 00:33:00
 ---
 O sistema complemento tem 3 vias 
 ![[Pasted image 20231022192628.png]]
-CLÁSSICO, DEPENDE DE  ANTICORPO
-	No anticorpo; 
-		Proteína C1 se liga 
-			Subunidades de C1: 
-			C1Q: reconhecimento do anticorpo; ativa a cascata R e S. 
-			C1R
-			C1S
-		C2 E C4
-			Subunidades: C2B E C4A   
-			==C4A + C2B --> (ENZIMA C3 CONVERTASE)==
-	A enzima (*C3 convertase*), cliva a C3 em C3B + C3A. 
-	(*C4A + C2B*) + C3B + C5 --> C5 CONVERTASE
-VIA DAS LECTINAS, DEPENDE DO RECONHECIMENTO DE MANOSE;
+__CLÁSSICO, DEPENDE DE  ANTICORPO__
+__VIA DAS LECTINAS, DEPENDE DO RECONHECIMENTO DE MANOSE;__
 	Começa com a proteína MBL: Lectina Ligadora de Manose
 		MASP1 E MASP 2, auxiliares dessa proteínas, que clivam C4 E C2
 	==C4A + C2B --> C3 CONVERTASE== 
 	A enzima (*C3 convertase*), cliva a C3 em C3B + C3A. 
 	(*C4A + C2B*) + C3B + C5 --> C5 CONVERTASE
-ALTERNATIVA, NÃO DEPENDE ANTICORPO 
-	C3B autoclivada gruda-se na bactéria. 
-	C3B + BB -->==C3 CONVERTASE==
+__ALTERNATIVA, MICROORGANISMO
 
-==TODAS VISAM FORMAR A C3 CONVERTASE==
-Próxima etapa: formação de ==C5 CONVERTASE.==
-
-A partir de C5, eu tenho um o recrutamento das demais proteínas do complemento. 
-C9 faz um buraco e promove um desequilíbrio osmótico nas células. 
+* ==TODAS VISAM FORMAR A C3 CONVERTASE==
+* Próxima etapa: formação de ==C5 CONVERTASE.==
+* A partir de C5, eu tenho um o ==recrutamento das demais proteínas== do complemento. 
+* C9 faz um buraco e promove um desequilíbrio osmótico nas células. 
 ![[Pasted image 20231022193113.png]]
 ##### Conceitos
 * Proteínas séricas: presentes no soro sanguíneo, incluindo ALBUMINA SÉRICA, FATORES DE COAGULAÇÃO SANGUÍNEA e muitos outros tipos de proteínas, [DECS](https://decs.bvsalud.org/ths/resource/?id=23132&filter=ths_exact_term&q=PROTEiNAS+SeRICAS)

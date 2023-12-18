@@ -1,5 +1,5 @@
 # Linfócitos B
-* Produção de [[Anticorpos]]; 
+* Produção de [[Anticorpos e antígenos]]; 
 	* Função do anticorpo: 
 		* Neutralização do organismo; 
 		* Opsonização do antígeno; 

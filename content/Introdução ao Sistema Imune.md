@@ -5,7 +5,7 @@ tags:
 Referência:
 * [Playlist de Imunologia](https://youtu.be/7kotXf1u2eg?si=RAIJYmuH4Z46JtWA)
 * Medsimple - Conceitos básicos de imunologia 
-* [[Imunologia celular e molecular Abbas 9°.ed]]
+* [[Imunologia celular e molecular Abbas 9°.Ed]]
 * [[SUPER COMPILADO IMUNOLOGIA - SANAR]]
 * [[Slide - Introdução ao Sistema Imune.pdf]]
 * [[Resumo Imunologia N1 - Nyara Mourão.pdf]]
@@ -45,8 +45,7 @@ A principal característica dessa imunidade, é que ela ==não é específica.==
 * Basófilos
 	* Histamina, fatores quimiotáticos...
 * [[Células natural killers]]
-* [[Células]]
-* Sistema complemento - ==PG.201==  do [[Imunologia celular e molecular Abbas 9°.ed]]
+* [[Sistema complemento]] 
 * [[Citocinas]].
 ##### Reconhecimento dos patógenos ==PG.166== do [[Imunologia celular e molecular Abbas 9°.ed]]
 * PAMP's: padrões moleculares associados a patógenos. 
@@ -67,7 +66,7 @@ A principal característica dessa imunidade, é que ==ela é específica e possu
 #### Componentes
 * [[Linfócitos T e B]]^2
 * [[Células apresentadoras de antígenos]]
-* [[Anticorpos]].
+* [[Anticorpos e antígenos]].
 
 ## Tipos de respostas imunológicas
 ![[Pasted image 20230927115436.png]]
@@ -118,7 +117,7 @@ Card 18: **O muco, uma secreção viscosa contendo glicoproteínas chamadas muci
 Card 34: Quais são as diferenças entre as famílias de defensinas humanas α e β? ;; As principais diferenças entre as famílias de defensinas humanas α e β incluem sua localização e produção. As α-defensinas são produzidas principalmente por células de Paneth no intestino delgado, enquanto as β-defensinas são produzidas em outras partes do cólon, células da mucosa respiratória e pele. Essas duas famílias também se distinguem pela localização das ligações dissulfeto em suas estruturas, com a α-defensina tendo uma localização específica diferente das β-defensinas.
 <!--SR:!2023-12-13,32,216-->
 
-Como os anticorpos ligados aos helmintos podem causar a desgranulação de eosinófilos? ;; Os [[Anticorpos]] ligados aos helmintos podem causar a desgranulação de eosinófilos ao se ligarem aos receptores Fc presentes nessas células. Essa ligação leva à liberação da proteína básica principal e outros conteúdos dos grânulos de eosinófilos, que têm a capacidade de matar os parasitas helmínticos.
+Como os anticorpos ligados aos helmintos podem causar a desgranulação de eosinófilos? ;; Os [[Anticorpos e antígenos]] ligados aos helmintos podem causar a desgranulação de eosinófilos ao se ligarem aos receptores Fc presentes nessas células. Essa ligação leva à liberação da proteína básica principal e outros conteúdos dos grânulos de eosinófilos, que têm a capacidade de matar os parasitas helmínticos.
 <!--SR:!2023-12-17,48,257-->
 
 Quais são exemplos de PAMPs? ;; Exemplos de PAMPs incluem ácidos nucleicos exclusivos em microrganismos, como o RNA de fita dupla e carboidrados como manose.
