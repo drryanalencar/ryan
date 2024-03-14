@@ -21,8 +21,6 @@ Para gestantes em qualquer idade gestacional, é importante administrar 3 doses 
 
 #### Vacina contra Covid-19 
 * Em qualquer momento ou em até 42 dias após o parto. 
-* Pq em até 42 dias após o parto? #dúvida
-
 
 ==IMPORTÂNCIA==
 * Os anticorpos da mãe são transferidos para o bebê. 

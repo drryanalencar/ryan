@@ -1,9 +1,5 @@
 ---
-tags:
-  - literature_notes
-  - aldosterona
-  - glandulasadrenais
-  - angiostensina
+tags: []
 ---
 Referências:
 * [Videoaula](https://youtu.be/_hUCrm-PwbM?si=j9fKp1x3UXaDh6BB)

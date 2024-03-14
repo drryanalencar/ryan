@@ -1,5 +1,3 @@
-Tags: #literature_notes 
-
 Referências: [Videoaula](https://youtu.be/-5FhZ06figY?si=jCgWdlzd2CsWVw0M)
 
 # Sistema porta

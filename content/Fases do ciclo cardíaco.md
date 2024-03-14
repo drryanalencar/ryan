@@ -1,7 +1,6 @@
 ---
 tags:
-  - literature_notes
-  - coração
+  - Coração
 ---
 Referências: 
 * [Videoaula](https://youtu.be/7n1dAxV-Z78?si=_KuBMXPm571ECMcN)

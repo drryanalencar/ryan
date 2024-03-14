@@ -1,3 +1,7 @@
+---
+tags:
+  - Parasitologia
+---
 [[MONITORIA PARASITOLOGIA N1.pdf]]
 ###### TROFOZOÍTO DE TRICHOMONAS VAGINALIS
 * Raspagem de secreção vaginal; 

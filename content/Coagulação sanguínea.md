@@ -1,6 +1,5 @@
 ---
-tags:
-  - literature_notes
+tags: []
 ---
 Referências:
 * [Videoaula](https://youtu.be/qnrC2_KCVL0?si=cn46A4f_xEFdbKBd)

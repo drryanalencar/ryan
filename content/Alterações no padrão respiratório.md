@@ -28,14 +28,14 @@ A instabilidade presente na RCS se deve a baixos níveis de O2, ao aumento de CO
 * Lesão medular; 
 * Intoxicação por opiáceos.
 
-> Sendo os períodos de apnéia se alternam irregularmente com séries de respirações de igual profundidade.
+> Sendo os períodos de apneia se alternam irregularmente com séries de respirações de igual profundidade.
 
 É uma forma de hiperventilação, resultante da estimulação do centro respiratório no tronco encefálico pelo baixo pH sérico.
 ![[Pasted image 20231119180220.png]]
 # Respiração de Kussmaul
-* Acidose diabética 
+* Acidose diabética;
 * Intoxicações;
-* Queda no pH significativa
+* Queda no pH significativa.
 
 
 > __Inspirações profundas__ seguidas

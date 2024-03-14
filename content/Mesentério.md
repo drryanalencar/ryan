@@ -1,5 +1,3 @@
-Tags: #permanote 
-
 Referência: [[PROVA 1 - RITA.pdf]] [[Peritônio e Cavidade Periotenial]]
 
 Uma estrutura abdominal que liga o intestino à parede abdominal posterior. 

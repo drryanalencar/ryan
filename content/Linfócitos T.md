@@ -1,6 +1,5 @@
 ---
-tags:
-  - permanote
+tags: []
 ---
 Referências: 
 * [Células T](https://www.lecturio.com/pt/concepts/celulas-t/#lecturio-toc__Desenvolvimento%20das%20C%C3%A9lulas%20T)

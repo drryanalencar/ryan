@@ -1,6 +1,5 @@
 ---
-tags:
-  - permanote
+tags: []
 ---
 -# Sangue 
 * Sistema de coagulação sanguínea 

@@ -1,0 +1,1 @@
+Elimina o ovo já larvado. 

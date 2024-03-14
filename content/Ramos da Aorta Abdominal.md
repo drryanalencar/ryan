@@ -2,7 +2,6 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-  - literature_notes
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

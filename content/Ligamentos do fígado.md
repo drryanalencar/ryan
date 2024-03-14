@@ -1,5 +1,3 @@
-Tags: #literature_notes 
-
 Referências: [Vídeo aula](https://youtu.be/jQyPs0bFROU?si=JjhhpwwLYyPe5hjV)
 
 # Ligamento falciforme

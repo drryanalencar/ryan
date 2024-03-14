@@ -1,5 +1,3 @@
-Tags: #permanote 
-
 O hilo renal é a região na parte central de cada rim por onde entram e saem vasos sanguíneos, nervos e o ureter. As principais estruturas que compõem o hilo renal incluem:
 1. **Artéria Renal:** A artéria renal é responsável por transportar sangue para o rim, onde ele será filtrado e regulado. Ela entra no rim pelo hilo renal.
 2. **Veia Renal:** A veia renal é responsável por drenar o sangue filtrado pelo rim e transportá-lo de volta ao sistema circulatório. Ela também sai do rim pelo hilo renal.

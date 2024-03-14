@@ -1,0 +1,1 @@
+Apresentam as extremidades afiladas (fusiformes).

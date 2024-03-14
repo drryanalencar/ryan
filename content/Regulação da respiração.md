@@ -7,6 +7,7 @@ Referências:
 ---
 
 Grupo respiratório dorsal (inspiração)
+
 Grupo respiratório ventral (expiração e inspiração): Esse grupo é estimulado durante atividades físicas ou enfermidades, como enfisema, em que não há elastância. 
 
 Os núcleos bulbares e pontíferos são sensíveis as concentrações de PH, de CO2. 

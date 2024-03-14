@@ -1,5 +1,3 @@
-Tags: #literature_notes 
-
 Referências: [Videoaula](https://youtu.be/KPZ2C3fF8dM?si=fn2cOcg9b6QmWPT5&t=431)
 
 Aorta abdominal --> Frênicas inferiores --> ==Artéria supra renais superior==

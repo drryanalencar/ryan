@@ -134,13 +134,13 @@ Quantos núcleos os cistos da _Entamoeba histolytica_ possuem e qual sua morfolo
 <!--SR:!2023-11-24,2,238-->
 
 Card 7 - A transmissão da Amebíase ocorre de forma **fecal-oral, pela ingestão de cistos em alimentos ou água contaminada**. Os cistos são resistentes ao pH ácido e às enzimas digestivas do estômago.
-<!--SR:!2023-11-28,16,250-->
+<!--SR:!2024-03-03,71,250-->
 
 Card 8 - A Amebíase pode se manifestar de forma assintomática ou apresentar sintomas como **dor abdominal, diarreia, cólicas e fezes líquidas**. Em casos graves, pode causar **úlceras intestinais**.
 <!--SR:!2023-11-23,1,170!2023-11-23,1,170-->
 
 Card 9 - A forma **extra-intestinal** da Amebíase envolve a migração dos trofozoítos para outros órgãos, como **fígado, pulmão, cérebro e pele**.
-<!--SR:!2023-11-30,9,250!2023-11-28,6,210-->
+<!--SR:!2024-02-12,51,250!2023-11-28,6,210-->
 
 Card 11 - O tratamento da Amebíase inclui medicamentos como **Metronidazol** (1ª escolha) e **Secnidazol** (2ª escolha) para casos graves. Outras opções de menor eficácia também estão disponíveis.
 <!--SR:!2023-11-23,11,270!2023-11-26,14,270-->

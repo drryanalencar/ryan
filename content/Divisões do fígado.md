@@ -1,4 +1,3 @@
-Tags: #literature_notes 
 Referência: [Videoaula](https://youtu.be/jQyPs0bFROU?si=JjhhpwwLYyPe5hjV)
 
 Divisões do Fígado

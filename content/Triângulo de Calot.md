@@ -1,5 +1,3 @@
-Tags: #literature_notes 
-
 Referências: [Wikipedia](https://pt.wikipedia.org/w/index.php?title=Tr%C3%ADgono_cistep%C3%A1tico&oldid=57140963)
 
 Ducto cístico + Artéria cística 

@@ -1,0 +1,1 @@
+Reação entre antígeno parasitário e anticorpo alergizantes do hospedeiro causando edema, urticária, convulsões etc.

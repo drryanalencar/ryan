@@ -1,0 +1,1 @@
+Os anticorpos produzidos contra essas bactérias formam complexos com antígenos bacterianos, e esses complexos podem se depositar nos glomérulos renais e causar nefrite.

@@ -10,10 +10,6 @@ Referências:
 5. [Ciclo de vida](https://youtu.be/LveRTb8EJjI?si=mnkvIiZvEu8enP6L)
 6. [[Aula 4 - Leishmaniose.pdf]]
 --- 
-#dúvida 
-A leishmaniose tegumentar é transmitida apenas por animais silvestres? 
-
----
 ![[Resumo a mão de leishmaniose pt.1.jpg]]
 ![[Resumo a mão de leishmaniose pt.2.jpg]]
 

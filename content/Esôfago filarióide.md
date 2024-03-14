@@ -1,0 +1,1 @@
+ O esôfago filarióide é estreito e cilíndrico, medindo de **2 a 3 mm** de comprimento

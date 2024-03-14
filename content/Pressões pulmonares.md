@@ -28,19 +28,28 @@ Os alvéolos possuem uma tensão superficial, pois a camada interna tem é reves
 # Flashcards
 
 Card 8 - A **pressão intrapleural** é mantida negativa, em torno de -5cmH2O, devido à sucção contínua do excesso de líquido pleural.
+<!--SR:!2024-01-20,1,230-->
 
 Card 9 - A **pressão alveolar** varia durante a respiração, diminuindo na inspiração e aumentando na expiração.
+<!--SR:!2024-01-20,1,230-->
 
 Card 10 - A **pressão transpulmonar** é a diferença entre a pressão alveolar e a pressão pleural, afetando a expansão dos pulmões.
+<!--SR:!2024-01-22,3,250-->
 
 Card 11 - O **surfactante** reduz a tensão superficial da água nos alvéolos, evitando o colapso dos pulmões.
+<!--SR:!2024-01-22,3,268-->
 
 Card 12 - Os volumes pulmonares incluem ;; o volume corrente, volume de reserva inspiratória, volume de reserva expiratória e volume residual.
+<!--SR:!2024-01-20,1,230-->
 
 Card 13 - As capacidades pulmonares incluem ;; a capacidade inspiratória, capacidade residual funcional, capacidade vital e capacidade pulmonar total.
+<!--SR:!2024-01-20,1,232-->
 
 Card 14 - O **espaço morto** é a parte do ar respirado que não alcança as áreas de trocas gasosas nos alvéolos.
+<!--SR:!2024-01-21,2,248-->
 
 Card 16 - A **hematose** depende da existência de uma **ventilação-perfusão (VQ) adequada**.
+<!--SR:!2024-01-20,1,230!2024-01-23,4,270-->
 
 Função dos pneumócitos tipo I e II ;; Pneumócitos Tipo I: realizam a hematose. Pneumócitos Tipo II: produzem surfactante. 
+<!--SR:!2024-01-20,1,230-->

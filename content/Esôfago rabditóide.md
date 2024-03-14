@@ -1,0 +1,1 @@
+O esôfago rabditóide é formado em 3 porções visíveis, denominadas de porção anterior, istmo e porção posterior, observando-se na direção de proximal para distal no verme

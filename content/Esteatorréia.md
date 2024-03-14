@@ -1,0 +1,1 @@
+ Aumento da eliminação de gordura nas fezes, causando sintomas como fezes oleosas, esbranquiçadas, volumosas e com mau cheiro, e que também podem flutuar no vaso sanitário.

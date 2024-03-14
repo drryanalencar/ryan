@@ -1,7 +1,3 @@
----
-tags:
-  - imunologia
----
 1. April Burrell
 	* [April Burrell](https://oglobo.globo.com/saude/ciencia/noticia/2023/07/21/esquizofrenia-descobertas-sobre-relacao-com-imunidade-abrem-caminho-para-novos-tratamentos-entenda.ghtml), passou 25 anos em estado de [[Catatonia]].
 	* [Esquizofrênica](https://oglobo.globo.com/saude/noticia/2023/06/mulher-acorda-depois-de-20-anos-em-estado-catatonico-tratamento-pode-revolucionar-psiquiatria.ghtml); 

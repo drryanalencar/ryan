@@ -1,7 +1,5 @@
 ---
-tags:
-  - literature_notes
-  - "#cãibra"
+tags: []
 ---
 Referências:
 * [Videoaula](https://youtu.be/iibASf8p7y4?si=pFl0DpXMdOHVexVa)

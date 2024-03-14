@@ -1,0 +1,1 @@
+Irritação na parede e podem enovelar-se na luz intestinal, levando à sua obstrução.

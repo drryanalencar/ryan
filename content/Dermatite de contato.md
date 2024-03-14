@@ -1,0 +1,1 @@
+Por exemplo, em uma reação alérgica crônica cutânea chamada dermatite atópica, a anormalidade da barreira epitelial geralmente é invisível e tem causa desconhecida, mas às vezes está relacionada à deficiência hereditária de filagrina, uma proteína de queratinócito necessária para manter a função normal da barreira da pele. 

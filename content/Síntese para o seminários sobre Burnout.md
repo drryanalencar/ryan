@@ -1,4 +1,3 @@
-Tags: #literature_notes 
 Referências: [[Associações de burnout médico com engajamento profissional e qualidade do atendimento ao paciente - RS]]
 
 # Resultados

@@ -108,15 +108,3 @@ Além de Roma, quais os outros impérios e civilizações ao redor? Como eles vi
 ==Estado de saúde em condições de vida dos pais, irmãos, cônjuge e filhos e avós. Causa mortis dos falecimentos. Doenças de incidência múltipla na família. Referir no final da anamnese o grau de confiança que merecem as informações do paciente.==
 
 ### INTERROGATÓRIO SOBRE OS DIVERSOS APARELHOS ( I.D.A.):
-
-
-# Flashcards
-#Pediatria 
-1° Informações gerais sobre o paciente. ;; Endereço, grupo familiar, animais, tipo de moradia, c/sem saneamento básico, com que trabalha, uso de medicação, doenças prévias. Hábitos de vida, como alimentação, prática de exercícios físicos, drogas...*
-<!--SR:!2023-11-26,14,230-->
-
-3° História recente da doença: ;; Quando começou? Duração? Localização da dor? (Origem, grau de profundidade, iradiação, delimitações)* Qualidade (Sensação, aspecto físico do fenômeno)*, Quantidade (Frequência), Circunstâncias* (substâncias tóxica), Fatores agravantes (Atividade, alimentos, drogas, substâncias) e manifestações associadas. Estado geral* (disposição, capacidade de trabalho, perda de peso, febre, anorexia, estado psíquico.)
-<!--SR:!2023-11-27,7,210-->
-
-4° História pregressa da doença: ;; Familiar? Cirurgias? 
-<!--SR:!2023-11-28,16,230-->

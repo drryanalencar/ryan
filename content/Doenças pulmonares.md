@@ -3,17 +3,16 @@ tags:
   - Fisiologia
 ---
 # Doenças pulmonares
-* Alterações na capacidade pulmonar 
-* Alterações no fluxo pulmonar
+* Alterações na capacidade pulmonar X Alterações no fluxo pulmonar
 ![[Pasted image 20231103205550.png]]
 ## Doença pulmonar obstrutiva crônica
 * Nessas doenças o volume de reserva expiratório aumenta, porque o pulmão perde elasticidade. 
-### Asma
+##### Asma
 * ASMA, existe falta de ar? 
 	* Não, porque o que ocorre uma broncoconstrição, pela contração muscular. 
 ## Bronquite crônica
 * Bronquite crônica
-	* A bronco constrição ocorre pelo acúmulo de secreção. 
+	* A broncoconstrição ocorre pelo acúmulo de secreção. 
 * Doença pulmonar restritiva (distúrbio da parede torácica)
 	* Pneumotórax
 	* Tromboembolismo Pulmonar TEP
@@ -44,8 +43,8 @@ Ela atinge a capacidade pulmonar ou o fluxo pulmonar?
 * [[Private Vault/Residência/RESUMO ESTRATEGIA MED/Pneumologia/Derrame Pleural.pdf|Derrame Pleural]]
 * [Radiografia](https://youtu.be/tdI2FtophW4?si=w951ENEvVvOZqeEu&t=1579)
 
-
 ![[Derrame]]
+
 Pode ser líquido ou gasoso. 
 * Clássico: Excesso de líquido.
 	* Empiema -pús
@@ -53,3 +52,9 @@ Pode ser líquido ou gasoso.
 	* Quilotórax
 	* Pleurisia 
 * [[Pneumotórax]]
+
+# Fibrose pulmonar
+A fibrose pulmonar é uma condição na qual o tecido pulmonar normal é substituído por tecido cicatricial (fibrose). Isso pode resultar em uma redução da elasticidade dos pulmões, prejudicando a capacidade de expandir e contrair normalmente durante a respiração.
+Causas:
+1. **Pneumonite intersticial:** Inflamação crônica dos pulmões que pode levar à fibrose. As causas incluem exposição a poeiras orgânicas, metais, agentes químicos, entre outros.
+2. **Doenças autoimunes:** Algumas doenças autoimunes, como a [[Esclerose sistêmica]], podem causar fibrose pulmonar.

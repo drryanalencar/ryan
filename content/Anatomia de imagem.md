@@ -1,5 +1,7 @@
-Tags: #summary 
-
+---
+tags:
+  - summary
+---
 Referências: [[Compilado de Anatomia do Abdômen.pdf]]
 
 [[Guia de identificação das estruturas na Tomografia]]

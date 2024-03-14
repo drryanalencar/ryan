@@ -1,4 +1,3 @@
-Tags: #literature_notes 
 
 Referências: [Videoaula](https://youtu.be/-v2Bqdkv35M?si=CXpMXGi4hqZlFyoY)
 

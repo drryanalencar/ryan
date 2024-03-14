@@ -1,0 +1,1 @@
+Algumas manifestações brandas, como rinite alérgica e sinusite, comuns na febre do feno, são reações a antígenos inalados, como proteínas de pólen de tasneira. Os mastócitos na mucosa nasal produzem histamina, enquanto as células Th2 produzem IL-13, e estes dois mediadores causam aumento da produção de muco. As reações de fase tardia podem provocar inflamação mais prolongada

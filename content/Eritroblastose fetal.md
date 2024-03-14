@@ -1,0 +1,1 @@
+Gestantes negativas para RhD podem ser imunizadas pela exposição aos eritrócitos que expressem RhD oriundos do bebê, durante o parto, caso o bebê herde o gene RhD do pai. A mãe produzirá anticorpos anti-RhD que poderão atravessar a placenta em gestações subsequentes e atacar células fetais positivas para RhD, causando a doença hemolítica do feto e do recém-nascido.

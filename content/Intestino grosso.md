@@ -1,4 +1,3 @@
-Tags: #literature_notes 
 Referências: [[Vísceras abdominais JG]]
 
 Formado por 5 partes: 

@@ -85,48 +85,13 @@ Referências:
 
 
 # Flashcards 
-O que é desenvolvimento? ;; É ganho de funções, das habilidades neuropsicomotoras adquiridas nos primeiros anos de vida.
-<!--SR:!2023-11-28,4,210-->
 O peso da criança deve **dobrar** entre 4 e 5 meses de vida e **triplicar** com 1 ano.
 Uma criança que nasceu com 3.000 g deve pesar **6.000 g** até os 5 meses e 9.000 g aos **12 meses** e com 2 anos e 6 meses deve está 12 kg; 
 Pré-escolar ou dos 2 aos 8 anos: **2 kg/ano** ou 8-6g/dia Escolar: **3 - 3,5 kg**/ano.
 <!--SR:!2023-12-31,49,290!2023-12-30,48,290!2024-01-01,50,290!2024-01-02,51,290!2023-11-27,15,230!2023-11-28,4,170-->
 
-VELOCIDADE DE CRESCIMENTO ESTATURA MÉDIA AO NASCER: 
-Menino: **50 cm**
-Menina: **49 cm** 
-CRESCIMENTO NO PRIMEIRO ANO
-1º semestre: **15 cm**
-2º semestre: **10 cm**
-CRESCIMENTO NO SEGUNDO ANO
-**10-12 cm**
-VELOCIDADE DE CRESCIMENTO EM PRÉ-ESCOLARES
-**5-7 cm/ano** 
-VELOCIDADE MÉDIA DE CRESCIMENTO NA ADOLESCÊNCIA (estirão) 
-Meninas: **8,5 cm/ano** Meninos: **9,5 cm/ano**
-<!--SR:!2023-12-05,23,270!2023-12-27,45,270!2023-12-29,47,290!2023-12-02,20,250!2023-11-25,1,150!2023-12-04,22,270!2023-11-30,18,230!2023-12-28,46,270-->
-
-
 O perímetro cefálico no primeiro trimestre e no segundo trimestre aumenta quantos centímetros por mês? ;; Primeiro trimestre: 2 cm/mês Segundo trimestre: 1 cm/mês 3° e 4° trimestre: 0,5 cm/mês Perímetro cefálico cresce 12 cm no 1º ano.
 <!--SR:!2023-12-01,11,229-->
-
-Fórmula para cálculo do peso aproximado (crianças de 3 a 11 anos): **Peso (kg) = Idade (anos) x 2 + 9**
-<!--SR:!2023-11-25,1,150-->
-
-Fórmula da altura de acordo com a idade (3 aos 11 anos). **Altura (cm) = (idade – 3) x 6 + 95**
-<!--SR:!2023-11-25,1,150-->
-
-Fórmula do alvo genético prever o limite mínimo, a média e o limite máximo de estatura que a criança poderá alcançar ao final da puberdade. A variação de + ou – 8,5cm. Meninos: ;; (Estatura do Pai + Estatura da Mãe) + 13) / 2 
-<!--SR:!2023-11-25,1,190-->
-
-4ₒ ano: mede em torno de **1 metro.**
-
-●Perímetro Cefálico - ao nascimento : a média é de **35 cm.**
-
-Dentição primaria (decídua) ou dentes de leite. Atraso se não houver dentes algum após **13 meses.**
-
-Com quantos anos a criança já deve ter todos os dentes de leite? - 3 a 6 anos: A criança já deve ter todos os dentes de leite, num total de 20 dentes.
-
 
 
 [^1]: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2015/prt1130_05_08_2015.html

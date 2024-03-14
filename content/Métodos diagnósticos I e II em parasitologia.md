@@ -1,5 +1,6 @@
 ---
 tags:
+  - Parasitologia
 ---
 Referências: 
 * PG.33 [[Apostila de Parasitologia.pdf]]

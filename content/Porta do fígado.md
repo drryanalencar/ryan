@@ -1,6 +1,5 @@
 ---
-tags:
-  - literature_notes
+tags: []
 ---
 [[Fígado]] [[Vascularização do fígado]]
 

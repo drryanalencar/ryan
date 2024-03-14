@@ -10,8 +10,8 @@ tags:
 O córtex contém uma coleção densa de linfócitos T, enquanto a medula mais clara é mais esparsamente povoada por linfócitos. A medula também contém macrófagos e DCs.
 
 ## Linfonodos
-O córtex externo contém agregados de células chamados folículos, os quais são povoados principalmente por linfócitos B.
-O córtex ao redor dos folículos, chamado córtex parafolicular, paracórtex ou zona de célula T, está organizado em cordões com fibras e proteínas de matriz extracelular em abundância, e é povoado principalmente por linfócitos T e DCs.
+**O córtex externo** contém agregados de células chamados **folículos**, os quais são **povoados principalmente por linfócitos B.**
+O córtex ao redor dos folículos, chamado **córtex parafolicular, paracórtex ou zona de célula T,** está organizado em cordões com fibras e proteínas de matriz extracelular em abundância, e **é povoado principalmente por linfócitos T e DCs.**
 
 ## Baço 
 O baço é um órgão altamente vascularizado, cujas principais funções são remover da circulação as células sanguíneas envelhecidas e danificadas, bem como as partículas (como imunocomplexos e microrganismos opsonizados), e iniciar respostas imunes adaptativas a antígenos transportados pelo sangue.

@@ -1,5 +1,3 @@
-Tags: #permanote 
-
 Referências: 
 * [[Gray's para estudantes.pdf]] Pág.298
 * [[Anatomia moore (FULL HD).pdf]] Pág.723

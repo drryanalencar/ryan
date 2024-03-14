@@ -1,8 +1,6 @@
 ---
 tags:
-  - eletrocardiograma
-  - literature_notes
-  - ecg
+  - ECG
 ---
 Referências:
 * [Sistema de condução do coração: Partes e funções | Kenhub](https://www.kenhub.com/pt/library/anatomia/sistema-de-conducao-do-coracao) 

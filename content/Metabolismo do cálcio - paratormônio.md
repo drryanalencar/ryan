@@ -1,9 +1,7 @@
 ---
 tags:
-  - literature_notes
-  - vitamina
-  - paratireoide
-  - hormônios
+  - Vitaminas
+  - Hormônios
 ---
 Referências: 
 * [Videoaula](https://youtu.be/xggHM6GCxvw?si=ClKo4ds7R9VIvbFE)

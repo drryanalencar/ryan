@@ -112,7 +112,7 @@ Card 10 - O diagnóstico é realizado por meio de exames parasitológicos de fez
 <!--SR:!2023-11-24,12,250-->
 
 Card 11 - O tratamento mais comum da Giardíase é feito com **Metronidazol**, sendo a primeira escolha. **Secnidazol** é a segunda opção, enquanto Tinidazol e Albendazol são menos eficazes.
-<!--SR:!2023-12-01,19,290!2023-11-28,16,290-->
+<!--SR:!2024-06-05,165,310!2023-11-28,16,290-->
 
 Card 13 - A Giardíase pode causar **lesões no intestino** e levar a **deficiências nutricionais**, incluindo vitaminas lipossolúveis (K, A, D, E). Além disso, a infecção pode ser assintomática e contribuir para a disseminação do parasita.
 <!--SR:!2023-11-26,14,290!2023-12-10,21,230-->

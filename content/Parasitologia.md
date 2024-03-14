@@ -42,3 +42,11 @@ Mosquito, percevejo e moscas.
 ![[CamScanner 10-12-2023 19.52_1.jpg]]![[CamScanner 10-12-2023 19.52_2.jpg]]
 * Rosetas 
 	* Durante o desenvolvimento esquizogônico sanguíneo, o P. falciparum induz uma série de modificações na superfície da célula parasitada, que permitem a sua adesão à parede endotelial dos capilares. O fenômeno de adesão celular também é observado entre eritrócitos parasitados e não parasitados, formando as chamadas “rosetas”. A citoaderência endotelial e o fenômeno de formação de rosetas ocorrem principalmente nas vênulas do novelo capilar de órgãos vitais (substância branca do cérebro, coração, fígado, rins, intestino). Dependendo da intensidade, podem levar à obstrução da microcirculação e consequente redução do fluxo de oxigênio, ao metabolismo anaeróbico e à acidose láctica.
+
+# N2 
+* [[Introdução à Helmintologia -]]
+* [[Ancilostomídeos. Ambiental. Ancilostomíase ou Necatoríase]]
+* [[Taenia. Ambiental. Teníase]]
+* [[Schistosoma mansoni. Caramujos. Esquistossomose]]
+* [[Prática Parasito N2.pdf]]
+	* Strongyloides stercoralis não caí, parece...

@@ -1,6 +1,5 @@
 ---
-tags:
-  - literature_notes
+tags: []
 ---
 > Omento significa rede ou malha. 
 

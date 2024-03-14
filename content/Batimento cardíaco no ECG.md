@@ -1,6 +1,5 @@
 ---
-tags:
-  - literature_notes
+tags: []
 ---
 Registra a condução do potencial de ação [^2] que se espalha pelo coração. 
 >[! note]    ECG é útil para identificar isquemias, doenças de válvulas cardíacas, miocardiopatias, pericardites e sequelas cardíacas da hipertensão arterial. [^1] 

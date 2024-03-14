@@ -1,0 +1,1 @@
+A **leucemia** de **células pilosas** (LCP) é uma neoplasia de **células** B maduras incomum e indolente.

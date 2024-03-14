@@ -1,6 +1,5 @@
 ---
-tags:
-  - summary
+tags: []
 ---
 [[Macrófagos e monócitos (fagócitos mononucleares)]]
 

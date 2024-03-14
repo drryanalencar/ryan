@@ -1,0 +1,2 @@
+A seleção positiva é o processo no qual os timócitos, cujos TCRs se ligam com baixa avidez (i. e., fracamente) a complexos peptídio próprio-MHC próprio, são estimulados a sobreviverem e se diferenciarem em células T CD4+ ou células T CD8+.
+Durante a transição das células duplo-positivas para simples-positivas, os timócitos cujos TCRs reconhecem o MHC de classe I próprio se tornam CD8+CD4–, enquanto as células cujos TCRs que reconhecem MHC de classe II próprio se tornam CD4+CD8–.

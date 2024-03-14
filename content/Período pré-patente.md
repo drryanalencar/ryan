@@ -1,0 +1,1 @@
+É o período em que ocorre o contato com o parasito até o momento em que aparecem as primeira formas detectáveis (ovos) no exame. 

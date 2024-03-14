@@ -1,4 +1,4 @@
-Tags: #literature_notes 
+
 1. Quais as divisões do abdômen?
 2. Quais os órgãos que encontramos em cada uma dessas regiões?
 3. Quais as camadas existentes até a cavidade abdominal?

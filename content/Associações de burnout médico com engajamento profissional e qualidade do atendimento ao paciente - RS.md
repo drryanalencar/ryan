@@ -1,4 +1,3 @@
-Tags: #literature_notes 
 Referência: [Link do artigo](https://doi.org/10.1136%2Fbmj-2022-070442)
 # Divisões das tarefas do seminário
 1. Resumo do artigo (Abstrair) - todos devem ler. pág.2

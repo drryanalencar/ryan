@@ -1,0 +1,1 @@
+Vermes consomem grande quantidade de proteínas, carboidratos, lipídios e vitaminas A e C, levando a subnutrição e depauperamento físico e mental.

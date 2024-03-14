@@ -1,7 +1,6 @@
 ---
 tags:
-  - anatomia
-  - 2°P
+  - Anatomia
 ---
 1. Quais as divisões do abdômen?
 2. Quais os órgãos que encontramos em cada uma dessas regiões?

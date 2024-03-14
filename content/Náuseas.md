@@ -1,0 +1,1 @@
+Desejo ou ânsia de vômito; enjôo
