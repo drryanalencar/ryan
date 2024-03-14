@@ -1,12 +1,13 @@
 ---
-title: Hello! I'm Ryan.
+title: Breves anotações, guias e referências para estudos.
 ---
-[[Como meus flashcards funcionam]]
-
+# 1° P
 * [[Anatomia]]
+# 2 ° P 
 * [[Histologia]]
 * [[Fisiologia]]
 * [[Biofísica]]
+# 3° P 
 * [[Imunologia]]
 * [[Bioética]]
 * [[Embriologia]]
@@ -15,6 +16,15 @@ title: Hello! I'm Ryan.
 * [[Pesquisa Científica I]]
 * [[PIS III]]
 * [[Tutoria integradora III]]
-* [[PRÁTICA]]
+# 4° P
 * [[Semiologia médica]]
+# Outros
+* [[PRÁTICA]]
 * [[Apresentação clínica I]]
+
+# SUPORTE
+PARA CONTATO, DÚVIDAS OU DOAÇÕES
+RYAN DA SILVA ALENCAR
+CHAVE PIX: 68996052689
+
+
