@@ -29,6 +29,25 @@ Estudos descritivos tem menor confiança.
 
 >O título precisa ser informativo e gerar interesse. 
 
+>"Os melhores títulos que você já leu têm curtas e poucas palavras"
+
+
+* O título resume, informa e destaca os pontos importantes e inovadores. 
+* Exato, claro, conciso, atraente e explicativo. 
+* 10 a 15 palavras/150 caracteres. 
+* As palavras do título devem seguir a ordem de importância. 
+* Cada palavra do título deve ter utilidade.
+* Compare o título com o objetivo e a conclusão do trabalho, pois eles têm que combinar. Um não pode dizer uma coisa e o outro algo diferente.
+
+
+* O que um título deve conter?
+	* O título deve conter o tema da investigação, ou seja, o que foi pesquisado. Podendo ser especificado o que foi investigado, a intervenção estudada, o desfecho principal para avaliar se uma intervenção é eficaz, o grupo de comparação, aspectos metodológicos. 
+	* O cenário (onde, quando, quem) da pesquisa só merece aparecer no título caso acrescentem um diferencial relevante. Geralmente especifica-se o grupo investigado. 
+	![[Pasted image 20240403153019.png]]
+
+* Tipos de título: 
+	* Título informativo X Indicativo. Associação entre X e Y. X previne Y.
+	* Títulos interrogativos. 
 
 __Erros__
 	Sistemático ou viés ou bias: erros na metodologias. Tipos de viés: seleção e de aferição. 

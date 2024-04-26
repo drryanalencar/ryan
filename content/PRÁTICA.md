@@ -4,6 +4,7 @@
 * [[CID'S MAIS COMUNS]]
 * [[Principais prescrições]]
 * [[Interpretação de exames laboratoriais]]
+* [[Ausculta Cardíaca]]
 # Casos
 * [[Brucelose]]
 * [[Pielonefrite]]

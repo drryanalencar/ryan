@@ -1,0 +1,1 @@
+é **a formação de pequenos vasos finos na pele que podem causar dor, coceira e queimaçã**

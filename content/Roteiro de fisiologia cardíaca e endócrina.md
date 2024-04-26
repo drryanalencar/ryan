@@ -1,7 +1,7 @@
 ---
 tags: []
 ---
--# Sangue 
+# Sangue 
 * Sistema de coagulação sanguínea 
 	* **Tampão plaquetário**;
 	* **1) Intrínseco x 2) extrínseco** 

@@ -1,6 +1,8 @@
 SCRIPT: Olá, bom dia, x. Eu sou o Ryan Alencar, estudante de medicina do 3° período e membro da **LIGA LAGO**, é um prazer falar com a senhora. 
 Estou encarregado de entrar em contato com nossos preceptores e verificar a disponibilidade para os plantões/práticas.
 
+Olá, boa tarde, Drª. Estamos retornando às aulas e com isso às atividades da nossa liga (LAGO). Nesse fim Abril e início de Maio, gostaria de saber se a senhora poderá ofertar oportunidades para nossos ligantes lhe acompanharem. 
+
 * Local:
 * Horário:
 * N° de ligantes:
@@ -47,9 +49,9 @@ Boa tarde Drª.Sarah. Tudo bem? Espero que a experiência com os ligantes da LAG
 Estamos entrando no período de férias, mas alguns alunos (as) continuarão disponíveis para ir para os campos, gostaria de saber se a senhora continuará conosco nesse período ou se estará ausente?
 
 
-Práticas de Março: 
+Práticas de Abril: 
 
-**Drª Sarah:** R1, 1° mês (março)são dedicados ao R1, em Abril podemos retomar. 
+**Drª Sarah:** Entrar em contato dia 05... 
 
 **Drª. Elaine Leal**
 * Local: HC SALA 7;
@@ -58,17 +60,13 @@ Práticas de Março:
 * Vestimenta: jaleco E **MÁSCARA**
 
 **Drª Rayane**
-* Maternidade - enfermaria e CC + sala de parto
-	* Enfermaria: 5:30 HR - posto 1, sala de residência. 
-		* (Felipe, Geanne e as residentes)
-	* CC + sala de parto: 7:00HR - posto 1, sala de residência.
-* 2 vagas para enfermaria e 2 para o CC
-* Vestimenta: pijama cirúrgico
+* Centro Cirúrgico, na Fundação. 
+* 1 vaga para manhã, 1 vaga para tarde. 
+* Vestimenta: pijama cirúrgico.
 * Data:
 	* Segunda à Sexta.
-
+* Obs: o ligante precisa confirmar com a doutora no PV o horário das cirurgias. 
 **Dr.Wagner** 
-* Plantão noturno na maternidade; 
+* Plantão noturno na maternidade --> HOJE, a partir das 19:30
 * 1 vaga; 
 * Vestimenta: pijama.
-* Apenas dia 22. 
