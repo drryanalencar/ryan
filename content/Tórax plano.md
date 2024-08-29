@@ -1,0 +1,1 @@
+Perde a convexidade normal da parede anterior, havendo por isso redução do diâmetro anteroposterior.

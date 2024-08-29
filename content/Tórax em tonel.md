@@ -1,0 +1,2 @@
+Aumento exagerado do diâmetro anteroposterior, horizontalização dos arcos costais e abaulamento da coluna dorsal, o que torna o tórax mais curto. É observado nos enfisematosos do tipo PP (soprador rosado) (DPOC).
+![[Pasted image 20240816194900.png]]

@@ -6,10 +6,7 @@
 
 [[Doença trofoblástica gestacional]]
 
-
-
-
-
+[[Doenças hipertensivas na gestação]]
 
 
 

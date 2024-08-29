@@ -1,3 +1,5 @@
+[[Aula 2]]
+
 Pressão alta na gravidez: durante a gravidez, **a hipertensão é caracterizada por uma pressão arterial persistentemente maior ou igual a 140/90 mmHg**.
 Pressão 140x90? 
 

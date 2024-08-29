@@ -1,0 +1,1 @@
+Pode ser causado por pneumonia, tuberculose

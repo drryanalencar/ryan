@@ -1,5 +1,6 @@
 # Arquivos 
-[[PROGRAMA Patologia I 2024 1.pdf]]
+* [[Cronograma Patologia I 2024 1.pdf]]
+* [[RESUMO PATOLOGIA N1 .pdf]]
 ## Sites
 * [Anatpat-UNICAMP](https://anatpat.unicamp.br/)
 * [Patologia (patoestomatoufrgs.com.br)](http://patoestomatoufrgs.com.br/)
@@ -9,3 +10,5 @@
 # Aulas
 * [[Adaptação celular ao crescimento e à diferenciação]]
 * [[Lesão ou injúria celular]]
+* [[Morte Celular]]
+* [[Aula prática - pigmentos]]

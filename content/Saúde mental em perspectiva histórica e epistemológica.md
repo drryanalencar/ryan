@@ -13,7 +13,7 @@
 		* Eu sou o que faço com o que fazem de mim. Com efeito, não posso mudar os fatos, mas o sentido que lhes atribuo depende de mim.
 		* Se o fato está fora do alcance da minha liberdade, o sentido que posso lhe atribuir – a maneira como o assumo para mim – está na esfera de minhas escolhas livres.
 		* Para que o sujeito fosse estritamente determinado pelos fatos, ele teria que ser igualmente um fato. 
-	* Ora, quando o sujeito age e inventa o valor, isto é, cria a norma, é como se ele estivesse prescrevendo, de forma imanente ao ato subjetivo, a norma universal inerente à sua opção, fruto da liberdade originária.
+	* Ora, quando o sujeito age e inventa o valor, isto é, cria a norma, é como se ele estivesse prescrevendo, de forma imanente ao ato subjetivo, a norma universal inerente à sua opção, fruto da liberdade originária.
 	* Compromisso com a universalidade. 
 	* Histórica e origem da ética que é inerente ao ser humano, desde que nasce livre, por sua subjetividade irá definir seus princípios éticos. 
 * [[Markus Gabriel - Eu não sou meu cérebro (completo).pdf]]

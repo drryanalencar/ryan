@@ -19,13 +19,13 @@
 			* "O lúpus dói as grandes articulações, a artrite reumatoide dói as pequenas, e aí, como é que fica?".
 	* Dispneia?
 		* "Como é que você descreve uma dispneia?"
-			* Dificuldade de respirar ao esforço, ao repouso, acompanhada ou não de sibilos, fatores de melhore e de piora, posição. 
+			* Dificuldade de respirar ao esforço, ao repouso, acompanhada ou não de sibilos, fatores de melhora e de piora, posição. 
 	* ==Caracterize a porra da dor.==
 	* Edema no abdômen? 
-			* Acúmulo do água no peritônio = ascite; 
-			* Se for na parede? 
-			* Se for só gás? Pneumoperitônio
-			* Caso não saiba especificamente: distensão abdominal. 
+		* Acúmulo do água no peritônio = ascite; 
+		* Se for na parede? 
+		* Se for só gás? Pneumoperitônio
+		* Caso não saiba especificamente: distensão abdominal. 
 ##### Versão corrigida 
 * Paciente portador de anemia falciforme...
 #### Anamnese do Paciente 2
@@ -51,7 +51,7 @@
 #### Anamnese do Paciente 4
 (José, Enfermaria B, Leito 63)
 * QP: "pele descapelada". 
-"Há 2 anos o paciente relatou ter iniciado os sintomas de pele descapelada na unidade local iniciou o tratamento com Cefalexina e Amoxilina com isso as feridas na mão pioraram. O paciente relatou dor constante nas feridas localizadas superficialmente no braço direito, especificamente no cotovelo e na mão. Em uma escala o paciente relatou uma dor de 9 em 10. Pacienta tomava analgésicos para controlar a dor. Como o tratamento não surtiu efeito, foi encaminhado para fundação, atualmente está em tratamento para Leishmaniose Cutânea Granular com medicamento não especificado e apresenta melhoras"
+"Há 2 anos o paciente relatou ter iniciado os sintomas de pele descapelada na unidade local iniciou o tratamento com Cefalexina e Amoxilina com isso as feridas na mão pioraram. O paciente relatou dor constante nas feridas localizadas superficialmente no braço direito, especificamente no cotovelo e na mão. Em uma escala o paciente relatou uma dor de 9 em 10. Pacienta tomava analgésicos para controlar a dor. Como o tratamento não surtiu efeito, foi encaminhado para fundação, atualmente está em tratamento para Leishmaniose Cutânea Granular com medicamento não especificado e apresenta melhoras".
 ##### Problemas
 * Há 2 anos... 
 	* Cuidado com as datas muito longas, dificilmente existe algum sintoma que está ocorrendo há 2 anos que irá ser motivo de uma internação. 

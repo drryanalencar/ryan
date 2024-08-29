@@ -1,0 +1,1 @@
+Inferior exageradamente alargada, lembrando um tronco de cone ou um sino. É encontrado nas hepatoesplenomegalias e ascites volumosas.
