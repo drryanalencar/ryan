@@ -27,7 +27,7 @@ Qual o papel do ácido fólico na gravidez?
 
 Faltou avaliar o grau de comprometimento neural; por exemplo, as pernas estão movendo? Isso envolve o exame neurológico da criança. 
 
-# [[Caso II]]
+# [[Caso II de Tutoria III]]
 
 # [[Caso III - Tutoria Integradora III]]
 

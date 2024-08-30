@@ -1,7 +1,14 @@
+[[Avaliação do equilíbrio Tinetti.pdf]]
+
+### Interpretação dos Resultados:
+- **Pontuação Total:** A soma das pontuações do equilíbrio e da marcha resulta em uma pontuação máxima de 28 pontos.
+    - **Baixo Risco de Queda:** 24 a 28 pontos.
+    - **Risco Moderado de Queda:** 19 a 23 pontos.
+    - **Alto Risco de Queda:** Menos de 19 pontos.
+
 ### Estrutura da Escala de Tinetti:
 
 1. **Avaliação do Equilíbrio:**
-    
     - **Itens Avaliados:**
         - Equilíbrio ao sentar.
         - Levantar da cadeira.
@@ -15,7 +22,6 @@
         - Cada item pode ser pontuado com 0, 1 ou 2 pontos, dependendo da performance do paciente.
         - A pontuação máxima para o equilíbrio é de 16 pontos.
 2. **Avaliação da Marcha:**
-    
     - **Itens Avaliados:**
         - Início da marcha.
         - Comprimento e altura do passo.
@@ -26,15 +32,6 @@
     - **Pontuação:**
         - Cada item também pode ser pontuado com 0, 1 ou 2 pontos.
         - A pontuação máxima para a marcha é de 12 pontos.
-
-### Interpretação dos Resultados:
-
-- **Pontuação Total:** A soma das pontuações do equilíbrio e da marcha resulta em uma pontuação máxima de 28 pontos.
-    - **Baixo Risco de Queda:** 24 a 28 pontos.
-    - **Risco Moderado de Queda:** 19 a 23 pontos.
-    - **Alto Risco de Queda:** Menos de 19 pontos.
-
 ### Utilização:
-
 - **Objetivo:** Identificar pacientes com risco de quedas, orientar intervenções preventivas e monitorar a eficácia de tratamentos voltados para o equilíbrio e a marcha.
 - **População:** Principalmente idosos, mas pode ser utilizada em outras populações com risco de quedas.

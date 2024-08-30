@@ -1,4 +1,5 @@
 **Conceitos**
+- **Envelhecimento:** Processo intrínseco dinâmico e progressivo no qual há modificações morfológicas, fisiológicas, bioquímicas e psicológicas que determinam perda progressiva da capacidade de adaptação do indivíduo ao meio ambiente, ocasionando maior vulnerabilidade e maior incidência de processos patológicos que terminam por levá-lo à morte.
 - **Senescência:** é o processo de envelhecimento natural, que inclui alterações fisiológicas e orgânicas que não configuram doenças. Por exemplo, a perda auditiva (presbiacusia), a diminuição da visão (presbiopia) e alguns lapsos de memória são parte da senescência.
 - **Senelidade:** refere-se ao envelhecimento acompanhado de declínios patológicos, muitas vezes associados a doenças e perda significativa de funções.
 - Eutanásia
@@ -9,6 +10,9 @@
 	- Diminui sofrimento. 
 - Distanásia (prolonga a morte)
 	- Aumenta o sofrimento;
+- Idosos jovens --> 60 a 74 anos; 
+- Idosos velhos --> 75 a 84 anos; 
+- Idosos muitos velhos --> a partir dos 85 anos. 
 ---
 
 1. Demoepidemiologia
@@ -16,9 +20,17 @@
 		1. Demográfica: mais idosos, menos jovens. Taxas de natalidade e mortalidade. Queda da natalidade e Queda da mortalidade. (Pode ler-se também: a transição demográfica no Brasil é marcada pela redução da fecundidade e da mortalidade, levando ao envelhecimento populacional.)
 		2. Transição epidemiológica: mudanças no perfil de doenças da população. Do predomínio de doenças infecciosas e parasitárias para doenças crônicas e degenerativas.
 	2. A velocidade do envelhecimento que vem ocorrendo no Brasil, é muito acima da experimentada pelos países desenvolvidos.
-	3. A população muito idosa, acima de 80 anos, é o segmento populacional que proporcionalmente mais cresce atualmente no Brasil. Reflete a tendência de aumento na longevidade.
+	3. A população muito idosa, acima de 80-85 anos, é o segmento populacional que proporcionalmente mais cresce atualmente no Brasil, e neste segmento prevalece o sexo feminino. Isso reflete a tendência de aumento na longevidade.
 	4. O Brasil será o sexto país com mais idosos no mundo.
+	5. A região norte concentra a menor taxa de idosos do país 10,2%. (IBGE, 2022)
+	6. Sudeste tem o maior percentual de idosos, com 17%. (IBGE, 2022)
+	7. Urbanização da velhice : na década de 1940, apenas 20% viviam em regiões urbanas e em menos de 40 anos, ela passa a ser eminentemente urbana.
+	8. Doenças cujo principal fator de risco é a idade tendem a elevar a sua prevalência ( Doença de Alzheimer).
+	9. 2025 : 36 milhões idosos - 6º país mundial .
 2. **Avaliação funcional do idoso** vai além do simples diagnóstico de doenças, focando na capacidade de realizar atividades do dia a dia e manter a independência. Nessa avaliação, é rastreado o risco de quedas, de depressão, demência, isolamento social, autonomia. Ajuda a promover a saúde. 
+	1. Autonomia: capacidade de decisão, depende da cognição e do humor. 
+	2. Independência: capacidade de execução, depende da mobilidade e comunicação. 
+	3. A **velocidade da marcha**, nesse aspecto, apresenta-se como uma dos melhores testes para predizer declínio funcional, fragilidade, quedas, risco de institucionalização e morbimortalidade no idoso. 
 3. **Quedas** 
 	1. Fatores de risco intrínsecos para quedas:
 		1. Demências;
@@ -57,61 +69,116 @@
 			3. Úlceras por pressão;
 			4. Institucionalização.
 	4. A história de quedas anteriores é um dos principais preditores de quedas futuras.
-	5. Paciente com confusão mental, em uso de diuréticos, antihipertensivos, antipsicóticos e antidepressivos tricíclicos. Relata diminuição da acuidade visual, incontinência urinária e inatividade física. No exame físico observa-se desequilíbrio postural, manchas arroxeadas nos braços e na região do tórax. 
+	5. Paciente com confusão mental, em uso de diuréticos, anti-hipertensivos, antipsicóticos e antidepressivos tricíclicos. Relata diminuição da acuidade visual, incontinência urinária e inatividade física. No exame físico observa-se desequilíbrio postural, manchas arroxeadas nos braços e na região do tórax. 
+	6. Caso clínico:
+		1. Fatores intrínsecos: 
+			1. Paciente muito idoso (85 anos); histórico de quedas, diminuição da acuidade visual. Fatores comportamentais: uso de Hidroclorotiazida, um diurético, Diazepam e Amitripilina. 
+		2. Fatores extrínsecos: mora sozinho, Iluminação inadequada, casa de madeira.
 4. O cuidador de idosos
 	1. Atuar como elo entre a pessoa cuidada, a família e a equipe de saúde.
 5. Escalas e o GRANDE TÓPICO AGA 
-	1. Escala de Katz: avalia as atividades relacionadas ao autocuidado, como alimentar-se, banhar-se, vestir-se, transferir-se, controle esfincteriano. 
-	2. Escala de Zarit: avalia a sobrecarga do cuidado de idosos. Ela mede o impacto físico, emocional, social e financeiro de cuidar de uma pessoa idosa. 
-	3. Test Get Up And Go: avalia a mobilidade e o equilíbrio. Usado para ver o risco de quedas. Levantar se da cadeira, andar 3 metros, girar e retornar para a cadeira e sentar se novamente.
-		1. <10 segundos: normal;
-		2. 11-20 segundos: risco de queda, ausência de distúrbio de marcha (senescência/dependência parcial);
-		3. .> 20 segundos: Risco muito alto de queda, presença de distúrbio de marcha/déficit de mobilidade.
-	4. Escala de Lawton: Atividades Instrumentais da Vida Diária (AIVDs), como usar o telefone, fazer compras, preparar refeições, realizar tarefas domésticas, lavar roupas, controlar finanças.
-	5. Escala de VES 13: avalia o risco de declínio funcional ou morte em curto tempo.
-	6. [[Miniexame do Estado Mental (MEEM)]]:
-		1. Avaliar a função cognitiva dos idosos: orientação temporal e espacial, registro, atenção e cálculo, recordação, linguagem e habilidades visuoconstrutivas
-		2. Mandatória a realização:
-			1. Avaliação Geriátrica Abrangente;
-			2. Suspeita de Comprometimento Cognitivo;
-			3. Pré-Operatório de Idosos;
-			4. Avaliação de Capacidade de Tomada de Decisão.
-	7. Avaliação Cognitiva de Montreal (MOCA) analisa algumas habilidades cognitivas, como atenção, funções executivas, memória, linguagem, habilidades visuoconstrutivas e orientação. 
-	8. Teste do relógio: avalia as funções executivas e a habilidade visuoespacial. 
-	9. Teste de fluência verbal. 
-	10. Escala geriátrica da depressão
-		1. Normal Até 5
-		2. 6 a 10 pontos - indica depressão leve
-		3. 11 a 15 pontos - depressão severa
-		4. Informações SLIDE: >10 Depressão modera a grave.
-	11. Velocidade da marcha;
-		1. 0,8 m/s: ↓ sobrevida em idosos.  > 1m/s saudáveis; > 1,3 m/s excelente forma física,
-	12. Apgar familiar.
-	13. Escala de Fried: avalia a fragilidade física do idoso: perda de peso não intencional, exaustão, fraqueza muscular, baixa atividade física e velocidade de marcha reduzida.
-	14. [[Escala de Tinneti]]:
-	15. Avaliação nutricional; 
+	1. Estado físico, nutricional, mental, funcional e social.  ![[Pasted image 20240828130705.png]]
+		1. Realizar quando: 
+			1. 1º vez; 
+			2. Periodicamente a partir dos 80 anos; 
+			3. Situações de risco:
+				1. Perda de peso; 
+				2. Alteração significativas do modo de vida; 
+				3. Institucionalização. 
+	2. Avaliação da funcionalidade
+		1. [[Escala de Katz]]: avalia as atividades relacionadas ao autocuidado, como alimentar-se, banhar-se, vestir-se, transferir-se, controle esfincteriano.
+		2. [[Escala de Lawton]]: Atividades Instrumentais da Vida Diária (AIVDs), como usar o telefone, fazer compras, preparar refeições, realizar tarefas domésticas, lavar roupas, controlar finanças.
+	3. Avaliação da mobilidade
+		1. Test Get Up And Go: avalia a mobilidade e o equilíbrio. Usado para ver o **risco de quedas**. Levantar se da cadeira, andar 3 metros, girar e retornar para a cadeira e sentar se novamente.
+			1. <10 segundos: normal;
+			2. 11-20 segundos: risco de queda, ausência de distúrbio de marcha (senescência/dependência parcial);
+			3. .> 20 segundos: Risco muito alto de queda, presença de distúrbio de marcha/déficit de mobilidade.
+		2. Velocidade da marcha;
+			1. 0,8 m/s: ↓ sobrevida em idosos.  > 1m/s saudáveis; > 1,3 m/s excelente forma física.
+			2. Risco de queda VM 0,7 a 1,0 m/s 
+			3. Risco cinco vezes maior de sofrer queda VM < 0,7 m
+		3. [[Escala de Tinneti]]:
+		4. Teste de sentar e levantar (TSL): avalia o equilíbrio do idoso ao sentar e levantar, às vezes ele pode buscar apoio por exemplo. 
+			1. 5 pontos = Sem apoio; 
+	4. Avaliação do humor
+		1. [[Miniexame do Estado Mental (MEEM)]]:
+			1. Avaliar a função cognitiva dos idosos: orientação temporal e espacial, registro, atenção e cálculo, recordação, linguagem e habilidades visuoconstrutivas
+			2. Mandatória a realização:
+				1. Avaliação Geriátrica Abrangente;
+				2. Suspeita de Comprometimento Cognitivo;
+				3. Pré-Operatório de Idosos;
+				4. Avaliação de Capacidade de Tomada de Decisão.
+		2. Escala geriátrica da depressão de Yesavage
+			3. Normal Até 5
+			4. 6 a 10 pontos - indica depressão leve
+			5. 11 a 15 pontos - depressão severa
+			6. Informações SLIDE: >10 Depressão modera a grave.
+		3. [[Patient Health Questionnaire-9 (PHQ-9)]]: avaliar a presença e gravidade dos sintomas de depressão em indivíduos.
+		4. Patient Health Questionaire-2: pontuação acima ou igual a 3 pontos significa rastreamento positivo para depressão. 
+	5. Avaliação cognitiva e executiva
+		7. [[Avaliação Cognitiva de Montreal (MOCA)]] analisa algumas habilidades cognitivas, como atenção, funções executivas, memória, linguagem, habilidades visuoconstrutivas e orientação. 
+			1. **Essa escala deve ser usada preferencialmente em idosos com alta escolaridade**
+		8. Teste do relógio: avalia as funções executivas e a habilidade visuoespacial. Avalia a **cognição**. 
+			1. Avaliação de 0 a 5. 
+		9. Teste de fluência verbal: informações acerca da capacidade de armazenamento do sistema de memória semântica. 
+			10. Até 9 palavras (<8 anos de escolaridade); 
+			11. Mais que 13 palavras (> 8 anos de escolaridade)
+		10. [[Bateria Breve de Rastreio Cognitivo (BBRC)]]: escala para ser aplicada de forma rápida. 
+			1. Teste de figuras: mostra umas imagens e ver quais desenhos ele lembra. 
+	6. Avaliação nutricional; 
 		1. CP;
 			1. .> ou igual a 31 cm;
 		2. Força da preensão palmar;
-		3. Circunferência da cintura
+		3. Circunferência da cintura: riscos aumentados para problemas cardíacos se:
 			1. .>80 e >90 cm homens;
-	16. Padrão de sono;
-	17. Inventário medicamentoso;
-	18. Estado físico, nutricional, mental, funcional e social. ![[Pasted image 20240828130705.png]]
-6. Índice de Vulnerabilidade Clínico Funcional - 20 (IVCF-20)
-	1. Idoso robusto;
-	2. Idoso em risco de fragilização;
+		4. IMC IDOSOS
+			1. <22 baixo peso;
+			2. .> 22 e < 27: eutrófico; 
+			3. .>27 sobrepeso.
+		6. [[Mini Avaliação Nutricional MNA]]
+			1. Triagem nutricional: feita para avaliar a possibilidade de desnutrição. Se a pontuação for de 11 pontos continuar a avaliação. 
+	7. [[Apgar familiar]]
+	8. Escala de Fried: avalia a fragilidade física do idoso: perda de peso não intencional, exaustão, fraqueza muscular, baixa atividade física e velocidade de marcha reduzida.
+		1. Nenhum = robusto; 
+		2. 1 - 2 pré-frágil; 
+		3. 3 ou mais = frágil. 
+	9. [[Escala de Zarit]]: avalia a sobrecarga do cuidado de idosos. Ela mede o impacto físico, emocional, social e financeiro de cuidar de uma pessoa idosa. 
+	10. Escala de VES 13: avalia o risco de declínio funcional ou morte em curto tempo.
+	11. Padrão da alimentação
+	12. Padrão de sono;
+	13. Inventário medicamentoso;
+	14. Avaliação da audição
+		1. Avalição subjetiva; 
+		2. Avaliação objetiva; 
+			1. [[Teste do sussurro]]
+	15. Incontinência urinária
+6. [[Índice de Vulnerabilidade Clínico Funcional - 20 (IVCF-20)]]
+	1. Idoso robusto (0 a 6)
+	2. Idoso em risco de fragilização (7 a 14);
 		1. Em processo de senescência e senilidade;
 		2. Comorbidades, sacorpenia, vulnerabilidade sócio-familiar.
-	3. Idoso Frágil
+	3. Idoso Frágil (>=15)
 		1. Dependência funcional;
 		2. Já apresenta síndromes geriátricas: incapacidade cognitiva, instabilidade postural, imobilidade, iatrogenia, incontinência e incapacidade comunicativa. 
-7. Cascata farmacológica iatrogênica: situação onde o efeito adverso de um fármaco é interpretado de forma equivocada, exigindo prescrição de outro fármaco. 
+		![[Pasted image 20240830155513.png]]
+7. Síndromes geriátricas
+	1. Imobilidade
+	2. Instabilidade postural 
+	3. Incontinência esfincteriana
+	4. Insuficiência cognitiva 
+	5. Incapacidade comunicativa 
+	6. Iatrogenia
+	7. Insuficiência familiar
+8. Cascata farmacológica iatrogênica: situação onde o efeito adverso de um fármaco é interpretado de forma equivocada, exigindo prescrição de outro fármaco. 
 	7. ![[Pasted image 20240828102736.png]]
-8. Violência contra a pessoa idosa:
+	8. Caso clínico: 
+		1. Paciente, hipertenso de 79 anos, comparece à consulta com a única queixa de que suas pernas estão ficando inchadas. Tem antecedentes de hipertensão arterial e está em uso de losartana 50 mg 1 x dia, hidroclorotiazida 25 mg 1 x dia de manhã e anlodipina 10 mg 1 x dia. Relata aferir a pressão arterial em casa e encontra-se normal. O médico prescreve para ele furosemida 40 mg 1 cp de manhã. Semanas depois, no retorno, Carlos relata que começou a sentir-se muito tonto ao levantar-se e mostra uma cicatriz na região frontal devido a uma queda há 3 dias, ocasionada por um desmaio devido a hipotensão.
+			1. Furosemida: um diurético, pode provocar redução excessiva na pressão arterial. 
+			2. Por isso é importante adequar as doses e os fármacos ao receitá-los para pessoa idosa, porque o cuidado precisa ser individualizado, a fim de evitar efeitos colaterais negativos e danosos. Isso também é necessário, porque os remédios são feitos com base na farmacodinâmica e farmacocinética do adulto e não da pessoa idosa. 
+9. **Violência contra a pessoa idosa:**
 	1. Tipos de violência contra a pessoa idosa:
 		1. Negligência: ocorre quando há falha em prover cuidados básicos e necessários para o bem-estar da idosa, como higiene, alimentação, cuidados médicos e proteção
-		2. Violência psicológica: A violência psicológica envolve comportamentos que causam sofrimento emocional, humilhação, ou isolamento.
+		2. Violência psicológica: A violência psicológica envolve comportamentos que causam sofrimento emocional, humilhação, ou isolamento. (P.ex.: "velha suja e imprestável").
 		3. Violência física;
 		4. Violência sexual;
 		5. Violência financeira ou patrimonial: uso indevido ou ilegal dos recursos financeiros ou patrimoniais da pessoa idosa;
@@ -125,7 +192,10 @@
 		4. Dependência financeira.
 	3. Predominante nos domicílios. 
 	4. A causa mais frequente de violência é a é a **negligência**. A negligência ocorre quando há uma falha em atender as necessidades básicas do idoso, seja de forma intencional ou não.
-9. **Cuidados paliativos**
+	5. Caso clínico:
+		1. Quando questionada sobre ingesta líquida, paciente conta que sempre pede água as cuidadoras, mas elas recusam a oferta hídrica, porque depois ela urina muito e fica difícil trocar as fraldas muitas vezes ao dia.
+			1. Negligência institucional e familiar. 
+10. **Cuidados paliativos**
 	1. Critérios para iniciar os cuidados paliativos:
 		1. Diagnóstico de Doença Grave e Avançada: câncer em estágio avançado (metastático IV), doenças cardíacas avançadas, doenças pulmonares crônicas (O2 <88%) ou doenças neurodegenerativas. Doenças hepáticas (C>6) e hepáticas (TP >5).
 			1. Síndrome da fragilidade. 
@@ -148,7 +218,7 @@
 		4. Sonda nasográstica: administração de líquidos e medicamentos, o caninho vai pelo nariz até o estômago. (Sem evidências de benefício)
 		5. Gastrotomia (Via enteral): tubo inserido estômago a partir de uma incisão na parede abdominal, usado para administração de líquidos e alimentos a longo prazo. (Sem evidências de benefício)
 	4. A Tendência mundial atual, e de organizar no domicilio a atenção aos doentes em estágio terminal e transferir os cuidados paliativos para APS.
-10. Alterações farmaccinéticas e farmacodinânicas próprias do envelhecimento: 
+11. Alterações farmaccinéticas e farmacodinânicas próprias do envelhecimento: 
 	 ![[Pasted image 20240828115340.png]]
 	 - Com o envelhecimento, ocorre um aumento proporcional da massa de gordura corporal em relação à massa magra. Benzodiazepínicos, que são lipofílicos, tendem a se acumular no tecido adiposo, o que prolonga sua meia-vida nos idosos.
 11. Níveis de atenção:
