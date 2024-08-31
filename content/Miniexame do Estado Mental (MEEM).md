@@ -1,6 +1,6 @@
 <24 altamente escolarizado: possível Demência 
 <18 ensino fundamental : possível Demência 
-<14 Analfabeto : possível Demência
+<14 analfabeto : possível Demência
 
 - Orientação
 - Registro
