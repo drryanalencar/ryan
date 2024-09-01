@@ -10,6 +10,7 @@
 	- Diminui sofrimento. 
 - Distanásia (prolonga a morte)
 	- Aumenta o sofrimento;
+- Mistanasia: a morte precoce, miserável e evitável como consequência da violação do direito à saúde;
 - Idosos jovens --> 60 a 74 anos; 
 - Idosos velhos --> 75 a 84 anos; 
 - Idosos muitos velhos --> a partir dos 85 anos. 
@@ -236,8 +237,9 @@
 	7. [[Caso Clínico de Sonolência e Risco de Quedas em Paciente Idosa com Polifarmácia]]
 	8. [[Caso Clínico de Polifarmácia e Uso Prolongado de Medicamentos Potencialmente Inapropriados em Paciente Idosa]]
 	9. [[Caso Clínico de Quedas Recorrentes e Polifarmácia em Paciente Idosa com Demência Mista]]
-1. **Violência contra a pessoa idosa:**
-	1. Tipos de violência contra a pessoa idosa:
+7. **Violência contra a pessoa idosa:**
+	1. Objeto de notificação compulsória;
+	2. Tipos de violência contra a pessoa idosa:
 		1. Negligência: ocorre quando há falha em prover cuidados básicos e necessários para o bem-estar da idosa, como higiene, alimentação, cuidados médicos e proteção
 		2. Violência psicológica: A violência psicológica envolve comportamentos que causam sofrimento emocional, humilhação, ou isolamento. (P.ex.: "velha suja e imprestável").
 		3. Violência física;
@@ -246,50 +248,117 @@
 		6. Violência social: restringir o contato com familiares, amigos ou a comunidade;
 		7. Violência institucional: negligência institucional, maus-tratos por parte de funcionários, falta de cuidados adequados, e violações de direitos humanos básicos;
 		8. Autonegligência: não cuidar de si mesmo, não manter a higiene pessoal, não seguir prescrições médicas ou viver em condições insalubres.
-	2. Fatores de risco
+	3. Fatores de risco
 		1. Dependência física ou cognitiva;
 		2. Isolamento social; 
 		3. Ambiente familiar tenso ou abusivo;
 		4. Dependência financeira.
-	3. Predominante nos domicílios. 
-	4. A causa mais frequente de violência é a é a **negligência**. A negligência ocorre quando há uma falha em atender as necessidades básicas do idoso, seja de forma intencional ou não.
-	5. Caso clínico:
+	4. Predominante nos domicílios. 
+	5. A causa mais frequente de violência é a é a **negligência**. A negligência ocorre quando há uma falha em atender as necessidades básicas do idoso, seja de forma intencional ou não.
+	6. Caso clínico:
 		1. Quando questionada sobre ingesta líquida, paciente conta que sempre pede água as cuidadoras, mas elas recusam a oferta hídrica, porque depois ela urina muito e fica difícil trocar as fraldas muitas vezes ao dia.
 			1. Negligência institucional e familiar. 
-2. **Cuidados paliativos**
-	1. Critérios para iniciar os cuidados paliativos:
-		1. Diagnóstico de Doença Grave e Avançada: câncer em estágio avançado (metastático IV), doenças cardíacas avançadas, doenças pulmonares crônicas (O2 <88%) ou doenças neurodegenerativas. Doenças hepáticas (C>6) e hepáticas (TP >5).
-			1. Síndrome da fragilidade. 
-				1. Idas frequentes ao PS; 
-				2. Comprometimento nutricional >10% em 6 meses. 
-				3. Recusa de alimentação; 
-				4. Incontinências;
-				5. Albumina <2,5 e CT < 155.  
-				6. Úlceras de decúbito. 
-				7. Confinamento ao leito / domicílio.
-				8. Desempenho funcional em declínio. (Físico, cuidados)
-			2. Pneumonia aspirativa; 
-			3. Infecção do trato urinário.
-		2. Sintomas complexos e desafiadores: dor intensa, falta de ar, náuseas ou fadiga. 
-	2. Paciente portadora de ICC, demência vascular, ITUS recorrentes e de dois episódio de PNM. Idas recorrentes a UPA, com síndrome da fragilidade (desempenho funcional em declínio, com AIVD baixo e AVD), demência reforçada pelo MEEM de 0/30, perda de peso nos últimos 6 meses, acamada há 3 anos, incontinência urinária e albumina <2,5 mg. 
-	3. Pacientes com a via oral comprometidas: (terapia de suporte, manejo sintomático)
+8. Insuficiência familiar
+	1. Baixo apoio social e vínculo familiar prejudicado.
+	2. ![[Pasted image 20240831185431.png]]
+	3. ![[Pasted image 20240831185637.png]]
+9. **Cuidados paliativos**
+	1. Pilares
+		1. Comunicação adequada;
+		2. Controle impecável dos sintomas;
+		3. Apoio à família;
+		4. Trabalho em equipe.
+	2. A Tendência mundial atual, e de organizar no domicilio a atenção aos doentes em estágio terminal e transferir os cuidados paliativos para APS.
+	3. Critérios para iniciar os cuidados paliativos:
+		1. Diagnóstico de Doença Grave e Avançada: câncer em estágio avançado (metastático IV), doenças cardíacas avançadas, doenças pulmonares crônicas (O2 <88%) ou doenças neurodegenerativas. Doenças renais (C>6) e hepáticas (TP >5).
+		2. Síndrome da fragilidade. 
+			1. Idas frequentes ao PS; 
+			2. Comprometimento nutricional >10% em 6 meses. 
+			3. Recusa de alimentação; 
+			4. Incontinências;
+			5. Albumina <2,5 e CT < 155.  
+			6. Úlceras de decúbito. 
+			7. Confinamento ao leito / domicílio.
+			8. Desempenho funcional em declínio. (Físico, cuidados)
+		3. Pneumonia aspirativa; 
+		4. Infecção do trato urinário.
+		5. Sintomas complexos e desafiadores: dor intensa, falta de ar, náuseas ou fadiga. 
+		6. Demência 
+			1. Critérios de gravidade: 
+				1. FAST 6C: incapacidade de se vestir, lavar ou comer sem ajuda. 
+				2. FAST 6D-E: dupla incontinência ou incapacidade de falar/comunicar com sentido. 
+			2. Critérios de progressão: perda de 2 ou mais ABVD nos últimos 6 meses. 
+			3. Critérios de uso de recursos: múltiplas internações nos últimos 12 meses. 
+	4. [[Escala FAST]]
+	5. Escalas prognósticas
+		1. [[Escala de Avaliação Funcional de Karnofsky]]
+		2. Eastern Cooperative Oncology Group (ECOG)
+		3. [[Escala de Performance Paliativa (PPS)]]
+		4. [[Índice Prognóstico Paliativo (PPI)]]
+		5. Pergunta Surpresa / Indicadores Gerais e Específicos
+			1. Você ficaria surpreso se o paciente morresse nos próximos 6 a 12 m?
+	6. [[Escala de Avaliação de Sintomas de Edmonton (ESAS)]]
+	7. Sinais e sintomas nas últimas 48 horas de vida
+		1. Diminuição da alimentação por via oral; 
+		2. Imobilidade e alteração do nível de consciência (delirium/sonolência)
+		3. Exacerbação de sintomas basais como dor... 
+		4. Alterações respiratórias (ritmo de Cheynne Stokes e Ronco da morte (Sororoca)); 
+		5. Pele fria, cianose, hipotensão, bradicardia, diminuição da perfusão; 
+		6. Mioclonias e convulsões. 
+	8. Manejo de pacientes com a via oral comprometidas: (terapia de suporte, manejo sintomático)
 		1. Via enteral; 
 		2. Subcutânea; 
 		3. Intra-venosa; 
 		4. Sonda nasográstica: administração de líquidos e medicamentos, o caninho vai pelo nariz até o estômago. (Sem evidências de benefício)
 		5. Gastrotomia (Via enteral): tubo inserido estômago a partir de uma incisão na parede abdominal, usado para administração de líquidos e alimentos a longo prazo. (Sem evidências de benefício)
-	4. A Tendência mundial atual, e de organizar no domicilio a atenção aos doentes em estágio terminal e transferir os cuidados paliativos para APS.
-3. Níveis de atenção:
+	9. Manejo da Dor
+		1. Iniciar e prosseguir devagar; 
+		2. Dosagem baseada na resposta ao medicamento; 
+		3. Pacientes com demência apresentam maior sensibilidade aos efeitos colaterais;
+		4. Via menos invasiva possível; 
+		5. Observação de ações que desencadeiam a dor;
+		6. A maior parte das dores de pacientes com demência podem ser resolvidas com medicamentos preconizados para o primeiro grau. 
+		7. ![[Pasted image 20240831182443.png]]
+		8. A prescrição de corticoides é recomendada para dor óssea e oncológica. 
+		9. A prescrição de anticonvulsionantes é recomendada para dor neuropática. 
+	10. Diretivas Antecipadas de Vontade (DAVs): instrumento que permite à pessoa registrar sua vontade caso uma doença se agrave e ela não possa mais responder por si mesma. 
+	11. Caso clínico de uma paciente que necessita de cuidados paliativos:
+		1. Paciente portadora de ICC, demência vascular, ITUS recorrentes e de dois episódio de PNM. Idas recorrentes a UPA, com síndrome da fragilidade (desempenho funcional em declínio, com AIVD baixo e AVD), demência reforçada pelo MEEM de 0/30, perda de peso nos últimos 6 meses, acamada há 3 anos, incontinência urinária e albumina <2,5 mg. 
+10. Rede de atenção à saúde da pessoa idosa
+	1. Instituições de Longa Permanência para Idosos (ILPI'S)
+		1. Modalidade I: destinada a idosos independentes. 
+		2. Modalidade II: destinada a idosos independentes e dependentes que necessitem de cuidados especializados. 
+		3. Modalidade III: destinada a idosos dependentes que necessitem de assistência total. 
+	2. ![[Pasted image 20240831225740.png]]
+	3. Atenção primária
+	4. Leitos de cuidados paliativos; centros-dia e Programa de Assistência Domiciliar ao Idoso (PADI).
+	5. Centros de Referência de Assistência Social (CRAS).
+	6. Centros de Atenção Psicossocial (CAPS).
+11. **Níveis de atenção:**
 	1. Primária: desestimular o tabagismo;
 	2. Secundária: screning anual de câncer de mama acima dos 40 anos (detecção precoce de doenças)
 	3. Terciária: reabilitação de um paciente com sequelas de AVC (gestão e tratamento de condições crônicas para minimizar o impacto da doença e melhorar a qualidade de vida do paciente)
 	4. Quaternária: evitar realizar procedimentos invasivos desnecessários (evitar intervenções médicas que possam causar mais danos do que benefícios, e reduzir a sobrecarga de tratamentos desnecessários). 
-4. Informações gerais
+12. Estatuto da pessoa idosa
+	1. Artigo 1º: Define a pessoa idosa como todo cidadão com 60 anos ou mais.
+	2. Prioridade especial ao maiores de 80 anos.
+	3. Art. 12: A obrigação alimentar é solidária... Art. 14: Se o idoso ou seus familiares não puderem prover o sustento, cabe ao Poder Público essa responsabilidade.
+	4. Direito a acesso gratuito no transporte público acima de 65 anos;
+13. Informações gerais
 	1. **Câncer de cólon:** O rastreamento para câncer de cólon é recomendado a partir dos 45 anos para a população geral, e é particularmente importante para pessoas na faixa etária do paciente.
 	3. Condições que podem comprometer a capacidade funcional dos pacientes idosos:
 		1. Fraqueza Muscular; Declínio Cognitivo; Problemas de Mobilidade e Equilíbrio; Incontinência Urinária; Desnutrição ou Perda de Peso Inexplicada. 
 	4. Rastreamento e Diagnóstico precoce:
 		1. O rastreamento consiste na aplicação de testes ou exames em pessoas assintomáticas, mas que pertencem a grupos de risco para certas doenças. Um exemplo comum é a mamografia para a detecção precoce do câncer de mama em mulheres acima de certa idade.
 		2. O diagnóstico precoce refere-se à identificação de uma doença nos estágios iniciais de sua manifestação, geralmente após a detecção de sinais ou sintomas iniciais, mas ainda em uma fase em que o tratamento pode ser mais eficaz.
-	5. O cuidador de idosos
+	5. **O cuidador de idosos**
 		1. Atuar como elo entre a pessoa cuidada, a família e a equipe de saúde.
+		2. Estresse entre cuidadores
+			1. Fatores contribuintes:
+				1. Atenção contínua ao paciente;
+				2. Relação direta com o paciente; 
+				3. Necessidade de esforços maiores à medida que sua capacidade funcional diminui. 
+				4. Desgastes
+					1. Físico; 
+					2. Psicológicos;
+					3. Sociais.

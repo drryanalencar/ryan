@@ -1,0 +1,1 @@
+[[Escala de Avaliação de Sintomas de Edmonton (ESAS).pdf]]
