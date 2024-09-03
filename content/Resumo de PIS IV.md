@@ -1,5 +1,5 @@
 **Conceitos**
-- **Envelhecimento:** Processo intrínseco dinâmico e progressivo no qual há modificações morfológicas, fisiológicas, bioquímicas e psicológicas que determinam perda progressiva da capacidade de adaptação do indivíduo ao meio ambiente, ocasionando maior vulnerabilidade e maior incidência de **processos** patológicos que terminam por levá-lo à morte.
+- **Envelhecimento:** Processo intrínseco dinâmico e progressivo no qual há modificações morfológicas, fisiológicas, bioquímicas e psicológicas que determinam **perda progressiva da capacidade de adaptação do indivíduo ao meio ambiente,** ocasionando maior vulnerabilidade e maior incidência de processos patológicos que terminam por levá-lo à morte.
 - **Senescência:** é o processo de envelhecimento natural, que inclui alterações fisiológicas e orgânicas que não configuram doenças. Por exemplo, a perda auditiva (presbiacusia), a diminuição da visão (presbiopia) e alguns lapsos de memória são parte da senescência.
 - **Senelidade:** refere-se ao envelhecimento acompanhado de declínios patológicos, muitas vezes associados a doenças e perda significativa de funções.
 - Eutanásia
@@ -10,7 +10,7 @@
 	- Diminui sofrimento. 
 - Distanásia (prolonga a morte)
 	- Aumenta o sofrimento;
-- Mistanasia: a morte precoce, miserável e evitável como consequência da violação do direito à saúde;
+- Mistanásia: a morte precoce, miserável e evitável como consequência da violação do direito à saúde;
 - Idosos jovens --> 60 a 74 anos; 
 - Idosos velhos --> 75 a 84 anos; 
 - Idosos muitos velhos --> a partir dos 85 anos. 
@@ -18,7 +18,6 @@
 - Farmacodinâmica: ação do medicamento no corpo. 
 - Polifarmácia: uso de 5 ou mais medicamentos. 
 ---
-
 1. **Demoepidemiologia**
 	1. Transição epidemiológica e demográfica: 
 		1. Demográfica: mais idosos, menos jovens. Taxas de natalidade e mortalidade. Queda da natalidade e Queda da mortalidade. (Pode ler-se também: a transição demográfica no Brasil é marcada pela redução da fecundidade e da mortalidade, levando ao envelhecimento populacional.)
@@ -60,6 +59,14 @@
 		4. Teste de sentar e levantar (TSL): avalia o equilíbrio do idoso ao sentar e levantar, às vezes ele pode buscar apoio por exemplo. 
 			1. 5 pontos = Sem apoio; 
 	4. Avaliação do humor
+		2. [[Escala geriátrica da depressão de Yesavage]]
+			3. Normal Até 5
+			4. 6 a 10 pontos - indica depressão leve
+			5. 11 a 15 pontos - depressão severa
+			6. Informações SLIDE: >10 Depressão moderada a grave.
+		3. [[Patient Health Questionnaire-9 (PHQ-9)]]: avaliar a presença e gravidade dos sintomas de depressão em indivíduos.
+		4. [[Patient Health Questionaire-2]]: pontuação acima ou igual a 3 pontos significa rastreamento positivo para depressão. 
+	5. Avaliação cognitiva e executiva
 		1. [[Miniexame do Estado Mental (MEEM)]]:
 			1. Avaliar a função cognitiva dos idosos: orientação temporal e espacial, registro, atenção e cálculo, recordação, linguagem e habilidades visuoconstrutivas
 			2. Mandatória a realização:
@@ -67,24 +74,16 @@
 				2. Suspeita de Comprometimento Cognitivo;
 				3. Pré-Operatório de Idosos;
 				4. Avaliação de Capacidade de Tomada de Decisão.
-		2. Escala geriátrica da depressão de Yesavage
-			3. Normal Até 5
-			4. 6 a 10 pontos - indica depressão leve
-			5. 11 a 15 pontos - depressão severa
-			6. Informações SLIDE: >10 Depressão modera a grave.
-		3. [[Patient Health Questionnaire-9 (PHQ-9)]]: avaliar a presença e gravidade dos sintomas de depressão em indivíduos.
-		4. Patient Health Questionaire-2: pontuação acima ou igual a 3 pontos significa rastreamento positivo para depressão. 
-	5. Avaliação cognitiva e executiva
-		7. [[Avaliação Cognitiva de Montreal (MOCA)]] analisa algumas habilidades cognitivas, como atenção, funções executivas, memória, linguagem, habilidades visuoconstrutivas e orientação. 
+		2. [[Avaliação Cognitiva de Montreal (MOCA)]] analisa algumas habilidades cognitivas, como atenção, funções executivas, memória, linguagem, habilidades visuoconstrutivas e orientação. 
 			1. **Essa escala deve ser usada preferencialmente em idosos com alta escolaridade**
-		8. Teste do relógio: avalia as funções executivas e a habilidade visuoespacial. Avalia a **cognição**. 
+		3. Teste do relógio: avalia as funções executivas e a habilidade visuoespacial. Avalia a **cognição**. 
 			1. Avaliação de 0 a 5. 
-		9. Teste de fluência verbal: informações acerca da capacidade de armazenamento do sistema de memória semântica. 
+		4. [[Teste de fluência verbal]]: informações acerca da capacidade de armazenamento do sistema de memória semântica. 
 			10. Até 9 palavras (<8 anos de escolaridade); 
 			11. Mais que 13 palavras (> 8 anos de escolaridade)
-		10. [[Bateria Breve de Rastreio Cognitivo (BBRC)]]: escala para ser aplicada de forma rápida. 
+		5. [[Bateria Breve de Rastreio Cognitivo (BBRC)]]: escala para ser aplicada de forma rápida. 
 			1. Teste de figuras: mostra umas imagens e ver quais desenhos ele lembra. 
-	6. Avaliação nutricional; 
+	7. Avaliação nutricional; 
 		1. CP;
 			1. .> ou igual a 31 cm;
 		2. Força da preensão palmar;
@@ -96,22 +95,22 @@
 			3. .>27 sobrepeso.
 		6. [[Mini Avaliação Nutricional MNA]]
 			1. Triagem nutricional: feita para avaliar a possibilidade de desnutrição. Se a pontuação for de 11 pontos continuar a avaliação. 
-	7. [[Apgar familiar]]
-	8. Escala de Fried: avalia a fragilidade física do idoso: perda de peso não intencional, exaustão, fraqueza muscular, baixa atividade física e velocidade de marcha reduzida.
+	8. [[Apgar familiar]]
+	9. Escala de Fried: avalia a fragilidade física do idoso: perda de peso não intencional, exaustão, fraqueza muscular, baixa atividade física e velocidade de marcha reduzida.
 		1. Nenhum = robusto; 
 		2. 1 - 2 pré-frágil; 
 		3. 3 ou mais = frágil. 
-	9. [[Escala de Zarit]]: avalia a sobrecarga do cuidado de idosos. Ela mede o impacto físico, emocional, social e financeiro de cuidar de uma pessoa idosa. 
-	10. Escala de VES 13: avalia o risco de declínio funcional ou morte em curto tempo.
-	11. Padrão da alimentação
-	12. Padrão de sono;
-	13. Inventário medicamentoso;
-	14. Avaliação da audição
+	10. [[Escala de Zarit]]: avalia a sobrecarga do cuidado de idosos. Ela mede o impacto físico, emocional, social e financeiro de cuidar de uma pessoa idosa. 
+	11. [[Escala de VES 13]]: avalia o risco de declínio funcional ou morte em curto tempo. Identificar idosos vulneráveis. Risco de morte em 2 anos. 
+	13. Padrão da alimentação
+	14. Padrão de sono;
+	15. Inventário medicamentoso;
+	16. Avaliação da audição
 		1. Avalição subjetiva; 
 		2. Avaliação objetiva; 
 			1. [[Teste do sussurro]]
-	15. Incontinência urinária
-6. [[Índice de Vulnerabilidade Clínico Funcional - 20 (IVCF-20)]]
+	17. Incontinência urinária
+7. [[Índice de Vulnerabilidade Clínico Funcional - 20 (IVCF-20)]]
 	1. Idoso robusto (0 a 6)
 	2. Idoso em risco de fragilização (7 a 14);
 		1. Em processo de senescência e senilidade;
@@ -179,7 +178,7 @@
 				8. Tratamento de problemas nos pés e correção de calçados; 
 				9. Educação em quedas. 
 			9. Prevenção
-				1. Orientação; avaliação geriátrica global, avaliação anual oftamológica e da audição; avaliação nutricional, redução de ingestão de bebidas alcoólicas; racionalização da prescrição de doses e combinações dos medicamentos; fisioterapia; avaliar a existência de maus tratos e violência; atividade física e correção de fatores ambientais modificáveis. 
+				1. Orientação; avaliação geriátrica global, avaliação anual oftalmológica e da audição; avaliação nutricional, redução de ingestão de bebidas alcoólicas; racionalização da prescrição de doses e combinações dos medicamentos; fisioterapia; avaliar a existência de maus tratos e violência; atividade física e correção de fatores ambientais modificáveis. 
 			10. Complicações 
 				1. Declínio funcional; 
 				2. Medo de cair (ptofobia); 
@@ -201,6 +200,9 @@
 	3. Incapacidade comunicativa 
 	4. Iatrogenia
 	5. Insuficiência familiar
+		1. Baixo apoio social e vínculo familiar prejudicado.
+		2. ![[Pasted image 20240831185431.png]]
+		3. ![[Pasted image 20240831185637.png]]
 1. **Farmacologia do Idoso**
 	1. Cascata farmacológica iatrogênica: situação onde o efeito adverso de um fármaco é interpretado de forma equivocada, exigindo prescrição de outro fármaco. 
 		7. ![[Pasted image 20240828102736.png]]
@@ -254,21 +256,17 @@
 		3. Ambiente familiar tenso ou abusivo;
 		4. Dependência financeira.
 	4. Predominante nos domicílios. 
-	5. A causa mais frequente de violência é a é a **negligência**. A negligência ocorre quando há uma falha em atender as necessidades básicas do idoso, seja de forma intencional ou não.
+	5. A causa mais frequente de violência é a **negligência**. A negligência ocorre quando há uma falha em atender as necessidades básicas do idoso, seja de forma intencional ou não.
 	6. Caso clínico:
 		1. Quando questionada sobre ingesta líquida, paciente conta que sempre pede água as cuidadoras, mas elas recusam a oferta hídrica, porque depois ela urina muito e fica difícil trocar as fraldas muitas vezes ao dia.
 			1. Negligência institucional e familiar. 
-8. Insuficiência familiar
-	1. Baixo apoio social e vínculo familiar prejudicado.
-	2. ![[Pasted image 20240831185431.png]]
-	3. ![[Pasted image 20240831185637.png]]
 9. **Cuidados paliativos**
 	1. Pilares
 		1. Comunicação adequada;
 		2. Controle impecável dos sintomas;
 		3. Apoio à família;
 		4. Trabalho em equipe.
-	2. A Tendência mundial atual, e de organizar no domicilio a atenção aos doentes em estágio terminal e transferir os cuidados paliativos para APS.
+	2. A Tendência mundial atual, e de organizar no domicílio a atenção aos doentes em estágio terminal e transferir os cuidados paliativos para APS.
 	3. Critérios para iniciar os cuidados paliativos:
 		1. Diagnóstico de Doença Grave e Avançada: câncer em estágio avançado (metastático IV), doenças cardíacas avançadas, doenças pulmonares crônicas (O2 <88%) ou doenças neurodegenerativas. Doenças renais (C>6) e hepáticas (TP >5).
 		2. Síndrome da fragilidade. 

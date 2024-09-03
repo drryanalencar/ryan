@@ -6,7 +6,7 @@
  ###### **2. Queixa Principal:** declínio funcional e cognitivo 
 
  ###### **3. História da Doença Atual:**
-- Paciente apresenta quedas recorrentes e declínio funcional e cognitivo progressivo nos últimos 4 meses, associado a hiporrexia, perda ponderal, insônia e agitação psicomotora no final do dia. 
+- Paciente apresenta quedas recorrentes e declínio funcional e cognitivo progressivo nos últimos 4 meses, associado a hiperorexia, perda ponderal, insônia e agitação psicomotora no final do dia. 
 ###### 4. Antecedentes Pessoais:
 - **Doenças:** Hipertensão arterial sistêmica (HAS), diabetes mellitus (DM), doença renal crônica (DRC), acidente vascular cerebral isquêmico (AVCI), demência mista (Alzheimer + Vascular) em fase moderada (CDR = 2), depressão maior, osteoartrose de joelhos.
 - **Medicações em uso:**

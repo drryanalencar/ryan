@@ -1,0 +1,1 @@
+[Exames de sangue: valores normais - Recursos - Manuais MSD edição para profissionais (msdmanuals.com)](https://www.msdmanuals.com/pt-br/profissional/recursos/valores-laboratoriais-normais/exames-de-sangue-valores-normais)

@@ -1,6 +1,7 @@
 [[RESUMO CASO CLÍNICO II -  JG.pdf]]
 
 - Interrogatório Sobre os Diversos Aparelhos (ISDA): consiste num interrogatório de todos os sistemas do paciente, permitindo ao médico levantar hipóteses de diagnósticos.
+
 - T-Score (Densitometria óssea):  T-score compara a densidade mineral óssea de um paciente com a de uma pessoa jovem e saudável do mesmo sexo. Quanto mais baixo o T-score, maior o risco de fratura.
 	- + 1 a -1: ossos considerados normais 
 	- -1 a -2,5: osteopenia ou baixa densidade óssea 
@@ -13,7 +14,6 @@
 - Circunferência da panturrilha
 	- CP adequada (ideal é > 31 cm)
 - APGAR
-
 
 #### APLICADO AO PACIENTE
 - APGAR

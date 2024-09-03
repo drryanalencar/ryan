@@ -1,3 +1,4 @@
+[[Linha de Cuidado Saúde Mental Depressao Unipolar na Atenção Primária.pdf]]
 
 - A pontuação total pode variar de 0 a 27.
 - 0 a 4: Ausência de depressão.
