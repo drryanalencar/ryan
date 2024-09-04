@@ -6,7 +6,7 @@ A barreira é formada por células endoteliais estreitamente unidas com o apoio 
 
 # Chlamydia trachomatis - por extenso
 #### Diagnóstico laboratorial de Chlamydia trachomatis
-Sobre o diagnóstico da Clamídia trachomatis, utiliza-se o **teste de amplificação de ácidos nucleicos**. Também podemos utilizar a **Imunofluorescência** direta.
+Sobre o diagnóstico da Clamídia trachomatis, utiliza-se o **teste de amplificação de ácidos nucleicos**. Também podemos utilizar a **Imunofluorescência** direta. 
 A **coleta** da amostra é feito por meio da **SWAB** vaginal, uretral ou retal ou da **urina matinal.**  
 O swab vaginal é um material utilizado para a coleta de secreção vaginal, que é enviada para análise laboratorial. 
 
