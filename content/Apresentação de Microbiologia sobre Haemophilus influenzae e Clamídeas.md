@@ -57,32 +57,32 @@ Eu falarei sobre a patogênese, descrevendo como a bactéria Haemophilus se dese
 
 Para dar início a essa temática, preciso fazer a recapitulação de algumas informações importantes, como o fato de a bactéria Haemophilus ser um **bacilo gram-negativo**, aeróbia facultativa, habitar no trato respiratório superior e inferior e predominantemente se apresentar de duas maneiras: **encapsuladas e não encapsuladas.** 
 
-A Haemophilus é uma bactéria que naturalmente faz parte da **microbiota** do trato respiratório, gênito-urinário e da cavidade oral. Os processos infecções desencadeados por elas são consequência de um rebaixamento do sistema imune ou do acometimento de indivíduos naturalmente frágeis, como crianças.
+A Haemophilus é uma bactéria que naturalmente faz parte da **microbiota** do trato respiratório, gênito-urinário e da cavidade oral. Os processos infecciosos desencadeados por elas são consequência de um rebaixamento do sistema imune ou do acometimento de indivíduos naturalmente frágeis, como crianças.
 
 ---
-2
-
-Como dito, há dois grupos de Haemophilus, as encapsuladas e não encapsuladas. Sobre esse último grupo, as doenças desencadeadas por elas são: 
+2    
+Como dito, há dois grupos de Haemophilus, as encapsuladas e não encapsuladas. As não encapsuladas são responsáveis por:
 - Otite média; sinusite e pneumonia. 
 ---
-3
-
+3    
 Já as encapsuladas podem levar aos seguintes quadros clínicos: 
 - Epiglotites; 
 - Pneumonia; 
 - Bacteremia;
 - Artrite 
-- Meningites;
+- Meningites;    
+
 Tendo em vista as doenças que essa bactéria podem ocasionar, agora, precisamos entender **de que forma isso acontece.** 
----
-4
-
-Como dito anteriormente, primeiramente, a infecção se dará em um corpo **vulnerável.** A instalação da bactéria se dará por meio da penetração das **vias aéreas,** por meio de gotículas contaminadas com a bactéria. A partir desse momento, se iniciará a colonização das vias aéreas superiores, nesse primeiro instante, a bactéria encapsulada contará com seu envoltório (um fator de virulência) para **evadir-se da fagocitose**, do sistema complemento e assim conseguir se aderir. 
-Em seguida, também usará como mecanismo de sobrevivência, a produção da **Protease IgA**, uma enzima que atuará clivando, destruindo, a Imunoglobulina A, um anticorpo, que na primeira infância é o principal advindo pelo leite materno e está presente nas secreções mucosas (como saliva e muco). Uma vez instalada na nasofaringe, a bactéria **pode atravessar a barreira mucosa** e entrar na corrente sanguínea, levando a uma bacteremia e assim provocar meningites, artrite, pneumonia. Como a criança ainda possui uma produção incipiente de anticorpos, as infecções por Haemophilus influenzar **predominam** entre aqueles que tem de **6 meses** (6 meses de idade, os anticorpos maternos adquiridos no útero começam a diminuir) **a 6 anos.** 
 
 ---
-5
+4    
+Primeiramente, a infecção ocorrerá em um corpo **imunodeprimido ou vulnerável.** A instalação da bactéria se dará por meio da penetração das **vias aéreas,** por meio de gotículas contaminadas com a bactéria. A partir desse momento, se iniciará a colonização das vias aéreas superiores, nesse primeiro instante, a bactéria encapsulada contará com seu envoltório (um fator de virulência) para **evadir-se da fagocitose**, do sistema complemento e assim conseguir se aderir.        
+Em seguida, também usará como mecanismo de sobrevivência, a produção da **Protease IgA**, uma enzima que atuará clivando, destruindo, a Imunoglobulina A, um anticorpo, que na primeira infância é o principal advindo pelo leite materno e está presente nas secreções mucosas (como saliva e muco).      
+Uma vez instalada na nasofaringe, a bactéria **pode atravessar a barreira mucosa** e entrar na corrente sanguínea, levando a uma bacteremia e assim provocar meningites, artrite, pneumonia. Como a criança ainda possui uma produção incipiente de anticorpos, as infecções por Haemophilus influenzar **predominam** entre aqueles que tem de 
+**6 meses** (6 meses de idade, os anticorpos maternos adquiridos no útero começam a diminuir) **a 6 anos.** 
 
+---
+5      
 Nesse sentido, vamos se aprofundar no quadro clínico da meningite, que possui os seguintes sintomas: 
 - Febre; 
 - Cefaleia; 
@@ -90,46 +90,43 @@ Nesse sentido, vamos se aprofundar no quadro clínico da meningite, que possui o
 - Náuseas; 
 - Fotofobia;
 - Confusão mental. 
-Essas características são compartilhadas entre as meningites ocasionadas pelos Pneumococos e Meningococos. 
-
-Descrevendo o processo em etapas, quando a Haemophilus consegue colonizar a via área superior, penetrar as mucosas, ganhar a corrente sanguínea (bacteremia), ela chega na barreira hematoencefálica, atravessa e **invade o espaço subaracnoide.** E é a barreira hematoencefálica que regula a passagem de substâncias entre o sangue e o sistema nervoso central (SNC). 
-
-Mas como essa bactéria consegue penetrar essa barreira? Ela consegue, porque na sua **membrana há LPS**, que induzem a leucocitose, por meio da estimulação de produção de interleucinas pró-inflamatórias. Isso faz com que ocorra o aumento da permeabilidade da BHE, que permitirá tanto a passagens de fagócitos, como de bactérias. Durante esse processo inflamatório, podemos ter a formação de **edema cerebral e aumento da pressão intracraniana,** resultando em febre, dor de cabeça... 
+Essas características são compartilhadas entre as meningites ocasionadas pelos Pneumococos e Meningococos.
 
 ---
-6
+5.1          
+Descrevendo o processo em etapas, quando a Haemophilus consegue colonizar a via área superior, penetrar as mucosas, ganhar a corrente sanguínea (bacteremia), ela chega na barreira hematoencefálica, atravessa e **invade o espaço subaracnoide.** E é a barreira hematoencefálica que regula a passagem de substâncias entre o sangue e o sistema nervoso central (SNC).         
 
+Mas como essa bactéria consegue penetrar essa barreira? Ela consegue, porque na sua **membrana há LPS**, que induzem a leucocitose, por meio da estimulação de produção de interleucinas pró-inflamatórias. Isso faz com que ocorra o aumento da permeabilidade da BHE, que permitirá tanto a passagens de fagócitos, como de bactérias para o SNC. Durante esse processo inflamatório, podemos ter a formação de **edema cerebral e aumento da pressão intracraniana,** resultando em febre, dor de cabeça... 
+
+---
+6          
 Em detalhes, eu trouxe uma ilustração presente nesse artigo:
-Inicialmente, a célula bacteriana e seus componentes da parede celular **ligam-se as células** da barreira hematoencefálicas. Isso faz com elas passem a **produzir as interleucinas** pró-inflamatórias, ocasionando a separação das células endoteliais.  
+Inicialmente, a célula bacteriana e seus componentes da parede celular **ligam-se as células** da barreira hematoencefálicas. Isso faz com elas passem a **produzir as interleucinas** pró-inflamatórias, ocasionando a separação das células endoteliais.        
 Esses eventos direcionam os leucócitos para locais, com isso ocorre aumento da **diapedese** e esse aumento de células do sistema imune está associado com **danos** irreversíveis a barreira hematoencefálica. 
 
 ---
-7
-
+7          
 Avançando um pouco, quadros de sinusite e otite média também podem ser causados pela Haemophilus influenzae, especialmente a **cepa não tipáve**l, ou não encapsulada, nessas situações, quadros típicos de inflamação ocorrem, com sintomas de: 
 - Dor; 
 - Opacificação dos seios; 
 - Vermelhidão; 
 - Abaulamento da membrana timpânica
-Na otite, ocorre uma resposta inflamatória significativa na mucosa do ouvido.  médio, cursando com aumento da densidade de **células caliciformes** na mucosa do ouvido médio, isso provoca um acúmulo de líquido no ouvido, ocasionando **opacificação** (preenchimento com líquido, muco ou pus) e pressão sobre a membrana timpânica, o que pode levar ao seu abaulamento e dor. 
+
+Na otite, ocorre uma resposta inflamatória significativa na mucosa do ouvido médio, cursando com aumento da densidade de **células caliciformes** na mucosa do ouvido médio, isso provoca um acúmulo de líquido no ouvido, ocasionando **opacificação** (preenchimento com líquido, muco ou pus) e pressão sobre a membrana timpânica, o que pode levar ao seu abaulamento e dor. 
 Já na sinusite, ocorre obstrução dos seios paranasais (obstrução dos **óstios sinusais**, que drenam), levando à opacificação dos seios e dor facial. Essa inflamação particularmente pode se prolongar, **devido a formação de biofilmes** (próximo slide) que dificultam a eliminação pelo sistema imunológico. 
 
 ---
-8
-
-**Diagnóstico laboratorial** 
-
-A haemophilus influenzae pode ser detectada por um esfregaço submetido à coloração de Gram e **cultura em de ÁGAR-SANGUE AQUECIDO ou chocolate**, que consiste no aquecimento do ágar-sangue a 80°C ou mais provoca a **lise dos glóbulos** vermelhos, liberando fatores de crescimento essenciais, como o **fator X (hemina) e o fator V (NAD - nicotinamida adenina dinucleotídeo),** necessários para o crescimento de _Haemophilus influenzae_. 
+8       
+**Diagnóstico laboratorial**           
+A haemophilus influenzae pode ser detectada por um esfregaço submetido à coloração de Gram e **cultura em de ÁGAR-SANGUE AQUECIDO ou chocolate**, que consiste no aquecimento do ágar-sangue a 80°C ou mais provoca a **lise dos glóbulos** vermelhos, liberando fatores de crescimento essenciais, como o **fator X (hemina) e o fator V (NAD - nicotinamida adenina dinucleotídeo),** necessários para o crescimento de _Haemophilus influenzae_.       
 
 Se _Haemophilus influenzae_ estiver presente, ele formará colônias pequenas, opacas e convexas.
 
 Colônias de tamanho pequeno a médio, com pigmento amarelo: sugestivo de Neisseria spp., Branhamella catarrhalis ou Moraxella spp.;
 
 ---
-9
-
-**Tratamento e prevenção**
-
+9      
+**Tratamento e prevenção**           
 Para meningite, usamos a **ceftriaxona** devido a capacidade de atravessar a barreira hematoencefálica. Vale ressaltar que 20% a 30% produzem β-lactamase (penicilinase), isso confere resistência a certos antibióticos β-lactâmicos, como a ampicilina. 
 
 Já para tratar otites e sinusites usa-se **amoxicilina-clavulanato** ou **sulfametoxazol-trimetoprima.**
