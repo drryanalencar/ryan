@@ -7,7 +7,7 @@ A barreira é formada por células endoteliais estreitamente unidas com o apoio 
 # Chlamydia trachomatis - por extenso
 #### Diagnóstico laboratorial de Chlamydia trachomatis
 Sobre o diagnóstico da Clamídia trachomatis, utiliza-se o **teste de amplificação de ácidos nucleicos**. Também podemos utilizar a **Imunofluorescência** direta.               
-A **coleta** da amostra é feito por meio da **SWAB** vaginal, uretral ou retal ou da **urina matinal.**  
+A **coleta** da amostra é feita por meio da **SWAB** vaginal, uretral ou retal ou da **urina matinal.** A amostra também pode ser da orofaringe ou da conjuntiva.  
 O swab vaginal é um material utilizado para a coleta de secreção vaginal, que é enviada para análise laboratorial. 
 
 [[Diagnóstico de Chlamydia trachomatis]]
@@ -15,14 +15,14 @@ O swab vaginal é um material utilizado para a coleta de secreção vaginal, qu
 # Chlamydia pneumoniae - por extenso
 #### Diagnóstico laboratorial de Chlamydia pneuomoniae
 
-Sobre a chlamydia pneuomoniae, ela é diagnósticada por **exames sorológicos,** como o de microimunofluorescência (MIF), que detecta IgM ou IgG.  Também pode ser identificado por amplificação de ácidos nucleicos. Se for por métodos de PCR, coleta-se **amostras** do trato respiratório
+Sobre a chlamydia pneuomoniae, ela é diagnósticada por **exames sorológicos,** como o de microimunofluorescência (MIF), que detecta IgM ou IgG.  Também pode ser identificado por amplificação de ácidos nucleicos. Nesses casos, coleta-se **amostras** do trato respiratório
 
 #### Tratamento de Trachomatis e Pneumoniae
 Em relação ao tratamento, doxiciclina ou azitromicina. Sendo possíve se prevenir usando eritromicina em mãe infectadas para prevenir a doença neonatal. 
 Infelizmente, não há vacina disponível.
 Já para Pneumoniae, usa-se a doxiciclina. 
 
-## Chlamydia pneumoniae - Por tópicos
+## Chlamydia trachomanis - Por tópicos
 #### Diagnóstico laboratorial de Chlamydia trachomatis
 - Teste de amplificação de ácidos nucleicos (NAAT);
 	- PCR;
@@ -50,12 +50,9 @@ Já para Pneumoniae, usa-se a doxiciclina.
 		- Detecção de IgM ou IgG.
 - Cultura de amostras do trato respiratório
 	- NAATs; 
-
-
 # Haemophilus influenzae - por extenso 
 
-1
-
+1    
 Eu falarei sobre a patogênese, descrevendo como a bactéria Haemophilus se desenvolve e progride no organismo. Em seguida, farei a apresentação de alguns quadro clínicos comuns nas infecções causadas pela Haemophilus.
 
 Para dar início a essa temática, preciso fazer a recapitulação de algumas informações importantes, como o fato de a bactéria Haemophilus ser um **bacilo gram-negativo**, aeróbia facultativa, habitar no trato respiratório superior e inferior e predominantemente se apresentar de duas maneiras: **encapsuladas e não encapsuladas.** 
