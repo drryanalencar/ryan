@@ -6,8 +6,8 @@ A barreira é formada por células endoteliais estreitamente unidas com o apoio 
 
 # Chlamydia trachomatis - por extenso
 #### Diagnóstico laboratorial de Chlamydia trachomatis
-Sobre o diagnóstico da Clamídia trachomatis, utiliza-se o **teste de amplificação de ácidos nucleicos**. Eles utilizam quantidade mínima de DNA ou RNA e os replicam muitas vezes, o que propicia a detecção de de traços de um microrganismo. (PCR)
-A **coleta** da amostra é feito por meio da **SWAB** vaginal, uretral, retal ou oral, em casos de contaminação por sexo oral ou retal ou da **urina matinal.** 
+Sobre o diagnóstico da Clamídia trachomatis, utiliza-se o **teste de amplificação de ácidos nucleicos**. Também podemos utilizar a **Imunofluorescência** direta.
+A **coleta** da amostra é feito por meio da **SWAB** vaginal, uretral ou retal ou da **urina matinal.**  
 O swab vaginal é um material utilizado para a coleta de secreção vaginal, que é enviada para análise laboratorial. 
 
 [[Diagnóstico de Chlamydia trachomatis]]
@@ -122,9 +122,11 @@ Já na sinusite, ocorre obstrução dos seios paranasais (obstrução dos **óst
 
 **Diagnóstico laboratorial** 
 
-A haemophilus influenzae pode ser detectada por um esfregaço submetido à coloração de Gram e **cultura em de ÁGAR-SANGUE AQUECIDO**, que consiste no aquecimento do ágar-sangue a 80°C ou mais provoca a **lise dos glóbulos** vermelhos, liberando fatores de crescimento essenciais, como o **fator X (hemina) e o fator V (NAD - nicotinamida adenina dinucleotídeo),** necessários para o crescimento de _Haemophilus influenzae_. 
+A haemophilus influenzae pode ser detectada por um esfregaço submetido à coloração de Gram e **cultura em de ÁGAR-SANGUE AQUECIDO ou chocolate**, que consiste no aquecimento do ágar-sangue a 80°C ou mais provoca a **lise dos glóbulos** vermelhos, liberando fatores de crescimento essenciais, como o **fator X (hemina) e o fator V (NAD - nicotinamida adenina dinucleotídeo),** necessários para o crescimento de _Haemophilus influenzae_. 
 
 Se _Haemophilus influenzae_ estiver presente, ele formará colônias pequenas, opacas e convexas.
+
+Colônias de tamanho pequeno a médio, com pigmento amarelo: sugestivo de Neisseria spp., Branhamella catarrhalis ou Moraxella spp.;
 
 ---
 9
