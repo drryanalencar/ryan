@@ -1,1 +1,0 @@
-Escala geriátrica da depressão de Yesavage

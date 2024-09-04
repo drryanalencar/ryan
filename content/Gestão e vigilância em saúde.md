@@ -5,11 +5,9 @@
 # Aulas e materiais
 - [[SLIDE 1 - Gestão e Vigilância - Introdução - Princípios.pdf]]
 - [[SLIDE 2 - GESTÃO E VIGILÂNCIA EM SAÚDE.pdf]]
-
 - [[SLIDE 3.a CONFIGURAÇÃO DA REDE.pdf]]
 - [[SLIDE 3 B - REGULAÇÃO.pdf]]
 - [[SLIDE 3 C - COMPLEXO REGULADOR.pdf]]
-
 
 ## Material de apoio
 - [[Texto de apoio aula 1 - CAPÍTULO II DA SEGURIDADE SOCIAL.pdf]]

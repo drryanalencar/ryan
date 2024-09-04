@@ -1,6 +1,5 @@
 [[Resumo Microbiologia - Nyara.pdf]]
 
-
 [[Controle antimicrobiano]]
 
 [[Antibióticos]]
@@ -9,4 +8,4 @@
 
 [[Streptococcus]]
 
-[[Apresentação de Microbiologia sobre Clamídeas e Haemophilus influenzae]]
+[[Apresentação de Microbiologia sobre Haemophilus influenzae e Clamídeas]]
