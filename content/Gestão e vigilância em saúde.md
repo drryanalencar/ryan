@@ -8,7 +8,10 @@
 - [[SLIDE 3.a CONFIGURAÇÃO DA REDE.pdf]]
 - [[SLIDE 3 B - REGULAÇÃO.pdf]]
 - [[SLIDE 3 C - COMPLEXO REGULADOR.pdf]]
-
+# Anotações
+- [[AULA 1 - Gestão e Vigilância - Introdução - Princípios]] 
+- [[AULA 2 - GESTÃO E VIGILÂNCIA EM SAÚDE]]
+- [[AULA 3.a.b.c CONFIGURAÇÃO DA REDE]]
 ## Material de apoio
 - [[Texto de apoio aula 1 - CAPÍTULO II DA SEGURIDADE SOCIAL.pdf]]
 - [[TEXTO APOIO AULA 1 - Evolução histórica das políticas de saúde no Brasil.pdf]]
