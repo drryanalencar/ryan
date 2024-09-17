@@ -6,7 +6,7 @@
 
 [[Aula 02 - Replicação do DNA]]
 
-[[Aula 03 - Tradução]]
+[[Aula 03 - Processamento do mRNA  Tradução]]
 
 [[Aula 04 - Controle da expressão gênica]]
 
@@ -17,6 +17,10 @@
 [[Aula 6 - Herança genética.pdf]]
 
 [[Aula 07 - Hemoblobinopatias (1).pdf]]
+
+[[Aula 06 - mutações.pdf]]
+
+[[Aula 6 - padrões de herança.pdf]]
 
 [[Apresentação do Artigo Conectando telômeros e o envelhecimento é possível viver para sempre]]
 

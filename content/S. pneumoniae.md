@@ -1,0 +1,51 @@
+
+
+
+
+
+- Características gerais das bactérias:
+	- - **Forma:** Diplococos (pares de cocos), em forma de lança.
+	- - **Ambiente:** Anaeróbia facultativa.
+	- - **Hemólise:** Apresenta hemólise alfa (hemólise incompleta), manifestando-se como um halo esverdeado ao redor das colônias em ágar sangue.
+	- - **Encapsulamento:** Possui uma cápsula polissacarídica, que é um importante fator de virulência.
+- Importância clínica:
+	- - **Pneumonia Pneumocócica:** Principal causa de pneumonia bacteriana em adultos.
+	- **Otite Média Aguda:** Comum em crianças.
+	- **Meningite Bacteriana:** Uma das principais causas de meningite em todas as idades.
+	- **Sinusite Bacteriana Aguda.**
+	- **Bacteremia e Sepse.**
+- Fatores de virurência e de resistência à antibióticos:
+	- Especificar para quais antibióticos são resistentes:
+		- **Cápsula Polissacarídica:** Impede a fagocitose e é essencial para a virulência.
+		- **Pneumolisina:** Citotoxina que danifica as células do hospedeiro e ativa a resposta inflamatória.
+		- **Autolisina (LytA):** Enzima que facilita a liberação de componentes intracelulares, incluindo pneumolisina.
+		- **Proteases de IgA:** Degrada IgA secretora, facilitando a colonização na mucosa respiratória.
+		- **Adesinas:** Ajudam na adesão às células do hospedeiro.
+		- Penicilina; 
+		- Macrolídeos; 
+		- Tetraciclinas e sulfonamidas. 
+		- Cefalosporina. 
+- Como diagnosticá-las:
+	- Clinicamente:
+	- Laboratorialmente:
+		- Coloração de Gram
+		- **Cultura em Ágar Sangue:** Identificação de hemólise alfa.
+		- **Teste de Solubilidade em Bile:** Solúvel em bile.
+		- PCR
+	- Molecularmente
+- Tipos de antibióticos para o tratamento:
+	- - - **Penicilina G** ou **Amoxicilina** (para cepas sensíveis).
+	- **Alternativas:**
+		- **Cefalosporinas de Terceira Geração:** Como ceftriaxona ou cefotaxima, especialmente para meningite.
+		- **Macrolídeos:** Como azitromicina ou claritromicina, em casos de resistência ou alergia à penicilina.
+		- **Fluoroquinolonas Respiratórias:** Como levofloxacino ou moxifloxacino, em casos de pneumonia.
+		- **Vancomicina:** Para cepas altamente resistentes, especialmente em casos de meningite.
+- Grupo mais afetado pela infecção:
+	- **Crianças:** Especialmente menores de 2 anos.
+	- **Idosos:** Acima de 65 anos.
+	- **Pessoas Imunocomprometidas:** Como pacientes com doenças crônicas (diabetes, DPOC, HIV) ou imunossupressão.
+	- **Pacientes com Esplenectomia:** Maior risco devido à ausência de baço.
+- Prevenção 
+	- Tem vacina disponível?
+		- **Pneumocócica Conjugada (PCV13):** Para crianças menores de 2 anos e adultos com condições de saúde de risco.
+		- **Pneumocócica Polissacarídica (PPSV23):** Para adultos com 65 anos ou mais, e para pessoas com condições crônicas ou imunocomprometidas.

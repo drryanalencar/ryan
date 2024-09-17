@@ -1,5 +1,5 @@
-- **Inibidores da síntese parede celular:** penicilinas naturais, penicilinas semissintéticas, cefalosporinas, antibióticos polipeptídicos, antibióticos antimicobacterianos. 
-- **Inibidores de síntese proteica:** clorafenicol, aminoglicosídeos, tetraciclinas, macrolídeos, estreptograminas, oxazolidinonas 
+- **Inibidores da síntese parede celular:** **penicilinas** naturais, penicilinas semissintéticas, **cefalosporinas**, **carbapenêmicos**, antibióticos polipeptídicos, antibióticos antimicobacterianos, betalactãmicos. 
+- **Inibidores de síntese proteica:** clorafenicol, **aminoglicosídeos (quais?), tetraciclinas, macrolídeos (quais?),** estreptograminas, oxazolidinonas 
 - **Dano à membrana plasmática:** Polimixina
-- **Inibidores da síntese de ácidos nucleicos:** rifamicinas, quinolonas e fluoroquinolonas 
-- **Inibidores competitivos da síntese de metabólitos essenciais**: sulfanamidas.
+- **Inibidores da síntese de ácidos nucleicos (DNA, RNA e nucleotídeos):** rifamicinas, quinolonas e fluoroquinolonas.
+	- **Inibidores competitivos da síntese de metabólitos essenciais**: sulfanamidas.

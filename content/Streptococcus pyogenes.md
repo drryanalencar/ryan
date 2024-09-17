@@ -1,0 +1,36 @@
+
+
+- Streptococcus pyogenes 
+	- Levando a falência de múltiplos órgãos.
+	- Toxinas Eritrogênicas: Superantígenos. 
+	- Cápsula. 
+	- **Proteína M:** Ajuda a bactéria a evitar a fagocitose e contribui para a adesão às células do hospedeiro.
+	- **Proteína F:** Facilita a adesão da bactéria às células epiteliais.
+
+- Características gerais das bactérias:
+	- **Forma:** Cocos esféricos dispostos em cadeias ou pares.
+	- Hemólise beta (hemólise completa)
+- Importância clínica:
+	- **Faringite:** Infecção da garganta, conhecida como dor de garganta estreptocócica.
+	- **Impetigo:** Infecção de pele altamente contagiosa.
+	- **Febre Reumática:** Complicação inflamatória que pode ocorrer após faringite estreptocócica não tratada e afetar o coração, articulações e outros órgãos.
+- Fatores de virurência e de resistência à antibióticos:
+	- Especificar para quais antibióticos são resistentes:
+	- **Penicilina:** Geralmente sensível; o tratamento com penicilina é eficaz para infecções por _S. pyogenes_.
+	- **Macrolídeos:** Resistência pode ocorrer, mas geralmente é menor. Exemplo de antibióticos desse grupo incluem eritromicina e azitromicina.
+- Como diagnosticá-las:
+	- Clinicamente:
+	- Laboratorialmente:
+		- Coloração de Gram
+		- Cultura em Ágar: hemólise beta.
+		- PCR. 
+	- Molecularmente
+- Tipos de antibióticos para o tratamento:
+	- Penicilina;
+	- Amoxilina; 
+	- Macrolídeos.
+- Grupo mais afetado pela infecção:
+	- - **Crianças e Adolescentes:** Mais frequentemente afetados por faringite estreptocócica e impetigo.
+	- **Adultos e Idosos:** Podem ser afetados por infecções mais graves, como celulite e fascite necrotizante.
+- Prevenção 
+	- Tem vacina disponível?

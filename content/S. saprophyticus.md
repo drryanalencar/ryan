@@ -1,0 +1,54 @@
+- D
+	- Infecção urinária.
+	- Pielonefrite.
+- C
+	- Cocos em agrupamentos gram-positivos
+	- Catalase positiva; 
+	- Coagulase negativa. 
+	- **Resistente a neobiocina.** 
+	- Não hemolítico em Ágar-sangue;
+- H?
+	- Isolado de solos, águas superficiais e águas residuais.
+	- **Microbiota normal da pele e mucosas.** 
+	- **Mulheres jovens.** 
+- P?
+	- Adesinas 
+	- **Urease** que aumentam o PH da urina. 
+- D?
+	- Resistente a novobiocina.
+	- Cultura de urina. 
+	- (Gram positivas)
+	- Não hemolítico em Ágar-sangue e colônias esbranquiçadas?
+	- Coagulase negativa. 
+	- Catalase positiva 
+- T?
+	- Nitrofurantoína
+	- **Trimetropina** e **sulfametoxazol**;
+	- Resistente a múltiplos antibióticos. 
+---
+
+- Características gerais das bactérias:
+	- **Catalase:** Positiva.
+	- **Coagulase:** Negativa (diferente de _Staphylococcus aureus_).
+- Importância clínica:
+	- _Staphylococcus saprophyticus_ é um patógeno importante no trato urinário, sendo uma das principais causas de infecção urinária em mulheres jovens sexualmente ativas.
+	- **Infecção Urinária:** Pode causar cistite e pielonefrite, geralmente em mulheres jovens e sexualmente ativas. É menos comum em outras populações.
+- Fatores de virulência e de resistência à antibióticos:
+	- **Adesinas:** Facilita a adesão às células epiteliais do trato urinário, promovendo a colonização e a infecção.
+	- **Urease:** Enzima que pode aumentar o pH da urina, ajudando a criar um ambiente favorável para a infecção.
+	- Especificar para quais antibióticos são resistentes:
+		- Penicilina;
+		- Meticilina; 
+		- Clindamicina e Eritromicina. 
+- Como diagnosticá-las:
+	- Clinicamente:
+	- Laboratorialmente:
+		- Coloração de Gram;
+		- Cultura em Ágar;
+		- Teste de Coagulase
+	- Molecularmente
+- Tipos de antibióticos para o tratamento:
+	- Nitrofurantoína;
+	- Trimetropina e sulfametoxazol; 
+- Grupo mais afetado pela infecção:
+	- **Mulheres Jovens Sexualmente Ativas:** Este grupo é mais suscetível a infecções urinárias causadas por _S. saprophyticus_ devido a fatores anatômicos e comportamentais.

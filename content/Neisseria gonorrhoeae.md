@@ -1,0 +1,45 @@
+- Características gerais das bactérias:
+	- **Tipo:** Bactéria Gram-negativa.
+	- **Forma:** Diplococos (pares de cocos), com aparência de "grãos de café".
+	- **Ambiente:** Aeróbia, mas pode crescer em condições anaeróbias.
+	- **Oxidase:** Positiva.
+	- **Catalase:** Positiva.
+	- **Cultura:** Cresce em meios enriquecidos como ágar chocolate e ágar Thayer-Martin.
+	- **Morfologia:** Possui fímbrias (pili) que auxiliam na adesão às células hospedeiras e na troca de material genético.
+- Importância clínica:
+	- _Neisseria gonorrhoeae_ é o agente causador da gonorreia, uma infecção sexualmente transmissível (IST) que pode afetar tanto homens quanto mulheres. As manifestações clínicas incluem:
+		- **Uretrite Gonocócica:** Corrimento uretral purulento e disúria em homens.
+		- **Cervicite Gonocócica:** Corrimento vaginal, sangramento intermenstrual e dor pélvica em mulheres.
+		- **Infecção Retal e Faringeana:** Dor retal, secreção e proctite; dor de garganta e linfadenopatia.
+		- **Doença Inflamatória Pélvica (DIP):** Em mulheres, pode levar a infertilidade, dor pélvica crônica e gravidez ectópica.
+		- **Conjuntivite Gonocócica Neonatal:** Em recém-nascidos, adquirida durante o parto.
+		- **Gonococcemia Disseminada:** Infecção sistêmica rara que pode causar artrite séptica e lesões cutâneas.
+- Fatores de virurência e de resistência à antibióticos:
+	- - **Fímbrias (Pili):** Facilitam a adesão e colonização das células epiteliais do trato urogenital.
+	- **Proteases de IgA:** Degradam IgA secretora, promovendo a evasão da imunidade local.
+	- **Lipopolisacarídeos (LOS):** Induzem inflamação e danos ao tecido.
+	- Especificar para quais antibióticos são resistentes:
+		- - **Penicilinas:** Muitas cepas produzem beta-lactamase, conferindo resistência.
+		- - **Tetraciclinas:** Resistência difundida devido à mutação dos genes ribossomais.
+		- - **Macrolídeos (Azitromicina):** Resistência crescente, especialmente em cepas multirresistentes.
+		- - **Fluoroquinolonas (Ciprofloxacino):** Resistência generalizada.
+		- - - - **Cefalosporinas de Terceira Geração (Cefixima e Ceftriaxona):** Algumas cepas mostram resistência emergente.
+- Como diagnosticá-las:
+	- Clinicamente:
+	- Laboratorialmente:
+		- **Microscopia:** Coloração de Gram de secreções genitais, mostrando diplococos Gram-negativos intracelulares em neutrófilos.
+		- **Cultura Bacteriana:** Isolamento em ágar chocolate ou Thayer-Martin modificado, que é seletivo para _Neisseria_.
+		- **Teste de Oxidase:** Positivo, confirmando a presença de bactérias oxidase-positivas.
+		- **PCR**
+	- Molecularmente
+- Tipos de antibióticos para o tratamento:
+	- - **Ceftriaxona:** Administrada intramuscularmente (IM), geralmente em dose única.
+	- **Azitromicina:** Frequentemente usada em combinação com ceftriaxona para cobertura adicional e para reduzir a resistência emergente.
+	- **Tratamento de Segunda Linha:**
+		- **Gentamicina:** Em combinação com azitromicina, pode ser usada quando a ceftriaxona não está disponível ou há resistência conhecida.
+- Grupo mais afetado pela infecção:
+	- **Adultos Jovens:** Especialmente aqueles com múltiplos parceiros sexuais ou que não usam preservativos regularmente.
+	- **Mulheres Grávidas:** Risco de transmissão para o recém-nascido.
+	- **Homens que fazem sexo com homens (HSH):** Alta incidência devido à transmissão sexual.
+- Prevenção 
+	- Tem vacina disponível?

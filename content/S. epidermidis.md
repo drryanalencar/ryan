@@ -1,0 +1,31 @@
+- Características gerais das bactérias:
+	- Catalase: Positiva.
+	- **Coagulase:** Negativa (diferente de _Staphylococcus aureus_).
+- Importância clínica:
+	- especialmente em pacientes com dispositivos médicos implantados ou comprometidos, tais como
+		- Endocardite
+		- Bacteremia
+- Fatores de virurência e de resistência à antibióticos:
+	- Biofilme:
+	- Especificar para quais antibióticos são resistentes:
+		- **Penicilina:** Produz penicilinase, levando à resistência a penicilinas.
+		- **Meticilina:** Muitas cepas são resistentes à meticilina (MRSE) devido à presença do gene mecA, que codifica uma proteína de ligação à penicilina alterada.
+		- **Vancomicina:** Embora menos comum, resistência parcial à vancomicina pode ocorrer (VRE – Vancomycin-resistant Enterococcus).
+- Como diagnosticá-las:
+	- Clinicamente:
+	- Laboratorialmente:
+		- Coloração de Gram:
+		- Cultura em Ágar
+		- Teste de Coagulase: negativo. 
+		- PCR.
+	- Molecularmente
+- Tipos de antibióticos para o tratamento:
+	- Vancomicina
+	- Linezolida
+	- Cefalosporinas de primeira geração
+- Grupo mais afetado pela infecção:
+	- **Pacientes com Dispositivos Médicos Implantados:** Como cateteres venosos centrais, próteses articulares, e válvulas cardíacas artificiais.
+	- **Pacientes Imunocomprometidos:** Incluindo aqueles com câncer, diabetes, ou em tratamento imunossupressor.
+	- **Idosos:** Mais suscetíveis a infecções em geral.
+- Prevenção 
+	- Tem vacina disponível?
