@@ -69,7 +69,7 @@ Um exemplo clássico é o gene da **tropomiosina**. Esse gene pode ser processad
 ##### Estrutura do ribossomo
 - Sítio A: onde o aminoacil-tRNA entra e seu anticódon se liga ao códon do mRNA. 
 - Sítio P: onde o tRNA que transporta a cadeia polipeptídica em crescimento é mantido.
-- sítio E (onde o tRNA desacilado, ou seja, sem aminoácido, é liberado). 
+- Sítio E (onde o tRNA desacilado, ou seja, sem aminoácido, é liberado). 
 - **Centro de decodificação**: Garante que apenas tRNAs com anticódons que correspondam aos códons do mRNA entrem no sítio A.
 - **Centro peptidiltransferase**: Local onde as ligações peptídicas entre os aminoácidos são formadas, essencial para a síntese da proteína.
 
@@ -96,3 +96,6 @@ As vacinas de mRNA carregam uma parte do código genético do vírus que contém
 •Flexibilidade → A sequência de RNA da vacina pode ser alterada rapidamente para poder agir contra variantes do vírus que eventualmente não seriam atingidas pela vacina em uso; 
 
 •Produção → O RNA mensageiro pode ser produzido em laboratório, utilizando materiais mais acessíveis.
+
+
+
