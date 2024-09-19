@@ -240,20 +240,20 @@ Estudo dos cromossomos em termos de número, estrutura e função, auxiliando no
 
 ## 8. **Epigenética**
 
-A **epigenética** refere-se a modificações herdáveis na expressão gênica que não envolvem mudanças na sequência de DNA.
+A **epigenética** refere-se a **modificações herdáveis na expressão gênica** que **não envolvem mudanças na sequência de DNA.**
 
 ### **Principais Mecanismos Epigenéticos**
 
 1. **Metilação do DNA**:
    - Adição de grupos metila a bases citosina em regiões ricas em dinucleotídeos CpG.
-   - Geralmente associada ao silenciamento gênico.
+   - Geralmente associada ao **silenciamento gênico.**
 
 2. **Modificações de Histonas**:
+   - Afetam a estrutura da cromatina, **tornando-a mais ou menos acessível** à maquinaria transcricional.
    - **Acetilação**, **metilação**, **fosforilação**.
-   - Afetam a estrutura da cromatina, tornando-a mais ou menos acessível à maquinaria transcricional.
 
 3. **RNA Não Codificante**:
-   - **microRNAs (miRNAs)**: Pequenas moléculas que regulam a expressão gênica pós-transcricionalmente, geralmente através da degradação do mRNA alvo ou inibição da tradução.
+   - **microRNAs (miRNAs)**: Pequenas moléculas que regulam a expressão gênica pós-transcricionalmente, geralmente através da **degradação do mRNA alvo ou inibição da tradução.**
 
 ### **Importância da Epigenética**
 
@@ -302,6 +302,7 @@ A expressão gênica é regulada em múltiplos níveis para garantir que genes e
 - Quando a cromatina é tratada com DNAse, obtêm-se fragmentos múltiplos de aproximadamente **200 pares de bases**.
 - Isso se deve ao DNA enrolado em nucleossomos; a DNAse cliva preferencialmente o DNA entre os nucleossomos.
 - **Nucleossomos**: Unidade básica da cromatina, consistindo em DNA enrolado ao redor de um octâmero de histonas.
+
 
 ---
 
@@ -366,11 +367,7 @@ A expressão gênica é regulada em múltiplos níveis para garantir que genes e
    - **Verdadeiro**: É a representação ordenada dos cromossomos de um indivíduo.
 
 8. **O cariótipo detecta mutações no nível de sequência do DNA.**
-   - **Falso**: O cariótipo detecta alterações cromossômicas macroscópicas, não mutações pontuais no DNA.
+   - **Falso**: O cariótipo detecta alterações **cromossômicas macroscópicas**, não mutações pontuais no DNA.
 
 9. **Com a técnica FISH é possível detectar alterações como mutações e perda/ganho de segmento de RNA.**
-   - **Falso**: A FISH detecta alterações no DNA, como deleções, duplicações e translocações, mas não detecta mutações pontuais ou alterações em RNA.
-
----
-
-Este material visa proporcionar uma revisão abrangente dos conceitos de biologia molecular e genética, facilitando o aprendizado e a compreensão dos tópicos fundamentais nesta área.
+   - **Falso**: A FISH detecta alterações no DNA, como deleções, duplicações e translocações, mas **não detecta mutações pontuais** ou alterações em RNA.

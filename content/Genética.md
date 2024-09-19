@@ -8,6 +8,7 @@
 - [[Aula 03 - Processamento do mRNA  Tradução]]
 - [[Aula 04 - Controle da expressão gênica]]
 - [[Aula 5 - Citogenética]] 
+	- [[FISH E Microarranjos]]
 - [[Aula 6 - Mutações]]
 ##### [[Questões N1 de Genética]]
 
