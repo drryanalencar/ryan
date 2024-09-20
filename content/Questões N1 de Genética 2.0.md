@@ -78,6 +78,10 @@ A **PCR** é uma técnica laboratorial que amplifica segmentos específicos de D
 3. **Extensão (72°C)**:
    - A DNA polimerase estende os primers, sintetizando novas fitas de DNA.
 
+A variação de temperatura, que ocorre por meio do termociclador, tem como função quebrar as ligações fosfodiéster entre os nucleotídeos, para desnaturar o DNA"
+- A **desnaturação do DNA** ocorre pela quebra das **ligações de hidrogênio** entre as bases complementares das fitas de DNA, não pelas ligações fosfodiéster.
+- O aquecimento a altas temperaturas quebra as **ligações de hidrogênio** entre as fitas complementares, separando-as.
+
 ### **Comparação com a Replicação Celular**
 
 - **Localização**: PCR é in vitro; replicação celular ocorre no núcleo (eucariotos).
@@ -115,6 +119,12 @@ Um **gene** é uma sequência de DNA que contém informações necessárias para
 - **Transcrição**: Síntese de um pré-mRNA a partir do DNA molde.
 - **Processamento do mRNA**: Inclui cap 5', splicing e cauda poly-A.
 - **Tradução**: Conversão do mRNA em proteína no ribossomo.
+
+
+- **Housekeeping Genes (Genes de Manutenção):**
+    - São genes **expressos de forma constante** em praticamente todos os tipos celulares.
+    - Codificam proteínas essenciais para a manutenção da viabilidade celular e funções básicas, como metabolismo energético, síntese de proteínas, reparo de DNA, entre outros.
+- Genes com expressão controlável ou regulada são aqueles cuja expressão varia em resposta a sinais internos ou externos, sendo ativados ou reprimidos em momentos específicos.
 
 ---
 
@@ -162,6 +172,16 @@ A **tradução** é o processo de síntese de proteínas a partir do mRNA, ocorr
    - Ocorre quando um códon de parada (UAA, UAG ou UGA) entra no sítio A.
    - Fatores de liberação promovem a dissociação do complexo.
 
+##### Estrutura do ribossomo
+- O ribossomo é composto por duas subunidades:
+    - **Subunidade Menor**: Responsável pela ligação ao **mRNA** e pela correta leitura dos códons.
+    - **Subunidade Maior**: Contém os sítios A, P e E, e é onde ocorre a formação da ligação peptídica entre os aminoácidos.
+
+- Sítio A: onde o aminoacil-tRNA entra e seu anticódon se liga ao códon do mRNA. 
+- Sítio P: onde o tRNA que transporta a cadeia polipeptídica em crescimento é mantido.
+- Sítio E (onde o tRNA desacilado, ou seja, sem aminoácido, é liberado). 
+- **Centro de decodificação**: Garante que apenas tRNAs com anticódons que correspondam aos códons do mRNA entrem no sítio A.
+- **Centro peptidiltransferase**: Local onde as ligações peptídicas entre os aminoácidos são formadas, essencial para a síntese da proteí
 ### **Cálculo de Códons e Aminoácidos**
 
 - O número de aminoácidos em uma proteína é determinado pelo número de códons entre o códon de início e o códon de parada.

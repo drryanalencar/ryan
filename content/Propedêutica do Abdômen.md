@@ -37,6 +37,7 @@ A sequência do exame físico no abdômen é: inspeção, ausculta, percussão e
 ###### As grandes duas divisões do abdômen
 ![[Pasted image 20240914170913.png]]
 ###### Pontos dolorosos do abdômen
+![[Pasted image 20240919192415.png]]
 ![[Pasted image 20240914171214.png]]
 
 #### Inspeção
@@ -77,10 +78,11 @@ Investiga-se 5 pontos:
 		- ![[Pasted image 20240915155501.png]]
 ###### Pele e anexos
 1. Cicatrizes; 
-	1. ![[Pasted image 20240915155744.png]]
-2. Estrias; 
-3. Veias dilatadas;
-4. Lesões:
+	1. ![[Pasted image 20240919193142.png]]
+	2. ![[Pasted image 20240915155744.png]]
+3. Estrias; 
+4. Veias dilatadas;
+5. Lesões:
 	- Máculas pigmentares ou hemorrágicas, 
 	- Pápulas, vesículas, bolhas ou pústulas.
 ###### Circulação colateral 
@@ -118,14 +120,23 @@ No entanto, existe uma condição específica que pode indiciar obstrução. Sã
 ###### Hérnias
 ![[Pasted image 20240915161004.png]]
 #### Ausculta
-- Frequência: 5-34 ruídos/ minuto;
-- > 34 huperborborismo
+- Frequência: 5-34 ruídos de borborigmo/ minuto; um borborigmo a cada quatro a cinco incursões respiratórias
+- > 34 hiperborborismo
+	- Obstrução ou diarreia;
 - < 5 hipoperistaltismo
-- Silêncio: constipação. 
-- QSE, QSD,QID,QIE
-- Permanência de 2 minutos em cada quadrante
+	- Fases tardias da obstrução.
+- Silêncio
+	- Constipação;
+	- Íleo metabólico
+		- O íleo paralítico é uma desaceleração da motilidade gastrointestinal não associada a uma obstrução mecânica.
+- Sequência: 
+	- QSE, QSD,QID,QIE
+- Permanência de 2 minutos em cada quadrante.
+![[Pasted image 20240919220828.png]]
 ![[Pasted image 20240916104552.png]]
 - Buscar também a presença de sopro que significa a dificuldade de passagem de sangue em determinado local ou cavidade.
+- Principal objetivo: análise da motilidade intestinal e dos sopros arteriais. 
+- Abdome agudo altera os ruídos peristálticos. 
 5
 #### Percussão
 - Permanência de 2 minutos em cada quadrante;
