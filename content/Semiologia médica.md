@@ -24,10 +24,6 @@ tags:
 	1. [[ILICIDAS]]
 6. [[Informações sobre a prova N1]]
 7. [[Propedêutica do Abdômen]]
-8. [[Dúvidas]]
-# Semiologia cardíaca 
-[[Ausculta Cardíaca]]
+8. [[Semiologia cardíaca]]
+9. [[Dúvidas]]
 
-
-![[Pasted image 20231129140813.png]]
-![[Pasted image 20231129141559.png]]
