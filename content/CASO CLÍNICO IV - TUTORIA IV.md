@@ -78,6 +78,8 @@ Entendo que você deseja aprimorar suas respostas relacionadas ao caso clínico 
 
 ### **5. Úlceras por Pressão**
 
+LESÕES POR PRESSÃO
+
 - **Fatores de Risco:**
   - Imobilidade prolongada, desnutrição, desidratação, incontinência e idade avançada.
 - **Formas de Prevenção:**
@@ -221,5 +223,5 @@ Embora ambos atuem no sistema renina-angiotensina, a combinação desses medicam
 - **Alternativas**: Na maioria dos casos, o ajuste de dose ou a substituição de uma das medicações por outra classe de anti-hipertensivos (como diuréticos, betabloqueadores ou bloqueadores dos canais de cálcio) pode ser uma estratégia mais segura e eficaz para o controle da hipertensão.
 
 ### **5. Conclusão:**
-A combinação de **enalapril e losartana** apresenta riscos substanciais, particularmente de **hiperpotassemia**, **hipotensão** e **insuficiência renal**. Embora essa combinação possa ser usada em contextos específicos, o acompanhamento médico próximo é fundamental, e alternativas terapêuticas devem ser consideradas para minimizar os riscos de efeitos adversos graves.
+A combinação de **enalapril e losartana** apresenta riscos substanciais, particularmente de **hiperpotassemia**, **hipotensão** e **insuficiência renal**. Embora essa combinação cdc spossa ser usada em contextos específicos, o acompanhamento médico próximo é fundamental, e alternativas terapêuticas devem ser consideradas para minimizar os riscos de efeitos adversos graves.
 

@@ -25,5 +25,9 @@ tags:
 6. [[Informações sobre a prova N1]]
 7. [[Propedêutica do Abdômen]]
 8. [[Semiologia cardíaca]]
-9. [[Dúvidas]]
+9. [[Prontuário Médico]]
+10. [[Relação médico paciente]]
+11. [[Semiologia vascular]]
+12. [[Diagnóstico sindrômico]]
+13. [[Dúvidas]]
 

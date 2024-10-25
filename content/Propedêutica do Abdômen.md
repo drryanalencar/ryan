@@ -41,13 +41,21 @@ A dor abdominal geralmente é autolimitada, por isso se tiver uma duração de m
 - Exposição total do abdome (genitália coberta)/ Esvaziar bexiga 
 - Examinar pelo lado direito do paciente;
 - Aquecer mãos e estetoscópio, unhas curtas;
-- Deixar o exame de áreas dolorosas para o final.
+- Perguntar sobre a presença de áreas dolorosas e deixar seu exame para o final. 
 - Pressão suave e gradativa, iniciar com palpação mais leve, aumentando gradativamente. 
 
-A sequência do exame físico no abdômen é: inspeção, ausculta, percussão e palpação.
-
+A sequência do exame físico no abdômen é: 
+1. inspeção, 
+2. ausculta,
+3. palpação e 
+4. Percussão.
 ###### As grandes duas divisões do abdômen
 ![[Pasted image 20240914170913.png]]
+- Cólon ascendente no flanco D; 
+- Cólon descendente no flanco E; 
+- Sigmoide na fossa ilíaca E; 
+- Ceco e apêndice na fossa ilíaca D. 
+- Ovários na fossa ilíaca. 
 ###### Pontos dolorosos do abdômen
 ![[Pasted image 20240919192415.png]]
 ![[Pasted image 20240914171214.png]]
@@ -74,7 +82,7 @@ A sequência do exame físico no abdômen é: inspeção, ausculta, percussão e
 #### Inspeção
 ##### Estática
 É feita com o paciente em posição ortostática ou em decúbito dorsal.           
-- Tipos de abdome;
+- Tipos/formato de abdome
 - Abaulamentos, retrações devido a hérnias, tumores ou massas abdominais. 
 	- Hérnias: realizar a **manobra de Valsava**
 		- Ela consiste em uma **expiração forçada contra uma via aérea fechada**, ou seja, o paciente é orientado a fechar a boca, apertar o nariz e "soprar", como se estivesse tentando expirar sem permitir a saída de ar.
@@ -95,14 +103,27 @@ Investiga-se 5 pontos:
 - Respiração;
 	- Observar se o abdome se move de maneira harmoniosa com a respiração.
 	- A ausência de movimento do abdômen sugere peritonite. 
-- Realização da manobra de Valsava.
+- Realização da manobra de Valsava ou a de Smith-Bates
 	- Hérnias; 
+	- 
+		- ![Manobra de Valsalva - YouTube](https://www.youtube.com/watch?v=jDBKCxmr6CE&ab_channel=SemiologiaemA%C3%A7%C3%A3o)
+	- Elevação das duas pernas extensão. 
+		- ![Manobra de Smith-Bates - YouTube](https://www.youtube.com/watch?v=-3gwCGi-Is8&ab_channel=MEDsimple)
+	- ![[Pasted image 20241003143607.png]]
+	- Manobra de Valsava e Smith-Bates
+		- ![[Pasted image 20241003144052.png]]
+	- Parar de respirar e mandar o paciente contrair o abdome
+		- ![Manobra de Valsalva - YouTube](https://www.youtube.com/watch?v=xTObmRAofCw&ab_channel=RenanLovisetto)
+	- 
 - Movimentos peristálticos visíveis;
 	- Pode ser um sinal de obstrução intestinal. Nesse caso, o intestino tenta empurrar o conteúdo para além do ponto de obstrução, resultando em movimentos visíveis da parede abdominal. 
 - Pulsação visível
-	- Particulamente na região epigástrica, pode sugerir a presença de um aneurisma de aorta abdominal. 
+	- Particularmente na região epigástrica, pode sugerir a presença de um aneurisma de aorta abdominal. 
 	- Aneurisma de aorta abdominal é uma dilatação anormal e localizada na aorta.
 	- ![Aneurisma de Aorta Abdominal - Inspeção e Palpação - YouTube](https://www.youtube.com/watch?v=Y1tFPrlrlAY&ab_channel=FranklyAndrade)
+	- Massa que transmite pulsação X Aneurisma aórtico
+	- ![[Pasted image 20241003153910.png]]
+	- Palpação de massas pulsáteis. A palpação é feita comprimindo-se a massa lateralmente com ambas as mãos. Se houver pulsação lateral (A), isto é, tanto expansão anterior quanto lateral, pensa-se em aneurisma aórtico. Já se houver só pulsação palpável no sentido anterior (B), pensa-se em massa que transmite a pulsação aórtica.
 ###### Tipos de abdome
 1) Planos
 2) Globoso
@@ -136,7 +157,7 @@ Investiga-se 5 pontos:
 ###### Circulação colateral 
 ![[Pasted image 20240915161705.png]]
 ![[Pasted image 20240915161833.png]]
-
+![[Pasted image 20241003144244.png]]
 ###### Umbigo
 Pode se apresentar normal (protraído) ou protuso quando a pressão intra abdominal aumenta. Com hérnia ou inflamado. 
 - Formato do umbigo: 
@@ -175,27 +196,37 @@ No entanto, existe uma condição específica que pode indiciar obstrução. Sã
 
 ###### Hérnias
 ![[Pasted image 20240915161004.png]]
+
+![[Pasted image 20241003152638.png]]
+
+###### Sinal de Sister Mary-Joseph ou sinal da irmã maria José. 
+- Nódulo umbilical metastático indicativo de neoplasia intra-abdominal. 
+![[Pasted image 20241003145415.png]]
 #### Ausculta
+Feita para avaliar a motilidade intestinal e a presença de sopros arteriais. 
 - Sons que podem ser ouvidos: 
-	- Ruídos hidroaéreos; 
+	- Ruídos hidroaéreos; ou sons gorgolejantes. 
 	- Sopros vasculares
 	- Fricções peritoneais 
 ###### Ruídos hidroáereos 
-- Frequência: 5-34 ruídos hidroaéreos/minuto; 1 ruído a cada quatro a cinco incursões respiratórias
+- Frequência: 5-34 ruídos hidroaéreos/minuto; 1 ruído a cada 4-5 incursões respiratórias
 - Permanência por 2 minutos em cada região. 
 - Chama-se borborigmo quando os ruídos estão intensificados, caracterizando sons mais prolongados, típicos de hiperperistaltismo. E gargarejo o som normal. 
 	- "Borborigmo: é o “ronco da barriga”, que indivíduos normais frequentemente apresentam, quando estão com fome, pela grande quantidade de gases em relação ao conteúdo líquido do órgão. É uma variante do ruído hidroaéreo propriamente dito".
 - São descritos por intensidade ++++/4. 
 - > 34 hiperborborismo/hiperperistaltismo
 	- Diarreia; gastroenterite;
-	- Início de Obstrução intestinal. 
+	- Início de obstrução intestinal. 
 - < 5 hipoperistaltismo
 	- Fases tardias da obstrução.
 	- Constipação;
-- Silêncio
+- Silêncio ou aperistáltico
 	- Constipação;
-	- Íleo metabólico
+	- Íleo metabólico ou íleo pós-operatório
 		- O íleo paralítico é uma desaceleração da motilidade gastrointestinal não associada a uma obstrução mecânica.
+- Outros sons que podem ser ouvidos: 
+	- Patinhação: Deve-se forçar a parede do órgão a bater de encontro com a superfície líquida, causando um ruído do tipo “clap-clap
+	- Borborigmo: é dado pela grande predominância de gases em relação ao conteúdo líquido do órgão. Apresentam quando estão com fome.
 - Sequência: 
 	- QID, QDS, QSE, QIE. Sentido horário. 
 - Permanência de 2 minutos em cada quadrante.
@@ -219,28 +250,41 @@ No entanto, existe uma condição específica que pode indiciar obstrução. Sã
 	- Presença de gases;
 	- Tamanho dos órgãos. 
 	- Presença de líquido livre. 
+	- Áreas dolorosas. 
+	- Espaço de Traube timpânico?
 - 2-3 percussões por quadrante. 
 - QID, QSD, QSE, QIE. Sentido horário.
-###### Percussão do fígado
+
+São causas de macicez: vísceras maciças normais (fígado) ou aumentadas (esplenomegalia), tumor ovariano, distensão da bexiga, útero gravídico, ascite, fezes e demais tumores.
+###### Percussão do fígado / hepatimetria
 - Hepatiometria;
 - 6-12 cm. 
-- Linha médio clavicular direita; 
+- Linha hemiclavicular direita a partir do 2° espaço intercostal. 
 - Geralmente começa a partir do 5° espaço intercostal. 
 - **Sinal de anormalidade**: Se o fígado estiver aumentado (hepatomegalia), a macicez será ouvida abaixo do rebordo costal.
 - **Sinal de Torres-Homem**: percussão dolorosa na região do fígado. 
+- **Sinal de Joubert**: timpanismo em  área de macicez, indicando perfuração de víscera oca (pneumoperitônio)
 ###### Percussão do baço
 - Avaliar o tamanho; normalmente não é percutível. 
 - 7 cm. 
 - Linha axilar anterior esquerda. 
 - Pedir para o paciente respirar profundamente. 
 ###### Percussão em Ascite
+[MANOBRAS PARA ASCITE - MACICEZ MÓVEL, SEMICÍRCULO DE SKODA E PIPAROTE - YouTube](https://www.youtube.com/watch?v=Tb3eoPLDqMw&ab_channel=SemiologiaDescomplicada)
 - Macicez móvel; 
 	- Decúbito dorsal --> decúbito lateral. 
 - **Sinal do piparote**: Outro método usado para identificar ascite é o sinal do piparote, onde um lado do abdome é percutido, e o outro lado é palpado para sentir o deslocamento do líquido.
 - Semicirculo de Skoda
+	- Ascites de pequenos ou médio volume. 
+		- Concavidade voltada para a região epigástrica. 
+		- Cisto gigante de ovário, uma vez que, na doença ginecológica, a concavidade da linha semicircular estará voltada para o púbis
 ![[Pasted image 20240926174141.png]]
+![[Pasted image 20241003150925.png]]
+![[Pasted image 20241003150949.png]]
 ###### Percussão do espaço de Traube
 - Espaço apresenta o timbre timpânico e que o espaço de Traube encontra-se “livre” de ocupação, o que é o normal, mas não pode ser confundido com a área normal de percussão do baço.
+- Esplenomegalia / estômago cheio / ascite volumosa / fecaloma / adenocarcinoma gástrico / extenso derrame pleural à esquerda. 
+![[Pasted image 20241003150630.png]]
 ###### Obstrução intestinal 
 - Timpanismo difuso; 
 ###### Sinal de Giordano ou punho-percussão da região lombar
@@ -265,12 +309,27 @@ No entanto, existe uma condição específica que pode indiciar obstrução. Sã
 #### Palpação
 Na palpação vamos analisar a experiência de dor do paciente.         
 A palpação pode ser **superficial ou profunda** (técnica deslizante de Hausman). 
-1. Superficial: avalia o tônus muscular, a sensibilidade e a presença de massas. 
+1. Superficial: avalia o tônus muscular (resistência muscular involuntária), a sensibilidade (presença de dor) e a presença de massas. 
 2. Profunda: análise de órgãos, massas profundas e dor visceral. 
 
 Ela pode se específica para o estômago, íleo terminal, ceco, cólon, rim e psoas.
 
-1. Superficial: utilizar movimentos circulares suaves com a mão aberta sobre cada quadrante abdominal.
+A contratura involuntária é denominada defesa da parede abdominal, podendo ser localizada ou generalizada (abdome em tábua). A causa mais frequente é a peritonite.
+
+**Sequência**: 
+- Fossa ilíaca direita; 
+- FD;
+- HD;
+- Epigástrio; 
+- HE; 
+- FE;
+- FIE;
+- Hipogástrio;
+- Mesogástrio.
+![[Pasted image 20241003152129.png]]
+- Figura 9.23 Palpação abdominal em grega, começando na fossa ilíaca direita e terminando na região umbilical ou mesogástrica.
+
+1. Superficial: utilizar movimentos circulares suaves com a mão aberta sobre cada quadrante abdominal. Tem como objetivo verificar se há alguma **alteração no tecido celular subcutâneo, herniações, massas e visceromegalias** de grande monta. 
 	1. Até 1cm.
 ![[Pasted image 20240923131850.png]]
 2. Profunda: pressiona-se firmemente. 
@@ -294,15 +353,37 @@ Existem alguns órgãos que só são palpados em condições patológicas, como:
 ##### Palpação do Psoas
 ##### Palpação do fígado
 - Percussão dígito digital intensamente dolorosa, localizada e circunscrita consiste em **Sinal de Torres-Homem**, característico de abscesso hepático. 
-Técnica da mão espalmada
-- Coloca a mão atrás do paciente;
-- Tenta palpar no rebordo costal;
-- Pede para ele inspirar. 
+
+Técnica da **mão espalmada, Lemos Torres, Chaurffard ou bimanual:**
+- Coloca a mão atrás do paciente; região dorsolateral, realizando tração anterior. 
+- Mão direita é aprofundada na região anterior desde a fossa ilíaca direita até o rebordo costal direito.
+- Durante a inspiração profunda. 
+- Objetivo:
+	- Localização da borda inferior direita; 
+	- Consistência (própria, amolecida e endurecida);
+	- Formato da borda (romba)
+	- Superfície (lisa, nodular, granulada)
+	- Sensibilidade álgica;
+	- Mobilidade; 
+	- Delimitação de massas;
+![[Pasted image 20240930165007.png]]
+![[Pasted image 20240930165040.png]]
+![[Pasted image 20240930165059.png]]
+![[Pasted image 20240930165136.png]]
 ![[Pasted image 20240923132731.png]]
-Técnica mão em garra
-- 
+Técnica mão em garra ou Mathieu-Cardarelli
+- Mãos apoiadas no rebordo costal, com os dedos tentando entrar por debaixo do rebordo costal. 
 ![[Pasted image 20240923132819.png]]
 ##### Palpação do Baço
+![[Pasted image 20240930174039.png]]
+- Palpação esplênica. Lembre-se de que a mão esquerda deve realizar a tração anterior do rebordo costal esquerdo objetivando anteriorizar o baço. Já a mão direita é aprofundada no abdome na expiração e move-se tentando palpar o polo inferior do baço na inspiração.
+![[Pasted image 20240930174255.png]]
+
+Posição de Schuster
+- Na qual a cintura pélvica do paciente é colocada em perfeito decúbito lateral direito, a cintura escapular em semidecúbito lateral direito, com o braço direito ao longo do corpo e a mão esquerda na nuca.
+![[Pasted image 20240930174732.png]]
+![[Pasted image 20240930174748.png]]
+
 Mesma técnica da mão espalmada do fígado. 
 ![[Pasted image 20240923132915.png]]
 ![[Pasted image 20240923132924.png]]
@@ -325,13 +406,21 @@ Mesma técnica da mão espalmada do fígado.
 [Manobras de Palpação Renal - Guyon, Goelet e Israel. - YouTube](https://www.youtube.com/watch?v=3jkta3RDYkk&ab_channel=Medicinaem10Minutos)
 - Útil para pacientes magros ou com rins aumentados. 
 - Palpação pelo método de Israel;
+	- Com o paciente em decúbito lateral e membros superiores por sobre a cabeça 
 	- ![[Pasted image 20240927180631.png]]
 - Manobra do Goelet
+	- O paciente deve ficar em pé, com o joelho do lado a ser examinado apoiado em uma cadeira.
 	- ![[Pasted image 20240927180229.png]]
 - Manobra de Guyon
+	- Posiciona-se a mão esquerda na região dorsal tracionando para a frente em movimento de báscula, enquanto a mão direita entra abaixo do rebordo costal durante a inspiração ao encontro da mão esquerda, tentando pegar o rim entre as duas mãos
 	- ![[Pasted image 20240927180147.png]]
+
+[Manobra de Punho Percussão de Murphy e Sinal de Giordano - YouTube](https://www.youtube.com/watch?v=Wbn7XsQMQNc&ab_channel=Medicinaem10Minutos)
 -  Sinal de Giordano 
-	- Golpes com a lateral da mão fechada sobre a região lombar...
+	![[Pasted image 20240930182836.png]]
+- Sinal de Murphy
+	![[Pasted image 20240930182937.png]]
+	![[Pasted image 20240930183246.png]]
 - Aumento unilateral: tumor ou hidronefrose.
 	- Hidronefrose: dilatação do sistema coletor renal (pelve e cálice renais) devido a uma obstrução do fluxo de urina. 
 - Aumento bilateral: hidronefrose bilateral (pode ser causada por, hiperplasia prostática benigna que afeta os ureteres ou a bexiga, rins policísticos (**rescimento de múltiplos cistos** cheios de líquido nos rins.         
@@ -380,6 +469,8 @@ Dor na vesícula geralmente é ocasionada pela alimentação rica em lipídeos, 
 		- Hepatite A. 
 ###### Peritonite 
 - Dor a descompressão brusca em qualquer lugar do abdômen. Isso diferencia de apendicite que é restrita a dor a descompressão no ponto de Mcburney. 
+
+Pesquisa de irritação peritoneal: 
 ##### Sinais propedêuticos
 1. Sinal de Murphy 
 2. Sinal de Giordano 
@@ -413,6 +504,7 @@ Dor na vesícula geralmente é ocasionada pela alimentação rica em lipídeos, 
 - **Percussão de som timpânico no hipocôndrio direito** indica que há um quadro de pneumoperitônio que pode ser causado por úlcera gástrica perfurada. 
 ###### Sinal de Murphy 
 - Interrupção brusca da respiração pela dor a palpação profunda. 
+- Comprimir e solicitar ao paciente que inspire profundamente.
 - Localização: ponto cístico. 
 - Indica: colecistite aguda. 
 - ![Sinal de Murphy - YouTube](https://www.youtube.com/watch?v=UWg3Ud2w4HA&ab_channel=SemiologiaEmFoco)
@@ -432,9 +524,11 @@ Se eu percutir loja renal direita ou esquerda e o paciente sentir dor, ele pode 
 ![[Pasted image 20240929115352.png]]
 ###### Sinal de Dunphy
 - Dor à percussão do ponto de McBurney ou dor ao tossir. Pode ser indicativo de apendicite.
+- By Rocco: "Sinal de Dunphy: dor na FID que piora com a tosse"
 ###### Sinal de Rovsing
 - Dor na fossa ilíaca direita provocada pela palpação da fossa ilíaca esquerda. 
 - ![Como realizar a manobra de Rovsing. #Fisioterapia #Rovsing #Semiologia - YouTube](https://www.youtube.com/watch?v=CVLRN3gSVbQ&ab_channel=InsightsemFisioterapia)
+- ![[Pasted image 20240930162839.png]]
 
 **Sinal de Lapinski:**
  -  Elevação do membro inferior direito cursando com dor no ponto de McBurney
@@ -463,8 +557,10 @@ Se eu percutir loja renal direita ou esquerda e o paciente sentir dor, ele pode 
 - Indicativo de hemorragia retroperitoneal. Pode ser encontrado em pancreatite necro-hemorrágica. 
 	- Pacreatite: autodigestão enzimática do parênquima. 
 		- Amilase e lipase altas. (Maior que 3x a referência).
-
-**SINAIS DE IRRITAÇÃO PERITONEAL** 
+---
+- **Sinal ou regra de Courvoisier-Terrier:** ao palpar hipocôndrio direito, sente-se uma massa ovalada, massa de neoplasia de vias biliares. Uma vesícula palpável e indolar, o que constitui sinal positivo. 
+	- ![[Pasted image 20241003153113.png]]
+	- Figura 9.30 Regra de Courvoisier-Terrier. Note que quando há doença calculosa, o atrito do cálculo na parede da vesícula leva a um processo inflamatório que culmina com o espessamento da parede e consequente retração da vesícula, logo mesmo com obstrução, a vesícula não distende. Já quando há uma obstrução com impedimento a saída de bile, mas a vesícula tem paredes íntegras, esta distende.
 
 - **Sinal do Martorelli:** a Dor referida no abdome ao realizar a punho percussão do calcâneo. 
 - **Sinal de Fox:** Equimose em região inguinal e base do pênis. Indicativo de hemorragia retroperitoneal. Pode ser encontrado em pancreatite necro-hemorrágica. 
@@ -474,6 +570,12 @@ Se eu percutir loja renal direita ou esquerda e o paciente sentir dor, ele pode 
 ##### Abdome agudo
 - Dor localizada na região abdominal que seja suficiente para fazer com que o paciente procure auxílio médico e que não tenha diagnóstico prévio, com **duração inferior a 6-24h.**
 ###### Tipos de abdome
+![[Pasted image 20240913160136.png]]
+- Inflamatório, Obstrutivo, Perfurativo, Hemorrágico, Vascular. 
+- Moderada-forte; moderada; fortíssima; forte; leve-moderada. 
+- Plastão, distensão, tábua, macicez móvel, NDN; 
+- RHAd, RHAa, RHAaus, RHAd, RHAn; 
+
 - **Inflamatório**
 	- **Dor:** em forma de facada, **lancinante.** Parece que a pessoa vai morrer. 
 	- Palpação 
@@ -501,7 +603,7 @@ Se eu percutir loja renal direita ou esquerda e o paciente sentir dor, ele pode 
 	- Causas: isquemia mesentérica. 
 	- Geralmente em idosos. 
 	- Arritmia cardíaca, Fibrilação atrial em que o átrio não comanda a contração ventricular, isso faz com que ocorra uma embolia, isto é, desgarramento de um trombo que obstruirá a mesentérica. 
-![[Pasted image 20240913160136.png]]
+
 ###### Causas de abdome agudo não cirúrgicas
 - **Uremia (Insuficiência renal):**
 	- Na uremia o paciente para de urinar, isso causa dor abdominal, porque o líquido está todo no espaço intersticial, desidratando as alças intestinais. 
@@ -540,7 +642,7 @@ Como saber se o paciente está simulando dor? Para, durante a palpação, fazemo
 #### Manifestações concomitantes – lembretes na dor abdominal
 - A dor precede o vômito nas condições cirúrgicas.
 - O vômito precede a dor nas condições não cirúrgicas.
-- Dor abdominal com diarréia usualmente tem causa não cirúrgica. Por que as que tem causa cirúrgicas geralmente causam constipação. 
+- Dor abdominal com diarreia usualmente tem causa não cirúrgica. Por que as que tem causa cirúrgicas geralmente causam constipação. 
 - Dor abdominal com fezes sanguinolentas pensar em colite ou **neoplasia de Mannkopf.**
 - Dor abdominal com anorexia e perda de peso tem causa orgânica. 
 	- Dor abdominal com febre alta (> 39,5º) desde o início: 
@@ -555,3 +657,9 @@ Como saber se o paciente está simulando dor? Para, durante a palpação, fazemo
 
 #### Descrição do abdômen
 Abdome plano, sem lesões de pele, cicatrizes, circulação colateral ou hérniações. Pulsações arteriais e peristalse não identificáveis à inspeção. Peristalse normal presente nos quatro quadrantes e ausência de sopros em focos arteriais abdominais. Hepatimetria medindo cerca de 12 cm (lobo direito). Traube livre. Ausência de hipertimpanismo difuso ou macicez em flancos. Fígado e baço impalpáveis. Abdome indolor à palpação superficial e profunda (colocar: “sem sinais de irritação peritoneal” em casos de queixas agudas importantes) Ausência de massas.
+
+![[Pasted image 20241003160644.png]]
+
+![[Pasted image 20241003160657.png]]
+
+![[Pasted image 20241003160708.png]]

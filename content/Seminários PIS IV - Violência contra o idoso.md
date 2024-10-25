@@ -1,4 +1,4 @@
-[[Slide de Violência contra o Idoso - PIS IV.pdf]]
+![[Slide de Violência contra o Idoso - PIS IV.pdf]]
 
 Caso clínico
 

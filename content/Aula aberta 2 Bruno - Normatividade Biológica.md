@@ -1,0 +1,19 @@
+- [[Slide Aula  2 - Canguilhem .pdf]]
+- O sujeito cria sua própria normatividade. 
+- O vivente humano prolonga, de modo mais ou menos lúcido, um efeito espontâneo, próprio da vida, contra aquilo que constitui um obstáculo à sua manutenção e a seu desenvolvimento tomados como norma. 
+- "No pleno sentido da palavra, normativo é o que institui as normas." 
+	- Todo ser vivo institui normas. 
+- O organismo vivo não é indiferente as causalidade físicas e químicas do meio em que ele vive e do próprio corpo. 
+	- Nós avaliamos essas leis físicas, nós vemos o que é bom, o que é ruim. 
+	- **Diante dos fatos eu não sou indiferente, eu atribuo valores a eles.** 
+	- Todos os seres são assim, normativos, colocam seus valores sobre o meio físico, para escolher aquilo que lhe beneficia. 
+- "Nesse caso mecanicista, toda posição do corpo é natural e não envolve valor."
+- "a vida é polaridade os estados são considerados um bem ou um mal"
+- "O mais simples dos aparelhos biológicos de nutrição, de assimilação e de excreção traduz uma polaridade."
+- Quando deixamos de conseguir colocar nossas normas ao meio, isso caracteriza um estado de doença. 
+- O ser humano consegue refletir (filosofia) sobre o valor imanente à vida. E no interior da humanidades nasce a medicina. 
+- “Disso decorre a insuficiência de toda biologia que, por submissão completa ao espírito das ciências físico-químicas, gostaria de eliminar de seu domínio toda consideração de sentido. Um sentido, do ponto de vista biológico e psicológico, é uma apreciação de valores em relação a uma necessidade."
+- "É claro que, assim definida, a anomalia tomada em um sentido geral é um conceito puramente empírico ou descritivo, ela é um desvio estatístico Mas à anomalia pode se conferir outro sentido, o qual, aliás, faz nascer a biologia; qual?". 
+	- Dependerá do sentido dado para anomalia. 
+- "considerado em sua polaridade dinâmica, a responsabilidade de distinguir o ponto em que começa a doença"
+- 
