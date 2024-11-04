@@ -1,0 +1,10 @@
+- Temperatura;
+	- Hipertermia (aumento da temperatura – deve chamar atenção para inflamação local).
+- [[Palpação das artérias]] 
+	- Pulsos
+- Frêmito; 
+- Pressão arterial (ITB < 0,9)
+	- ### O Que é o Índice Tornozelo-Braquial (ITB)?
+	- O ITB é calculado dividindo a **pressão arterial sistólica medida no tornozelo** pela **pressão arterial sistólica medida no braço**.
+	- Um valor normal do ITB está entre **0,9 e 1,3**, indicando um fluxo arterial adequado nas extremidades inferiores.
+	- Um ITB menor que 0,9 sugere **fluxo arterial reduzido**, indicando possível obstrução ou estreitamento das artérias das pernas, característico de DAP.

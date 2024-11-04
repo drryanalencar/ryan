@@ -1,0 +1,2 @@
+Esta síndrome é caracterizada pelo acúmulo de líquidos no espaço intersticial do corpo, levando a edema generalizado. Geralmente, é causada por insuficiência cardíaca, doenças renais ou hepáticas e hipoproteinemia. Pacientes com essa síndrome apresentam inchaço visível nas extremidades, ascite e outros sinais de retenção de líquidos. O caso em questão não menciona edema generalizado, e os sinais apresentados não condizem com essa síndrome.
+- Coração, rim, fígado. 

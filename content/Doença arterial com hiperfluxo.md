@@ -1,0 +1,3 @@
+- Conexões anormais que causam hiperfluxo. As principais são: 
+	- [[Fístulas arteriovenosas FAV]]
+	- [[Malformações vasculares]]

@@ -1,0 +1,15 @@
+- Não invasivos
+	- [[Doppler manual]]
+	- [[Ecocolordoppler]]
+		- [[Ecografia com doppler]]
+	- [[Ultrasonografia]]
+	- [[Pletismografia]]
+	- [[Angioressonância]]
+- Invasivos 
+	- [[Arteriografia]]
+	- [[Flebotografia]]
+	- [[Linfografia]]
+	- [[Angiografia]]
+	- [[Angiotomografia]]
+	- [[Tomografia computadorizada]]
+	- [[Flebografia radioisotópica]]

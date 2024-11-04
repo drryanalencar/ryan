@@ -282,8 +282,10 @@ São causas de macicez: vísceras maciças normais (fígado) ou aumentadas (espl
 ![[Pasted image 20241003150925.png]]
 ![[Pasted image 20241003150949.png]]
 ###### Percussão do espaço de Traube
+- É delimitado pelo rebordo costal esquerdo, linha axilar anterior esquerda e 6o espaço intercostal esquerdo.
 - Espaço apresenta o timbre timpânico e que o espaço de Traube encontra-se “livre” de ocupação, o que é o normal, mas não pode ser confundido com a área normal de percussão do baço.
 - Esplenomegalia / estômago cheio / ascite volumosa / fecaloma / adenocarcinoma gástrico / extenso derrame pleural à esquerda. 
+- Linha Piorry: Para diferenciar a esplenomegalia das demais causas, utiliza-se a delimitação do espaço de Traube feita pela linha de Piorry, que vai da articulação esternoclavicular esquerda até a primeira costela flutuante esquerda (Figura 9.14B). Se a percussão medial a esta linha for maciça, indica crescimento esplênico verdadeiro.
 ![[Pasted image 20241003150630.png]]
 ###### Obstrução intestinal 
 - Timpanismo difuso; 
@@ -434,7 +436,7 @@ Mesma técnica da mão espalmada do fígado.
 #### Palpação
 ###### Dor na vesícula
 Dor na vesícula geralmente é ocasionada pela alimentação rica em lipídeos, porque para digestão desses macronutrientes, faz-se necessário a liberação dos sais biliares. Essa liberação é estimulada pela Colecistocinina (CCK) que quando liberada age estimulando a vesicular biliar a se contrair e liberar os sais biliares.           
-- O grupo clínico 4F
+- O grupo clínico 4F ([Colelitíase: você sabe diagnosticar e tratar? - PEBMED](https://portal.afya.com.br/cirurgia/colelitiase-voce-sabe-diagnosticar-e-tratar))
 	- FAT
 	- FEMEALE
 	- FOURTY
@@ -457,7 +459,7 @@ Dor na vesícula geralmente é ocasionada pela alimentação rica em lipídeos, 
 		- Febre; 
 		- Dor abdominal no quadrante superior direito; 
 		- Icterícia. 
-	- **Pêntade de Reynolds** (hipotensão e alteração mental, além da tríade).
+	- **Pêntade de Reynolds** (hipotensão e alteração mental (Confusão mental), além da tríade).
 ###### Síndrome ictérica
 - Síndrome ictérica
 	- Conjuntivas e frênulo amareladas; 

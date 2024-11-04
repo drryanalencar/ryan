@@ -12,3 +12,4 @@
 * [[Lesão ou injúria celular]]
 * [[Morte Celular]]
 * [[Aula prática - pigmentos]]
+- [[Doença isquêmica do coração]]

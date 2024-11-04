@@ -41,6 +41,7 @@
 ###### **Válvulas estenosadas e calcificadas**
 * **Estenose mitral.** 
 	* Sopro diastólico (Ruflar de tambores). (Parece o bater das assas de um pombo)
+	* **Qualidade do som:** Descrito como um "ruflar" de baixa frequência, semelhante ao som de um tambor. É melhor auscultado com a campânula do estetoscópio, devido à sua tonalidade grave.
 	* O sopro da estenose mitral é um sopro diastólico que se inicia com grande intensidade, diminui na mesodiástole e se acentua na pré-sístole.
 	![[Pasted image 20241024133003.png]]
 	- ### Resumo do Comportamento do Sopro na Estenose Mitral
@@ -62,13 +63,21 @@
 	![[Pasted image 20241024145623.png]]
 	- É um sopro protodiastólico em decrescendo. Geralmente audível em **foco aórtico,** irradiando para fúrcula e outros focos.
 	- O gráfico representa o **sopro decrescente** da insuficiência aórtica, que ocorre durante a diástole e é causado pelo refluxo de sangue através da válvula aórtica insuficiente. O comportamento decrescente reflete a redução do gradiente de pressão entre a aorta e o ventrículo esquerdo ao longo da diástole.
+	- **Qualidade do som:** É descrito como um sopro aspirativo, de alta frequência e em decrescendo, indicando a diminuição progressiva do fluxo regurgitante ao longo da diástole.
 - **Insuficiência mitral**
 	![[Pasted image 20241024153800.png]]
 	- Sopro holossistólico em platô. Audível nos focos de base (mitral e tricúspide), irradia para axila esquerda.
 	- Presente durante toda fase sistólica. 
 	- Isso ocorre porque a válvula mitral não se fecha completamente durante a sístole, permitindo o refluxo constante de sangue do ventrículo esquerdo para o átrio esquerdo ao longo de toda a contração ventricular.
 	- O formato constante reflete o gradiente de pressão contínuo entre as duas câmaras durante essa fase.
-
+-  [[Sintomatologia das insuficiências valvares]]
+- Sopro de Austin Flint
+	- Som grave, de baixa frequência; 
+	- Ocorre durante a insuficiência aórtica grave. 
+	- **Por que ocorre na Insuficiência Aórtica?**
+		- Na insuficiência aórtica grave, o fluxo de sangue que retorna da aorta para o ventrículo esquerdo durante a diástole cria um jato retrógrado de alta pressão que pode impactar o **folheto anterior da válvula mitral**.
+		- Esse jato interfere no movimento normal da válvula mitral, causando um fechamento incompleto ou vibratório do folheto mitral.
+		- O resultado é um som semelhante ao sopro de **estenose mitral**, mas ele não é causado por um estreitamento anatômico da válvula mitral, e sim pela interferência funcional do jato aórtico no fechamento mitral.
 ##### Descrição de um sopro
 - Localização: foco em que se encontra.  
 - Situação: sistólico ou diastólico (B1 ou B2).
@@ -80,7 +89,7 @@
 * Som: atrito pericárdico, não guarda relação nem com a sístole nem com a diástole. Comum pós operatório de cirurgia cardíaca. 
 ##### Tamponamento cardíaco 
 - Acúmulo de líquido no espaço pericárdico, o que comprime o coração e impede uma contração eficaz.
-- Causado por traumas, pericardite, neoplasias, insuficiência renal, 
+- Causado por traumas, pericardite, neoplasias, insuficiência renal. 
 ##### Ictus cordis 
 
 **Mobilidade**: Ao solicitar que o paciente em decúbito dorsal se vire para a esquerda, ficando em decúbito lateral, é possível notar em indivíduos sadios que o ictus cordis torna-se mais lateralizado em aproximadamente 3 cm. Redução da mobilidade do ictus sugere pericardite constritiva, mas é rara de ser observada.

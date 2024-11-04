@@ -1,0 +1,2 @@
+- **Aplicação**: Utiliza traçadores radioativos para estudar o fluxo venoso e detectar problemas como trombose venosa profunda. Menos comum devido à necessidade de material radioativo.
+- **Benefícios**: Pode mostrar anomalias funcionais do fluxo venoso que não são facilmente detectáveis com outros métodos.

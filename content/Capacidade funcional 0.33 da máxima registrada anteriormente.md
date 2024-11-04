@@ -1,0 +1,1 @@
+Indica uma **redução significativa na habilidade do paciente em realizar atividades físicas**, refletindo uma **limitação funcional** associada ao comprometimento do débito cardíaco.

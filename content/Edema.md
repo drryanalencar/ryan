@@ -4,6 +4,7 @@ tags:
 ---
 ![[Pasted image 20240731195837.png]]
 ![[Pasted image 20240731195850.png]]
+![[Pasted image 20241028104935.png]]
 
 Principais causas de edema: 
  - [[Síndrome nefrótica]]

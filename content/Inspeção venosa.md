@@ -1,0 +1,5 @@
+- Circulação colateral na raiz da coxa, região pubiana, parede abdominal e torácica; 
+- Presença de veias varicosas e alterações cutâneas.
+- [[Varizes (ectasias venosas)]]
+- Edema de membros inferiores.
+- [[Dermatite de estase ou dermatite ocre]]

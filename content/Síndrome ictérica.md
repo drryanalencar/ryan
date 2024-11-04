@@ -1,0 +1,1 @@
+A Síndrome Ictérica se caracteriza pela presença de icterícia, uma coloração amarelada da pele e das mucosas devido ao aumento da bilirrubina no sangue. Pode ser causada por doenças hepáticas, hemólise ou obstrução das vias biliares. Os pacientes apresentam pele amarelada, urina escura e fezes esbranquiçadas, dependendo da causa.

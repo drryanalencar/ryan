@@ -1,0 +1,4 @@
+![[Pasted image 20241028172327.png]]
+- **Aplicação**: Exame radiológico em que um contraste é injetado diretamente em uma artéria para visualizar seu trajeto e possíveis obstruções, estenoses ou aneurismas. ==**Utilizado para planejamento de cirurgias vasculares.**==
+- **Benefícios**: Oferece imagens detalhadas e precisas da árvore arterial.
+- Além de identificar com precisão a localização e a extensão das lesões, a arteriografia evoluiu para possibilitar intervenções terapêuticas minimamente invasivas, conhecidas como procedimentos endovasculares. Essas intervenções incluem ==angioplastias, colocação de stents e embolizações,== oferecendo alternativas menos invasivas em comparação às cirurgias abertas tradicionais.

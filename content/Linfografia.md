@@ -1,0 +1,2 @@
+- **Aplicação**: Exame que utiliza contraste radiológico para visualizar os vasos linfáticos e os linfonodos. Indicado para investigar doenças como linfedema e condições malignas que afetam o sistema linfático.
+- **Benefícios**: Fornece informações detalhadas sobre o estado dos vasos linfáticos e linfonodos.

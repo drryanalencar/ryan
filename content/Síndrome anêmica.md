@@ -1,0 +1,1 @@
+A Síndrome Anêmica ocorre quando há uma redução da concentração de hemoglobina ou do número de glóbulos vermelhos no sangue, levando a sintomas como palidez, fadiga, dispneia aos esforços, tontura e taquicardia. No exame físico, pode haver sopro cardíaco devido ao aumento do débito cardíaco compensatório.

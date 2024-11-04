@@ -1,0 +1,2 @@
+A **angio-TC (angiotomografia)** é considerada o padrão-ouro para a avaliação de aneurismas de aorta abdominal devido à sua capacidade de fornecer imagens detalhadas e precisas da anatomia da aorta, permitindo a avaliação da extensão e do tamanho do aneurisma, além da presença de trombos ou calcificações.
+![[Pasted image 20241028172610.png]]

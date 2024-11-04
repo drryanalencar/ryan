@@ -1,0 +1,11 @@
+- [[Isquemia arterial aguda]]
+- [[Isquemia arterial crônica]]
+- [[Trombose Venosa Profunda (TVP)]]
+- [[Trombo x Êmbolo]]
+- [[Tromboflebite superficial e flebotromboses]]
+- [[Insuficiência venosa crônica]]
+- [[Síndrome do dedo azul]]
+- [[Síndrome aneurismática]]
+###### Diagnóstico sindrômico vascular 
+- Síndrome isquêmica
+- Síndrome do dedo azul 

@@ -1,0 +1,2 @@
+A Síndrome Febril refere-se a um conjunto de sinais e sintomas associados à febre, que pode ser causada por infecções, doenças inflamatórias ou condições malignas. Os pacientes apresentam aumento da temperatura corporal, calafrios, sudorese, mal-estar e, possivelmente, outros sintomas relacionados à doença subjacente.
+- Infecção crônica, neoplasia, doenças autoimunes. 

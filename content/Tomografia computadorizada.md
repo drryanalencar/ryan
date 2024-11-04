@@ -1,0 +1,2 @@
+- **Aplicação**: Exame que utiliza raios-X para criar imagens detalhadas em cortes transversais. Pode ser feita com ou sem contraste, sendo útil para avaliar órgãos internos, tecidos e vasos.
+- **Benefícios**: Imagens detalhadas para diagnósticos de doenças abdominais, torácicas e cerebrais.

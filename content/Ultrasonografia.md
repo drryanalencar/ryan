@@ -1,0 +1,1 @@
+**Aplicação**: Utilizada amplamente para avaliar órgãos internos, detectar anomalias estruturais e monitorar o desenvolvimento fetal. No contexto vascular, auxilia na avaliação inicial de aneurismas e tromboses.

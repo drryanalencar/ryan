@@ -37,7 +37,11 @@ Exame do pulso, da pressão arterial e a da pressão venosa.
 - **Terceira bulha (B3)**, causada pelo impacto do excesso de sangue em um ventrículo pouco complacente.
 	- É um ruído de baixa frequência (auscultar com a campânula do estetoscópio) audível nos focos mitral ou tricúspide.
 	- Aumento do volume diastólico final. 
+	- A **terceira bulha (B3)** é um som cardíaco adicional de baixa frequência que ocorre no início da diástole, resultante do rápido enchimento ventricular e vibração das paredes ventriculares. Seu som é descrito como “tum-ta-ta”, semelhante a um galope. B3 é mais frequentemente um indicador de sobrecarga de volume e insuficiência ventricular, mas pode ser normal em algumas condições fisiológicas.
+	- É causada pelo enchimento rápido do ventrículo e a vibração das paredes ventriculares devido à sobrecarga de volume.
+	- A terceira bulha (B3) é grave e melhor audível na área mitral
 - **Quarta bulha (B4)**, uma contração atrial vigorosa contra um ventrículo de complacência reduzida. 
+	- A **quarta bulha (B4)** é melhor ouvida na **área mitral**, que corresponde ao ápice do coração.
 - Hipertrofia ou fibrose ventricular. 
 ##### Exame físico
 ###### Inspeção 
@@ -150,7 +154,8 @@ Já nos pacientes com ritmo completamente aleatório, o pulso é chamado de irre
 - Enfisema pulmonar, o qual distância o coração da parede torácica. 
 - **Tamponamento cardíaco.** 
 	- Acúmulo de líquido no **espaço pericárdico**.
-	- Como resultado, a pressão no pericárdio aumenta e **comprime o coração**, impedindo que ele se encha adequadamente durante a diástole. Isso diminui o débito cardíaco e compromete a circulação sanguínea, levando a uma **queda acentuada da pressão arterial** e risco de choque.
+	- Como resultado, a pressão no pericárdio aumenta e **comprime o coração**, impedindo que ele se encha adequadamente durante a diástole. Isso diminui o débito cardíaco e compromete a circulação sanguínea, levando a uma **[[Queda acentuada da pressão arterial]]** e risco de choque.
+	- Causado por traumas, pericardite, neoplasias, insuficiência renal, 
 - **Tríade de Beck**
 	- Hipofonese de bulhas;
 	- Turgência jugular;
@@ -162,6 +167,7 @@ Já nos pacientes com ritmo completamente aleatório, o pulso é chamado de irre
 	- Atraso mais significativo no fechamento da valva pulmonar. 
 		- Bloqueio do ramo direito (BRD). 
 			- Atraso da sístole do VD.
+- TUM - TÁ - TLA
 **Desdobramento paradoxal**
 - Som duplo de B2 na expiração. 
 - Valva aórtica estará demorando mais para fechar, as causas principais são bloqueio de ramo esquerdo (BRE) e estenose aórtica.
@@ -212,3 +218,181 @@ Forma alternativa de realizar: peça para que ele aperte suas mãos, uma contra 
 ![[Pasted image 20241010161558.png]]
 ##### Lesões orovalvares
 - [[VALVOPATIAS RESUMO JG.pdf]]
+##### Pré-carga e pós-carga
+Na semiologia cardíaca, **pré-carga** e **pós-carga** são conceitos importantes que descrevem aspectos da função cardíaca e influenciam diretamente o desempenho do coração na circulação. Vou detalhar cada um deles e as consequências de suas variações:
+
+### 1. **Pré-Carga**
+- **Definição**: É a quantidade de sangue que se acumula no ventrículo ao final da diástole, antes de ele se contrair. Em outras palavras, é o volume de enchimento ventricular e a tensão da parede ventricular no fim da diástole.
+- **Determinantes**: A pré-carga depende do retorno venoso ao coração, ou seja, da quantidade de sangue que chega ao coração pelas veias.
+	- A presença de edema e turgência jugular sugere aumento da pré-carga, uma vez que há sobrecarga de volume.
+- **Consequências de Aumento**:
+  - **Vantagens**: Em situações normais, um aumento da pré-carga pode levar a um aumento da força de contração do ventrículo, seguindo a Lei de Frank-Starling, que afirma que quanto maior o volume de enchimento, maior a força de contração e o volume de ejeção.
+  - **Desvantagens**: Se a pré-carga estiver cronicamente aumentada, como em insuficiência cardíaca congestiva, pode levar a uma dilatação excessiva do ventrículo e a uma diminuição da eficiência de contração, resultando em menor débito cardíaco.
+- **Consequências de Diminuição**:
+  - Pode resultar em menor enchimento ventricular e, portanto, menor volume de ejeção, levando a uma redução no débito cardíaco, o que pode prejudicar a perfusão dos órgãos.
+
+### 2. **Pós-Carga**
+- **Definição**: É a resistência contra a qual o ventrículo deve trabalhar para ejetar o sangue durante a sístole. Em termos práticos, está relacionada à pressão na aorta e nas grandes artérias que o ventrículo precisa vencer para expelir o sangue.
+- **Determinantes**: A pós-carga é influenciada pela resistência vascular sistêmica e pela pressão arterial.
+- **Consequências de Aumento**:
+  - **Aumento do Trabalho Cardíaco**: Um aumento da pós-carga, como em casos de hipertensão arterial, exige que o coração trabalhe mais para bombear o sangue. Isso leva a um maior consumo de oxigênio pelo miocárdio e pode contribuir para a hipertrofia ventricular esquerda como um mecanismo de compensação.
+  - **Insuficiência Cardíaca**: A pós-carga elevada cronicamente pode levar a uma sobrecarga no ventrículo, culminando em insuficiência cardíaca, já que o coração não consegue manter um débito adequado contra a resistência aumentada.
+- **Consequências de Diminuição**:
+  - **Redução da Carga de Trabalho do Coração**: Uma menor pós-carga facilita o esvaziamento ventricular, podendo melhorar a função cardíaca em casos de insuficiência cardíaca. Medicamentos vasodilatadores, por exemplo, reduzem a pós-carga para aliviar o esforço cardíaco.
+  - **Hipotensão**: Uma pós-carga muito baixa pode reduzir excessivamente a pressão arterial, resultando em hipotensão e má perfusão dos tecidos.
+
+### **Resumo das Consequências**:
+- **Pré-Carga Aumentada**: Pode levar a congestão, dilatação ventricular e insuficiência cardíaca quando cronicamente alta.
+- **Pré-Carga Diminuída**: Reduz o débito cardíaco e pode comprometer a perfusão dos órgãos.
+- **Pós-Carga Aumentada**: Leva a maior esforço do ventrículo, hipertrofia e potencial insuficiência cardíaca.
+- **Pós-Carga Diminuída**: Pode facilitar a ejeção do sangue, mas uma redução excessiva pode levar a hipotensão.
+
+Esses conceitos são fundamentais na avaliação e manejo de pacientes com doenças cardíacas, pois permitem entender a carga de trabalho do coração e ajudam a guiar intervenções terapêuticas que podem modular a pré-carga e a pós-carga para otimizar a função cardíaca.
+
+###### Hipotensão e perfusão sanguínea
+Um quadro de **má perfusão** ocorre quando a pressão arterial é insuficiente para manter um fluxo sanguíneo adequado aos tecidos do corpo. Isso pode ser uma consequência de uma **pós-carga muito baixa**, levando à hipotensão, o que compromete a perfusão tecidual. Vou detalhar por que isso acontece:
+
+### 1. **Pós-Carga Muito Baixa e Hipotensão**
+- A pós-carga é a resistência que o coração enfrenta para ejetar o sangue para a circulação sistêmica. Se a pós-carga for reduzida excessivamente, por exemplo, devido à vasodilatação extrema causada por medicamentos ou choque distributivo (como no caso de choque séptico), a pressão arterial também diminui.
+- A redução da resistência vascular leva a uma queda na pressão arterial média. Como a pressão arterial é o principal fator que impulsiona o fluxo sanguíneo através dos órgãos e tecidos, sua diminuição pode resultar em um fluxo insuficiente de sangue para nutrir as células.
+
+### 2. **Consequências da Hipotensão**
+- **Redução da Perfusão Tecidual**: A pressão arterial baixa não consegue vencer a resistência dos leitos capilares dos órgãos, o que resulta em uma menor quantidade de sangue e oxigênio entregue aos tecidos. Isso é chamado de má perfusão.
+- **Comprometimento de Órgãos Vitais**: Órgãos como cérebro, rins e coração são especialmente sensíveis à redução da perfusão. A má perfusão pode levar a disfunções graves, como:
+  - **Hipóxia tecidual**: Insuficiência de oxigênio nas células, comprometendo sua função.
+  - **Lesão celular**: Se a má perfusão persistir, pode ocorrer dano celular e necrose em órgãos vitais.
+  - **Disfunção de órgãos**: Redução prolongada da perfusão pode causar disfunções como insuficiência renal aguda, isquemia miocárdica (no coração) e confusão mental ou síncope (no cérebro).
+
+### 3. **Causas da Pós-Carga Reduzida**
+- **Uso de vasodilatadores**: Medicamentos que reduzem a resistência vascular e a pós-carga podem causar hipotensão se administrados em excesso.
+- **Choque distributivo**: Tipos de choque, como o séptico ou anafilático, envolvem vasodilatação generalizada, levando a uma pressão arterial muito baixa e má perfusão.
+- **Doenças cardiovasculares**: Algumas condições que afetam a função de bombeamento do coração, como miocardiopatias, podem reduzir a capacidade do coração de manter uma pressão arterial adequada.
+
+### **Resumo**
+A má perfusão ocorre quando a pressão arterial é insuficiente para impulsionar o sangue adequadamente através dos órgãos e tecidos do corpo. Uma **pós-carga muito baixa** leva à hipotensão, que é incapaz de manter a perfusão necessária, resultando em baixa entrega de oxigênio e nutrientes aos tecidos e potencial dano orgânico.
+##### Critérios de Framingham
+- Diagnóstico de insuficiência cardíaca. 
+- 2 maiores ou 1 maior e 2 menores são suficientes para diagnosticar IC.
+![[Pasted image 20241026092016.png]]
+- **Insufuciência cardíaca direita e esquerda**
+	- A IC esquerda é evidenciada por dispneia e estertores pulmonares devido à congestão pulmonar.
+###### Perfil hemodinâmico da IC
+Na insuficiência cardíaca (IC), os perfis hemodinâmicos são usados para descrever o estado de perfusão (se o paciente está bem perfundido ou mal perfundido) e de congestão (se há ou não acúmulo de líquido nos tecidos). Esses perfis ajudam a guiar a abordagem terapêutica. Vou detalhar os perfis “quente e seco” e “quente e úmido”:
+
+ Perfil Hemodinâmico “Quente e Seco”
+- **Definição**: Refere-se a pacientes com IC que apresentam boa perfusão periférica (ou seja, estão "quentes") e não têm sinais de congestão ("secos").
+- **Características**:
+    - **Perfusão**: A circulação de sangue é adequada, e o paciente não apresenta sintomas de baixo débito cardíaco, como hipotensão ou extremidades frias.
+    - **Congestão**: Ausência de sinais de retenção de líquido, como edema, turgência jugular, ou estertores pulmonares.
+- **Situação Clínica**: Esse perfil é considerado estável e indica que o paciente está compensado. Ele não apresenta retenção de líquidos e tem uma perfusão adequada. Geralmente, esses pacientes são mantidos com tratamento de suporte e monitoramento.
+ Perfil Hemodinâmico “Quente e Úmido”
+- **Definição**: Descreve pacientes com IC que têm boa perfusão periférica ("quentes") mas apresentam sinais de congestão ("úmidos").
+- **Características**:
+    - **Perfusão**: O paciente mantém a perfusão adequada e não apresenta sinais de baixo débito, como extremidades frias.
+    - **Congestão**: Presença de sinais de acúmulo de líquido, como estertores pulmonares, turgência jugular e edema periférico.
+- **Situação Clínica**: Este é o perfil mais comum em pacientes com IC descompensada. Eles estão “úmidos” devido à congestão pulmonar e sistêmica, mas a perfusão ainda é adequada. O tratamento envolve estratégias para reduzir a congestão, como o uso de diuréticos e vasodilatadores, mantendo a perfusão e aliviando os sintomas.
+Resumo:
+- **Quente e Seco**: Perfusão normal sem congestão – paciente estável e bem compensado.
+- **Quente e Úmido**: Perfusão normal com sinais de congestão – paciente com congestão, necessitando de tratamento para alívio de sobrecarga de volume.
+Esses perfis são parte de um esquema mais amplo que também inclui os perfis “frio e seco” (má perfusão sem congestão) e “frio e úmido” (má perfusão com congestão), sendo os últimos mais graves e associados a uma piora do prognóstico.
+**Perfis Hemodinâmicos da Insuficiência Cardíaca:**
+1. **Perfil A (Quente e Seco):**
+    - **Descrição:** Pacientes com perfusão tecidual adequada e sem sinais de congestão.
+    - **Características Clínicas:** Ausência de dispneia, edema periférico ou estertores pulmonares; extremidades quentes e bem perfundidas.
+    - **Tratamento:** Geralmente, não requer intervenções agudas; foco na otimização da terapia medicamentosa de manutenção.
+2. **Perfil B (Quente e Úmido):**
+    - **Descrição:** Pacientes com perfusão tecidual adequada, porém com sinais de congestão.
+    - **Características Clínicas:** Dispneia, estertores pulmonares, edema de membros inferiores; extremidades quentes.
+    - **Tratamento:** Uso de diuréticos para reduzir a congestão e, em alguns casos, vasodilatadores para aliviar os sintomas.
+3. **Perfil C (Frio e Úmido):**
+    - **Descrição:** Pacientes com má perfusão tecidual e presença de congestão.
+    - **Características Clínicas:** Hipotensão, extremidades frias, oligúria, confusão mental; associados a estertores pulmonares e edema periférico.
+    - **Tratamento:** Necessita de intervenção imediata; uso de inotrópicos para melhorar a contratilidade cardíaca e diuréticos para reduzir a congestão.
+4. **Perfil L (Frio e Seco):**
+    - **Descrição:** Pacientes com má perfusão tecidual, porém sem sinais de congestão.
+    - **Características Clínicas:** Hipotensão, extremidades frias, fadiga; ausência de estertores pulmonares ou edema periférico.
+    - **Tratamento:** Reposição cautelosa de volume e, se necessário, uso de inotrópicos para melhorar a perfusão.
+
+###### IC direita e esquerda
+A insuficiência cardíaca (IC) pode ser classificada como IC esquerda ou IC direita, dependendo de qual lado do coração está comprometido. Cada uma tem características distintas, sinais e sintomas específicos devido às suas diferentes funções e áreas de circulação que afetam. Aqui estão as diferenças principais:
+
+### 1. **Insuficiência Cardíaca Esquerda**
+- **Definição**: Ocorre quando o ventrículo esquerdo não consegue bombear o sangue de forma eficaz para a circulação sistêmica.
+- **Causas Comuns**:
+  - Hipertensão arterial crônica.
+  - Infarto agudo do miocárdio.
+  - Cardiopatia isquêmica.
+  - Doenças valvulares (como estenose aórtica).
+- **Sinais e Sintomas**:
+  - **Dispneia** (falta de ar), principalmente ao esforço e em decúbito (ortopneia).
+  - **Dispneia paroxística noturna** (acordar de repente à noite com dificuldade para respirar).
+  - **Estertores crepitantes** em bases pulmonares, indicando congestão pulmonar.
+  - **Tosse seca** ou com expectoração espumosa (em casos mais graves, com sangue – hemoptise).
+  - **Fadiga e fraqueza**.
+  - **Galope por terceira bulha (B3)**, indicativo de falência do ventrículo esquerdo.
+- **Mecanismo Fisiopatológico**:
+  - O ventrículo esquerdo não consegue ejetar sangue de forma eficiente, levando ao acúmulo de sangue no átrio esquerdo e, posteriormente, nos pulmões, causando aumento da pressão venosa pulmonar e congestão.
+
+### 2. **Insuficiência Cardíaca Direita**
+- **Definição**: Ocorre quando o ventrículo direito falha em bombear sangue de maneira eficaz para os pulmões.
+- **Causas Comuns**:
+  - Insuficiência cardíaca esquerda (causa mais frequente, devido ao efeito de aumento de pressão retrógrada).
+  - Doença pulmonar crônica (cor pulmonale).
+  - Embolia pulmonar.
+  - Doenças valvulares do lado direito do coração (como estenose pulmonar).
+- **Sinais e Sintomas**:
+  - **Turgência jugular**: distensão das veias do pescoço, indicando aumento da pressão venosa central.
+  - **Edema de membros inferiores**: inchaço das pernas e pés.
+  - **Anasarca**: inchaço generalizado em casos mais graves.
+  - **Ascite**: acúmulo de líquido na cavidade abdominal.
+  - **Hepatomegalia dolorosa**: aumento do fígado, que pode causar desconforto abdominal.
+  - **Perda de apetite e náuseas**, devido à congestão hepática e gastrointestinal.
+- **Mecanismo Fisiopatológico**:
+  - A falha do ventrículo direito leva ao acúmulo de sangue nas veias sistêmicas, resultando em aumento da pressão venosa e consequente edema periférico e congestão visceral.
+- **Pressão retrógrada**
+ - A causa mais frequente de insuficiência cardíaca direita é a **insuficiência cardíaca esquerda**, devido ao aumento de pressão retrógrada. Vou explicar esse conceito em detalhes:
+- **Insuficiência Cardíaca Esquerda**: Quando o ventrículo esquerdo não consegue bombear o sangue de forma eficaz para a circulação sistêmica, o sangue se acumula no átrio esquerdo e, em seguida, nas veias pulmonares. Isso leva a um aumento da pressão dentro da circulação pulmonar, chamada de **pressão venosa pulmonar**.
+- **Consequência no Lado Direito do Coração**: Esse aumento de pressão na circulação pulmonar sobrecarrega o ventrículo direito, que precisa bombear contra uma resistência mais alta. O ventrículo direito não está anatomicamente adaptado para lidar com pressões elevadas por períodos prolongados, pois sua principal função é bombear sangue para os pulmões, que normalmente têm baixa resistência vascular.
+- **Efeito de Pressão Retrógrada**: O termo "pressão retrógrada" refere-se ao fato de que o aumento de pressão na circulação pulmonar é transmitido de volta ao ventrículo direito. Essa sobrecarga de pressão faz com que o ventrículo direito tenha dificuldade em bombear o sangue de forma eficaz, levando à insuficiência cardíaca direita.
+- **Resumo**
+1. **Falência do Ventrículo Esquerdo** → aumento da pressão no átrio esquerdo.
+2. **Aumento da Pressão nas Veias Pulmonares** → congestão pulmonar.
+3. **Transmissão de Pressão para o Ventrículo Direito** → sobrecarga e falha progressiva do ventrículo direito.
+4. **Congestão Sistêmica** → resultado da insuficiência do ventrículo direito em bombear sangue para os pulmões, levando a sintomas como turgência jugular, edema de membros inferiores e hepatomegalia.
+Portanto, o aumento de pressão retrógrada é a transmissão da pressão elevada da circulação pulmonar (causada pela falência do ventrículo esquerdo) de volta ao lado direito do coração, levando à insuficiência cardíaca direita.
+### **Relação entre IC Esquerda e IC Direita**
+- **Progressão da Doença**: A insuficiência cardíaca esquerda pode levar à insuficiência cardíaca direita como uma complicação. Isso ocorre porque a elevação da pressão na circulação pulmonar (devido à congestão causada pela falha do ventrículo esquerdo) acaba sobrecarregando o ventrículo direito, que tenta compensar, mas eventualmente falha.
+- **IC Global**: Quando os sintomas de ambas as insuficiências estão presentes, diz-se que o paciente apresenta IC global.
+
+### **Resumo das Diferenças Principais**
+- **IC Esquerda**: Afeta a circulação pulmonar e resulta principalmente em sintomas respiratórios e fadiga.
+- **IC Direita**: Afeta a circulação sistêmica e resulta em sintomas de congestão venosa, como edema e turgência jugular.
+
+- [[Edema agudo de pulmão]]
+- [[Estertores pulmonares]]
+- [[Dispneia paroxística noturna]]
+
+- [[Refluxo hepatojugular]]
+- [[Pressão venosa central 16 cmH20]]
+
+- [[Cardiomegalia]]
+- [[Perda de peso 4,5 kg em 5 dias em resposta ao tratamento]]
+---
+- [[Derrame Pleural]]
+- [[Edema maleolar]]
+- [[Hepatomegalia]]
+
+- [[Taquicardia]]
+- [[Capacidade funcional 0.33 da máxima registrada anteriormente]]
+
+##### Exame da troponina
+O **exame da troponina** é um teste laboratorial usado para detectar e medir os níveis de **troponina** no sangue, uma proteína liberada no sangue quando há **lesão no músculo cardíaco**. É considerado o exame de escolha para o diagnóstico de **infarto agudo do miocárdio (IAM)**, sendo altamente específico e sensível para detectar danos ao coração.
+
+**Identificação de Angina Instável**
+
+- Em pacientes com angina instável, a presença de troponina elevada sugere um risco maior de progressão para infarto e outros eventos cardíacos, indicando a necessidade de tratamento mais agressivo.
+
+##### [[Equivalente angioso]]
+
+[[Angina instável e Infarto agudo do miocárdio sem supra de ST]]
+###### [[Eletrocardiograma]]

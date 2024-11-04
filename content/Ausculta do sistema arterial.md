@@ -1,0 +1,7 @@
+- Detectar sopros
+	- Artérias femorais, carótidas e renais.
+	- A ausculta das carótidas deve ser feita na porção superior da cartilagem tireóidea, utilizando-se a campânula do estetoscópio.
+	- A ausculta das artérias renais é essencial. 
+		- Hipertensão secundária
+			- Estenose da artéria renal: Estreitamento das artérias que levam sangue aos rins, resultando em ativação do sistema renina-angiotensina-aldosterona e aumento da pressão arterial.
+		- Estenose de artérias renais.

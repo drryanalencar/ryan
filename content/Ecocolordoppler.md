@@ -1,0 +1,4 @@
+- Ultrassom com doppler colorido
+- ![[Pasted image 20241103110705.png]]
+- Avaliação de **doenças vasculares periféricas**, como insuficiência venosa e trombose venosa profunda (TVP). Também é amplamente utilizado para a avaliação de **doenças cardíacas**, como a função ventricular e valvulopatias.
+- **Aplicação**: Fornece uma visualização detalhada do fluxo sanguíneo, mostrando a direção e a velocidade do fluxo em tempo real. É usado para diagnosticar doenças como estenoses, tromboses, insuficiências venosas e avaliação cardíaca (função e valvulopatias)

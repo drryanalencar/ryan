@@ -1,0 +1,3 @@
+- Lesão parietal; 
+- Estase sanguínea;
+- Distúrbios hematológicos da coagulação;
