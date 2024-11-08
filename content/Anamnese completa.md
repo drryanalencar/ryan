@@ -1,9 +1,8 @@
-[[Roteiro de anamnse em edição.pdf]]
+[[Formulário de Anamnese e de todos os sistemas.pdf]]
+
 [[Porto - Exame Clinico.pdf]]
 
  [[1° Aula prática de Anamnese Completa]]
-
-[[Anamnese corrigida]]
 
 [[Caracterização da dor]]
 

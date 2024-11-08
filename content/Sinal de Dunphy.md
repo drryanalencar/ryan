@@ -1,0 +1,2 @@
+- Dor à percussão do ponto de McBurney ou dor ao tossir. Pode ser indicativo de apendicite.
+- By Rocco: "Sinal de Dunphy: dor na FID que piora com a tosse"

@@ -7,7 +7,7 @@
     - **Eritema ou cianose**
 - **Mecanismo da Dor**: A dor é causada pela obstrução do fluxo venoso, levando à **congestão venosa**, aumento da pressão dentro da veia afetada e estiramento das paredes venosas.
 
-- Tanto a **tromboflebite superficial** quanto a **TVP** podem causar **dor aguda** nas veias, acompanhada de inchaço e eritema.
+- Tanto a **tromboflebite superficial** quanto a **TVP** podem causar **dor aguda** nas veias, acompanhada de inchaço **e eritema.**
 - A dor na tromboflebite superficial é mais **localizada** e **superficial**, enquanto a dor na TVP é mais **profunda** e pode ser mais difusa.
 - O **inchaço sem cacifo** é um sinal comum em ambas as condições, indicando edema venoso.
 ###### Exame físico
@@ -42,8 +42,4 @@ Em tromboses proximais graves, podem ser identificadas duas síndromes:
 ![[Pasted image 20241103224044.png]]
 
 ---
-#### Fatores associados
-- **b) Multiparidade**: A multiparidade é relevante, pois a gravidez causa aumento da pressão venosa e pode danificar as válvulas venosas, contribuindo para a insuficiência venosa crônica.
-- **c) Obesidade**: É um fator determinante, pois aumenta a pressão sobre as veias das pernas, dificultando o retorno venoso e favorecendo o desenvolvimento de varizes e doença venosa crônica.
-- **d) Sedentarismo**: O sedentarismo afeta o retorno venoso devido à falta de contração muscular, que auxilia na circulação do sangue nas pernas, contribuindo para a estase venosa.
-- **e) Uso de estrogênios exógenos**: O uso de estrogênios, como em anticoncepcionais hormonais, pode afetar a coagulação e aumentar o risco de doença venosa.
+

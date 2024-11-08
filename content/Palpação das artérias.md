@@ -7,8 +7,10 @@
  - medial ao tendão do bíceps braquial.
 	 ![[Pasted image 20241028100748.png]]
 **Artéria radial**
+- O pulso radial está localizado no terço distal do antebraço anterior, medialmente ao processo estilóide do rádio e lateralmente.
 ![[Pasted image 20241028100801.png]]
 **Artéria ulnar**
+- O pulso ulnar é palpável na face anterior e externa do pulso.
 - Região medial da superfície flexora;
 - Não ser palpável em até 50% dos indivíduos.
 ![[Pasted image 20241028100839.png]]
@@ -22,6 +24,7 @@
  ![[Pasted image 20241028101051.png]]
 **Artéria carótida**
 -  Deve-se procurar a cartilagem tireóidea e ir em direção lateral até alcançar a borda anterior do músculo esternocleidomastóideo, em que se sentem as pulsações.
+- O pulso carotídeo é encontrado na **borda medial do músculo esterno- cleidomastóideo na metade inferior do pescoço**.
 ![[Pasted image 20241028101105.png]]
 **Pulso temporal superficial**
 - Palpado à frente da orelha externa, acima da articulação temporomandibular.

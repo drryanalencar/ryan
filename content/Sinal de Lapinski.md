@@ -1,0 +1,2 @@
+ -  Elevação do membro inferior direito cursando com dor no ponto de McBurney
+ - ![Sinal de Lapinski - Exame Físico do Abdome - YouTube](https://www.youtube.com/watch?v=SAEiL_a2oso&ab_channel=MEDsimple)

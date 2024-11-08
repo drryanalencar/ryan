@@ -1,0 +1,3 @@
+- Equimose: sinal de cullen, indicando hemorragia retroperitoneal ou pancreatite necro-hemorrágica. 
+- Grey Turner - equimose nos flancos. 
+- Sinal de Sister Mary-Joseph

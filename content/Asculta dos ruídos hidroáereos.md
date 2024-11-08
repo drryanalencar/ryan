@@ -1,0 +1,7 @@
+- > 34 hiperborborismo/hiperperistaltismo
+- < 5 hipoperistaltismo
+- Silêncio ou aperistáltico
+- Permanência por 2 minutos em cada região. 
+	- **Deve-se auscultar no mínimo de 15-20 segundos por quadrante.**
+- - Sequência: 
+	- QID, QDS, QSE, QIE. Sentido horário. 

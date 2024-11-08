@@ -1,0 +1,5 @@
+- Colocar o paciente em decúbito dorsal; 
+- Flexão da perna e da coxa; 
+- Rotação interna do quadril; 
+- A dor relatada no hipogástrio é sinal de irritação deste músculo, causada provavelmente por um **apêndice que mergulha na cavidade pélvica**.
+- ![Sinal do obturador - Exame Físico do Abdome - YouTube](https://www.youtube.com/watch?v=t44ukLPpe3I&ab_channel=MEDsimple)
