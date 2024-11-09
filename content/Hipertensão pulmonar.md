@@ -1,0 +1,1 @@
+**Hipertensão pulmonar**: aumenta a pressão no ventrículo direito, prolongando sua ejeção e atrasando o fechamento da válvula pulmonar.

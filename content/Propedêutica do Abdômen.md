@@ -166,7 +166,7 @@ Pode se apresentar normal (protraído) ou protuso quando a pressão intra abdomi
 	- Cianose; 
 	- Equimose: sinal de Cullen, indicando hemorragia retroperitoneal ou pancreatite necro-hemorrágica. 
 - Circulação colateral cabeça de Medusa. 
-- Manobras de Valsava e palpação para procurade massas. 
+- Manobras de Valsava e palpação para procura de massas. 
 	- Onfalite. 
 	- Equimose na região periumbilical -> hemorragia intra abd -> Sinal de cullen.
 ###### Contorno Abdominal
@@ -371,10 +371,11 @@ Técnica da **mão espalmada, Lemos Torres, Chaurffard ou bimanual:**
 ![[Pasted image 20240930165059.png]]
 ![[Pasted image 20240930165136.png]]
 ![[Pasted image 20240923132731.png]]
-Técnica mão em garra ou Mathieu-Cardarelli
+Técnica mão em garra ou Mathieu
 - Mãos apoiadas no rebordo costal, com os dedos tentando entrar por debaixo do rebordo costal. 
 ![[Pasted image 20240923132819.png]]
 ##### Palpação do Baço
+- Preferencialmente realizadas na posição de Schuster, usando Lemos Torres e Mathieu-Cardareli. 
 ![[Pasted image 20240930174039.png]]
 - Palpação esplênica. Lembre-se de que a mão esquerda deve realizar a tração anterior do rebordo costal esquerdo objetivando anteriorizar o baço. Já a mão direita é aprofundada no abdome na expiração e move-se tentando palpar o polo inferior do baço na inspiração.
 ![[Pasted image 20240930174255.png]]

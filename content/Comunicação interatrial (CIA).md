@@ -1,0 +1,1 @@
+Fluxo anômalo de sangue entre os átrios direito e esquerdo. Esse shunt aumenta o volume de sangue no ventrículo direito, prolongando a ejeção ventricular direita e resultando no atraso constante do fechamento da válvula pulmonar, independentemente da fase respiratória.

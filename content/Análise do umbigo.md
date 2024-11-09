@@ -17,3 +17,7 @@ Pode se apresentar normal (protraído) ou protuso quando a pressão intra abdomi
 - Manobras de Valsava e palpação para procurade massas. 
 	- Onfalite. 
 	- Equimose na região periumbilical -> hemorragia intra abd -> Sinal de cullen.
+
+###### Sinal de Sister Mary-Joseph ou sinal da irmã maria José. 
+- Nódulo umbilical metastático indicativo de neoplasia intra-abdominal. 
+- ![[Pasted image 20241003145415.png]]
