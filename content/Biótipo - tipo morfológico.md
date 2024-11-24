@@ -77,4 +77,5 @@ E5: Pelos encaracolados em maior quantidade e distribuídos até a raiz da coxa.
 ###### Desenvolvimento físico feminino PG.125
 E1
 
-
+---
+- Conteúdo relacionado: [[Temperatura]]

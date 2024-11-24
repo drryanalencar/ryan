@@ -2,9 +2,9 @@
 tags:
   - semiologia
 ---
-[[Slide - Exame Físico Geral.pdf]] pg.17
-[[Resumo JG - Exame físico geral fácies.pdf]]
-[[Resumo de Fácies.pdf]]
+- [[Slide - Exame Físico Geral.pdf]] pg.17
+- [[Resumo JG - Exame físico geral fácies.pdf]]
+- [[Resumo de Fácies.pdf]]
 
 1. Fácies normal, atípica ou compósita 
 2. Fácies anormal ou típica
@@ -48,6 +48,16 @@ tags:
 
 ###### Fácies da paralisia facial periférica
 ![[Pasted image 20240820111238.png]]
+- Periférica: 
+	- Afeta o nervo facial.
+	- **Perda de expressão facial**: Os pacientes podem apresentar incapacidade de realizar movimentos como sorrir, franzir a testa ou fechar o olho no lado afetado.
+	- **Incapacidade de fechar o olho**: Também conhecido como sinal de Bell, ocorre quando o paciente tenta fechar os olhos, mas a pálpebra no lado afetado não se fecha completamente, e o globo ocular pode se mover para cima.
+- Central 
+	- Córtex; cápsula interna. 
+	- **Preservação da musculatura da metade superior da face**: Na paralisia facial central, a musculatura da parte superior da face (como a capacidade de enrugar a testa ou fechar os olhos) geralmente é preservada.
+	- **Paralisia associada a outras alterações neurológicas**: Como a paralisia facial central é causada por lesões no cérebro, muitas vezes está associada a outros sinais neurológicos, como hemiparesia (fraqueza de um lado do corpo), déficits de fala (afasia), ou outros sintomas neurológicos dependentes da localização e da extensão da lesão cerebral.
+	- Consegue franzir a testa. 
 
-- Central consegue franzir a testa. 
 
+---
+- Conteúdo relacionado: [[Atitude e decúbito preferido]]

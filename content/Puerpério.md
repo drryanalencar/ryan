@@ -1,6 +1,3 @@
-[[4 - Puerpério Fisiológico.mp4]]
-[[5 - Puerpério Patológico.mp4]]
-
 ![[Pasted image 20231126113748.png]]
 Intrapélvico: já não é palpado na superfície abdominal. 
 ![[Pasted image 20231126113959.png]]

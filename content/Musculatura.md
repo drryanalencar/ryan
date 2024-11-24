@@ -9,3 +9,7 @@ Primeiro, analisa-se a troficidade, isto é, a massa do próprio músculo, class
 - normal, hipertrófico ou hipotrófico (atrofia muscular). 
 Depois, analisa-se a tonicidade, isto é, a semicontração do músculo normal, classificando-o em: 
 - tônus normal, hipertonicidade (rigidez) ou hipotonicidade (flacidez)
+
+
+---
+- Conteúdo relacionado: [[Veias superficiais]]

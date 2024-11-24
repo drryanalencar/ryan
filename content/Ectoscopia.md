@@ -2,8 +2,6 @@
 tags:
   - semiologia
 ---
-- [Exame físico geral - videoaula]([https://youtu.be/ZSUnfVYWbgI?si=XmqKTbPzCeAT1MYn](Te))
-
 Ecto: fora 
 Scopia: olhar/espiar
 
@@ -20,7 +18,7 @@ Na ectoscopia, temos que fazer a avaliação do estado geral, a avaliação das 
 7. Altura e outras medidas antropométricas
 8. Peso corporal
 9. Desenvolvimento físico
-10. [[Temperatura]]
+10. [[Temperatura]] e febre
 11. Febre
 12. [[Pele]]
 13. [[Mucosas]]
@@ -47,23 +45,6 @@ Peso: 53,4; Estatura: 1,60 cm; IMC - 20,8 kg/m² (estado nutricional normal).
 
 Paciente em bom estado geral; consciente e orientado; eupnéico, acianótico, anictérico e afebril; fácies incaracterística; postura indiferente; marcha normal; biotipo normolíneo; mucosas normocoradas e úmidas; pele de turgor e elasticidade conservados, coloração, textura e umidade cutâneas normais; ausência de lesões de pele; pêlos em quantidade e distribuição compatíveis com idade e sexo; unhas de forma, brilho, cor e superfície normais; panículo adiposo de espessura normal e distribuição conforme o sexo; ausência de edema subcutâneo; musculatura normotrófica; sem deformidades osteoarticulares; extremidades com coloração, temperatura e perfusão preservadas, ausência de dilatações venosas superficiais
 
-Esquematização: 
-1. Sinais vitais; 
-2. Medidas antropométricas; 
-3. Análise do estado geral; 
-4. Estado de consciência; 
-5. Análise das fácies; 
-6. Análise da postura; 
-7. Análise da marcha; 
-8. Análise do biotipo; 
-9. Análise das mucosas; 
-10. Análise da pele;
-11. Análise dos fâneros; 
-12. Análise de edema; 
-13. Análise de enfisema
-14. Análise do panículo adiposo; 
-15. Análise da musculatura; 
-16. Análise das veias superficiais
 
 Uma possível sequência lógica: 
 - Sinais vitais e antropometria;

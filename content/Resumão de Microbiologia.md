@@ -50,7 +50,7 @@
 	- Escherichia coli se adere ao epitélio intestinal pelas fímbrias comunidadés bactérianas résisténtés a antibioticos é ao sistéma imunolo gico..
 - **Pili:** estrutura filamentosa, envolvido na adesão e na conjugação. 
 - **Plasmídeos:** os **plasmídeos** são estruturas de DNA extracromossômicas importantes para conferir resistência à antibióticos, metais e até mesmo para o metabolismo de algumas bactérias. 
-	- 6Isso quer dizer que eles conferem vantagens seletivas às células que os possuem.
+	- Isso quer dizer que eles conferem vantagens seletivas às células que os possuem.
 - **Inclusões citoplasmáticas:**
 	- **Grânulos citoplasmáticos:** as células podem **acumular certos nutrientes** quando são abundantes e usá-los quando estão escassos.
 	- Grânulos polissacarídeos; 

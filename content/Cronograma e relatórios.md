@@ -6,27 +6,8 @@
 - 2 penúltimos meses: 4 – Epidemia de diagnósticos 
 - 2 últimos meses: relatório final (completar o texto)
 ![[Pasted image 20240922133741.png]]
-#### Ações de setembro
-20/09  - Das 14 HR às 17:00 HR assisti à aula ministrada pelo Doutor Bruno Santos Alexandre, sobre o texto de Georges Canguilhem - O normal e o patológico (excertos). 
 
-22/09 - Ajuste do cronograma com definição das metas semanais de produção intelectual. 
-Início da leitura do texto [[O normal e o patológico (excertos)]]. 
-
-23/09 - Leitura, compreensão e extração das principais partes do texto "O normal e o patológico em Saúde mental".
-
-25/09 -  Leitura, compreensão e extração das principais partes do texto "O normal e o patológico em Saúde mental".
-
-03/10 - Leitura, compreensão e extração das principais partes do texto "O normal e o patológico em Saúde mental".
-Finalização da leitura do texto. 
-Organização das principais partes. 
-
-04/10 - Das 14 HR às 17:00 HR assisti à aula ministrada pelo Doutor Bruno Santos Alexandre, sobre a Normatividade biológica proposta por Georges Canguilhem. 
-
-12/14/15 -  Leitura, compreensão e extração das principais partes do texto "A invenção do sujeito entre normas sociais e normas vitais".
-Finalização da leitura do texto. 
-Organização das principais partes. 
-
-18/10 - Das 14 HR às 17:00 HR assisti à aula ministrada pelo Doutor Bruno Santos Alexandre, sobre o texto de Georges Canguilhem - O normal e o patológico. 
+- [[Ações de setembro PIBIC]]
 ##### Textos para serem lidos de Setembro a dezembro
 - [[O normal e o patológico em saúde mental]] - 13 páginas
 - ~~[[O conceito individualidade em Canguilhem]] - 14 páginas~~
@@ -35,27 +16,13 @@ Organização das principais partes.
 - [[Dominique Lecourt - Normas]] - 12 páginas
 - [[O normal e o patológico (excertos)]] - 30 páginas
 - Quarta feira aula do professor. 
-
-20/09  - Das 14 HR às 17:00 HR assisti à aula ministrada pelo Doutor Bruno Santos Alexandre, sobre o texto de Georges Canguilhem - O normal e o patológico (excertos). 
-
-22/09 - Ajuste do cronograma com definição das metas semanais de produção intelectual. 
-Início da leitura do texto [[O normal e o patológico (excertos)]]. 
-
-23/09 - Leitura, compreensão e extração das principais partes do texto "O normal e o patológico em Saúde mental".
-
-25/09 -  Leitura, compreensão e extração das principais partes do texto "O normal e o patológico em Saúde mental".
-
-03/10 - Leitura, compreensão e extração das principais partes do texto "O normal e o patológico em Saúde mental".
-Finalização da leitura do texto. 
-Organização das principais partes. 
-
-04/10 - Das 14 HR às 17:00 HR assisti à aula ministrada pelo Doutor Bruno Santos Alexandre, sobre a Normatividade biológica proposta por Georges Canguilhem. 
-
-12/14/15 -  Leitura, compreensão e extração das principais partes do texto "A invenção do sujeito entre normas sociais e normas vitais".
-Finalização da leitura do texto. 
-Organização das principais partes. 
-
-18/10 - Das 14 HR às 17:00 HR assisti à aula ministrada pelo Doutor Bruno Santos Alexandre, sobre o texto de Georges Canguilhem - O normal e o patológico. 
+#### Ações de Novembro
+- 09/11 - Leitura, compreensão e extração das principais partes do texto "Uma Filosofia da Medicina de Dominique Lecourt".
+- 10/11 - Leitura, compreensão e extração das principais partes do texto "Uma Filosofia da Medicina de Dominique Lecourt". Finalização da leitura do texto. Organização das principais partes. 
+- 11/11 - Leitura, compreensão e extração das principais partes do texto "Normas de Dominique Lecort"
+- 12/11 - Leitura, compreensão e extração das principais partes do texto "Normas de Dominique Lecort". Finalização da leitura do texto. Organização das principais partes. 
+- 13/11 - Leitura, compreensão e extração das principais partes do texto Georges Canguilhem - O normal e o patológico (excertos).
+- 14/11 - Leitura, compreensão e extração das principais partes do texto Georges Canguilhem - O normal e o patológico (excertos). Finalização da leitura do texto.
 #### Cronograma de setembro/outubro
 Meta da semana 4 de setembro. 
 Leitura de O normal e o patológico (excertos)

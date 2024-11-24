@@ -21,3 +21,6 @@ Cianose: coloração azulada.
 Icterícia: coloração amarelada. 
 
 ![[Pasted image 20240820111844.png]]
+
+---
+- Conteúdo relacionado: [[Fâneros]]

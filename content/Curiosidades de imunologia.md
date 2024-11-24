@@ -1,7 +1,7 @@
 1. April Burrell
 	* [April Burrell](https://oglobo.globo.com/saude/ciencia/noticia/2023/07/21/esquizofrenia-descobertas-sobre-relacao-com-imunidade-abrem-caminho-para-novos-tratamentos-entenda.ghtml), passou 25 anos em estado de [[Catatonia]].
 	* [Esquizofrênica](https://oglobo.globo.com/saude/noticia/2023/06/mulher-acorda-depois-de-20-anos-em-estado-catatonico-tratamento-pode-revolucionar-psiquiatria.ghtml); 
-	* Sistema imune e a relação com a causa da [[Esquizofrenia]] - The Lancet Psychiatry
+	* Sistema imune e a relação com a causa da [[Espectro da Esquizofrenia e Outros Transtornos Psicóticos]] - The Lancet Psychiatry
 		* [[Anticorpos e antígenos]] atacando os [[Receptores NDMA.]] --> sintomas psicóticos.
 	* Tinha [[Lúpus]];
 		* Danos ao lobo temporal; 

@@ -60,11 +60,15 @@ UNHAS DISTRÓFICAS: UNHAS IRREGULARES E ESPESSADAS.
 
 HEMORRAGIA SUBUNGUEAL. 
 
-
-
 **Cabelos**
 Ausências localizadas
 * Alopécia Areata, Tinea de Couro Cabeludo; 
 Alterações características
 * Perda de brilho, quantidade - estados carenciais / hipotiroidismo.
 * Alopécia difusa: carenciais / hipotireoidismo.
+
+
+
+
+---
+- Conteúdo relacionado: [[Musculatura]]
