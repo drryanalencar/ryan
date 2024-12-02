@@ -7,3 +7,9 @@
 
 # Medicações frequentes
 - [[Haloperidol]]
+# Extras
+- [[Impregnação por antipsicóticos]]
+- Transição de gênero x Transtorno bipolar
+- [[Prevalência do Abuso Sexual em Indivíduos com Transtorno de Personalidade Borderline do Cluster B Uma Revisão Sistemática]]
+
+ 

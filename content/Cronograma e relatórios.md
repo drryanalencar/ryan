@@ -15,6 +15,8 @@
 - [[Dominique Lecourt - Uma filosofia da medicina]] - 12 páginas
 - [[Dominique Lecourt - Normas]] - 12 páginas
 - [[O normal e o patológico (excertos)]] - 30 páginas
+- [[Saberes Expertos e medicalização no Domínio da Infância]]
+- [[A psicofarmacologização da infância e o modelo de ação da droga centrado na doença]]
 - Quarta feira aula do professor. 
 #### Ações de Novembro
 - 09/11 - Leitura, compreensão e extração das principais partes do texto "Uma Filosofia da Medicina de Dominique Lecourt".
@@ -23,6 +25,9 @@
 - 12/11 - Leitura, compreensão e extração das principais partes do texto "Normas de Dominique Lecort". Finalização da leitura do texto. Organização das principais partes. 
 - 13/11 - Leitura, compreensão e extração das principais partes do texto Georges Canguilhem - O normal e o patológico (excertos).
 - 14/11 - Leitura, compreensão e extração das principais partes do texto Georges Canguilhem - O normal e o patológico (excertos). Finalização da leitura do texto.
+- 25/11 - Leitura, compreensão e extração das principais partes do texto "A psicofarmacologização da infância e o modelo de ação da droga centrado na doença" de Sandra Caponi.
+- 26/11 - Leitura, compreensão e extração das principais partes do texto "A psicofarmacologização da infância e o modelo de ação da droga centrado na doença" de Sandra Caponi. Finalização da leitura do texto. Organização das principais partes. 
+- 26/11 - Leitura, compreensão e extração das principais partes do texto "A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão" de Sandra Caponi.
 #### Cronograma de setembro/outubro
 Meta da semana 4 de setembro. 
 Leitura de O normal e o patológico (excertos)

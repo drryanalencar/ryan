@@ -1,3 +1,8 @@
+[[Saberes Expertos e medicalização no Domínio da Infância PDF.pdf]]
+
+**A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão**
+
+
 Palavras chaves: 
 * O cientismo
 * Psiquiatria crítica

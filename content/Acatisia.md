@@ -1,0 +1,3 @@
+A acatisia induzida por antipsicóticos **é um transtorno de movimento relacionado ao sistema motor e caracterizado por sensação subjetiva de inquietude interna, irritabilidade ou disforia que podem ser intensas**. Associa-se à sensação física e objetiva de desassossego e a movimentos não discinéticos.
+
+Movimentos não discinéticos: No contexto físico, os movimentos não discinéticos geralmente se referem a transformações ou comportamentos que não envolvem o deslocamento ou a aceleração de um objeto. Um exemplo seria o movimento de rotação de um objeto em torno de seu próprio eixo, onde não há mudança de sua posição no espaço, mas apenas uma alteração na orientação do corpo.
