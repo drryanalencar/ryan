@@ -28,6 +28,10 @@
 - 25/11 - Leitura, compreensão e extração das principais partes do texto "A psicofarmacologização da infância e o modelo de ação da droga centrado na doença" de Sandra Caponi.
 - 26/11 - Leitura, compreensão e extração das principais partes do texto "A psicofarmacologização da infância e o modelo de ação da droga centrado na doença" de Sandra Caponi. Finalização da leitura do texto. Organização das principais partes. 
 - 26/11 - Leitura, compreensão e extração das principais partes do texto "A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão" de Sandra Caponi.
+- 28/11 - Leitura, compreensão e extração das principais partes do texto "A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão" de Sandra Caponi. Organização das principais partes. 
+- 02/12 - Leitura, compreensão e extração das principais partes do texto "A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão" de Sandra Caponi. Organização das principais partes. 
+- 03/12 - Leitura, compreensão e extração das principais partes do texto "A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão" de Sandra Caponi. Organização das principais partes. Organização das principais partes. 
+- 09/12 - Esquematização do projeto de escrita do relatório parcial. 
 #### Cronograma de setembro/outubro
 Meta da semana 4 de setembro. 
 Leitura de O normal e o patológico (excertos)

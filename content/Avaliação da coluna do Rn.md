@@ -1,0 +1,3 @@
+Coloca-se o RN em decúbito ventral, inspeciona-se e palpa-se a região da coluna vertebral. Procura-se desvios, tumorações e malformações ósseas, presença de tufos de pelos, hemangiomas e manchas hipercrômicas.
+
+Espinha bífida: falha no fechamento dos ossos, principalmente da coluna lombossacra. Podemos observar a exposição do tecido nervoso. Pode se apresentar de duas formas: meningocele e mielomeningocele.

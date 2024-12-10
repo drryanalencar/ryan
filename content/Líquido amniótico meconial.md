@@ -1,0 +1,5 @@
+A presença de líquido amniótico meconial pode ser indicativo de algum grau de sofrimento fetal.            
+A aspiração desse líquido das vias aéreas é contraindicada.        
+Bebês a termo que nascem banhados em mecônio com boa vitalidade deverão permanecer no contato pele a pele com a mãe após o clampeamento do cordão.                    
+Pré-termos tardios e pós-termos, independentemente da vitalidade ao nascimento, deverão ser encaminhados à mesa de reanimação para realização de passos iniciais e avaliação de respiração e FC. O tempo de clampeamento do cordão obedece às condições de nascimento (boa vitalidade 1 a 3 minutos e vitalidade ruim, clampeamento imediato).              
+Bebês banhados em mecônio que nascem com vitalidade ruim (com apneia ou gasping, hipotônico) devem realizar o clampeamento imediato e serem levados à mesa de reanimação, dando início imediato aos passos iniciais incluindo, obrigatoriamente, a aspiração das vias aéreas superiores.

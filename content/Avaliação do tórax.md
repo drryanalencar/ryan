@@ -1,0 +1,1 @@
+O perímetro torácico em RN a termo é, em média, de 2 cm menor que o cefálico, como descrito anteriormente. Observar sua simetria, formato (geralmente arredondado) proeminência ou afundamento esternal; sua maior dimensão é a ântero-posterior.

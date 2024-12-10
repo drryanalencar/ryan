@@ -1,0 +1,31 @@
+- [SEMIOLOGIA PEDIÁTRICA - Class #001 - YouTube](https://www.youtube.com/watch?v=Fj7_qP5ttOU&t=1464s&ab_channel=Eg%C3%ADdioNeto)
+
+ESPECIFICIDADES da Anamnese
+- Sono e eliminações
+	- Horário do sono...
+	- Urina e evacuações. 
+- Antecedentes pessoais / pré-natal
+	- Sobre a mãe:
+		- Infecção urinária/Diabetes/Hipertensão durante a gestão?
+		- Gestações, partos, abortos? 
+		- Parto cesáreo? Parto a termo?
+	- Sobre o filho:
+		- Alguma internação? 
+		- Histórico de doença? 
+		- Fez todos os testes?
+			- Pé
+			- Orelha
+			- Olhinho
+- Crescimento e desenvolvimento 
+	- Curvas de crescimento; 
+	- 
+- Vacinação
+- Aleitamento materno 
+	- Exclusivo até 6 meses. 
+- Alimentação
+	- Café: 
+	- Almoço:
+	- Lanche: 
+	- Janta:
+---
+- [[Exame físico pediátrico]]

@@ -1,0 +1,2 @@
+Verificar assimetria, distância intermamilar (característica de algumas doenças genéticas), presença de mamilos extranumerários. 
+Ao nascer, é comum o aumento das glândulas mamárias com a secreção leitosa ou sanguinolenta.

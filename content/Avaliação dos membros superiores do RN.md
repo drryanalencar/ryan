@@ -1,0 +1,1 @@
+Examinar com o RN em decúbito dorsal. Verificar simetria e proporções do braço e antibraço, examinar articulações à procura de luxações, palpar ombros à procura de fraturas na clavícula, por tocotraumatismo.

@@ -1,0 +1,3 @@
+Observar comprimento do pênis (normal maior do que 3 cm), posição do orifício uretral centralizado na glande (hipospádia, epispádia), fimose (aderência do prepúcio à glande), posição dos testículos na bolsa escrotal (criptorquidia: testículos locados fora da bolsa: canal inguinal, abdome), presença de hérnia escrotal.
+
+A hidrocele escrotal (acúmulo de líquido em volume anormal) pode ser identificada pela técnica da transiluminação, que consiste em escurecer o ambiente e aproximar uma lanterna da região escrotal, que ficará translúcida.

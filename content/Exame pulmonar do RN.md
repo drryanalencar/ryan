@@ -1,0 +1,3 @@
+Inspeção: avaliar o padrão respiratório quanto à frequência, à amplitude dos movimentos, à presença de tiragens e retração xifoidiana, aos batimentos de asas do nariz, a estridor expiratório, a gemido.
+
+Ausculta: Realizada com estetoscópio neonatal, com campânula e diafragma. Deve ser bilateral e comparativa. Auscultar as regiões axilares. Avaliar a presença de creptos, sibilos, roncos e diminuição do murmúrio vesicular.

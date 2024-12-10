@@ -1,0 +1,1 @@
+Pescoço Pesquisar massas, fístulas, mobilidade, excesso de pele.
