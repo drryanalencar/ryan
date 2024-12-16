@@ -1,0 +1,19 @@
+- DISTRIBUIÇÃO É A TRANSFERÊNCIA REVERSÍVEL DE UM MEDICAMENTO ENTRE O SANGUE E OS FLUIDOS E TECIDOS EXTRAVASCULARES. 
+- A PASSAGEM DO FÁRMACO DO PLASMA AO INTERSTÍCIO DEPENDE:
+	- Fluxo sanguíneo; 
+		- ![[Pasted image 20241211101556.png]]
+	- PERMEABILIDADE CAPILAR
+		- ![[Pasted image 20241211151254.png]]
+		- Os capilares cerebrais possuem **junções estreitas** entre as células endoteliais, formando uma barreira física contínua conhecida como **barreira hematoencefálica (BHE)**.
+		- Além disso, estão envoltos por **processos podais dos astrócitos** e uma membrana basal espessa, que reforçam a seletividade dessa barreira.
+	- LIGAÇÃO DO FÁRMACO A PROTÉINAS PLASMÁTICAS TECIDUAIS.
+		- ![[Pasted image 20241211155119.png]]
+	- LIPOFILICIDADE
+		- **Absorção**: Fármacos lipofílicos atravessam mais facilmente as membranas do trato gastrointestinal.
+		- **Distribuição**: Influencia o alcance de compartimentos lipídicos, como o tecido adiposo ou o SNC.
+		- **Eliminação**: Fármacos muito lipofílicos podem ser armazenados no tecido adiposo, retardando sua excreção.
+	- VOLUME DE DISTRIBUIÇÃO
+		- CORRELACIONA A QUANTIDADE DE FÁRMACO NO CORPO À CONCENTRAÇÃO DO FÁRMACO (C) NO PLASMA.
+		- O fármaco pode se distribuir pelos seguintes líquidos além do plasma: 
+			- LÍQUIDO EXTRACELULAR: FÁRMACOS PEQUENOS E HIDROFÍLICOS PASSAM PELAS FENDAS CAPILARES, MAS TÊM DIFICULDADE EM TRANSPOR AS MEMBRANAS
+			- LÍQUIDO EXTRA + INTRA OU COMPARTIMENTO TOTAL: MOLÉCULAS PEQUENAS E LIPOFÍLICAS SE DISTRIBUEM AMPLAMENTE

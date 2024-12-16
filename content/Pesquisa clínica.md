@@ -23,7 +23,7 @@ Os **estudos clínicos** são etapas fundamentais no desenvolvimento de novos me
 - **Participantes**: Grande número de pacientes (geralmente mais de 1.000).
 - **Procedimentos**:
   - Estudos internacionais, randomizados, duplo-cegos e controlados por placebo.
-  - Avaliação detalhada de contra-indicações e efeitos colaterais.
+  - Avaliação detalhada de contraindicações e efeitos colaterais.
   - Comparação com tratamentos já existentes para demonstrar vantagens terapêuticas.
 
 ### **Fase IV: Pós-Comercialização e Farmacovigilância**

@@ -60,4 +60,3 @@ A escolha da forma do fármaco não apenas melhora a aceitação e eficácia ter
 - **Diminuição de efeitos adversos relacionados à administração.**
 - **Controle mais preciso dos níveis plasmáticos.**
 
-Se precisar de exemplos adicionais ou explicações sobre alguma aplicação clínica, é só pedir!

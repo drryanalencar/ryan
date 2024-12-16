@@ -1,0 +1,22 @@
+III.I O MODELO CHAVE-FECHADURA
+- Sítio que se liga com um agonista natural, modificado ou antagonista. 
+
+III.II O MODELO DO ENCAIXE INDUZIDO
+- PROPÕE O ACOMODAMENTO CONFORMACIONAL RECÍPROCO NO SÍTIO DE INTERAÇÃO.
+- Tanto o ligante como o receptor não são rígidos, um vai se adaptando ao outro. 
+
+III.III PRINCIPAIS FAMÍLIAS DE RECEPTORES
+- ENZIMAS 
+- ÁCIDOS NUCLEICOS
+- PROTEÍNAS ESTRUTURAIS
+- RECEPTORES DE SINAIS EXTRACELULARES
+![[Pasted image 20241213183920.png]]
+
+III.IV ETAPAS RELEVANTES DA INTERAÇÃO FÁRMACO RECEPTOR
+- Afinidade; 
+- Eficácia. 
+
+III.V CARACTERÍSTICAS DA TRANSDUÇÃO DE SINAL
+- Amplificação de sinais pequenos. 
+- Proteção contra a estimulação excessiva. 
+- QUANDO A ADMINISTRAÇÃO REPETIDA DE UM FÁRMACO RESULTA EM EFEITOS MENORES - TAQUIFILAXIA

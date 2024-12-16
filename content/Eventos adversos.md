@@ -1,5 +1,5 @@
-- [[REAÇÃO ADVERSA A MEDICAMENTO (RAM)]]
-- [[Efeito colateral]]
+- ![[REAÇÃO ADVERSA A MEDICAMENTO (RAM)]]
+- ![[Efeito colateral]]
 
 | **Aspecto**         | **Reação Adversa (RAM)**                                               | **Efeito Colateral**                                      |
 | ------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------- |

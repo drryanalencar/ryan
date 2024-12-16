@@ -4,7 +4,7 @@ ESPECIFICIDADES da Anamnese
 - Sono e eliminações
 	- Horário do sono...
 	- Urina e evacuações. 
-- Antecedentes pessoais / pré-natal
+- Antecedentes HMGPR
 	- Sobre a mãe:
 		- Infecção urinária/Diabetes/Hipertensão durante a gestão?
 		- Gestações, partos, abortos? 
@@ -18,7 +18,6 @@ ESPECIFICIDADES da Anamnese
 			- Olhinho
 - Crescimento e desenvolvimento 
 	- Curvas de crescimento; 
-	- 
 - Vacinação
 - Aleitamento materno 
 	- Exclusivo até 6 meses. 
@@ -29,3 +28,20 @@ ESPECIFICIDADES da Anamnese
 	- Janta:
 ---
 - [[Exame físico pediátrico]]
+- [[Doenças características do recém nascido]]
+- [[Doenças características do lactente]]
+- [[Doenças características do pré-escolar]]
+- [[Bilirrubina direta x Bilirrubina indireta]]
+- [[Leucemia aguda]]
+# Anotações da aula 
+- Proptose: olho para frente devido a uma massa empurrando o olho. 
+
+**Cloroma**. Cloroma, também conhecido como sarcoma granulocítico, ==é um tumor sólido raro e maligno que consiste em células mieloides imaturas==.
+![[Pasted image 20241210151213.png]]
+
+Crianças com crises convulsivas devem ser investigadas, pois podem está com algum tumor cerebral. 
+
+Linfonodomegalia em cadeias não habituais é indicativo de patologias. 
+
+Massas abdominais é um quadro urgente. 
+

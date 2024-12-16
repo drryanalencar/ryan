@@ -7,5 +7,8 @@ tags:
 #### Aulas e materiais 
 - [[Aula 1 - Introdução à Farmacologia]]
 - [[Aula 2 - Desenvolvimento de fármacos]]
-- [[Aula 3 - Farmacocinética , absorção, distribuição e eliminação de fármacos]]
+- [[Aula 3 - Farmacocinética, absorção e distribuição]]
+- [[Aula 4 - Farmacocinética, metabolismo e excreção]]
+- [[Aula 5 - Farmacodinâmica]]
+- [[Resumo de Farmacologia N1]]
 #### Anotações
