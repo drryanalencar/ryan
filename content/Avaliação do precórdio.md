@@ -1,0 +1,16 @@
+- Ictus cordis
+	- 4° ou 5° espaço intercostal, na linha hemiclavicular. 
+	- Quando há esse abaulamento na região precordial como um todo (3º ao 6° EIC), há alta sugestão de grandes cardiomegalias. Ou:
+		- Derrames pericárdicos;
+		- Sinal de Willians: estruturas ósseas sendo impelidas para fora. 
+	- 4º ou 5º espaço intercostal, na linha paraesternal, pensa-se em **aumento do VD.**
+	- São avaliados os seguintes aspectos: 
+		- Localização; 
+		- Extensão;
+			- 2 a 3 cm, descrito em polpas digitais. 
+		- [[Intensidade do Ictus cordis]]; 
+		- Mobilidade; 
+		- Ritmo e frequência;
+	- Decúbito dorsal com a cabeceira do leito posicionada a 30°; tórax exposto e membros repousando sobre o leito e não cruzados.
+	- Decúbito lateral esquerdo, pois, dessa forma, aproxima-se a ponta do coração da caixa torácica.
+	- ![[Pasted image 20241009105604.png]]

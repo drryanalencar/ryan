@@ -11,16 +11,13 @@ Referências:
 * [Método de Hoffman, Pons e Janer ou Lutz – Wikipédia, a enciclopédia livre (wikipedia.org)](https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Hoffman,_Pons_e_Janer_ou_Lutz)
 * [Método de Faust – Wikipédia, a enciclopédia livre (wikipedia.org)](https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Faust)
 ---
+![[Pasted image 20241113214953.png]]
+- Diarreia; explosiva, aquosa, fétida, com fezes em grande quantidade e com restos alimentares. Essas fezes sugere diarreia disabsortiva.
+
 ![[Resumo a mão de Giardíase, Tricomoníase e Amebíase pt.1.jpg]]
 ![[Resumo a mão de Giardíase, Tricomoníase e Amebíase pt.2.jpg]]
 
 ![[Resumo a mão de Giardíase, Tricomoníase e Amebíase pt.3.jpg]]
-
-
-
-
-
-
 
 ---
 

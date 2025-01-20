@@ -31,7 +31,7 @@
 **INTRODUÇÃO**
 - O **conceito de normatividade vital** lança luz à importância de se valorizar a relação entre a pessoa e o mundo que a cerca para compreensão dos transtornos mentais. 
 - Na prática, mesmo que um comportamento se mostre anormal ou incomum, é necessário não somente descrever bem os fenômenos observados, mas também **estabelecer as relações de significado** entre esses e a biografia do paciente, bem como seus valores e o todo de sua personalidade, o que torna esse exercício uma tarefa complexa e de maior importância para a prática psiquiátrica. 
-- Ainda que tais critérios possam parecer objetivos, sempre caberá uma boa **margem de subjetividade** do paciente na avaliação de seu sofrimento e do prejuízo por parte do profissional de saúde. 
+- Ainda que tais critérios **possam** parecer objetivos, sempre caberá uma boa **margem de subjetividade** do paciente na avaliação de seu sofrimento e do prejuízo por parte do profissional de saúde. 
 - Isso ocorre, em parte, porque o psiquiatra não pode se valer de exames subsidiários para atestar a fisiopatologia do transtorno, e mesmo a semiologia dependerá mais da perspicácia e qualidades individuais do examinador do que de um exame cardiológico, por exemplo. 
 - Porém, se os critérios para definir o que é normal e o que é doença - ou transtorno - não se encontram no corpo do sujeito doente, como definir então quem está ou não doente?
 

@@ -1,0 +1,4 @@
+ - Colocar o paciente em decúbito lateral direito; 
+ - Realizar a hiperextensão do membro inferior direito ou realizar a flexão resistida da coxa. 
+- Este sinal positivo pode ser indicativo de irritação do músculo psoas, sendo uma das causas da apendicite com o apêndice retrocecal encostando neste músculo.
+- ![Sinal do Psoas - Exame Físico do Abdome - YouTube](https://www.youtube.com/watch?v=9frS7KfWb0Q&ab_channel=MEDsimple)

@@ -19,3 +19,6 @@ Principais causas de edema:
  - [[Obesidade]]
  - [[Hipotireoidismo]]
  - Medicamentos, como corticóides. 
+
+---
+- Conteúdo relacionado: [[Estado de nutrição]]

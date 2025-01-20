@@ -17,3 +17,6 @@ Varizes
  * Fica na face anterior do tronco, principalmente na região periumbilical, epigastro e torax. Seria como se a direção do fluxo fosse do umbigo para outros lugares.
 **Braquiocefálica**
 ![[Pasted image 20240731195534.png]]
+
+---
+- Conteúdo relacionado: [[Edema]]

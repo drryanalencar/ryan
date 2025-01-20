@@ -52,3 +52,6 @@ Fasciculações: uma fasciculação é uma contração muscular pequena, local, 
 
 Distonia: Distonias são contrações musculares involuntárias, que podem ser de longa duração (sustentáveis) ou intermitentes. Distonias podem forçar posições anormais a pessoas, por exemplo, fazendo com que todo o corpo, tronco, membros ou pescoço se torçam.
 * https://www.youtube.com/watch?v=nXGXQ0tykhA
+
+---
+- Conteúdo relacionado: [[Biótipo - tipo morfológico]]

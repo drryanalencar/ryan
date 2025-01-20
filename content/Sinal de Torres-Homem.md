@@ -1,0 +1,6 @@
+- **Percussão dolorosa no hipocôndrio direito** indica abscesso hepático. 
+	- Abscesso hepático
+		- Coleção purulenta; 
+		- Infecção bacteriana; 
+		- Chagas.
+- Decúbito dorsal total reto. 

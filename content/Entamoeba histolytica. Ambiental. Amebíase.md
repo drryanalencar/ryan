@@ -7,6 +7,8 @@ tags:
 * * [[Aula 2 - Parasitas do TGI e Urogenitais.pdf]]
 * * [[Slide aula 2 - giardíase, amebíase tricomoníase.pdf]]
 ---
+![[Pasted image 20241113214729.png]]
+
 Colite não disentérica. Pela E. *dispar*. Não chega na mucosa. 
 
 __Epidemiologia__ 100.000 pessoas morrem por ano.

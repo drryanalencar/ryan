@@ -1,0 +1,3 @@
+Alguns fármacos, especialmente aqueles com alto peso molecular ou estrutura complexa, utilizam a endocitose mediada por receptores para serem absorvidos pelas células. Nesse processo, o fármaco liga-se a um receptor específico na superfície celular, e o complexo fármaco-receptor é internalizado em uma vesícula. Posteriormente, o fármaco é liberado no citoplasma para exercer sua ação terapêutica.
+
+**Exemplo**: A vitamina B12 é absorvida no intestino por meio de endocitose mediada por receptores, **onde se liga ao fator intrínseco,** formando um complexo que é reconhecido por receptores específicos nas células intestinais, permitindo sua internalização.

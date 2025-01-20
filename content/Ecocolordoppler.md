@@ -1,3 +1,4 @@
+- [Eco-Doppler - o que é, como é feito, tipos de exame, indicações](https://www.saudebemestar.pt/pt/exame/imagiologia/eco-doppler/)
 - Ultrassom com doppler colorido
 - ![[Pasted image 20241103110705.png]]
 - Avaliação de **doenças vasculares periféricas**, como insuficiência venosa e trombose venosa profunda (TVP). Também é amplamente utilizado para a avaliação de **doenças cardíacas**, como a função ventricular e valvulopatias.

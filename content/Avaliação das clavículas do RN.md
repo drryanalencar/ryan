@@ -1,0 +1,1 @@
+Atentar para a ausência de clavículas (aplasia clavicular), disostose cleidocraniana (cleidocraniodisostose – doença autossômica dominante, caracterizada por aplasia clavicular, atraso no fechamento de fontanelas, atraso na ossificação, alteração na dentição etc.), ou fraturas (a maioria do tipo galho-verde, que podem causar pseudoparalisia do plexo braquial).

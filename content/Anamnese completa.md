@@ -1,9 +1,13 @@
-[[Roteiro de anamnse em edição.pdf]]
-[[Porto - Exame Clinico.pdf]]
 
- [[1° Aula prática de Anamnese Completa]]
 
-[[Anamnese corrigida]]
 
-[[Caracterização da dor]]
+###### Anotações
+- [[Aula prática de Anamnese Completa - Assad]]
+- [[Caracterização da dor]]
+- [[Anamnese na prática]]
+
+###### Arquivos
+- [[Formulário de Anamnese e de todos os sistemas do Porto.pdf]]
+- [[Roteiro de Anamnese USP.pdf]]
+
 

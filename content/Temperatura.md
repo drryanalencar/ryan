@@ -29,3 +29,9 @@ Quais são as características da febre precisam ser determinadas?
 	* Crise: febre desaparece subitamente. Sudorese profunda e prostração. 
 	* Lise: hipertermia desaparece gradualmente. 
 ![[Pasted image 20240723183540.png]]
+
+
+
+
+---
+- Conteúdo relacionado: [[Pele]]

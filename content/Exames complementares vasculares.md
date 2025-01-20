@@ -6,10 +6,10 @@
 	- [[Pletismografia]]
 	- [[Angioressonância]]
 - Invasivos 
-	- [[Arteriografia]]
-	- [[Flebotografia]]
 	- [[Linfografia]]
 	- [[Angiografia]]
+		- [[Arteriografia]]
+		- [[Flebotografia]]
 	- [[Angiotomografia]]
 	- [[Tomografia computadorizada]]
 	- [[Flebografia radioisotópica]]

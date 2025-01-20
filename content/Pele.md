@@ -57,9 +57,6 @@ Na icterícia o frênulo fica amarelado, na hipercarotenia não fica.
 * Hipertermia segmentar 
 * Hipotermia segmentar
 
-5 estados de consciência
-
-Estado de obnubilação, sonolência, confusão mental, torpor e coma. 
-
-Estado de obnubilação, de sonolência, de torpor, confusão mental e de coma. 
+---
+- Conteúdo relacionado: [[Mucosas]]
 

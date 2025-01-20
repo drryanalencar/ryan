@@ -8,6 +8,7 @@ Referências:
 #### Aulas e materiais 
 - [[Resumo Microbiologia - Nyara.pdf]]
 - [[Compilado das aulas de Microbiologia.pdf]]
+- [[Resumo de Todas as 18 Bactérias (Livro de Microbiologia - Levinson) 1.pdf]]
 #### Seminários 
 - [[Apresentação de Microbiologia sobre Haemophilus influenzae e Clamídeas]]
 - [[Resumo de Todas as 18 Bactérias (Livro de Microbiologia - Levinson).pdf]]
@@ -32,7 +33,7 @@ Referências:
 ##### Clostrídeos  
 - [[Clostridium botulinum]]  
 - [[C. tetani]]  
-- [[C. difficile]]   
+- [[C. difficile]]  
 ##### Enterobactérias   
 - [[Escherichia coli comensal e variantes]]  
 - [[Salmonella enteriditidis]]  

@@ -11,3 +11,6 @@ Regular estado geral (REG)
 Mau estado geral (MEG)
 ![[Pasted image 20240715201014.png]]
 [[Sinal de Guaxinim ou bléfaro-hematoma]]
+
+---
+- Conteúdo relacionado: [[Fácies]]

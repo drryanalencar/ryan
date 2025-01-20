@@ -42,6 +42,7 @@ Exame do pulso, da pressão arterial e a da pressão venosa.
 	- A terceira bulha (B3) é grave e melhor audível na área mitral
 - **Quarta bulha (B4)**, uma contração atrial vigorosa contra um ventrículo de complacência reduzida. 
 	- A **quarta bulha (B4)** é melhor ouvida na **área mitral**, que corresponde ao ápice do coração.
+	- Tum, Tum, Tá. 
 - Hipertrofia ou fibrose ventricular. 
 ##### Exame físico
 ###### Inspeção 
@@ -396,3 +397,15 @@ O **exame da troponina** é um teste laboratorial usado para detectar e medir os
 
 [[Angina instável e Infarto agudo do miocárdio sem supra de ST]]
 ###### [[Eletrocardiograma]]
+
+# Crescimento do co
+O coração pode apresentar diferentes tipos de crescimento, que se referem a alterações em sua estrutura devido a adaptações a condições fisiológicas ou patológicas:
+
+1. **Hipertrofia concêntrica**: Ocorre quando há aumento da espessura das paredes do coração sem dilatação das câmaras internas. Geralmente associada à hipertensão arterial ou estenose valvar, resulta em maior força de contração para bombear o sangue contra uma resistência aumentada.
+    
+2. **Hipertrofia excêntrica**: Caracteriza-se pelo aumento do tamanho da câmara cardíaca e espessura das paredes de forma proporcional. Comum em condições como insuficiência cardíaca ou volume excessivo de sangue, o coração se expande para aumentar a capacidade de acomodar mais sangue.
+    
+3. **Cardiomegalia**: Refere-se ao aumento global do coração e pode resultar de hipertrofia, dilatação das câmaras, ou uma combinação de ambas. Pode ser fisiológica, como em atletas, ou patológica, devido a doenças cardíacas.
+    
+
+Esses tipos de crescimento refletem a adaptação do coração a diferentes estresses, sendo essenciais para diagnósticos e tratamentos direcionados.

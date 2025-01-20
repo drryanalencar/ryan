@@ -1,0 +1,1 @@
+O haloperidol é um antipsicótico indicado para o tratamento de perturbações do comportamento, pensamento e afeto, como delírios ou alucinações em casos de esquizofrenia, agitação ou confusão mental, ou até para soluços, tiques ou náuseas e vômitos incontroláveis.

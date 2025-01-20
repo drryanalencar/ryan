@@ -1,4 +1,3 @@
-
 - **Interrupção súbita do fluxo arterial;** 
 - Dor de forte intensidade; 
 - Sintomas neurológicos; 

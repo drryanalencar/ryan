@@ -95,7 +95,6 @@ Pele normocorada, hidratada, sem lesões cutâneas, tatuagens ou cicatrizes; mob
 
 No exame físico do tórax, apresenta formato normal, sem lesões, abaulamentos ou retrações, pele normocorada, sem tatuagens ou cicatrizes, com pelos bem distribuídos. Mamas simétricas, com volume normal para o sexo masculino. Frequência respiratória de 18 incursões por minuto, com amplitude respiratória normal e expansibilidade torácica simétrica. Tipo respiratório predominantemente toraco-abdominal, sem tiragem ou uso de musculatura acessória, sem ritmos respiratórios patológicos. Frêmito toraco-vocal presente e simétrico em ambos os lados, sem edemas, enfisema subcutâneo ou dor à palpação. Elasticidade torácica preservada. Expansibilidade do ápice, do terço médio e da base dos pulmão preservados. À percussão, som claro pulmonar identificado, com macicez hepática no 4º espaço intercostal direito e macicez cardíaca no 5º espaço intercostal esquerdo. A ausculta pulmonar, murmúrios vesiculares presentes bilateralmente, sem ruídos adventícios. Sons bronquial, broncovesicular e traqueal audíveis nos locais habituais.
 
-
 - Edemas;
 - Nível de consciência; 
 - Linfonodos;

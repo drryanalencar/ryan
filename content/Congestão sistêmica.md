@@ -1,0 +1,21 @@
+# Congestão sistêmica
+- **Congestão**: presença de sinais de acúmulo de líquido, como estertores pulmonares, turgência jugular e edema periférico.
+- Congestão/edema pulmonar:
+	- Inspeção: tórax simétrico, expansibilidade normal
+	- Palpação: expansibilidade e FTV normais
+	- Percussão: som claro pulmonar ou submacicez nas bases
+	- Ausculta: som vesicular, estertores finos teleinspiratórias e, ocasionalmente, sibilos. Ressonância vocal normal
+- A presença de ortopneia tem alto valor preditivo positivo para o diagnóstico de insuficiência cardíaca. 
+- Soma-se a isso a presença de dispneia paroxística noturna, estase jugular a 45 graus, estertores finos à ausculta pulmonar e hepatomegalia dolorosa (sinais de congestão sistêmica)
+- Congestão 
+	- Edema de membros inferiores 
+	- Dor abdominal
+	- Ascite
+	- Hepatomegalia
+	- Estase jugular
+		- ![[Pasted image 20241107141042.png]]
+	- Refluxo hepatojugular
+	- Anasarca
+	- Derrame pleural;
+	- B3/B4
+	- Ictus cordis desviado para a E

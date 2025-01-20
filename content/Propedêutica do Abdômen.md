@@ -2,7 +2,7 @@
 - Exame do abdome - PG.179 - Semiologia do Rocco
 - [[Semio Abdome - Ny (1).pdf]]
 - https://youtu.be/GsPBoceKw6U?si=8Dpc2N8urpVmnm8J
-
+- [[Resumo do Exame Abdominal.pdf]]
 ---
 ###### Extras
 - Pacientes com alterações renais a primeira coisa que preciso perguntar é se ele urina ou não urina. 
@@ -38,16 +38,16 @@ A dor abdominal geralmente é autolimitada, por isso se tiver uma duração de m
 ###### Metodologia
 - Posição relaxada e confortável;
 - Decúbito dorsal, braços ao lado do corpo;
-- Exposição total do abdome (genitália coberta)/ Esvaziar bexiga 
+- Exposição total do abdome (genitália coberta) / Esvaziar bexiga 
 - Examinar pelo lado direito do paciente;
 - Aquecer mãos e estetoscópio, unhas curtas;
 - Perguntar sobre a presença de áreas dolorosas e deixar seu exame para o final. 
 - Pressão suave e gradativa, iniciar com palpação mais leve, aumentando gradativamente. 
 
 A sequência do exame físico no abdômen é: 
-1. inspeção, 
-2. ausculta,
-3. palpação e 
+1. Inspeção, 
+2. Ausculta,
+3. Palpação e 
 4. Percussão.
 ###### As grandes duas divisões do abdômen
 ![[Pasted image 20240914170913.png]]
@@ -112,9 +112,7 @@ Investiga-se 5 pontos:
 	- ![[Pasted image 20241003143607.png]]
 	- Manobra de Valsava e Smith-Bates
 		- ![[Pasted image 20241003144052.png]]
-	- Parar de respirar e mandar o paciente contrair o abdome
-		- ![Manobra de Valsalva - YouTube](https://www.youtube.com/watch?v=xTObmRAofCw&ab_channel=RenanLovisetto)
-	- 
+
 - Movimentos peristálticos visíveis;
 	- Pode ser um sinal de obstrução intestinal. Nesse caso, o intestino tenta empurrar o conteúdo para além do ponto de obstrução, resultando em movimentos visíveis da parede abdominal. 
 - Pulsação visível
@@ -168,7 +166,7 @@ Pode se apresentar normal (protraído) ou protuso quando a pressão intra abdomi
 	- Cianose; 
 	- Equimose: sinal de Cullen, indicando hemorragia retroperitoneal ou pancreatite necro-hemorrágica. 
 - Circulação colateral cabeça de Medusa. 
-- Manobras de Valsava e palpação para procurade massas. 
+- Manobras de Valsava e palpação para procura de massas. 
 	- Onfalite. 
 	- Equimose na região periumbilical -> hemorragia intra abd -> Sinal de cullen.
 ###### Contorno Abdominal
@@ -274,7 +272,7 @@ São causas de macicez: vísceras maciças normais (fígado) ou aumentadas (espl
 - Macicez móvel; 
 	- Decúbito dorsal --> decúbito lateral. 
 - **Sinal do piparote**: Outro método usado para identificar ascite é o sinal do piparote, onde um lado do abdome é percutido, e o outro lado é palpado para sentir o deslocamento do líquido.
-- Semicirculo de Skoda
+- Semicírculo de Skoda
 	- Ascites de pequenos ou médio volume. 
 		- Concavidade voltada para a região epigástrica. 
 		- Cisto gigante de ovário, uma vez que, na doença ginecológica, a concavidade da linha semicircular estará voltada para o púbis
@@ -373,10 +371,11 @@ Técnica da **mão espalmada, Lemos Torres, Chaurffard ou bimanual:**
 ![[Pasted image 20240930165059.png]]
 ![[Pasted image 20240930165136.png]]
 ![[Pasted image 20240923132731.png]]
-Técnica mão em garra ou Mathieu-Cardarelli
+Técnica mão em garra ou Mathieu
 - Mãos apoiadas no rebordo costal, com os dedos tentando entrar por debaixo do rebordo costal. 
 ![[Pasted image 20240923132819.png]]
 ##### Palpação do Baço
+- Preferencialmente realizadas na posição de Schuster, usando Lemos Torres e Mathieu-Cardareli. 
 ![[Pasted image 20240930174039.png]]
 - Palpação esplênica. Lembre-se de que a mão esquerda deve realizar a tração anterior do rebordo costal esquerdo objetivando anteriorizar o baço. Já a mão direita é aprofundada no abdome na expiração e move-se tentando palpar o polo inferior do baço na inspiração.
 ![[Pasted image 20240930174255.png]]
@@ -449,7 +448,7 @@ Dor na vesícula geralmente é ocasionada pela alimentação rica em lipídeos, 
 	- Litíase = pedra 
 	- Pedra no trato biliar. 
 	- Pode doer quando o cálculo tenta passar pelo ducto cístico. 
-		- É uma dor espontânea, difuda, com murphy negativo. 
+		- É uma dor espontânea, difusa, com murphy negativo. 
 	- Proibido administrar morfina para essa dor, porque ela estimula o esfíncter de oddi e isso aumenta a contração da vesícula, bem como a dor.  
 - **Colangite** 
 	- Inflamação das vias biliares (ductos) pela obstrução biliar. 
@@ -521,8 +520,6 @@ Se eu percutir loja renal direita ou esquerda e o paciente sentir dor, ele pode 
 ###### Sinal de Blumberg
 - Dor a descompressão brusca positiva no ponto de McBurney. Esse sinal positivo pode indicar apendicite. 
 	- Localizado na junção do terço lateral com os dois terços mediais da linha que liga a cicatriz umbilical à espinha ilíaca anterossuperior direita.
-
- 
 ![[Pasted image 20240929115352.png]]
 ###### Sinal de Dunphy
 - Dor à percussão do ponto de McBurney ou dor ao tossir. Pode ser indicativo de apendicite.

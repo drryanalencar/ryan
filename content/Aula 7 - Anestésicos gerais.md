@@ -1,0 +1,65 @@
+- [[Slide - Anestésicos Gerais.pdf]]
+
+# Anestesia geral
+- Narcose: inibição do sistema nervoso feita pela administração de fármacos. 
+- Vias de administração
+	- Inalatória
+	- Por injeção intravenosa
+- Fatores ligados ao paciente na seleção da anestesia:
+	- Estado atual dos sistemas orgânicos;
+		- Fígado e rim. Distribuição, depuração e efeitos tóxicos.
+		- Aparelho respiratório. Asma, anomalias de ventilação, dificuldades de perfusão por secreções.
+		- Sistema cardiovascular. Efeito hipotensor. Risco de isquemia em órgãos nobres.
+		- Sistema nervoso. Epilepsia; miastenia gravis; história familiar de hipertermia maligna.
+			- Epilepsia: afecção que se manifesta por crises de perda da consciência,a companhadas de convulsões, que surgem em intervalos irregulares de tempo. 
+			- Miastenia gravis é uma doença neurológica auto-imune que afeta a porção pós-sináptica da junção neuromuscular, nos receptores para acetilcolina (possibilidade de complicações ventilatórias no pós-operatório). 
+			- Hipertermia maligna (HM) é uma doença **farmacogenética** potencialmente letal que acomete indivíduos geneticamente predispostos. Manifesta-se em indivíduos susceptíveis em resposta à exposição a anestésicos inalatórios, relaxantes musculares despolarizantes, entre outros.
+		- Gestação. Riscos para o concepto
+	- Uso Simultâneo de fármacos
+		- Múltiplos agentes adjuvantes. **Anestésicos Gerais**
+			- Inalatórios
+				- São usados para manutenção do estado anestésico. 
+				- São eliminados rapidamente do organismo, portanto não causam depressão respiratória no pós-operatório. 
+				- **Mecanismo de ação**
+					- Não está bem esclarecido. 
+					- SNC é o sítio de ação, mas não se sabe quais são os receptores ativados. 
+				- **Principais anestésicos inalatórios**
+					- ◼ 1. Halotano: 
+						- É combinado com óxido nitroso.
+					- ◼ 2. Enflurano; 
+					- ◼ 3. Isoflurano; 
+					- ◼ 4. Metoxiflurano;
+					- ◼ 5. Óxido nitroso; 
+						- Fraco anestésico geral; 
+						- Potente analgésico. 
+					- ◼ 6. Sevoflurano.
+			- Intravenosos 
+				- **Principais anestésicos injetavéis**
+					- ◼ Barbitúricos;
+						- O tiopental é anestésico potente e fraco analgésico.
+						- Tem ação ultra curta e alta lipossolubilidade.
+						- Esses fármacos foram amplamente substituídos.
+					- ◼ Benzodiazepínicos; 
+						- Facilitam a amnésia;
+						- Lorazepam e midazolam são os mais potentes.
+					- ◼ Opióides; 
+						- Fortes analgésicos; são usados com outros anestésicos: morfina mais halotano. Fentanila é mais empregada que a morfina.
+						- Riscos de movimentos extrapiramidais.
+					- ◼ Neuroleptoanalgesia; 
+					- ◼ Ketamina; 
+						- Induz um estado de dissociação no qual o paciente parece estar acordado, mas na verdade está inconsciente e não sente dor.
+						- Produz alucinações no pós-operatório.
+					- ◼ Propofol.
+						- Indução ou manutenção da anestesia;
+						- Instalação de efeito suave dentro de 40 segundos;
+						- Requer analgésico;
+						- Reduz a pressão arterial sem deprimir o miocárdio.
+		- Uso concomitante de outros fármacos não anestésicos. (Coadjuvantes)
+			- Medicação pré-anestésica
+			- Anticolinérgicos
+			- Antieméticos
+			- Antibióticos; 
+#### Estágios da anestesia geral
+1. Indução; Normalmente, emprega-se anestésico intravenoso tiopental ou propofol; em poucos segundos, pode haver inconsciência;
+2. Manutenção: tempo necessário para a cirurgia; ajustes e monitoramento de sinais vitais, e
+3. Recuperação: retorno à consciência e respiração espontânea

@@ -1,0 +1,1 @@
+- **Percussão de som timpânico no hipocôndrio direito** indica que há um quadro de pneumoperitônio que pode ser causado por úlcera gástrica perfurada. 

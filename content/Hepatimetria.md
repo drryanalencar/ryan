@@ -1,0 +1,4 @@
+- 6-12 cm. 
+- Linha hemiclavicular direita a partir do 2° espaço intercostal. 
+- Geralmente começa a partir do 5° espaço intercostal. 
+- **Sinal de anormalidade**: Se o fígado estiver aumentado (hepatomegalia), a macicez será ouvida abaixo do rebordo costal.

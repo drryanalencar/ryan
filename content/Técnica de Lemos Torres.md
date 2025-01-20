@@ -1,0 +1,13 @@
+- Coloca a mão atrás do paciente; região dorsolateral, realizando tração anterior. 
+- Mão direita é aprofundada na região anterior desde a fossa ilíaca direita até o rebordo costal direito.
+- Durante a inspiração profunda. 
+- Objetivo:
+	- Localização da borda inferior direita; 
+	- Consistência (própria, amolecida e endurecida);
+	- Formato da borda (romba)
+	- Superfície (lisa, nodular, granulada)
+	- Sensibilidade álgica;
+	- Mobilidade; 
+	- Delimitação de massas;
+- ![[Pasted image 20240930165007.png]]
+- ![[Pasted image 20240923132731.png]]

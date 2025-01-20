@@ -1,0 +1,2 @@
+- Observar se o abdome se move de maneira harmoniosa com a respiração.
+	- A ausência de movimento do abdômen sugere peritonite. 
