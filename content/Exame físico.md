@@ -53,7 +53,7 @@ O exame clínico é composto pelo exame físico geral e pela [[Ectoscopia]], tam
 		![[Pasted image 20240425111522.png]]
 		* Digitopressão realizada com a polpa do polegar ou do indicador. Para avaliar a existência de dor, circulação cutânea e se há edema.
 		![[Pasted image 20240425111653.png]]
-		* Puntipressão, que consiste em comprimir com um objeto pontiagudo um ponto do corpo. É usada para avaliar a sensibilidade dolorosa e para analisar [[telangiectasias]] tipo aranha vascular
+		* Puntipressão, que consiste em comprimir com um objeto pontiagudo um ponto do corpo. É usada para avaliar a sensibilidade dolorosa e para analisar [[Telangiectasias]] tipo aranha vascular
 		![[Pasted image 20240425111923.png]]
 		* 
 * Percussão

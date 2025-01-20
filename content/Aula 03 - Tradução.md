@@ -1,1 +1,0 @@
-[[Slide 03 - Tradução.pdf]]
