@@ -1,7 +1,9 @@
+1. [[Introdução]]
 # Planejamento da escrita
 
 **Introdução** do texto abordando o fato de a medicina não ser uma ciência da natureza, que está relacionado com o sujeito, que é uma arte, e a abordagem que o normal não existe em si só. (A ideia é fazer um contraponto de cara com a medicina orgânica, que foca no biológico, esse seria o problema 1, depois expandir para o campo da psiquiatria especialmente)
 - Introduzir a medicina como arte; 
+
 **Discussão 1:** Em diante explico os conceitos de saúde, normalização.. 
 
 **Discussão 2**: Em seguida falo da limitação do modelo biologista e como ele está sendo usado como instrumento de normalização social e medicalização. 

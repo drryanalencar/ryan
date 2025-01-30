@@ -6,4 +6,10 @@ tags:
 #### Aulas e materiais 
 - [[SEMIOLOGIA NEONATAL]]
 - [[SEMIOLOGIA PEDIATRICA]]
+- [[SEMIOLOGIA OTORRINOLARINGOLÓGICA]]
+- [[Semiologia Psiquiátrica]]
+- [[Semiologia do Idoso]]
+- [[Semiologia neurológica]]
+- [[Semiologia oftamológica]]
+	- [[Olho vermelho]]
 #### Anotações

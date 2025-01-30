@@ -32,6 +32,13 @@
 - 02/12 - Leitura, compreensão e extração das principais partes do texto "A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão" de Sandra Caponi. Organização das principais partes. 
 - 03/12 - Leitura, compreensão e extração das principais partes do texto "A crítica ao cientismo não é negacionismo: a psiquiatria biológica em questão" de Sandra Caponi. Organização das principais partes. Organização das principais partes. 
 - 09/12 - Esquematização do projeto de escrita do relatório parcial. 
+- 13/12 - Escrita do relatório parcial
+- 14/12 - Escrita do relatório parcial
+- 16/12 - Escrita do relatório parcial
+- 27/12 - Escrita do relatório parcial
+- 31/12 - Escrita do relatório parcial
+- 02/01/25 - Escrita do relatório parcial
+- 03/01/25 - Entrega do relatório parcial para o orientador analisar. 
 #### Cronograma de setembro/outubro
 Meta da semana 4 de setembro. 
 Leitura de O normal e o patológico (excertos)

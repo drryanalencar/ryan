@@ -9,6 +9,7 @@
 - Exame crítico de uma tese
 ###### Fragmentos direto do texto           
 - "A medicina nos pareceria, e nos parece ainda, uma técnica ou arte situada na confluência de várias ciências, mais do que uma ciência propriamente dita."
+
 - Primeiro, "nada é mais desconhecido do que as condições nas quais a natureza institui essas experiências, as doenças mentais: o início de uma psicose escapa quase sempre ao médico, ao paciente, aos que com ele convivem; a fisiopatologia, a anatomopatologia desse processo são obscuras" [66, 8.08- 5]. P. 88. (Provavelmente de um texto de Lagache).
 - Achamos, como Goldstein, que em matéria de patologia a norma é, antes de tudo, uma norma individual [46, 272]. P. 90.
 - O que o doente lembra é de que não está manifestamente inválido. P. 91-92.

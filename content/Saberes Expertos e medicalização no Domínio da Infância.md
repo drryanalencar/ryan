@@ -48,7 +48,6 @@
 - A crítica à psiquiatria biológica, a suas classificações, testes, modelos e procedimentos, assim como a crítica às diferentes formas de intervenção sem efeito terapêutico por ela utilizada ao longo da história, como o eletrochoque, os choques insulínicos, a contenção mecânica, a contenção química ou o uso abusivo e desnecessário de antipsicóticos e outras drogas psiquiátricas parece ser uma tarefa imprescindível.
 - Como afirma Canguilhem, a ideologia científica é uma representação da realidade “cuja verdade não reside no que ela diz, mas no que ela cala” (CANGUILHEM, 1993, p. 43). 
 - O que ela silencia é sua efetividade para garantir a reprodução e consolidação das relações de poder estabelecidas em cada momento histórico, sejam elas de classe, de gênero ou de raça, como foi evidenciado por exemplo, pelos estudos de Franzt Fanon (2020).
-- 
 
 
 

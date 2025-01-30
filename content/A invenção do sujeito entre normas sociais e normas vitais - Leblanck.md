@@ -10,7 +10,6 @@
 
 ###### Fragmentos direto do texto
 - [...] a normalização vale primeiramente por seu caráter arbitrário social, por sua falta de conexão com a vida.
-- O sujeito ainda pode ser um indivíduo biológico?
 - A noção de "normatividade social", usada repetidamente por Canguilhem, indica uma vida própria ao social, assim como a "normatividade vital" sugere uma vida própria ao vital.
 - É a sociedade que permite reconsiderar o organismo.
 - Enquanto a exigência de normas é interna ao organismo, a normalização em operação na sociedade é baseada em uma escolha e decisão externas ao objeto normalizado (NP, 176).

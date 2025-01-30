@@ -1,0 +1,39 @@
+- [[Anatomia, Fisiologia e Semiologia Neurológica.pdf]]
+
+- Importante para prova: 
+	- Exame de motricidade 
+		- Reflexo de babisky
+	- Nervo motor da língua - XII - Hipoglosso - Prova
+
+- Topografar a lesão;
+- Síndrome x Doença: na doença sabemos a etiologia. 
+- Nível de consciência
+	- Escala de glasgow; 
+	- Fala confusa: imita frases, mas um pouco perdido no espaço e no tempo. 
+	- Amnésia anterógrada
+		- A partir de determinado momento não consegue mais fixar memórias. 
+	- Amnésia total x parcial. 
+	- Cefaleia - dor de cabeça
+		- Localização;
+		- Características; 
+			- Pulsátil (enxaqueca)
+	- Tontura e Vertigem
+		- Tontura: perda da sensação de equilíbrio. 
+		- Vertigem: caráter rotatório. 
+	- Distúrbios da Gnosia
+	- Distúrbios da Praxias
+	- Tremores
+		- Beta bloqueador 10/20 mg
+	- Exame de motricidade
+		- 1° NM
+		- 2º NM
+
+---
+- Síncope: rebaixamento de origem cardíaca. 
+- Fadiga: sintoma. 
+- Fraqueza: problema muscular. 
+- Plegia: fraqueza decorrente do SN. 
+- A área de Werneck e broca estão do lado dominante. 
+- Midríase - SNP
+- Miose  - Oculomotor;
+- Nervo motor da língua - XII - Hipoglosso - Prova
