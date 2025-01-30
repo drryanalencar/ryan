@@ -42,5 +42,3 @@ B) ESCALA DE JAEGGER
 4. Biomicroscopia 
 5. Tonometria 
 6. Fundo de olho - Fundoscopia
-
-

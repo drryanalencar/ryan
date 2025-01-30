@@ -1,4 +1,5 @@
 - [[Slide - Farmacologia do Sistema Nervoso Autônomo.pdf]]
+
 # Introdução ao sistema nervoso
 - O sistema nervoso coordena três funções básicas:
 	- sensorial, 
@@ -23,7 +24,7 @@
 # Anatomia do SNA
 Localização: Está no **SNP**, mas mantém forte conexão com o SNC para a coordenação das funções automáticas.
 - O **SNA** é uma parte do SNP, focado exclusivamente no controle de funções automáticas e involuntárias.
-![[Pasted image 20250114131620.png]]
+-![[Pasted image 20250114131620.png]]
 **Neurônio pré-ganglionar**:
 - Origem: Localizado no Sistema Nervoso Central (SNC).
 - Função: Transmite impulsos nervosos para o **gânglio autonômico**.
@@ -36,6 +37,7 @@ Localização: Está no **SNP**, mas mantém forte conexão com o SNC para a coo
 - **Neurotransmissores liberados**:
     - **Simpático**: Noradrenalina (receptores adrenérgicos no tecido-alvo).
     - **Parassimpático**: Acetilcolina (receptores muscarínicos no tecido-alvo).
+
 ## Sistema nervoso entérico
 - Inerva o trato gastrintestinal (TGI), o pâncreas e a vesícula biliar; modulado tanto pelo sistema nervoso simpático quanto pelo parassimpático.
 ## Sistema nervoso autônomo parassimpático e simpático
@@ -191,7 +193,7 @@ A acetilcolina age sobre dois tipos principais de receptores no terminal pós-si
 			- A ativação do receptor muscarínico aciona segundos mensageiros (ex.: AMPc ou IP3), promovendo respostas específicas no órgão-alvo.
 		- Sinapse pós-ganglionar do parassimpático.
 		- **Coração**: Reduz frequência cardíaca (efeito cronotrópico negativo).
-- **Receptores pós-ganglionares do sistema simpático (p/noradrenalina):**
+- Receptores pós-ganglionares do sistema simpático (p/noradrenalina):
 	- Alfa-adrenérgicos (1 e 2) - α
 	- Beta-adrenérgicos (1 e 2) - β
 
@@ -224,7 +226,7 @@ Os fármacos que atuam no SNA podem ser classificados conforme suas ações no s
 | **Parassimpaticolíticos**   | Inibem o sistema parassimpático | Atropina    |
 ### Classificação dos simpaticomiméticos seg. mecanismo de ação:
 
-###### Estimulantes diretos dos receptores:
+Estimulantes diretos dos receptores:
 - "Naturais": adrenalina, noradrenalina, dopamina; 
 - "Fármacos": 
 	- Dobutamina: A dobutamina **é o inotrópico mais comumente utilizado em pacientes com choque séptico, com o objetivo de aumentar o débito cardíaco e corrigir a hipoperfusão**.
@@ -232,7 +234,9 @@ Os fármacos que atuam no SNA podem ser classificados conforme suas ações no s
 	- Salbutamol: Salbutamol **é um remédio broncodilatador de ação curta, classificado como agonista de receptores beta-2 adrenérgicos**.
 	- Fenilefrina: é um agonista seletivo do receptor adrenérgico alfa 1 utilizado como agente midriático, descongestionante nasal e agente cardiotônico.
 	- Nafazolina: Nafazolina é um vasoconstritor que atua como agonista dos receptores adrenérgicos alfa 1. Descongestionante. 
+ 
 ###### Promotores da liberação de noradrenalina:
+
  **Anfetaminas (protótipo):**
 - Mecanismo de ação: 
 	- Estimulam a liberação de noradrenalina das vesículas sinápticas para a fenda sináptica.
@@ -274,10 +278,7 @@ Os fármacos que atuam no SNA podem ser classificados conforme suas ações no s
 | **Intensidade dos efeitos** | Geralmente mais suave e de menor potencial de abuso.                                   | Mais potente, com maior risco de dependência.                                   |
 | **Aplicações clínicas**     | Principalmente em **TDAH** e narcolepsia.                                              | TDAH, narcolepsia e (menos comum atualmente) supressão do apetite.              |
 | **Risco de dependência**    | Moderado (menor que anfetaminas).                                                      | Elevado, especialmente em uso recreativo.                                       |
-###### Inibidores da recaptação de noradrenalina:
-- Cocaína, imipramina
 ### Classificação dos Simpaticolíticos, antagonistas do sistema simpático:
-
 - Antagonistas centrais (agonistas alfa-2)
 - Bloqueadores ganglionares 
 - Depletivos do terminal simpático 
@@ -291,6 +292,7 @@ Os fármacos que atuam no SNA podem ser classificados conforme suas ações no s
 - Bloqueadores **Alfa** → Relaxam **vasos**.
 - Bloqueadores **Beta** → Controlam **coração**.
 - Bloqueadores **Alfa e Beta** → Atuam **nos dois sistemas**.
+
 
 **Antagonistas centrais (agonistas alfa-2)**
 - Atuam diminuindo a estimulação simpática no SNC, ao se fixarem nos receptores pré-sinápticos alfa-2
@@ -338,10 +340,10 @@ Os fármacos que atuam no SNA podem ser classificados conforme suas ações no s
 **Bloqueadores beta-adrenérgicos**
 - Não-seletivos: bloqueiam beta 1 e 2, diminuindo a estimulação cardíaca, mas interferem na musculatura lisa periférica. Ex.: propanolol, timolol etc
 - Seletivos: para receptores beta-1, atenolol, metoprolol, betaxolol etc.
-- Bloqueadores alfa-1 e beta; ex: labetalol.
+- Bloqueadores alfa-1e beta; ex: labetalol.
 - **Não seletivos (β1 e β2)**:
 	- **Propranolol**: Reduz frequência cardíaca, mas pode causar broncoconstrição.
-### Classificação dos parassimpaticomiméticos - Colinérgicos 
+### Classificação dos simpaticomiméticos - Colinérgicos 
 
 Os simpaticomiméticos colinérgicos são fármacos que **imitam a ação da acetilcolina (ACh)** ao estimular **diretamente ou indiretamente** os receptores colinérgicos (muscarínicos e nicotínicos).
 - Diretos
@@ -375,12 +377,9 @@ Os parassimpaticolíticos bloqueiam a ação da acetilcolina ao competir por rec
 	- Usada em bradicardia, pré-anestesia (redução de secreções) e intoxicação por organofosforados.
 - Escopolamina
 	- Usada para cinetose (enjoo de movimento) e como antiespasmódico.
-
 - Homatropina, ciclopentolato, tropicamida: Usados em oftalmologia para dilatação pupilar.
-
 - **Ipratrópio**: Broncodilatador em asma e DPOC.
 - **Propantelina**: Usada para distúrbios gastrointestinais (espasmos, síndrome do intestino irritável).
-
 - Muitos fármacos usados com outra finalidade têm efeitos anticolinérgicos: antidepressivos, ansiolíticos, antipsicóticos etc
 - Mediadores adrenérgicos, como a noradrenalina, inibem a liberação da acetilcolina fixando-se a receptores alfa-2 pré-sinápticos.
 - Morfina e outros opióides também reduzem a liberação da acetilcolina ligando-se a receptores opióides pré-sinápticos.

@@ -17,6 +17,4 @@ tags:
 - [[Aula 8 - Anestésicos Locais]]
 - [[Aula 9 - Fármacos oftálmicos]]
 - [[Aula 10 - Farmacologia do Sistema endócrino]]
-- [[Resumo para N1.1]]
-	- [[Informações para decorar de Farmacologia N1.1]]
 #### Anotações
