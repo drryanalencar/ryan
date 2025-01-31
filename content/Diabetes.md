@@ -48,7 +48,6 @@
 - **Tratamento DM1**:
 	- Múltiplas aplicações; 
 	- Esquema de infusão contínua (padrão ouro)
-
 ##### Tratamento DM2
  ![[Pasted image 20250107190658.png]]
  ![[Pasted image 20250107191124.png]]

@@ -93,10 +93,7 @@ Noradrenalina (noraepinefrina) – Locus ceruleus da ponte (50% dos neurônios) 
 	- Porção sacral
 		- Estimula a bexiga urinária a contrair-se
 		- Estimula a excitação sexual.
-	- 
-
 # Antipsicóticos
-
 - Psicótico: delírio e alucinação. 
 ## Esquizofrenia
 
