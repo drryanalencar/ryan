@@ -1,3 +1,4 @@
+[[Slide Seminário APS - Diabetes Mellitus.pdf]]
 ##### Conceito e fisiologia da diabetes
 
 ![[Pasted image 20250106153141.png]]

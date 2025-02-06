@@ -1,1 +1,2 @@
 - [[Seminário de Corrimento Vaginal e Dor Pélvia APS.pdf]]
+- [[Corrimento vaginal e dor pélvica_RESUMO.pdf]]

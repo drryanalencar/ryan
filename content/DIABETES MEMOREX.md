@@ -1,3 +1,5 @@
+- [[Condutas Diabetes Mellitus.pdf]]
+- [[Diabetes resumo.pdf]]
 **Indicações para rastreamento de DM2 em adultos assintomáticos:**
 - Idade acima de 35 anos;
 - Idade abaixo de 35 anos com sobrepeso ou obesidade, e mais um fator de risco. 
@@ -125,6 +127,9 @@ MEV para todos. Intervenção nutricional no controle de peso, exercícios físi
 	- **Sem melhoras**
 		- 3º droga ou 4º droga ou insulina. 
 	- HbA1c >9,0% = **Insulina**
+		- NPH 1x/dia, à noite.
+		- 0,1 a 0,2 UI/kg 
+		- 0,3 UI/Kg até 20 UI/dia se hiperglicemia importante. 
 -  **Tratamento DM1**
 	- Insulinoterapia (0,5 a 1UI/KG/DIA)
 		- Rápida: 5 - 30 minutos antes das refeições. 

@@ -1,8 +1,7 @@
-- [[HAS resumo.pdf]]
+- [[HAS resumo 1.pdf]]
 - [[Diretriz-HAS-2020.pdf]]
 - PG.73 [[MEDCURSO_-_CAR_2_-_INSUFICIENCIA_CARDIACA.pdf]]
-
-
+- [[Slide Seminário APS - HAS.pdf]]
 ---
 ##### Introdução
 
@@ -76,7 +75,7 @@ Pela natureza assintomática desta doença, grande parte da população hiperten
 - "O risco CV deve ser estimado em todos os pacientes hipertensos por meio de escores simples, baseados nos níveis de PA e na presença de FR adicionais e comorbidades (Quadro 5.1)"
 ![[Pasted image 20250111182305.png]]
 ![[Pasted image 20250111182454.png]]
-![[Pasted image 20250111182534.png]]
+![[Tabela - Classificação dos estágios de hipertensão arterial de acordo com o nível de PA.png]]
 ###### Risco cardiovascular em qualquer pessoa entre 30-74 anos
 Observe a . A presença de qualquer um desses fatores prevê um RCV > 20% em dez anos, classificando automaticamente o paciente como “RISCO ALTO”.
 ![[Pasted image 20250111202022.png]]

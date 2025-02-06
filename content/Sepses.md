@@ -7,7 +7,10 @@ Referências:
 * [Entenda como uma infecção bacteriana, como no caso de Madonna, pode levar à UTI](https://www.cnnbrasil.com.br/entretenimento/entenda-como-uma-infeccao-bacteriana-como-no-caso-de-madonna-pode-levar-a-uti/)
 
 ---
->Sepse é uma consequência patológica de infecção grave, local ou disseminada causada por algumas bactérias gram-negativas e gram-positivas, bem como por alguns fungos.
+
+>"Uma complicação sistêmica da infecção grave, geralmente bacteriana ou fúngica, é uma síndrome chamada sepse, clinicamente caracterizada por febre, aceleração das frequências cardíaca e respiratória, anormalidades metabólicas e perturbações mentais." Abbas, Imunologia Celular. 
+
+Disfunção orgânica em vigência de um quadro infeccioso. Assad, Leo. 
 # Curiosidades
 💡 A sepse é uma síndrome que pode ser fatal e mata mais do que o câncer de mama e o infarto do miocárdio.
 ##### Imunossenescência

@@ -1,3 +1,4 @@
+- [[HAS resumo 1.pdf]]
 **Principais intervenções que previnem a hipertensão arterial**
 - Controle de peso;
 - Dieta saudável DASH, rica em frutas, vegetais, grãos e baixo teor de gordura. 

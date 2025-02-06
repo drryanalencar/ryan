@@ -2,7 +2,8 @@ Referências:
 * [[Manual de Assistência Pré Natal - Frebasgo.pdf]]
 * Roteiro pré-natal - WeMeds
 * [Antenatal iron supplementation (who.int)](https://www.who.int/data/nutrition/nlis/info/antenatal-iron-supplementation)
-* [[Pré-Natal.pdf]]
+* [[Resumo Estratégia MED Pré-Natal.pdf]]
+* [[Slide Seminário APS Pré-natal.pdf]]
 --- 
 
 Quando suspeitar de uma gravidez? 
@@ -60,14 +61,7 @@ Quando suspeitar de uma gravidez?
 	* Monitoramento cardíaco fetal; 
 	* Cadiotocografia; 
 * Como calcular a idade gestacional? 
-* Como calcular da data provável do parto? 
-
-
-
-
-
-
-
+* Como calcular da data provável do parto?
 
 
 * Segundo alguns estudos, o número adequado de consultas no pré-natal seria igual ou superior a seis.
