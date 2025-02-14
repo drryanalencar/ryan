@@ -1,1 +1,2 @@
 - [[Slide Semiologia do Idoso.pdf]]
+- ![[Resumo Semiologia do Idoso.pdf]]

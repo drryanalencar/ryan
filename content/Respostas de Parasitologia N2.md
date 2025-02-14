@@ -3,7 +3,7 @@
 2. O intestino delgado, é onde os vermes adultos se alojam.
 3. *Ascaris lumbricoides*
 4. Ovos fertilizados no meio externo são ingeridos pelo ser humano em forma de L3. Esse ovo vai para o intestino delgado, onde a larva L3 sai do ovo, penetrando a mucosa intestinal e entrando na grande circulação chegando aos pulmões. Nos pulmões a larva chega a fase L4 e pode ser deglutida, voltando ao trato intestinal e atingindo a fase adulta. No trato intestinal o macho e a fêmea fazem a reprodução e liberam ovos nas fezes.
-5. Sim, pois há uma fase pulmonar nessa parasitose. Os sintomas dessa síndrome incluem:/ [[Pneumonia]], manifestações alérgicas, febre, sinais de bronquite. [[índrome de Loeffler]]
+5. Sim, pois há uma fase pulmonar nessa parasitose. Os sintomas dessa síndrome incluem:/ [[Pneumonia adquirida na comunidade PAC]], manifestações alérgicas, febre, sinais de bronquite. [[índrome de Loeffler]]
 6. O macho é menor e possui uma das **extremidades espiralada**, enquanto a fêmea é maior e possui ambas as extremidades afiladas.
 7.  Centrifugação: método de MIFC e Sedimentação espontânea: HOFFMAN;
 8. Fase de migração da larva e fase intestinal;

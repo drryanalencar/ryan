@@ -1,6 +1,6 @@
 #### Reanimação neonatal
 Este capítulo visa ao reconhecimento de situações de asfixia no momento do nascimento e à prática das intervenções necessárias ao pronto atendimento dos RNs que necessitam de auxílio na transição para a vida extrauterina.
-É indispensável que exista uma equipe exclusiva para o atendimento dos RNs. Recomenda-se, no mínimo, dois a três profissionais: enfermeiro, técnico em Enfermagem e médico pediatra.
+É indispensável que exista uma equipe exclusiva para o atendimento dos RNs. Recomenda-se, no mínimo, dois a três profissionais: enfermeiro, técnico em Enfermagem e médico pediatra.
 
 >Todos os bebês com idade gestacional diferente do termo – menores de 36 6/7 semanas e maiores de 42 0/7 semanas – deverão ser levados à mesa de reanimação independentemente do tempo em que foi realizado o clampeamento do cordão e da condição do nascimento
 

@@ -20,4 +20,5 @@ tags:
 - [[Resumo para N1.1]]
 	- [[Informações para decorar de Farmacologia N1.1]]
 - [[Agentes Imunossupressores]]
+- [[Farmacologia do Sistema Digestório]]
 #### Anotações

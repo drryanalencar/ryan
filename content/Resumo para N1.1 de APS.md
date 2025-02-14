@@ -300,6 +300,10 @@
 		- Paciente de risco intermediário. 
 	- **Hipertrigliceridemia** 
 		- Risco intermediário e TG >200
+	- "Para indivíduos de alto e muito alto risco cardiovascular, sempre que possível e tolerado, deve-se dar preferência para o uso de estatina de alta intensidade ou ezetimiba associada à estatina (sinvastatina 40 mg ou outra estatina com potência pelo menos equivalente)"
+	- "Indivíduos de risco cardiovascular intermediário, sempre que possível e tolerado, deve-se dar preferência para o uso de estatina de intensidade pelo menos moderada"
+	- Indivíduos com níveis de triglicérides > 500 mg/dL devem receber terapia apropriada para redução do risco de pancreatite.
+	- Indivíduos com níveis de triglicérides entre 150 e 499 mg/dL devem receber terapia, com base no risco cardiovascular e nas condições associada
 - [[Tratamentos das dislipidemias]]:
 	- Estatinas são a **base do tratamento da dislipidemia**.
 		- Se LDL-c não atingir a meta: **associar ezetimiba (10 mg/dia)**.
