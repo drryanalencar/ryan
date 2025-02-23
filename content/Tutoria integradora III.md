@@ -9,7 +9,7 @@ tags:
 [[Caso I de Tutoria III.pdf]]
 
 [[Sífilis congênita]]
-[[Pré-Natal]]
+[[PRÉ-NATAL]]
 [[Vacinação grávidas]]
 [[Índice de Apgar]]
 [[Teste do pezinho ou triagem metabólica]]

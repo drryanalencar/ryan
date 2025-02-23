@@ -1,0 +1,4 @@
+- 17/02/25: BUSCA E SELEÇÃO DE MATERIAL PARA REALIZAÇÃO DA PESQUISA "POLÍTICAS DE PREVENÇÃO A DOENÇA MENTAL E SUICÍDIO ENTRE A POPULAÇÃO NEGRA, PERÍODO 2014-2024"
+- 19/02/25: Preparação do ofício para conseguir os dados da polícia cívil sobre os suicídios no Acre. 
+- 21/02/25: Visita nos órgãos SEJUSP e CIAB para conseguir os dados sobre suicídio. 
+- 22/02/25: Preparação do ofício para conseguir os dados da SESACRE sobre os suicídios no Acre. 

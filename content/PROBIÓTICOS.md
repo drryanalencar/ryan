@@ -1,0 +1,1 @@
+Alterações no equilíbrio ou composição desta flora são responsáveis pelas diarreias associadas ao uso de antibióticos e possivelmente outras doenças.

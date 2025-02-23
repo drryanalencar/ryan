@@ -12,7 +12,7 @@ tags:
 
 --- 
 ###### Conceitos: 
-* Hemoptóico: sangue + escarro, característico de [[Pneumonia]]
+* Hemoptóico: sangue + escarro, característico de [[Pneumonia adquirida na comunidade PAC]]
 * Hemoptise: tosse com sangue, típico de tuberculose e câncer de pulmão. [[Síndrome de Weil]]
 * Hematêmese: vomitar sangue. 
 	* Pode ser diferenciado pelo PH; 

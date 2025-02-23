@@ -1,1 +1,2 @@
 - Deflexão: riso incoerente. 
+

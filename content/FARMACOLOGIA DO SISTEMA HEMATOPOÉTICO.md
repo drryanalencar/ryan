@@ -1,0 +1,3 @@
+- [[Slide - Sistema Hematopoético.pdf]]
+- [[Capítulo 31.37,38 - Farmacologia do Sistema Hematopoético.pdf]]
+- Manual de Farmacologia e Terapêutica. **Fármacos que afetam a função gastrintestinal**. 1493

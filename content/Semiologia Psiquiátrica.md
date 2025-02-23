@@ -1,7 +1,9 @@
+- [[Slide - Semiologia Psiquiátrica.pdf]]
+---
 - Importante para prova:
-	- Escala de coma de glasgow
-	- Delírio
-	- Aspectos da Senso-Percepção
+	- Escala de coma de Glasgow;
+	- Delírio;
+	- Aspectos da Senso-Percepção.
 # Introdução 
 - Conceito de patologia ou doença: 
 	- É uma disfunção orgânica ou social que causa sofrimento. 

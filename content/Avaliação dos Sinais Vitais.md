@@ -1,0 +1,2 @@
+- [[Avaliação da frequência cardíaca]]
+- [[Avaliação da frequência respiratória]]

@@ -1,4 +1,5 @@
 - [[Anatomia, Fisiologia e Semiologia Neurológica.pdf]]
+- [[Slide - Semiologia Neurológica.pdf]]
 
 - Importante para prova: 
 	- Exame de motricidade 

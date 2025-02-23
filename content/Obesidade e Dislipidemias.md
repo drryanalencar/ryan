@@ -1,11 +1,11 @@
 - [[Diretrize Brasileiras de Obesidade-2016.pdf]]
 - [[Atualização da Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose.pdf]]
 - [[Resumo de obesidade e dislipidemias.pdf]]
+- [[Slide Seminário APS - Obesidade e Dislipidemia.pdf]]
 
 ![[Pasted image 20250113095408.png]]
 ![[Pasted image 20250113095559.png]]
 ![[Pasted image 20250113101628.png]]
-
 
 Durante a gestação não é recomendada a PERDA DE PESO e sim será controlado o GANHO DE PESO.
 
