@@ -1,0 +1,771 @@
+# HAS
+- Pré-requisitos antes de medir a pressão arterial:
+	- Estar com a bexiga vazia;
+	- Não deve ter praticado exercícios físicos há, pelo menos, 60 minutos
+	- Não deve ter fumado nos 30 minutos anteriores
+	- deve descansar por 5 minutos em ambiente silencioso
+- **Hipertensão Controlada:** Avaliações clínicas pelo menos uma vez ao ano.
+- Ao medir a PA de um paciente, os sons de Korotkoff são audíveis até zero deve-se determinar a PAD na fase IV de Korotkoff.
+- Considera-se o braço em que foi aferido o maior valor. 
+- IMC sobrepeso: 25-29,9
+- IMC obesidade: 30 - 34,9
+- Investigação de hipotensão ortostática:
+	- Realizar a medição da PA em posição supina e após 1 e 3 minutos em pé para avaliar a presença de hipotensão ortostática.
+- Estratificação do risco cardiovascular: 
+	- Alto risco tem qualquer um desses fatores: 
+		- Doenças aterosclerótica; 
+		- Histórico de procedimento de revascularização arterial; 
+		- Diabetes mellitus;
+		- Doença renal crônica; 
+		- Hipercolesterolemia familiar.
+	- Alto risco também pode ser pela presença de 3 ou mais dos seguintes fatores: 
+		- Idade >55 anos H, > 65 anos na mulher; 
+		- DCV prematura de 1ª grau; 
+		- Tabagismo; 
+		- Dislipidemia (LDL >100 ou HDL <40 no homem e <46 na mulher ou TG >150mg/dL ou não HDl-colesterol 130 mg/dL); 
+		- Obesidade (IMC >30kg/m²)
+	- Alto risco também pode ser pela presença de lesão em órgão alvo. 
+	- O estágio 3 da hipertensão por si só já é alto risco. 
+- Diagnóstico pode ser dado na primeira visita se: 
+	- PA ≥ 140 / 90 mmHg com risco cardiovascular alto.
+	- PA ≥ 180 / 110 mmHg.
+- Pré-hipertensão:
+	- 130-139/85-89
+- **Estágios da hipertensão**
+	- Pré - Hipertensão 130-139 ou 85-89
+	- Hipertensão I: 140-159 ou 90-99
+	- Hipertensão II: 160-179 ou 100-109
+	- Hipertensão III: 180 ou 110. 
+![[Tabela - Classificação dos estágios de hipertensão arterial de acordo com o nível de PA.png]]
+- Metas terapêuticas de pressão: 
+	- Paciente de baixo risco cardiovascular: <140x90. 
+	- Paciente de alto risco cardiovascular: <130 x 80. Em 1 mês. 
+		- **Pacientes hipertensos com DM e/ou doença renal crônica (DRC)** devem manter **PA < 130/80 mmHg** para reduzir complicações cardiovasculares e progressão da nefropatia.
+- **Metas terapêuticas para pacientes idosos**  (inclui comorbidades)
+	- Hígidos: 130-139  e 70-79
+	- Frágeis: 140-149 e 70-79 (80 anos)
+- Monitorização da pressão arterial:
+	- **Após o início ou modificação da terapia medicamentosa:** Recomenda-se **acompanhamento mensal** até que a pressão arterial (PA) atinja os valores desejados.
+	- **Após atingir a meta pressórica:** As consultas podem ser espaçadas para intervalos de **3 a 6 meses**, conforme a estabilidade do controle da PA e a presença de comorbidades.
+- Exames complementares 
+	![[Pasted image 20250202113351.png]]
+- Metas pressóricas
+	- Paciente de alto risco cardiovascular: <130/80. 
+	- Baixo risco: <140/90
+	- Idosos hígidos: <140/80
+	- Idosos frágeis: <150/80
+- Meta: IMC entre 18,5 e 24,9 kg/m² e circunferência abdominal <94 cm para homens e <80 cm para mulheres.
+- Inibidores da Enzima Conversora de Angiotensina (IECA)
+	- ✅ **Bloqueiam a conversão de angiotensina I em angiotensina II** → **Menor ativação do receptor AT₁ na zona glomerulosa do córtex adrenal**.  
+	- ✅ **Menor liberação de aldosterona** → **Redução da retenção de sódio e água** → **Diminuição da pressão arterial**.  
+	- ✅ **Aumento da bradicinina** → **Maior vasodilatação** (mas pode causar **tosse seca** como efeito adverso).  
+	- ✅ **Possível hipercalemia** devido à menor excreção de potássio.
+	- Captopril: (12,5, 25 e 50 mg/comprimido) 25- 150 mg/dia VO divididos em 3 doses diárias.
+	- Enalapril (5, 10 e 20 mg/comprimido) 5-40 mg/dia VO divididos em 1-2 doses diárias.
+- Bloqueadores dos Receptores AT1 da Angiotensina II (BRA)
+	- Os BRA antagonizam a ação da angiotensina II pelo bloqueio específico dos receptores AT1, responsáveis pelas ações próprias da angiotensina II.
+	- Losartana (25, 50 e 100 mg/comprimido) 25-100 mg/dia VO divididos em 1-2 doses diárias;
+	- Valsartana ( 80, 160 e 320 mg/comprimido) 80-320 mg VO de 24/24 horas.
+- Diuréticos Tiazídicos (DIU)
+	- Os diuréticos tiazídicos atuam **nos túbulos distais do néfron**, especificamente no **túbulo contorcido distal**, onde inibem a **reabsorção de sódio e cloro (Na⁺/Cl⁻)**.
+	- O aumento de Na⁺ na urina promove **diurese osmótica**, reduzindo o **volume plasmático e extracelular**.
+	- **Fase Sustentada (efeito vasodilatador):** Reduz a **resistência vascular periférica** por mecanismos intracelulares no músculo liso vascular.
+	- Hidroclorotiazida (25 e 50 mg/comprimido) 25-50 mg VO de 24/24 horas;
+- Bloqueadores dos Canais de Cálcio
+	- Os bloqueadores dos canais de cálcio (BCC) atuam inibindo a entrada de cálcio pelas membranas das células musculares lisas das arteríolas, reduzindo a disponibilidade de cálcio intracelular. Isso dificulta a contração muscular, promovendo vasodilatação arterial predominante e, consequentemente, diminuindo a resistência vascular periférica (RVP).
+	- Levanlodipino (2,5 e 5 mg/comprimido) 2,5-5 mg VO de 24/24 horas;
+	- Lercanidipino (10 e 20 mg/comprimido) 10- 20 mg VO de 24/24 hora
+![[Pasted image 20250202123033.png]]
+- HAS RESISTENTE
+	- ESPIRONOLACTONA: A espironolactona atua como um antagonista competitivo dos receptores de aldosterona nos túbulos coletores dos néfrons renais. 
+- ADIÇÃO DE MAIS FÁRMACOS (2º LINHA)
+	- Betabloqueador (IC, IAM, enxaqueca): faz broncoespasmo
+	- Alisquireno (inibe renina- benefício incerto)
+	- Metildopa, hidralazina (gestantes)
+	- Prazosin (HPB)
+	- Clonidina (urgência) efeito sedativo excelente
+- ![[Pasted image 20250202124219.png]]
+- Hipertensão arterial secundária: 
+	- Apneia do sono- 60% dos casos
+	- Renais- Estenose da artéria renal, doença renal crônica (Doença aterosclerotica, displasia FM); 
+	- Endócrinas- Hiperaldosteronismo, feocromocitoma, Cushing, disfunções da tireoide.
+	- Cardiovasculares- Coarctação da aorta.
+	- Uso de substâncias- Corticoides, anticoncepcionais, AINEs.
+- Crises hipertensivas: 
+	- 180/120
+	- Urgência: sem lesão
+		- Captoprila 25-50mg;
+		- Clonidina 0,100 a 0,200mg
+	- Emergência: lesão de órgão alvo e progressiva. 
+		- METAS PRESSÓRICAS:
+			- PA média ≤ 25% na 1º hora;
+			- PA: 160/100-110 mmHg nas próximas 2 a 6 h;
+			- PA: 135/85 mmHg em um período de 24-48 h subsequentes.
+	- ENCEFALOPATIA HIPERTENSIVA
+		- Nitroprussiato de Sódio- 0,25 a 10mcg/Kg/min;
+	- DISSECÇÃO AGUDA DE AORTA
+		- Nitroprussiato de Sódio + BB IV;
+		- Metas: 
+			- FC < 60 bpm;
+			- A PAS < 120 mmHg deve ser alcançada em 20 min.
+# Diabetes
+- **Complicações microvasculares da diabetes**
+	- Retinopatia; nefropatia, neuropatia. 
+- **Cetoaciodese diabética**
+	- Hálito cetônico, respiração de Kussmaul, náusea e vômito. 
+- **Hiperglicemia hiperosmolar**
+	- Rebaixamento de consciência e desidratação severa. 
+	- Delirium.
+	- Glicose >600; 
+	- Osmolaridade >320
+- **Hipoglicemia grave**
+	- Administração de 25 mL de glicose a 50% com velocidade de 3 mL/min.
+- Critérios de diagnósticos para DM1
+	![[Pasted image 20250202144802.png]]
+- **O diagnóstico é fechado com:** 
+	- 2 testes alterados ou 
+	- Glicemia aleatória > 200 + sintomas 
+		- Poliúria, polidipsia, polifagia, perda de peso inexplicada e desidratação. 
+- **Testes e valores que confirmam diabetes:**
+	- Glicemia de jejum >126; 
+	- Glicemia 1H pós 75g de glicose VO > 209; 
+	- Glicemia 2H pós 75g de glicose VO > 200; 
+	- Hemoglobina glicada (HbA1c) > 6,5. 
+- Metas
+	- Hemoglobina glicada HbA1c < 7%; 
+		- Idoso saudável: < 7,5%;
+		- Idoso comprometido < 8%.
+	- Glicemia capilar pré-prandial 80-130 mg/dL. 
+	- Glicemia capilar pós-prandial <180 mg/dL
+- **Insulinoterapia DM1**
+	- 0,5-1,0UI/kg/dia em adultos
+	- Regular – SC, 30 -45 Min antes da refeição
+	- NPH– Coxas ou nádegas, 2x ao dia
+- **Mecanismo de ação dos fármacos**
+	- **DROGAS QUE DIMINUEM A RESISTÊNCIA À INSULINA**
+		- Glifage XR (Metformina)
+			- Reduz a produção hepática de glicose; 
+			- Aumenta a captação de glicose pelo músculo. 
+	- **DROGAS QUE AUMENTAM A SECREÇÃO DE INSULINA**
+		- Glibenclamida, glicazida...
+	- **DROGAS INCRETINOMIMÉTICAS**
+		- **ANÁLOGO DO GLP-1**
+			- GLP-1 estimula a secreção de insulina, inibe secreção de glucagon, retarda saciedade.
+			- *Liraglutida, semaglutida...*
+		- **AGONISTA DO RECEPTOR DO GLP-1 E GIP**
+			- *Tirzepatida*
+		- **INIBIDORES DA DIPEPTIL PEPTIDASE-4 (IDPP-4)**
+			- Inibem a DPP-4 (enzima que inativa GLP-1 e GIP);
+			- *Vildagliptina, sitagliptina...*
+		- **DROGAS QUE DIMINUEM A REABSORÇÃO TUBULAR DE GLICOSE**
+			- INIBIDORES DO SGLT2
+				- *Dapaglifozina, empaglifozina...*
+- **Insulinoterapia no DM2**
+	- ![[Pasted image 20250202151810.png]]
+	- ![[Screenshot_20250125_103804_OneDrive.jpg]]
+- **Diabetes gestacional**
+	- Glicemia em jejum: 92-125 mg/dL
+		- TOTG após a 24 semana: ou 2h ≥ 153-199 mg/dL
+- **Tratamento DM1**
+	- 0,5 a 1 UI/KG/DIA
+	- **Tipos de Insulina** 
+		- Rápida
+			- Regular (disponível no SUS)
+			- Lispro (ultrarrápida e imita o pico fisiológico)
+		- Lenta
+			- Intermediária: NPH (duração de +- 12h)
+			- Lenta: Glargina (duração de +24 h)
+			- Ultra lenta: Decludeca (duração de +40 h)
+	- **Esquemas de aplicações**
+		- Múltiplas aplicações 
+			- Antes das refeições: insulina rápida (regular);
+			- NPH duas vezes ao dias. 
+# Obesidade e Dislipidemias
+
+**Obesidade**
+- **Diagnóstico**
+	- **IMC ≥ 30 kg/m² confirma o diagnóstico de obesidade**. 
+	- Idosos
+		- IMC >27
+	- **IMC entre 25 e 29,9 kg/m² + comorbidades** pode indicar obesidade metabólica.
+	- **valiação da circunferência abdominal e relação cintura-estatura** complementam o diagnóstico.
+- **Metas terapêuticas**
+	- Meta inicial: **5% a 10% do peso inicial em 6 meses**​
+- **Comorbidades associadas à obesidade:**
+	- **Doenças cardiovasculares:** hipertensão arterial, insuficiência cardíaca, aterosclerose.
+	- **Diabetes tipo 2:** resistência insulínica e aumento da glicemia.
+	- **Dislipidemias:** aumento de triglicerídeos e colesterol LDL.
+	- Síndrome da apneia obstrutiva do sono.
+	- **Doenças osteoarticulares:** osteoartrose e problemas na coluna.
+	- **Esteatose hepática não alcoólica e refluxo gastroesofágico**.
+	- **Síndrome dos ovários policísticos e infertilidade**.
+- **Tratamento**
+	- Quando deve começar?
+		- O tratamento deve ser iniciado precocemente, especialmente quando houver **sobrepeso associado a fatores de risco (hipertensão, dislipidemia, disglicemia)** ou obesidade diagnosticada
+		- Sobrepeso + Circunferência abdominal aumentada 
+		- IMC de sobrepeso: >25 
+		- IMC obesidade > 30
+	- A abordagem inicial consiste em **mudança de estilo de vida**,
+	- Qual o tratamento ideal da obesidade para pacientes **diabéticos?**
+		- Análogos de GLP-1 (ex: liraglutida)​ + Metformina. 
+		- IMC ≥ 27 kg/m² com comorbidades também se encaixa para receber a terapia com Liraglutida. 
+	- **Bariátrica** 
+		- Ela é recomenda para quais pacientes?
+		- IMC **≥ 40 kg/m²**, independentemente de comorbidades.
+		- IMC **≥ 35 kg/m² com comorbidades graves** (diabetes tipo 2, hipertensão, apneia do sono, osteoartrose grave, etc.).
+		- Falha documentada no tratamento clínico por **pelo menos 2 anos**.
+		- Idade entre **18 e 65 anos**.
+		- O principal beneficio da bariátrica em pacientes obesos com comorbidades é:
+			- **Redução da mortalidade** e melhora significativa de **diabetes tipo 2, hipertensão, dislipidemia e apneia do sono**.
+			- **Menor risco cardiovascular** e redução da inflamação crônica
+		- Está contraindicada em:
+			- Pacientes com **transtornos psiquiátricos não controlados**.
+			- **Dependência química ativa** (álcool/drogas).
+			- Pacientes com **doenças graves não compensadas** que elevam o risco cirúrgico.
+			- Mulheres grávidas ou que pretendem engravidar em curto prazo.
+			- Pacientes sem compreensão dos riscos e necessidade de acompanhamento a longo prazo​
+---
+**Dislipidemias**
+- **Conceitos:** 
+	- **Dislipidemia secundária** 
+		- Alterações nos níveis lipídicos que resultam de fatores externos, como estilo de vida inadequado, condições mórbidas ou uso de medicamentos.
+	- **Hipercolesterolemia**
+		- Aumento isolado do LDL-c
+		- LDL-c >160
+	- **Hipercolesterolemia familiar**
+		- Níveis extremamente elevados de LDL-c.
+		- **HF Heterozigótica (HeHF)**: LDL-c > 190 mg/dL em adultos e > 160 mg/dL em crianças/adolescentes.
+		- Níveis elevados de LDL-c desde a infância e alto risco de doença cardiovascular precoce.
+		- **HF Homozigótica (HoHF)**: LDL-c > 500 mg/dL, podendo levar a aterosclerose grave já na infância​.
+		- Apresentação de Xantomas e arco corneano. 
+	- **Hipertrigliceridemia**
+		- Aumento isolado dos triglicerídeos. 
+		- TG ≥ 150 mg/dL ou ≥ 175 mg/dL sem jejum.
+	- **Hiperlipidemia mista**
+		- Aumento de LDL-c e triglicerídeos.
+		- LDL >160 e Triglicerídeos >150. 
+		- Se TG >400, deve-se considerar hiperlipidemia mista quando o não HDL-c >190 mg/dl.
+	- **Síndrome metabólica:** 
+		- Alterações metabólicas + resistência a insulina.
+		- Critérios de diagnóstico segundo a IDF: é obrigatória a presença de obesidade visceral + dois do quatro critérios abaixo:
+			- (Obesidade visceral (H94 E M80cm);
+			- Triglicerídeos >150 mg/dL.
+			- Redução do HDL-c
+				- H<40 e M <50. 
+			- Pressão arterial elevada: 130/85
+			- Glicemia de jejum alterada >100 ou diagnóstico prévio de diabetes. 
+		- Alto risco de doença cardiovascular precoce.
+		- Segundo a OMS é um critério diagnóstico obrigatório apresentar: hiperglicemia ou resistência à insulina + pelo menos dois dos critérios abaixo:
+			- Dislipidemia
+				- TG > 150 ou
+				- HDL-c reduzido H<35 e M<39
+			- Hipertensão arterial 140/90
+			- Obesidade central ou IMC elevado.
+				- IMC ≥ 30 kg/m²
+				- RCQ
+				- Homens: **> 0,90**
+				- Mulheres: **> 0,85**
+			- Microalbuminúria
+				- Excreção urinária de albumina **≥ 20 µg/min** ou **≥ 30 mg/24h**.
+	- **A resistência à insulina está mais frequentemente associada a:**
+		- Obesidade visceral e sobrepeso;
+		- Síndrome metabólica;
+		- Doença hepática gordurosa não alcoólica (DHGNA);
+		- Distúrbios do sono (privação do sono e cronorruptura);
+		- Dieta hipercalórica e pobre em fibras
+		- Uso de medicamentos;
+- **Estratificação de risco em pacientes com dislipidemias:** 
+	- **Risco muito alto**
+		- **Doença aterosclerótica manifesta**. (Infarto, AVC, angina, obstrução >50%)
+		- **Aneurisma de aorta abdominal**.
+		- **Diabetes tipo 2 ou tipo 1 com dano em órgão-alvo**.
+		- **Doença renal crônica avançada** (TFG < 30 mL/min).
+		- **Meta para LDL-c**: **< 50 mg/dL**.
+	- **Risco alto**
+		- **Aterosclerose subclínica** (exemplo: placas de ateroma na ultrassonografia de carótidas).
+		- LDL-c ≥ 190 mg/dL.
+		- Diabetes sem dano em órgão-alvo.
+		- Doença renal crônica moderada (TFG 30-59 mL/min).
+		- Meta para LDL-c: < 70 mg/dL.
+	- **Risco intermediário**
+		- Escore de Risco Global entre 5% e 20% no sexo masculino e 5% e 10% no feminino.
+		- Diabetes sem critérios para alto risco.
+		- Meta para LDL-c: < 100 mg/dL.
+	- **Risco baixo**
+		- Escore de Risco Global < 5%.
+		- Meta para LDL-c: < 130 mg/dL​
+- **Quando iniciar o tratamento farmacológico:**
+	- **Hipercolesterolemia** 
+		- Paciente de baixo risco com LDL >160 persistente. 
+		- Paciente de risco intermediário. 
+	- **Hipertrigliceridemia** 
+		- Risco intermediário e TG >200
+	- "Para indivíduos de alto e muito alto risco cardiovascular, sempre que possível e tolerado, deve-se dar preferência para o uso de estatina de alta intensidade ou ezetimiba associada à estatina (sinvastatina 40 mg ou outra estatina com potência pelo menos equivalente)"
+	- "Indivíduos de risco cardiovascular intermediário, sempre que possível e tolerado, deve-se dar preferência para o uso de estatina de intensidade pelo menos moderada"
+	- Indivíduos com níveis de triglicérides > 500 mg/dL devem receber terapia apropriada para redução do risco de pancreatite.
+	- Indivíduos com níveis de triglicérides entre 150 e 499 mg/dL devem receber terapia, com base no risco cardiovascular e nas condições associada
+- [[Tratamentos das dislipidemias]]:
+	- Estatinas são a **base do tratamento da dislipidemia**.
+		- Se LDL-c não atingir a meta: **associar ezetimiba (10 mg/dia)**.
+		- Se ainda insuficiente, considerar **inibidores da PCSK9**​
+	- **Fibratos e ômega-3** são indicados para **hipertrigliceridemia grave**.
+	- **Mudanças no estilo de vida são fundamentais** em todas as categorias.
+	- Fibratos para obesos.
+	- Estatinas **para todos os diabéticos tipo 2**.
+	- Pacientes **diabéticos e hipertensos** requerem abordagem mais intensiva.
+	- Pacientes **diabéticos e hipertensos** requerem abordagem mais intensiva.
+- **Indicações dos fármacos:** 
+	- **Primeira linha para redução do LDL-c e risco cardiovascular alto:**
+		- **Estatinas** (atorvastatina, rosuvastatina, sinvastatina) são a primeira escolha.
+		- Em pacientes **não dialíticos** com doença renal crônica (DRC) e idade ≥ 50 anos, recomenda-se o tratamento com estatinas ou a combinação de estatina/ezetimibe, especialmente se a taxa de filtração glomerular estimada (TFGe) for ≤ 60 mL/min/1,73 m²​
+	- **Para redução do risco cardiovascular:**
+		- **Estatinas de alta intensidade** são recomendadas em prevenção primária e secundária.
+			- A redução da mortalidade cardiovascular é um dos principais benefícios.
+		- **Ezetimiba** pode ser adicionada à estatina para pacientes que não atingem metas lipídicas​.
+		- **Inibidores da PCSK9** (alirocumabe, evolocumabe) podem ser indicados em pacientes de muito alto risco.
+	- **Fibratos:**
+		- Reduzem **triglicerídeos em 30-60%**.
+		- Aumentam **HDL-c em 7-11%**.
+		- Triglicerídeos **> 500 mg/dL** (risco de pancreatite).
+		- Pacientes com dislipidemia diabética (**TG elevados + HDL-c baixo**) podem se beneficia.
+	- **Combinação estatina + ezetimiba:**
+		- Pacientes **com alto risco cardiovascular** que não atingem a meta de LDL-c apenas com estatina​. 
+		- Reduz LDL-c **adicionalmente em 10-25%**.
+- **Contraindicações dos fármacos:** 
+	- **Estatinas:**
+		- Gestação e lactação.
+		- Miopatia ou história de rabdomiólise.
+		- **Se AST/ALT ≥ 3x o limite superior da normalidade**, considerar descontinuação ou ajuste da medicação.
+	- **Fibratos:**
+		- **Doença renal grave** (TFG < 30 mL/min)​
+		- **Doença hepática ativa**
+		- **Uso concomitante de estatinas**, especialmente **genfibrozila** (risco de rabdomiólise).​
+		- Doença hepática crônica
+	- **Niacina**
+		- Pode **agravar a disfunção hepática** e causar hepatotoxicidade dose-dependente, sendo contraindicado para pacientes com hepatopatia​
+- **Mecanismo de ação dos fármacos:** 
+	- **Estatinas:**
+		- Inibem a **HMG-CoA redutase**, reduzindo a síntese hepática de colesterol​
+		- Aumentam a expressão dos **receptores de LDL no fígado**, reduzindo o LDL-c plasmático.
+	- **Orlistate:**
+		- Inibidor da **lipase pancreática**, reduzindo a absorção de gordura dietética​
+		- Indicado para **obesidade** e pode ajudar na redução do colesterol​
+- **Efeitos adversos dos fármacos:** 
+	- **Estatinas:**
+		- **Mialgia** (dor muscular)
+		- **Elevação transitória de transaminases**
+	- **Fibratos​**
+		- Distúrbios gastrointestinais (náuseas, dispepsia)​.
+		- Elevação de transaminases​
+
+
+
+- Circunferência abdominal: > 94 cm em homens e > 80 em mulheres, alto risco cardiovascular.
+- Relação cintura-estatura: mantenha abaixo de 0,5. 
+- IMC
+	- Sobrepeso: 25 a 29,9. 
+	- Idoso: normal entre 22 e 27. 
+- **Tratamento farmacológico**
+	- Indicado quando IMC maior ou igual a **30 kg/m²**. IMC maior ou igual a 25 ou 27 kg/m² na presença de comorbidades;
+- **Tratamento cirúrgico**
+	- IMC maior a 40 kg/m² ou 35 kg/m² com comorbidade grave associada com a obesidade;
+	- Hipertrigliceridemia: Causada por acúmulo de quilomícrons e/ou VLDL.
+		- Hipertrigliceridemia Isolada TG ≥ 150 mg/dL (≥ 175 mg/dL sem jejum)
+	- Hipercolesterolemia: Acúmulo de lipoproteínas ricas em colesterol, como a LDL no compartimento plasmático.
+		- Hipercolesterolemia Isolada LDL-c ≥ 160 mg/dL
+		- Hiperlipidemia Mista LDL-c ≥ 160 mg/dL + TG ≥ 150-175 mg/dL
+		- HDL-c Baixo Homens < 40 mg/dL, mulheres < 50 mg/dL, isolado ou associado a LDL-c ou TG elevados
+	- Valores desejáveis: 
+		- CT <190;
+		- HDL >40;
+		- Triglicerídeos <150
+	- **Tratamento farmacológico**
+		- TG>500: 
+			- Fibratos
+		- TG <500
+			- Estatinas 
+		- Trigliceridemia mista
+			- Ácido nicotínico (niacina) + Fibrato
+		- Hipercolesterolemia:
+			- 
+		- Estatinas 
+		- EZETIMIBA (Não está disponível no SUS)
+		- RESINAS
+		- FIBRATOS
+		- ÁCIDOS GRAXOS ÔMEGA3
+		- Tratamento com uso de estatinas e fibratos: Verificar transaminases, aminotransferases e CPK 6 meses após início ou a cada ajuste de dose;
+# Corrimento vaginal e dor pélvica
+- [SciELO Brasil - Protocolo Brasileiro para Infecções Sexualmente Transmissíveis 2020: doença inflamatória pélvica Protocolo Brasileiro para Infecções Sexualmente Transmissíveis 2020: doença inflamatória pélvica](https://www.scielo.br/j/ress/a/HWSZjGFSwFpsWnSnxTSVL7g/?utm_source=chatgpt.com)
+- **Conceitos**
+	- pH vaginal normal: 3,8 - 4,5
+- **Vaginose bacteriana**
+	- Redução dos lactobacilos.
+	- Etiologia: 
+		- Gardnerella vaginalis
+	- Fatores que podem contribuir para o desequilíbrio:
+		- **Duchas vaginais frequentes:** Podem alterar o pH vaginal e reduzir a população de lactobacilos.
+		- **Múltiplos parceiros sexuais ou novo parceiro:** A atividade sexual pode influenciar a composição da microbiota vaginal.
+		- **Uso de dispositivos intrauterinos (DIU):** Pode estar associado a alterações na flora vaginal.
+		- **Uso recente de antibióticos:** Pode diminuir a população de lactobacilos, facilitando o crescimento de outras bactérias.
+		- **Fumo:** Está associado a um risco aumentado de vaginose bacteriana.
+	- Critérios diagnósticos
+		- Critérios de Amse: o diagnóstico clínico de VB é estabelecido quando pelo menos **três dos quatro critérios** abaixo estão presentes:
+			- **Corrimento vaginal homogêneo e fino**, de coloração branca ou acinzentada.
+			- **pH vaginal maior que 4,5**.
+			- **Teste das aminas positivo** (também conhecido como "whiff test"), que consiste na liberação de odor de peixe após a adição de hidróxido de potássio (KOH) a 10% à secreção vaginal.
+			- **Presença de "clue cells"** (células-chave) no exame microscópico a fresco ou em esfregaço corado pelo Gram.
+		- Escore de Nugent.
+			- **Lactobacilos** (bacilos Gram-positivos grandes): sua ausência ou diminuição contribui para uma pontuação mais alta.
+			- **Gardnerella vaginalis** e **Bacteroides spp.** (bacilos curtos Gram-variáveis): sua presença em grande quantidade aumenta a pontuação.
+			- **Mobiluncus spp.** (bacilos curvos Gram-negativos ou variáveis): sua presença também eleva a pontuação.
+	- **Tratamento**
+		- Metronidazol 500 mg, VO, de 12/12 h por 7 dias
+		- Metronidazol gel a 0,75%
+		- Clindamicina creme a 2%
+		- **Tratamento em gestantes**
+			- Clindamicina creme a 2%. 
+- **Candidíase** 
+	- Etiologia: 
+		- Candida albicans
+	- Fatores de Risco/ Predisponentes
+		- Diabetes mellitus descompensada;
+		- Gestação;
+		- Contato oral-genital;
+		- Uso de estrogênios em alta doses.
+		- Uso de antibióticos, corticóides, imunossupressores e quimio/radioterapia.
+		- Uso de espermicidas, diafragma ou DIU;
+		- Aumento de temperatura e umidade vaginal.
+	- **Candidíase vaginal (feminina):**
+		- Coceira intensa na região genital.
+		- Corrimento vaginal branco, espesso e grumoso, semelhante a leite coalhado.
+		- Ardência ou dor ao urinar.
+		- Desconforto ou dor durante as relações sexuais.
+		- Vermelhidão e inchaço na vulva.
+	- **Candidíase masculina:**
+		- Manchas vermelhas no pênis.
+		- Inchaço leve.
+		- Lesões em forma de pontos.
+		- Coceira na região genital.
+	- Diagnóstico laboratorial 
+		-  pH < 4,5 é indicativo, porém há casos em que o pH estará normal;
+		- Exame microscópico a fresco ou a coloração de Gram (Papanicolau) demonstrar presença de hifas e pseudo-hifas.
+	- **Tratamento**
+		- CVV Não Complicada:
+			- **Terapia Tópica:** Uso de antifúngicos intravaginais, como miconazol 2% creme vaginal por 7 dias, à noite. 
+			- **Clotrimazol creme vaginal 1%**: squemas de aplicação intravaginal que podem variar de 6 até 14 dias (geralmente 6 a 12 dias em alguns. 
+			- **Terapia Oral:** Fluconazol 150 mg em dose única.
+		- CVV Complicada:
+			- **Terapia Prolongada:** Tratamento tópico por 7 a 14 dias ou fluconazol 150 mg em três doses, com intervalos de 72 horas.
+			- **Terapia de Manutenção:** Para casos recorrentes, após o tratamento inicial, pode-se administrar fluconazol 150 mg semanalmente por seis meses.
+		- **Tratamento em gestantes**
+			- **Clotrimazol 1% creme vaginal*
+				- 5 g intravaginal ao dia, por **7 a 14 dias**
+			- Miconazol 2% creme vaginal
+				- 5 g intravaginal ao dia, por **7 dias**
+- **Mucorreia**
+	- A mucorreia é definida pelo volume excessivo de secreção vaginal fisiológica, sem alterações inflamatórias ou alterações do pH.
+	- Etiologias
+		- Ectopia cervical
+			- Células glandulares do canal endocervical se estendem para a superfície externa do colo do útero.
+- **Tricomoníase**
+	- IST;
+	- **Sintomas:** 
+		- Vaginite: corrimento amarelado ou esverdeado, bolhoso ou espumoso, prurido e/ou irritação vaginal, além de sinais inflamatórios na mucosa (colpite).
+		- Prurido vulvar intenso;
+		- Dor durante as relações sexuais (dispareunia).
+		- Colo pode estar **friável** (podendo sangrar ao toque, o chamado “colo em framboesa”).
+	- **Diagnóstico:**
+		- **Exame a fresco (swab vaginal ou uretral)**: Visualização do parasito ao microscópio em solução salina.
+		- **Exames de amplificação de ácidos nucleicos (NAAT)**: Métodos moleculares com maior sensibilidade.
+		- **Teste rápido**: Alguns testes imunocromatográficos podem detectar antígenos de T. vaginalis.
+		- **Cultura**: Menos utilizada na rotina, mas é método de boa sensibilidade.
+		- **Demarcação de áreas lesionadas** é o **teste de Schiller**.
+			- Áreas **normais**, ricas em glicogênio, se coram de **marrom**.
+			- Áreas **lesionadas ou inflamadas**, onde há descamação epitelial ou infecção (como na tricomoníase), **não se coram** e aparecem como **áreas esbranquiçadas**.
+	- **Tratamento:** 
+		- **Metronidazol** 2 g, por via oral, em dose única 
+		- **Tinidazol** 2 g, por via oral, em dose única
+		- **Metronidazol** 400-500 mg, 2 vezes ao dia, por **7 dias**
+			- Pode ser indicado em casos de falha terapêutica com a dose única ou se houver intolerância.
+	- **Tratamento em gestantes**
+		- Preferencialmente, aguardar o **segundo trimestre** para uso de derivados imidazólicos, mas, em geral, o **metronidazol** em dose única (2 g) também é considerado seguro após o primeiro trimestre.
+	- O(s) parceiro(s) deve(m) ser tratado(s), recebendo o mesmo esquema terapêutico.
+	- PH: 5 a 6.
+	- Reservatório de Trichomonas vaginalis:
+		- Colo uterino, vagina e uretra.
+- **Cervicite não gonocócica**
+	- É uma inflamação do colo do útero que não é causada pela bactéria _Neisseria gonorrhoeae_.
+	- Os agentes etiológicos mais comuns incluem 
+		- _Chlamydia trachomatis_, 
+		- Mycoplasma genitalium
+		- _Ureaplasma urealyticum_, entre outros.
+	- Manifestações Clínicas:
+		- **Assintomáticas:** Cerca de 70% a 80% dos casos não apresentam sintomas evidentes.
+		- **Sintomáticas:** Quando presentes, os sintomas podem incluir corrimento vaginal mucopurulento, sangramento intermenstrual ou pós-coito, dispareunia (dor durante a relação sexual), disúria (dor ao urinar) e dor pélvica crônica.
+	- **Complicações:**
+		- Doença inflamatória pélvica (DIP)
+		- Infertilidade
+		- Parto prematuro
+	- **Diagnóstico:** O diagnóstico laboratorial é fundamental e pode ser realizado por meio da detecção do material genético dos agentes infecciosos utilizando técnicas de biologia molecular, como a reação em cadeia da polimerase (PCR). Esses testes são recomendados tanto para casos sintomáticos quanto assintomáticos.
+	- **Tratamento:** O tratamento empírico é indicado para cobrir os agentes mais comuns, especialmente quando os resultados laboratoriais não estão disponíveis. Os esquemas terapêuticos recomendados incluem:
+		- **Ceftriaxona:** 500 mg, via intramuscular, dose única;
+		- **Azitromicina:** 1 g, via oral, dose única; ou
+		- **Doxiciclina:** 100 mg, via oral, duas vezes ao dia, por 7 dias (exceto em gestantes).
+	- **Tratamento do parceiro**
+		- Ceftriaxona 250 mg, IM, dose única e Azitromicina 1 g, VO, dose única
+- **Doença inflamatória pélvica**
+	- A **Doença Inflamatória Pélvica (DIP)** é uma infecção ascendente do trato genital feminino superior, envolvendo útero, trompas de falópio e estruturas adjacentes.
+	- **Etiologia polimicrobiana:**
+		- 85% dos casos: Chlamydia trachomatis, Neisseria gonorrhoeae e vaginose bacteriana.
+		- 15% dos casos: Bactérias entéricas (E. coli, Bacteroides), patógenos respiratórios (H. influenzae, S. pneumoniae) e Mycoplasma/Ureaplasma.
+	- **Fatores de risco:** 
+		- Condições socioeconômicas desfavoráveis;
+		- Atividade sexual na adolescência;
+		- Comportamentos sexuais de risco;
+		- Uso de anticoncepcionais hormonais;
+		- Uso de DIU.
+	- **Quadro clínico:**
+		- A endometrite e frequentemente a primeira manifestação clinica da DIP.
+		- Dor abdominal inferior ou pélvica em 90% dos casos;
+		- Mobilização dolorosa do colo uterino;
+		- Dor à palpação dos anexos;
+		- Sintomas adicionais:
+			- Febre alta;
+			- Secreção vaginal purulenta;
+			- Náusea.
+	- Critérios diagnósticos: 
+		- Pelo menos 3 critérios maiores + menor OU elaborado
+		- Critérios maiores: 
+			- Dor em baixo ventre, à palpação de anexos e à mobilização do colo uterino.
+		- Critérios menores: 
+			- TAx >37,5 ou retal acima de 38,5º;
+			- Conteúdo vaginal ou endocervical anormal;
+			- Massa Pélvica;
+			- Mais de 10 leucócitos por campo de imersão em material de endocervice. 
+			- Leucocitose em sangue periférico
+			- Proteina C reativa ou velocidade de hemossedimentacao – VHS elevada
+			- Comprovacao laboratorial de infeccao cervical por gonococo, clamidia ou micoplasmas
+		- Critérios elaborados: 
+			- **Evidência histopatológica de endometrite**: Identificada por meio de biópsia do endométrio, indicando inflamação do tecido endometrial.
+			- **Presença de abscesso tubo-ovariano ou no fundo de saco de Douglas**: Detectado através de exames de imagem, como ultrassonografia ou tomografia computadorizada, evidenciando coleção purulenta nessas regiões.
+				- A presença de abscesso tubo-ovariano é considerada um critério para: Internação hospitalar no tratamento de DIP.
+			- **Achados laparoscópicos compatíveis com DIP**: Observados durante procedimento de laparoscopia, mostrando sinais de inflamação nos órgãos pélvicos.
+	- Critérios para indicação de tratamento hospitalar de DIP:
+		- Abscesso tubo-ovariano
+		- Gravidez
+		- Ausência de resposta clínica após 72h do início do tratamento com antibioticoterapia oral
+		- Intolerância a antibióticos orais ou dificuldade para seguimento ambulatorial
+		- Estado geral grave, com náuseas, vômitos e febre
+		- Dificuldade em exclusão de emergência cirúrgica (ex.: apendicite, gravidez ectópica)
+	- **Tratamento Ambulatorial (Casos Leves a Moderados)**
+		**Esquema recomendado 1:**
+		- **Ceftriaxona 500 mg**, via intramuscular, dose única; E
+		- **Doxiciclina 100 mg**, via oral, a cada 12 horas, por 14 dias;
+		- **Metronidazol 250 mg**, via oral, a cada 12 horas, por 14 dias.
+	    **Esquema recomendado II** 
+		- Cefotaxima 500mg, IM, dose única;
+		- Doxiciclina 100mg, 1 comprimido, VO, 12 horas, por 14 dias. 
+		- Metronidazol 250 mg, via oral, a cada 12 horas, por 14 dias.
+	- **Tratamento hospitalar**
+		- 1º opção
+			- Ceftriaxona 1 g, IV, 1x ao dia por 14 dias e
+			- Doxiciclina 100 mg, 1 comprimido, VO, 2x/dia, por 14 dias;
+			- Metronidazol 400mg, IV de 12/12h
+		- 2 opção: 
+			- Clindamicina 900 mg, IV, 3x/dia, por 14 dias e
+			- Gentamicina (IV ou IM): dose de 3-5 mg/kg/, 1x ao dia, por 14 dias.
+		- 3º Opção 
+			- Ampicillina/ sulbactam 3 g, IV, 6/6h, por 14 dias
+			- Doxiciclina 100 mg, 1 comprimido, VO, 2x/dia, por 14 dias
+	- **Tratamento grávidas:**
+		- Clindamicina 900 mg, IV, 3x/dia
+		- "Devem ser internadas e iniciado imediatamente antibióticos intravenosos de amplo espectro."
+	- Doxiciclina é contraindicado durante a gravidez.
+	- A melhora clínica das pacientes com DIP deverá acontecer nos três primeiros dias após o início do tratamento antimicrobiano.
+	- Tratamento dos parceiros: 
+		- Ceftriaxona 500 mg + Azitromicina 1 g VO
+# Climatério e Menopausa
+
+- O aproveitamento da janela de oportunidade (dentro dos primeiros 10 anos após a menopausa ou antes dos 60 anos.) para início da terapia hormonal é especialmente importante porque se aproveitada há melhora dos sintomas vasomotores e proteção cardiovascular. Além disso, iniciar a TRH logo após a menopausa maximiza os benefícios e minimizar riscos.
+- Espessura endometrial segura é até 4-5 mm, pois espessuras maiores podem indicar risco de hiperplasia endometrial.
+- Estudos indicam que a TRH pode reduzir os níveis de colesterol total e LDL (lipoproteína de baixa densidade), além de aumentar os níveis de HDL (lipoproteína de alta densidade), resultando em um perfil lipídico menos aterogênico.
+- A TRH é contraindicada em mulheres com história de tromboembolismo venoso e evitada em pacientes com doenças cardiovasculares graves e não controladas.
+- Em relação à duração da TRH, Deve ser usada pelo menor tempo possível, geralmente não ultrapassando 5 anos.
+- A alimentação rica em soja durante o climatério pode ajudar a aliviar os sintomas vasomotores devido à presença de fitoestrógenos.
+- Durante o climatério há o aumento do risco de resistência à insulina e diabetes tipo 2. Também há aumento do risco de doenças cardiovasculares devido à redução de estrogênio
+
+- CLIMATÉRIO: É a transição do ciclo reprodutivo feminino para o não reprodutivo. 
+- MENOPAUSA: É a última menstruação da mulher após o período mínimo de 12 meses.
+- Manifestações Não Clínicas Transitórias
+	- DISTOPIAS:
+		- cistoceles, uretroceles, retoceles, prolapsos uterinos, da cúpula vaginal e enteroceles.
+	- INCONTINÊNCIA URINÁRIA;
+	- FENÔMENOS ATRÓFICOS GENITOURINÁRIOS
+		- Hipoestrogenismo leva a perda de vascularização, diminuição da hidratação local, resultando em a atrofia urogenital, síndrome uretral, dispareunia, ressecamento vaginal, disúria, urgência miccional (perda de continência), infecção urinária, dor e ardor ao coito;
+	- DISTÚRBIOS METABÓLICOS
+		- Elevação dos níveis de colesterol e triglicérides, ocorrendo um aumento nas taxas de LDL e diminuição nas de HDL.
+		- OSTEOPOROSE
+- Diagnóstico laboratorial:
+	- Mulheres histerectomizadas (FEBRASGO recomenda: FSH > 25 mUI/mL (miliunidades internacionais por mililitro) em 2 dosagens.
+- Opções terapêuticas:
+	- Uso de hormônios para tratar sintomas do climatério.
+	- VIA ORAL 
+		- 17 β estradiol 0,5 - 1,0 - 2,0 mg/dia
+		- Valerato de estradiol 1,0 - 2,0 mg/dia 
+	- VIA TRANSDÉRMICA 
+		- 17 β estradiol gel 0,5 - 0,75 - 1,0 - 1,5 a 3mg/dia 
+		- 17 β estradiol adesivo 25 - 50 mcg/dia 
+	- VIA VAGINAL 
+		- Estriol creme 1,0 mg/g 
+		- Estradiol 10 mcg por comprimido 
+		- Promestrieno 10 mg/g
+	- OPÇÕES TERAPÊUTICAS PROSTAGÊNIOS
+		- VIA TRANSDÉRMICA 
+			- Acetato de noretisterona 140 - 170 mcg/dia 
+		- VIA VAGINAL 
+			- Progesterona micronizada cápsulas moles 100 - 200 mg/dia 
+		- VIA INTRAUTERINA 
+			- DIU-levonorgestrel 20 mcg/dia
+	- Janela de oportunidade: primeiros 10 anos após o início da menopausa ou antes dos 60 anos.
+	- ANTES DO TRATAMENTO:
+		- Realizar mamografia;
+		- Perfil lipídico;
+		- Glicemia;
+		- Exames complementares.
+	- Tratamento não hormonal:
+		- ![[Pasted image 20250203165402.png]]
+# Pré-natal
+- O número mínimo de consultas pré-natais recomendadas é 6 consultas.
+- É preconizado realizar um exame físico completo e um exame ginecoobstétrico na primeira consulta de pré-natal.
+- Durante o pré-natal, até a 28ª semana de gestação, as consultas **devem ser mensais.** 
+- As **consultas semanais** no pré-natal devem começar a partir da 36ª semana de gestação.
+- A definição da DPP (Data Provável do Parto) com base na DUM (dia da última menstruação) é feita usando a regra de Neagele envolve somar 7 dias e 9 meses à data da DUM.
+- **Gestação de alto risco:** 
+	- Presença de doenças como HIV, sífilis e hepatites. 
+	- Cardiopatia grave.
+	- **Diabetes mellitus** → maior chance de malformações, macrossomia fetal, hipoglicemia neonatal
+	- **Doenças autoimunes** (lúpus, síndrome do anticorpo antifosfolípide) → risco de abortamento, tromboses, óbito fetal
+	- **Doenças renais e hepáticas** → maior risco de restrição de crescimento intrauterino (RCIU), insuficiência placentária
+	- < 16 anos (risco aumentado de pré-eclâmpsia, parto prematuro e desnutrição materna)
+	- >35 anos (maior risco de aneuploidias, hipertensão, diabetes gestacional, abortamento)
+	- Obesidade → maior risco de pré-eclâmpsia, diabetes gestacional, tromboses, distócia de ombro
+	- Baixo peso → risco aumentado de prematuridade e restrição de crescimento fetal
+	- Tabagismo, álcool, drogas ilícitas (crack, cocaína, maconha) → risco de prematuridade, aborto, RCIU, síndrome de abstinência neonatal
+	- Abortos recorrentes (≥ 3)
+- **Valores referências:** 
+	- Hemoglobina: ≥ 11 g/dl
+		- **Anemia leve a moderada:** hemoglobina está abaixo de 11 g/dl no primeiro trimestre.
+			- 200 mg/dia de sulfato ferroso.
+	- Sulfato ferroso profilático 40 mg de ferro elementar/dia.
+- Diabetes mellitus gestacional:
+	- 92-125 mg/dl;
+- Diabetes mellitus na gestação
+	- >126 mg/dl
+- **Exames que devem ser realizados:** 
+	- No primeiro trimestre (até 12 semanas): 
+		- Glicemia em jejum para a gestante no primeiro trimestre ou na primeira consulta pré-natal. 
+	- No terceiro trimestre (27-36 semanas), quais exames complementares devem ser realizados?
+		- Hemograma, 
+		- Coombs indireto, 
+			- Em gestantes, especialmente aquelas com fator Rh negativo, o Coombs indireto é utilizado para detectar anticorpos que possam atravessar a placenta e causar a doença hemolítica do recém-nascido, uma condição em que os anticorpos maternos destroem as hemácias fetais.
+		- Glicemia em jejum, 
+		- Anti-HIV 1 e 2, 
+		- VDRL, (Sífilis)
+		- HbsAg
+			- O **HBsAg**, ou **antígeno de superfície do vírus da hepatite B**, é uma proteína presente na superfície do vírus da hepatite B (HBV). A detecção do HBsAg no sangue indica uma infecção ativa pelo HBV, que pode ser aguda ou crônica. Este marcador é fundamental para o diagnóstico e monitoramento da hepatite B.
+		- HTLV, 
+		- toxoplasmose IgM e IgG, 
+		- urocultura e urina tipo I.
+	- Quando deve ser realizada a TOTG 75g durante a gestação? Entre 24 a 28 semanas de gestação.
+	- O exame citopatológico de colo de útero deve ser realizado em qualquer período da gestação, preferencialmente até o 7º mês.
+	- A eletroforese de hemoglobina deve ser realizada em todas as gestantes para o rastreamento de Doença falciforme.
+	- O teste para HIV e sífilis (VDRL) deve ser repetido entre qual período gestacional? 28ª e 30ª semana.
+	- Quando deve ser solicitado o exame de secreção vaginal em gestantes? Somente se houver indicação clínica, como presença de sintomas.
+	- O exame de Coombs indireto deve ser repetido mensalmente a partir de: 24 semanas de gestação.
+	- A ultrassonografia para avaliação da anatomia fetal, conhecida como ultrassom morfológico, é idealmente realizada entre **20 e 24 semanas de gestação**.
+- **Suplementações**
+	- Ácido fólico: O uso é recomendado antes da concepção e nas primeiras 12 semanas.
+		- Para gestantes sem esse histórico, a dose preventiva padrão é de **400 mcg diários**.
+		- Para gestantes com histórico de defeitos do tubo neural em gestações anteriores, a dose recomendada de ácido fólico é de **4.000 microgramas (mcg) por dia**, equivalente a **4 mg diários** 
+	- A suplementação com ferro elementar é recomendada até 3 meses após o parto.
+- Medicamentos contraindicados 
+	- **Glibenclamida**: O uso de glibenclamida não é recomendado durante a gestação devido ao aumento do risco de macrossomia fetal e hipoglicemia neonatal.
+- Acompanhamento do ganho de peso: 
+	- **Baixo peso (IMC < 18,5 kg/m²)**:
+	    - **Ganho de peso total**: 12,5 a 18 kg
+	    - **Ganho semanal no 2º e 3º trimestres**: aproximadamente 0,5 kg
+	- **Peso normal (IMC 18,5 – 24,9 kg/m²)**:
+	    - **Ganho de peso total**: 11,5 a 16 kg
+	    - **Ganho semanal no 2º e 3º trimestres**: aproximadamente 0,4 kg
+	- **Sobrepeso (IMC 25 – 29,9 kg/m²)**:
+	    - **Ganho de peso total**: 7 a 11,5 kg
+	    - **Ganho semanal no 2º e 3º trimestres**: aproximadamente 0,3 kg
+	- **Obesidade (IMC ≥ 30 kg/m²)**:
+	    - **Ganho de peso total**: 5 a 9 kg
+	    - **Ganho semanal no 2º e 3º trimestres**: aproximadamente 0,2 kg
+- Vacinas: 
+	- A vacina **tríplice bacteriana acelular do tipo adulto (dTpa)** é recomendada para gestantes a partir da 20ª semana de gestação.
+	- Contraindicadas: 
+		- **a) Tríplice viral (sarampo, caxumba, rubéola)**: Contraindicada na gestação por ser uma vacina de vírus vivos atenuados.
+		- **d) Varicela**: Contraindicada na gestação por ser uma vacina de vírus vivos atenuados.
+- Para uma gestante RH(+), devemos fazer **pesquisa de anticorpos irregulares (PAI).**
+- Qual deve ser a conduta se a gestante for RH(-) e o pai for RH+ ou desconhecido?: Solicitar pesquisa de anticorpos irregulares a cada 1 mês (4 semanas) a partir da 24ª semana de gestação.
+- Se o Coombs indireto for positivo em uma gestante RH(-), qual deve ser a conduta? Encaminhar para o pré-natal de alto risco.
+- Se a gestante apresenta AgHbs reagente, qual deve ser a conduta? a) Realizar sorovacinação no nascimento da criança e encaminhar à infectologia
+- A presença de cilindrúria no exame de urina tipo I indica a necessidade de: Encaminhar para avaliação no pré-natal de alto risco.
+- Qual deve ser a conduta se uma gestante apresentar bacteriúria assintomática? Tratar com antibióticos e repetir o exame após o tratamento.
+- Tratamento de sífilis na gestação: 
+	- Benzilpenicilina benzatina.
+		- Capaz de atravessar a barreira placentária e tratar tanto a mãe quanto o feto, prevenindo a transmissão vertical da doença.
+		- Administrada no a) Quadrante superior externo do glúteo
+		- Dose: **b) 2,4 milhões UI**.
+		- 
+
+- TODA MULHER EM IDADE FÉRTIL COM ATRASO MENSTRUAL DEVE-SE PENSAR EM GESTAÇÃO.
+- A certeza da gestação ocorre com: 
+	- Presença dos batimentos cardíacos fetais (BCF) detectados por sonar (a partir da 10ª semana gestacional).
+	- Percepção dos movimentos fetais (a partir da 18ª a 20ª semana).
+	- Ultrassonografia (US) (saco gestacional com 4 a 5 semanas, vesícula vitelina e atividade cardíaca como primeira manifestação do embrião com seis semanas gestacionais).
+- Um pré-natal adequado deve começar precocemente – em torno da 10ª semana de IG -
+- A recomendação é realizar no mínimo 6 consultas;
+- 1º Consulta do Pré - Natal
+	- Idade Gestacional (IG)
+		- Calculada a partir da data da última menstruação (DUM);
+	- Exame físico completo
+- Pirose, náuseas e vômitos
+	- Dimenidrinato-piridoxina 50mg, 1 com. de 8/8h;
+	- Metoclopramida 10mg, 1 com. de 8/8h;
+- Constipação
+	- Simeticona (Luftal) para gases;
+	- Supositório de glicerina para constipação;
+	- Hioscina para cólicas.
+- Varizes e dor lombar
+	- Paracetamol 500mg ou dipirona 500mg de 6/6h.
+- Anemia na gestação
+	- HB < 11g/dl no primeiro trimestre;
+	- HB < 10,5g/dl no segundo trimestre;
+	- HB< 8g/dl = anemia grave.
+	- Anemia leve a moderada: 200mg/dia de sulfato ferroso; Repetir exame de hemoglobina em 60 dias;
+	- Sulfato ferroso profilático 40 mg de ferro elementar/dia.
+- Candidíase vaginal, tricomaníase e vaginose
+	- Imidazólico tópico
+- Vaginose bacteriana e/ou tricomoníase podem ser medicadas com metronidazol por via oral, 400 mg, de 12/12 h por 7 dias, ou 2 g em dose única.
+- Hipertensão na gestação
+	- Metildopa: inibidor alfa adrenérgico central; 750mg a 2.000mg ao dia;
+	- Hidralazina: vasodilatador periférico; 50mg a 150mg ao dia.
+	- Nefedipino: bloqueador do canal de cálcio; 20mg a 120mg ao dia.
+	- Pré-eclampsia grave: PA ≥160/110 mmHg.
+	- ⚠ **Sem necessidade de anti-hipertensivos de rotina** (uso apenas se PA ≥ 150/100 mmHg).
+![[Tabela hipertensão crônica x pré-eclâmpsia.png]]
+![[Tabela conduta eclâmpsia.png]]
+![[Conduta sulfato de magnésio eclâmpsia.png]]
+- Diabetes na gestação:
+	- Diabetes mellitus gestacional:
+		- 92-125 mg/dl;
+	- Diabetes mellitus na gestação
+		- >126 mg/dl
+- Sífilis na gestação
+	- Benzilpenicilina benzatina é o único tratamento seguro para a gestante; Intramuscular no quadrante superior externo do glúteo.
+- Infecção de trato urinário
+- Manejo nutricional
+	- O ácido fólico deve ser suplementado **3 meses antes da concepção até 12 semanas de gestação**, com doses ajustadas conforme o risco materno, prevenindo **defeitos do tubo neural**. **400 mcg/dia** (0,4 mg/dia) ou 5 mg/dia em alto risco. 
