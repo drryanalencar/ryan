@@ -232,11 +232,10 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 - ⁠Outra do mesmo estilo também de V e F
 - ⁠Era sobre os 7is da geriatria e pedia a correta > Iatrogenia a mais fácil de achar e de contornar
 - ⁠Num lembro mas era bem boba tb
-
 ###### Conceitos
 - Senescência está relacionada às mudanças fisiológicas normais do envelhecimento.
 - Senilidade está associada às alterações patológicas que podem ocorrer com o avanço da idade.
-- O estatuto do idoso e a Política Nacional do Idoso definem como população idosa com idade mínima de **Sessenta anos**
+- O estatuto do idoso e a Política Nacional do Idoso definem como população idosa com idade mínima de **Sessenta anos**.
 - Polifarmácia:
 	- Presença de 5 ou mais fármacos em associação;
 	- Tempo de consumo exagerado (pelo menos 30-45 dias).
@@ -299,8 +298,6 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 - Declínio progressivo das funções cognitivas, afetando memória, linguagem, habilidades visuoespaciais e outras capacidades intelectuais.
 ###### Depressão
 - Transtorno de humor comum em idosos, frequentemente subdiagnosticado, caracterizado por tristeza persistente, perda de interesse em atividades e outros sintomas.
-
-
 ###### Fármacos e seus efeitos colaterais
 - Hipotensão + efeitos colinérgicos: 
 	- Amitriptilina
@@ -319,7 +316,7 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 	- Simuladora: Parece ter sintoma que não tem
 	- Dissimuladora: ocultar um sintoma existente
 - Consciência 
-	- "lucidez de consciência quando está **integrando**, de forma coerente e compartilhada, **o que a rodeia,** desde que lhe sejam fornecidos os mínimos dados necessários para isso." (Livro Semiologia Psiquiátrica)
+	- "Lucidez de consciência quando está **integrando**, de forma coerente e compartilhada, **o que a rodeia,** desde que lhe sejam fornecidos os mínimos dados necessários para isso." (Livro Semiologia Psiquiátrica)
 	- Lucidez
 	- Sonolência/obnubilação
 		- [[Obnubilação]]
@@ -334,7 +331,7 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 	- Aprosexia
 		- Abolição global da atenção. Ex: Coma...
 	- ==**Alterações Qualitativas (Paraprosexias ou disproxesias)**==
-		- Rigidez de atenção (distraído ou hiperprosexia)
+		- Rigidez de atenção (hiperprosexia)
 			- Hipertenacidade (↑ concentração) e hipomobilidade (fixa atenção). Ex: Lendo um livro...
 		- Labilidade de atenção
 			- Hipotenacidade (↓ concentração) e hipermobilidade (↑ distração). Ex: Mania, intoxicação por drogas, delirium...
@@ -348,29 +345,29 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 - Inteligência
 - ==**Linguagem**==
 	- **Alterações quantitativas**
-		- Afasia e disfasia = Perda da capacidade da fala (causa orgânica).
+		- **Afasia e disfasia** = Perda da capacidade da fala (causa orgânica).
 			- Afasia em geral indica lesão no **hemisfério esquerdo**, não direito
-		- Afasia motora (Broca) e sensorial (Wernicke). 
-		- Dislalia: Distúrbio da articulação da palavra, exceto ser causa for neurológica (disartria).
+		- **Afasia motora** (Broca) e sensorial (Wernicke). 
+		- **Dislalia:** Distúrbio da articulação da palavra, exceto ser causa for neurológica (disartria).
 			- Problemas no aparelho fonador.
-		- Mutismo: perda da fala, por negativismo ou inibição psíquica. 
-		- Hipoprosódia = Fala monótona, redução da modulação afetiva. **Alteração na prosódia da fala**, caracterizada por **diminuição da variação de entonação, ritmo e melodia**, resultando em uma fala **monótona e pouco expressiva emocionalmente**.
-		- Maneirismo verbal = Fala rebuscada, exagero formal, jargões e gírias
+		- **Mutismo:** perda da fala, por negativismo ou inibição psíquica. 
+		- **Hipoprosódia** = Fala monótona, redução da modulação afetiva. **Alteração na prosódia da fala**, caracterizada por **diminuição da variação de entonação, ritmo e melodia**, resultando em uma fala **monótona e pouco expressiva emocionalmente**.
+		- **Maneirismo verbal** = Fala rebuscada, exagero formal, jargões e gírias
 	- Alterações qualitativas
-		- OLIGOLALIA (Laconismo) = Expressão verbal diminuída, mas não abolida...
-		- Mussitação = fala para si mesmo, sussurrada, incompreensível
-		- Verbigeração (estereotipia verbal) = Repetição monótona, sem sentido (“É o teto, É o teto”)
-		- Sonilóquios = Fala sozinho... Não sussurrada...
-		- LOGORRÉIA = Expressão verbal aumentada
+		- **OLIGOLALIA (Laconismo)** = Expressão verbal diminuída, mas não abolida...
+		- **Mussitação** = fala para si mesmo, sussurrada, incompreensível
+		- **Verbigeração** (estereotipia verbal) = Repetição monótona, sem sentido (“É o teto, É o teto”)
+		- **Sonilóquios** = Fala sozinho... Não sussurrada...
+		- **LOGORRÉIA** = Expressão verbal aumentada
 			- Fala o tempo todo, difícil de interromper
 			- Aceleração da fala, sem controle da velocidade e intensidade
-		- Jarganofasia = “Salada de palavras”, discurso sem sentido, ilógico
+		- **Jarganofasia** = “Salada de palavras”, discurso sem sentido, ilógico
 **EXAME DO ESTADO PSIQUICO**
-- Afetividade e Humor 
+- **Afetividade e Humor** 
 	- (Do latim, Afficere = influenciar ou afetar)
 	- Estado psíquico subjetivo com propriedade de ser agradável ou desagradável
 	- É a síntese dos afetos na consciência.
-- Pensamento 
+- **Pensamento** 
 	- Curso do pensamento = Velocidade
 		- Aceleração (Taquipsiquismo)
 		- Alentecimento (Bradipsiquismo)
@@ -386,7 +383,7 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 	- Conteúdo do pensamento = Ideia conceitual
 		- Ideia delirante ou primária
 			- Juízo patologicamente falsos, irreais, de conteúdo impossível
-			- Convicção subjetiva absoluta e não susceptível a influencia
+			- Convicção subjetiva absoluta e não susceptível a influência.
 			- ==**Tema do delírio**==
 				- Perseguição (mais comum) = Falsa crença de ser vigiado, querem te prejudicar ou matar
 				- De prejuízo = Delírio que os outros zombam dele ou menosprezam
@@ -395,7 +392,7 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 				- Influência = Forças externa controla seu corpo e mente
 				- Grandeza = “Rico e poderoso ou ter habilidades ou talentos especiais”
 		- Ideias deliróides (delíriossecundários)
-			- Ideias de culpa (Depressão) e de grandeza (mania)
+			- Ideias de culpa (depressão) e de grandeza (mania)
 		- Ideias sobrevalorizadas (Ideias prevalentes)
 			- Ideia errônea por superestimação afetiva
 			- Influência catatímica que torna a realidade pouco racional
@@ -414,6 +411,7 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 			- Ausência de crítica do paciente
 			- Pseudoalucinação: “Eu ouço uma voz, mas sei que é da minha cabeça; não é algo real, soa mais dentro de mim.”
 			- Alucinação verdadeira: o paciente está percebendo algo que acredita ter origem real — um som/voz externa — embora não haja qualquer estímulo sensorial verdadeiro.
+				- Uma pessoa pode ouvir um som real, mas interpretar de forma errônea como se fosse uma voz ou algo mais complexo, levando à alucinação auditiva.
 		- Alucinose
 			- Diferencia da alucinação: Presença de critica do paciente;
 			- Ex: Escotomas cintilantes (enxaqueca) e fenômeno do membro fantasma (amputados)
@@ -512,7 +510,6 @@ A chamada “anemia fisiológica” ocorre tipicamente por volta do 2º ao 3º m
 - **Hipertermia**:
 - **Instabilidade autonômica**: Podem ocorrer taquicardia, hipertensão ou hipotensão, diaforese (sudorese intensa) e taquipneia.
 - **Alteração do estado mental**: Geralmente há agitação, confusão, podendo evoluir para rebaixamento de consciência e coma.
-
 ###### Síndrome meníngea
 Envolve inflamação das meninges (como na meningite), apresentando:
 - Cefaleia intensa,

@@ -1,0 +1,72 @@
+- [[Doença Inflamatória Pélvica (DIP).pdf]]
+- Comissão Permanente de Protocolos de Atenção à Saúde da SES-DF – CPPAS
+
+- A **Doença Inflamatória Pélvica (DIP)** é uma infecção ascendente do trato genital feminino superior, envolvendo útero, trompas de falópio e estruturas adjacentes.
+- **Etiologia polimicrobiana:**
+	- 85% dos casos: Chlamydia trachomatis, Neisseria gonorrhoeae e vaginose bacteriana.
+	- 15% dos casos: Bactérias entéricas (E. coli, Bacteroides), patógenos respiratórios (H. influenzae, S. pneumoniae) e Mycoplasma/Ureaplasma.
+- **Fatores de risco:** 
+	- ![[Pasted image 20250224162244.png]]
+	- Sendo mais comuns em pacientes jovens. Veja um resumo na tabela abaixo
+- **Quadro clínico:**
+	- Dor abdominal (pélvica).
+	- Secreção vaginal amarelada.
+	- Menorragia
+	- Febre
+	- Calafrios
+	- Anorexia
+	- Náuseas
+	- Vômitos 
+	- Diarreia 
+	- Dismenorreia 
+	- Dispareunia
+- **CRITÉRIOS DIAGNÓSTICOS**
+	- ![[Pasted image 20250224161814.png]]
+	- Temperatura axilar ≥ 37,8 C
+- Critérios para indicação de tratamento hospitalar de DIP:
+	- Abscesso tubo-ovariano
+	- Gravidez
+	- Ausência de resposta clínica após 72h do início do tratamento com antibioticoterapia oral
+	- Intolerância a antibióticos orais ou dificuldade para seguimento ambulatorial
+	- Estado geral grave, com náuseas, vômitos e febre
+	- Dificuldade em exclusão de emergência cirúrgica (ex.: apendicite, gravidez ectópica)
+- **CLASSIFICAÇÃO DIP
+	- - **Dor e febre leves + sem sinais peritoneais → Estágio 1**
+	- **Dor intensa + febre alta + sinais de peritonite → Estágio 2**
+	- **Abscesso tubo-ovariano confirmado por imagem → Estágio 3**
+	- **Abscesso roto + sinais de sepse/peritonite generalizada → Estágio 4**
+	- ![[Pasted image 20250224163301.png]]
+	- **Estágio 1 – Endometrite/Salpingite SEM Peritonite**
+		- Sintomas mais leves, como dor pélvica leve a moderada, febre baixa e corrimento vaginal anormal.
+	- Estágio 2 – Endometrite/Salpingite COM Peritonite
+		- Sintomas mais intensos, incluindo dor abdominal severa, febre alta e sensibilidade à palpação do abdome inferior.
+		- Pode ser acompanhada de náuseas, vômitos e sinais inflamatórios no exame físico (dor à descompressão).
+	- Estágio 3 – Endometrite/Salpingite com Abscesso Tubo-Ovariano ÍNTEGRO
+		- O exame de imagem (ultrassom ou tomografia) pode identificar o abscesso.
+		- **Emergência médica**: tratamento inclui antibióticos intravenosos, suporte hemodinâmico e, frequentemente, cirurgia para remoção do foco infeccioso.
+	- Estágio 4 – Endometrite/Salpingite com Abscesso Tubo-Ovariano ROTO
+		- O abscesso tubo-ovariano **se rompeu** (roto), levando a uma infecção disseminada na cavidade abdominal, com alto risco de **sepse e peritonite generalizada**.
+	- ![[Pasted image 20250224163210.png]]
+- **TRATAMENTO NÃO FARMACOLÓGICO**
+	- Repouso; abstinência sexual; retirada de DIU - se inserção recente (até 3 semanas) ou se não houver melhora com o tratamento.
+- **TRATAMENTO FARMACOLÓGICO**
+	- ![[Pasted image 20250224163124.png]]
+- 
+- **Tratamento hospitalar**
+	- 1º opção
+		- Ceftriaxona 1 g, IV, 1x ao dia por 14 dias e
+		- Doxiciclina 100 mg, 1 comprimido, VO, 2x/dia, por 14 dias;
+		- Metronidazol 400mg, IV de 12/12h
+	- 2 opção: 
+		- Clindamicina 900 mg, IV, 3x/dia, por 14 dias e
+		- Gentamicina (IV ou IM): dose de 3-5 mg/kg/, 1x ao dia, por 14 dias.
+	- 3º Opção 
+		- Ampicillina/ sulbactam 3 g, IV, 6/6h, por 14 dias
+		- Doxiciclina 100 mg, 1 comprimido, VO, 2x/dia, por 14 dias
+- **Tratamento grávidas:**
+	- Clindamicina 900 mg, IV, 3x/dia
+	- "Devem ser internadas e iniciado imediatamente antibióticos intravenosos de amplo espectro."
+- Doxiciclina é contraindicado durante a gravidez.
+- A melhora clínica das pacientes com DIP deverá acontecer nos três primeiros dias após o início do tratamento antimicrobiano.
+- Tratamento dos parceiros: 
+	- Ceftriaxona 500 mg + Azitromicina 1 g VO

@@ -18,6 +18,8 @@
 - [[Saberes Expertos e medicalização no Domínio da Infância]]
 - [[A psicofarmacologização da infância e o modelo de ação da droga centrado na doença]]
 - Quarta feira aula do professor. 
+##### Textos para segunda parte 
+- [[We are just bored teenagers notas sobre o tédio na adolescência.pdf]]
 #### Ações de Novembro
 - 09/11 - Leitura, compreensão e extração das principais partes do texto "Uma Filosofia da Medicina de Dominique Lecourt".
 - 10/11 - Leitura, compreensão e extração das principais partes do texto "Uma Filosofia da Medicina de Dominique Lecourt". Finalização da leitura do texto. Organização das principais partes. 
